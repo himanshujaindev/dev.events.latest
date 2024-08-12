@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
   
 jobs:
-  follow_unfollow:
+  latest_event:
     runs-on: ubuntu-latest
 
     steps:
