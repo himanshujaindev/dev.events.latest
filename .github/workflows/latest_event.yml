@@ -1,0 +1,33 @@
+name: Get Latest Tech Events
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # At 00:00
+  workflow_dispatch:
+  
+jobs:
+  follow_unfollow:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      with:
+        ref: main  # Use the main branch
+
+    - name: Install dependencies
+      run: |
+        pip3 install feedparser==6.0.11
+      
+    - name: Execute script
+      run: |
+        python3 src/main.py
+
+    - name: Commit files
+      uses: stefanzweifel/git-auto-commit-action@v5
+      with:
+        commit_message: "[Automated] Latest Events Updated"
+        commit_user_name: himanshujaindev # defaults to "github-actions[bot]"
+        commit_user_email: dev.himanshujain@gmail.com # defaults to "41898282+github-actions[bot]@users.noreply.github.com"
+        commit_author: himanshujaindev <dev.himanshujain@gmail.com> # defaults to "username <username@users.noreply.github.com>", where "username" belongs to the author of the commit that triggered the run
+      if: ${{ always() }}
