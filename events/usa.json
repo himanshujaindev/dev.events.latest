@@ -1,5 +1,113 @@
 [
     {
+        "title": "Free Online SpringOne Conference",
+        "event_date": "August 26, 2024",
+        "location": "Centennial, United States",
+        "link": "https://dev.events/conferences/free-online-spring-one-conference-301713846",
+        "published": "Mon, 12 Aug 2024 23:42:50 GMT",
+        "category": "Java",
+        "type": "meetup"
+    },
+    {
+        "title": "New York MUG:Unifying data with Grafana Plugins & Retrieval-Augmented Generation",
+        "event_date": "August 14, 2024",
+        "location": "New York, United States",
+        "link": "https://dev.events/conferences/new-york-mug-unifying-data-with-grafana-plugins-and-retrieval-augmented-generation-302631816",
+        "published": "Mon, 12 Aug 2024 17:40:28 GMT",
+        "category": "DevOps",
+        "type": "meetup"
+    },
+    {
+        "title": "GLTL & AWS Michigan End-of-Summer Gathering",
+        "event_date": "August 22, 2024",
+        "location": "Ann Arbor, United States",
+        "link": "https://dev.events/conferences/gltl-and-aws-michigan-end-of-summer-gathering-302787802",
+        "published": "Mon, 12 Aug 2024 14:41:22 GMT",
+        "category": "AWS",
+        "type": "meetup"
+    },
+    {
+        "title": "DevConf.US",
+        "event_date": "August 14, 2024",
+        "location": "Boston, United States",
+        "link": "https://dev.events/conferences/dev-conf-us-exkf7m-l",
+        "published": "Mon, 12 Aug 2024 13:55:05 GMT",
+        "category": "Full-stack",
+        "type": "conference"
+    },
+    {
+        "title": "BSidesChicago 2024",
+        "event_date": "November 2, 2024",
+        "location": "Chicago, United States",
+        "link": "https://dev.events/conferences/b-sides-chicago-2024-dwu-oaal",
+        "published": "Mon, 12 Aug 2024 11:40:52 GMT",
+        "category": "Cybersecurity / InfoSec",
+        "type": "conference"
+    },
+    {
+        "title": "Code & Cloud",
+        "event_date": "November 21, 2024",
+        "location": "Richmond, United States",
+        "link": "https://dev.events/conferences/code-and-cloud-rcx2hsea",
+        "published": "Mon, 12 Aug 2024 11:40:03 GMT",
+        "category": "Cloud",
+        "type": "conference"
+    },
+    {
+        "title": "Fal.Con 2024",
+        "event_date": "September 16, 2024",
+        "location": "Las Vegas, United States",
+        "link": "https://dev.events/conferences/fal-con-2024-qrnh2y6v",
+        "published": "Mon, 12 Aug 2024 11:37:23 GMT",
+        "category": "Cybersecurity / InfoSec",
+        "type": "conference"
+    },
+    {
+        "title": "Code BEAM America 2025",
+        "event_date": "March 6, 2025",
+        "location": "San Francisco, United States and Online",
+        "link": "https://dev.events/conferences/code-beam-america-2025-nubrxgvn",
+        "published": "Mon, 12 Aug 2024 11:27:21 GMT",
+        "category": "Elixir",
+        "type": "conference"
+    },
+    {
+        "title": "The Linux Foundation Member Summit 2025",
+        "event_date": "March 18, 2025",
+        "location": "Napa, United States",
+        "link": "https://dev.events/conferences/the-linux-foundation-member-summit-2025-vrjcea1s",
+        "published": "Mon, 12 Aug 2024 11:26:32 GMT",
+        "category": "Linux / OS",
+        "type": "conference"
+    },
+    {
+        "title": "Baymeadows Code and Coffee",
+        "event_date": "August 13, 2024",
+        "location": "Jacksonville , United States",
+        "link": "https://dev.events/conferences/baymeadows-code-and-coffee-302420790",
+        "published": "Mon, 12 Aug 2024 11:00:33 GMT",
+        "category": "Tech",
+        "type": "meetup"
+    },
+    {
+        "title": "Scaling New Heights\u00ae 2025",
+        "event_date": "June 22, 2025",
+        "location": "Orlando, United States",
+        "link": "https://dev.events/conferences/scaling-new-heights-2025-e1wbabfo",
+        "published": "Mon, 12 Aug 2024 10:51:41 GMT",
+        "category": "Tech",
+        "type": "conference"
+    },
+    {
+        "title": "The Linux Foundation Member Summit 2026",
+        "event_date": "February 24, 2026",
+        "location": "Napa, United States",
+        "link": "https://dev.events/conferences/the-linux-foundation-member-summit-2026-1gmwoqyy",
+        "published": "Mon, 12 Aug 2024 10:49:05 GMT",
+        "category": "Linux / OS",
+        "type": "conference"
+    },
+    {
         "title": "{Devs-On-Draft} -Tap Into Your Network - Code Meetup",
         "event_date": "August 28, 2024",
         "location": "Chantilly, United States",
@@ -429,15 +537,6 @@
         "link": "https://dev.events/conferences/plug-north-discussion-and-informative-talks-302703834",
         "published": "Thu, 08 Aug 2024 15:41:47 GMT",
         "category": "Linux / OS",
-        "type": "meetup"
-    },
-    {
-        "title": "C&C at  [Spring Park Coffee]",
-        "event_date": "August 12, 2024",
-        "location": "Green Cove Spgs, United States",
-        "link": "https://dev.events/conferences/c-and-c-at-spring-park-coffee-302402507",
-        "published": "Thu, 08 Aug 2024 13:20:39 GMT",
-        "category": "Tech",
         "type": "meetup"
     },
     {
@@ -1198,7 +1297,7 @@
     },
     {
         "title": "Monthly evening eat, drink and chat",
-        "event_date": "August 13, 2024",
+        "event_date": "October 8, 2024",
         "location": "Key West, United States",
         "link": "https://dev.events/conferences/monthly-evening-eat-drink-and-chat-null",
         "published": "Tue, 06 Aug 2024 06:01:31 GMT",
@@ -1432,7 +1531,7 @@
     },
     {
         "title": "Secure your software and how to leverage Red Hat OpenShift Virtualization to mig",
-        "event_date": "August 21, 2024",
+        "event_date": "August 27, 2024",
         "location": "Rosemont, United States",
         "link": "https://dev.events/conferences/secure-your-software-and-how-to-leverage-red-hat-open-shift-virtualization-to-mig-302649380",
         "published": "Tue, 06 Aug 2024 05:21:38 GMT",
@@ -1746,15 +1845,6 @@
         "type": "meetup"
     },
     {
-        "title": "August Lunch Meeting \"Getting To The Problem\"",
-        "event_date": "August 12, 2024",
-        "location": "Brentwood, United States",
-        "link": "https://dev.events/conferences/august-lunch-meeting-getting-to-the-problem-302617875",
-        "published": "Sun, 04 Aug 2024 12:11:33 GMT",
-        "category": "Agile",
-        "type": "meetup"
-    },
-    {
         "title": "Scrum Day 2024",
         "event_date": "October 23, 2024",
         "location": "Madison, United States",
@@ -1851,15 +1941,6 @@
         "link": "https://dev.events/conferences/clojure-talk-302448160",
         "published": "Fri, 02 Aug 2024 12:19:22 GMT",
         "category": "Clojure",
-        "type": "meetup"
-    },
-    {
-        "title": "Venkat Subramaniam: Design Trade offs in Modern Architectures",
-        "event_date": "August 12, 2024",
-        "location": "Centennial, United States",
-        "link": "https://dev.events/conferences/venkat-subramaniam-design-trade-offs-in-modern-architectures-302277376",
-        "published": "Fri, 02 Aug 2024 12:19:20 GMT",
-        "category": "Java",
         "type": "meetup"
     },
     {
@@ -2445,15 +2526,6 @@
         "link": "https://dev.events/conferences/explore-ddd-2025-8r6dozla",
         "published": "Mon, 01 Jul 2024 12:33:34 GMT",
         "category": "DDD",
-        "type": "conference"
-    },
-    {
-        "title": "ClueCon",
-        "event_date": "August 12, 2024",
-        "location": "Chicago, United States",
-        "link": "https://dev.events/conferences/clue-con-npmpyt4f",
-        "published": "Sun, 30 Jun 2024 12:58:19 GMT",
-        "category": "Telecom / 5G",
         "type": "conference"
     },
     {
@@ -3582,15 +3654,6 @@
         "type": "conference"
     },
     {
-        "title": "React Rally 2024",
-        "event_date": "August 12, 2024",
-        "location": "Park City, United States",
-        "link": "https://dev.events/conferences/react-rally-2024-vavfhbyb",
-        "published": "Mon, 11 Mar 2024 14:00:13 GMT",
-        "category": "React",
-        "type": "conference"
-    },
-    {
         "title": "Coalesce 2024",
         "event_date": "October 7, 2024",
         "location": "Las Vegas, United States and Online",
@@ -3714,15 +3777,6 @@
         "link": "https://dev.events/conferences/pax-devcon-2024-3i-5nuch",
         "published": "Sat, 24 Feb 2024 14:41:05 GMT",
         "category": "Tech",
-        "type": "conference"
-    },
-    {
-        "title": "Microsoft TechCon365 DC 2024",
-        "event_date": "August 12, 2024",
-        "location": "Washington, United States",
-        "link": "https://dev.events/conferences/microsoft-tech-con365-dc-2024-hoet7dz",
-        "published": "Thu, 22 Feb 2024 14:01:52 GMT",
-        "category": "Microsoft",
         "type": "conference"
     },
     {
@@ -3888,30 +3942,12 @@
         "type": "conference"
     },
     {
-        "title": "Ai4 2024",
-        "event_date": "August 12, 2024",
-        "location": "Las Vegas, United States",
-        "link": "https://dev.events/conferences/ai4-2024-united-states-8-2024",
-        "published": "Fri, 12 Jan 2024 14:14:11 GMT",
-        "category": "AI / ML",
-        "type": "conference"
-    },
-    {
         "title": "GOTO Chicago",
         "event_date": "October 21, 2024",
         "location": "Chicago, United States",
         "link": "https://dev.events/conferences/goto-chicago-united-states-10-2024",
         "published": "Wed, 10 Jan 2024 11:01:25 GMT",
         "category": "Full-stack",
-        "type": "conference"
-    },
-    {
-        "title": "WOOT '24",
-        "event_date": "August 12, 2024",
-        "location": "Philadelphia, United States",
-        "link": "https://dev.events/conferences/woot-24-united-states-8-2024",
-        "published": "Sat, 06 Jan 2024 11:02:50 GMT",
-        "category": "Cybersecurity / InfoSec",
         "type": "conference"
     },
     {
