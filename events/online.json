@@ -1,11 +1,128 @@
 [
     {
+        "title": "10 things dotnet developers need to know while using CosmosDB SQL API",
+        "event_date": "August 27, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/10-things-dotnet-developers-need-to-know-while-using-cosmos-db-sql-api-302910484",
+        "published": "Mon, 19 Aug 2024 00:23:02 GMT",
+        "category": "SQL",
+        "type": "meetup"
+    },
+    {
+        "title": "Surreal-ORM",
+        "event_date": "August 22, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/surreal-orm-298631735",
+        "published": "Sun, 18 Aug 2024 20:22:46 GMT",
+        "category": "Rust",
+        "type": "meetup"
+    },
+    {
+        "title": "Intro to AI for Developers | PGHDOTNET",
+        "event_date": "September 4, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/intro-to-ai-for-developers-pghdotnet-302904210",
+        "published": "Sun, 18 Aug 2024 18:03:48 GMT",
+        "category": "AI / ML",
+        "type": "meetup"
+    },
+    {
+        "title": "Microsoft Defender for Endpoint | Ninja Defender XDR Training | Sesi\u00f3n 01",
+        "event_date": "August 29, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/microsoft-defender-for-endpoint-ninja-defender-xdr-training-sesion-01-302453964",
+        "published": "Sun, 18 Aug 2024 16:02:13 GMT",
+        "category": "Microsoft",
+        "type": "meetup"
+    },
+    {
+        "title": "Better Modeling Through Records: Where OOP meets FP by Ak\u0131n Kald\u0131ro\u011flu",
+        "event_date": "August 27, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/better-modeling-through-records-where-oop-meets-fp-by-akin-kaldiroglu-302899617",
+        "published": "Sun, 18 Aug 2024 15:03:01 GMT",
+        "category": "Java",
+        "type": "meetup"
+    },
+    {
+        "title": "OWASP 2024 AppSec Days India",
+        "event_date": "November 14, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/owasp-2024-app-sec-days-india-5dcvkpn5",
+        "published": "Sun, 18 Aug 2024 14:18:58 GMT",
+        "category": "Cybersecurity / InfoSec",
+        "type": "conference"
+    },
+    {
+        "title": "Crash-course: Chief Technology Officer 3.0",
+        "event_date": "September 15, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/crash-course-chief-technology-officer-3-0-8awgevkg",
+        "published": "Sun, 18 Aug 2024 14:16:06 GMT",
+        "category": "CTO",
+        "type": "masterclass"
+    },
+    {
+        "title": "Living on the Edge with In-browser Protection",
+        "event_date": "September 2, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/living-on-the-edge-with-in-browser-protection-302897170",
+        "published": "Sun, 18 Aug 2024 10:22:18 GMT",
+        "category": "Tech",
+        "type": "meetup"
+    },
+    {
+        "title": "AI SHOW :AI/GENERATIVE AI - (LLM) USE CASESAI NEWS",
+        "event_date": "August 20, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/ai-show-ai-generative-ai-llm-use-cases-ai-news-301116361",
+        "published": "Sun, 18 Aug 2024 08:01:16 GMT",
+        "category": "AI / ML",
+        "type": "meetup"
+    },
+    {
+        "title": "Meet & Greet: Full Stack Mobile Application Developer!",
+        "event_date": "August 25, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/meet-and-greet-full-stack-mobile-application-developer-302627362",
+        "published": "Sun, 18 Aug 2024 06:42:44 GMT",
+        "category": "Mobile",
+        "type": "meetup"
+    },
+    {
+        "title": "Redefiniendo mi equipo con Team Canvas",
+        "event_date": "September 5, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/redefiniendo-mi-equipo-con-team-canvas-302889866",
+        "published": "Sun, 18 Aug 2024 04:04:17 GMT",
+        "category": "Agile",
+        "type": "meetup"
+    },
+    {
+        "title": "Getting Started with Azure Application Gateway",
+        "event_date": "August 21, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/getting-started-with-azure-application-gateway-302889066",
+        "published": "Sun, 18 Aug 2024 00:41:33 GMT",
+        "category": "Azure",
+        "type": "meetup"
+    },
+    {
         "title": "Dev Hangout + Dev Tips",
         "event_date": "September 1, 2024",
         "location": "Online",
         "link": "https://dev.events/conferences/dev-hangout-dev-tips-302316647",
         "published": "Sun, 18 Aug 2024 00:00:27 GMT",
         "category": "Tech",
+        "type": "meetup"
+    },
+    {
+        "title": "Memphis (Virtual) Python User Group",
+        "event_date": "August 19, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/memphis-virtual-python-user-group-301028475",
+        "published": "Sat, 17 Aug 2024 23:20:59 GMT",
+        "category": "Python",
         "type": "meetup"
     },
     {
@@ -72,15 +189,6 @@
         "type": "meetup"
     },
     {
-        "title": "Data Science/AI Career Talk",
-        "event_date": "August 18, 2024",
-        "location": "Online",
-        "link": "https://dev.events/conferences/data-science-ai-career-talk-301112230",
-        "published": "Sat, 17 Aug 2024 12:21:01 GMT",
-        "category": "Data / Database",
-        "type": "meetup"
-    },
-    {
         "title": "Online Lean Beer",
         "event_date": "September 2, 2024",
         "location": "Online",
@@ -91,7 +199,7 @@
     },
     {
         "title": "DevOps For Scrum Master & Agile Coaches",
-        "event_date": "August 18, 2024",
+        "event_date": "August 19, 2024",
         "location": "Online",
         "link": "https://dev.events/conferences/dev-ops-for-scrum-master-and-agile-coaches-302879846",
         "published": "Sat, 17 Aug 2024 03:04:08 GMT",
@@ -1378,7 +1486,7 @@
     },
     {
         "title": "Intro to AI for Developers",
-        "event_date": "August 21, 2024",
+        "event_date": "September 4, 2024",
         "location": "Online",
         "link": "https://dev.events/conferences/intro-to-ai-for-developers-302792328",
         "published": "Mon, 12 Aug 2024 23:03:35 GMT",
@@ -1422,15 +1530,6 @@
         "type": "meetup"
     },
     {
-        "title": "Creating Downloadable Coding Tutorials",
-        "event_date": "August 18, 2024",
-        "location": "Online",
-        "link": "https://dev.events/conferences/creating-downloadable-coding-tutorials-302074431",
-        "published": "Mon, 12 Aug 2024 04:20:23 GMT",
-        "category": "Tech",
-        "type": "meetup"
-    },
-    {
         "title": "Unlock the Power of Microsoft Fabric for Data Science",
         "event_date": "August 21, 2024",
         "location": "Online",
@@ -1464,15 +1563,6 @@
         "link": "https://dev.events/conferences/getting-started-with-azure-and-net-part-two-301673505",
         "published": "Sun, 11 Aug 2024 09:22:11 GMT",
         "category": "Azure",
-        "type": "meetup"
-    },
-    {
-        "title": "Meet & Greet: Full Stack Mobile Application Developer!",
-        "event_date": "August 18, 2024",
-        "location": "Online",
-        "link": "https://dev.events/conferences/meet-and-greet-full-stack-mobile-application-developer-302507198",
-        "published": "Sun, 11 Aug 2024 06:41:58 GMT",
-        "category": "Mobile",
         "type": "meetup"
     },
     {
@@ -1977,15 +2067,6 @@
         "link": "https://dev.events/conferences/dungeons-and-dragons-and-product-teams-298922078",
         "published": "Tue, 06 Aug 2024 08:22:43 GMT",
         "category": "Agile",
-        "type": "meetup"
-    },
-    {
-        "title": "Dev Hangout + Dev Tips",
-        "event_date": "August 18, 2024",
-        "location": "Online",
-        "link": "https://dev.events/conferences/dev-hangout-dev-tips-302074431",
-        "published": "Tue, 06 Aug 2024 06:40:44 GMT",
-        "category": "Tech",
         "type": "meetup"
     },
     {
@@ -4092,15 +4173,6 @@
         "link": "https://dev.events/conferences/basta-fall-2024-rbjvrxka",
         "published": "Thu, 07 Mar 2024 13:20:33 GMT",
         "category": ".NET",
-        "type": "conference"
-    },
-    {
-        "title": "Software Architecture Conference",
-        "event_date": "August 18, 2024",
-        "location": "Online",
-        "link": "https://dev.events/conferences/software-architecture-conference-g0c-wv65",
-        "published": "Wed, 06 Mar 2024 15:18:07 GMT",
-        "category": "Software architecture",
         "type": "conference"
     },
     {
