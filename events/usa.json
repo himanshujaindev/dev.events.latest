@@ -1,5 +1,95 @@
 [
     {
+        "title": "Rise Above Disaster with Azure Cloud Technology: Julie Wilson & Andy Carmichael",
+        "event_date": "August 20, 2024",
+        "location": "Alpharetta, United States",
+        "link": "https://dev.events/conferences/rise-above-disaster-with-azure-cloud-technology-julie-wilson-and-andy-carmichael-302725106",
+        "published": "Mon, 19 Aug 2024 23:02:51 GMT",
+        "category": "Azure",
+        "type": "meetup"
+    },
+    {
+        "title": "Miami Ruby Brigade",
+        "event_date": "September 16, 2024",
+        "location": "Coral Gables, United States",
+        "link": "https://dev.events/conferences/miami-ruby-brigade-null",
+        "published": "Mon, 19 Aug 2024 23:00:53 GMT",
+        "category": "Ruby",
+        "type": "meetup"
+    },
+    {
+        "title": "PhxJS - JavaScript Workshop",
+        "event_date": "August 22, 2024",
+        "location": "Mesa, United States",
+        "link": "https://dev.events/conferences/phx-js-java-script-workshop-301842344",
+        "published": "Mon, 19 Aug 2024 23:00:43 GMT",
+        "category": "JavaScript",
+        "type": "meetup"
+    },
+    {
+        "title": "Columbus Ruby Brigade Monthly Meetup",
+        "event_date": "September 16, 2024",
+        "location": "Columbus, United States",
+        "link": "https://dev.events/conferences/columbus-ruby-brigade-monthly-meetup-null",
+        "published": "Mon, 19 Aug 2024 22:00:52 GMT",
+        "category": "Ruby",
+        "type": "meetup"
+    },
+    {
+        "title": "WIA Columbus: Book Club (In person) - The Phoenix Project",
+        "event_date": "August 25, 2024",
+        "location": "Columbus, United States",
+        "link": "https://dev.events/conferences/wia-columbus-book-club-in-person-the-phoenix-project-302597267",
+        "published": "Mon, 19 Aug 2024 20:43:27 GMT",
+        "category": "Agile",
+        "type": "meetup"
+    },
+    {
+        "title": "VIRTUAL: Creating Games for DevOps Research and Assessment (DORA)",
+        "event_date": "August 28, 2024",
+        "location": "Arlington, United States",
+        "link": "https://dev.events/conferences/virtual-creating-games-for-dev-ops-research-and-assessment-dora-300400466",
+        "published": "Mon, 19 Aug 2024 15:04:08 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "Minneapolis Rust Meetup: \"Getting started in Rust GPU Programming\" & Happy Hour",
+        "event_date": "August 20, 2024",
+        "location": "St Paul, United States",
+        "link": "https://dev.events/conferences/minneapolis-rust-meetup-getting-started-in-rust-gpu-programming-and-happy-hour-301428949",
+        "published": "Mon, 19 Aug 2024 13:42:45 GMT",
+        "category": "Rust",
+        "type": "meetup"
+    },
+    {
+        "title": "Downtown Coding Cafe (In-Person)",
+        "event_date": "August 24, 2024",
+        "location": "New York, United States",
+        "link": "https://dev.events/conferences/downtown-coding-cafe-in-person-302326803",
+        "published": "Mon, 19 Aug 2024 12:20:26 GMT",
+        "category": "Web / Frontend",
+        "type": "meetup"
+    },
+    {
+        "title": "Baymeadows Code and Coffee",
+        "event_date": "August 20, 2024",
+        "location": "Jacksonville , United States",
+        "link": "https://dev.events/conferences/baymeadows-code-and-coffee-302548764",
+        "published": "Mon, 19 Aug 2024 11:21:03 GMT",
+        "category": "Tech",
+        "type": "meetup"
+    },
+    {
+        "title": "Demystifying AWS Certifications: A Beginner's Guide",
+        "event_date": "September 25, 2024",
+        "location": "Grand Rapids, United States",
+        "link": "https://dev.events/conferences/demystifying-aws-certifications-a-beginner-s-guide-302908991",
+        "published": "Mon, 19 Aug 2024 02:01:19 GMT",
+        "category": "AWS",
+        "type": "meetup"
+    },
+    {
         "title": "PyIrvine Office Hours: Where Python Enthusiasts Connect!",
         "event_date": "September 1, 2024",
         "location": "Newport Beach, United States",
@@ -321,15 +411,6 @@
         "link": "https://dev.events/conferences/bring-your-wpf-apps-cross-platform-with-avalonia-jeremy-sinclair-302845909",
         "published": "Thu, 15 Aug 2024 15:43:18 GMT",
         "category": ".NET",
-        "type": "meetup"
-    },
-    {
-        "title": "C&C at [RoundBird]",
-        "event_date": "August 19, 2024",
-        "location": "Jacksonville Beach, United States",
-        "link": "https://dev.events/conferences/c-and-c-at-round-bird-302786792",
-        "published": "Thu, 15 Aug 2024 13:00:45 GMT",
-        "category": "Tech",
         "type": "meetup"
     },
     {
@@ -1485,15 +1566,6 @@
         "type": "meetup"
     },
     {
-        "title": "PhxJS - Monday Afternoon JavaScript Workshop",
-        "event_date": "August 19, 2024",
-        "location": "Mesa, United States",
-        "link": "https://dev.events/conferences/phx-js-monday-afternoon-java-script-workshop-302541351",
-        "published": "Tue, 06 Aug 2024 06:40:43 GMT",
-        "category": "JavaScript",
-        "type": "meetup"
-    },
-    {
         "title": "Talk Front End: Social Hour at Aeronaut",
         "event_date": "August 28, 2024",
         "location": "Somerville, United States",
@@ -1976,24 +2048,6 @@
         "location": "San Diego, United States",
         "link": "https://dev.events/conferences/sd-ruby-monthly-meetup-null",
         "published": "Tue, 06 Aug 2024 05:20:21 GMT",
-        "category": "Ruby",
-        "type": "meetup"
-    },
-    {
-        "title": "Miami Ruby Brigade",
-        "event_date": "August 19, 2024",
-        "location": "Coral Gables, United States",
-        "link": "https://dev.events/conferences/miami-ruby-brigade-302541526",
-        "published": "Tue, 06 Aug 2024 05:20:14 GMT",
-        "category": "Ruby",
-        "type": "meetup"
-    },
-    {
-        "title": "Columbus Ruby Brigade Monthly Meetup",
-        "event_date": "August 19, 2024",
-        "location": "Columbus, United States",
-        "link": "https://dev.events/conferences/columbus-ruby-brigade-monthly-meetup-302132369",
-        "published": "Tue, 06 Aug 2024 05:20:11 GMT",
         "category": "Ruby",
         "type": "meetup"
     },
@@ -3303,15 +3357,6 @@
         "type": "conference"
     },
     {
-        "title": "DevOpsDays Birmingham",
-        "event_date": "August 19, 2024",
-        "location": "Birmingham, United States",
-        "link": "https://dev.events/conferences/dev-ops-days-birmingham-s22uhfrh",
-        "published": "Sat, 20 Apr 2024 16:10:00 GMT",
-        "category": "DevOps",
-        "type": "conference"
-    },
-    {
         "title": "HalfStack Phoenix",
         "event_date": "January 31, 2025",
         "location": "Gilbert, United States",
@@ -3543,15 +3588,6 @@
         "link": "https://dev.events/conferences/dev-ops-days-denver-fvsnvxu",
         "published": "Sun, 24 Mar 2024 09:21:03 GMT",
         "category": "DevOps",
-        "type": "conference"
-    },
-    {
-        "title": "West Slope Startup Week 2024",
-        "event_date": "August 19, 2024",
-        "location": "Durango, United States",
-        "link": "https://dev.events/conferences/west-slope-startup-week-2024-qtzzhwy5",
-        "published": "Sun, 24 Mar 2024 08:56:53 GMT",
-        "category": "Startup",
         "type": "conference"
     },
     {
