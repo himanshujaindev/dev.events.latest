@@ -1,5 +1,50 @@
 [
     {
+        "title": "Bytes & Brews with the Bluegrass Developers Guild",
+        "event_date": "September 5, 2024",
+        "location": "Lexington, United States",
+        "link": "https://dev.events/conferences/bytes-and-brews-with-the-bluegrass-developers-guild-302920689",
+        "published": "Fri, 23 Aug 2024 22:03:27 GMT",
+        "category": "Tech",
+        "type": "meetup"
+    },
+    {
+        "title": "Central Cambridge Rust Lunch, Aug 31",
+        "event_date": "August 31, 2024",
+        "location": "Cambridge, United States",
+        "link": "https://dev.events/conferences/central-cambridge-rust-lunch-aug-31-302498706",
+        "published": "Fri, 23 Aug 2024 15:43:38 GMT",
+        "category": "Rust",
+        "type": "meetup"
+    },
+    {
+        "title": "Test Automation Summit | Boston",
+        "event_date": "September 6, 2024",
+        "location": "Boston, United States",
+        "link": "https://dev.events/conferences/test-automation-summit-boston-uaca-hwm",
+        "published": "Fri, 23 Aug 2024 11:13:13 GMT",
+        "category": "Testing / QA",
+        "type": "conference"
+    },
+    {
+        "title": "Constraining Malli Schemas, by Ambrose Bonnaire-Sergeant",
+        "event_date": "August 29, 2024",
+        "location": "Madison, United States and Online",
+        "link": "https://dev.events/conferences/constraining-malli-schemas-by-ambrose-bonnaire-sergeant-302948127",
+        "published": "Fri, 23 Aug 2024 02:03:13 GMT",
+        "category": "Clojure",
+        "type": "meetup"
+    },
+    {
+        "title": "Drive Business Growth via An Outcome-Focused Approach to Prioritization",
+        "event_date": "September 10, 2024",
+        "location": "Tampa, United States",
+        "link": "https://dev.events/conferences/drive-business-growth-via-an-outcome-focused-approach-to-prioritization-302987286",
+        "published": "Fri, 23 Aug 2024 01:41:02 GMT",
+        "category": "Testing / QA",
+        "type": "meetup"
+    },
+    {
         "title": "BoulderJS - Meet and Greet",
         "event_date": "September 10, 2024",
         "location": "Boulder, United States",
@@ -225,15 +270,6 @@
         "type": "meetup"
     },
     {
-        "title": "In-Person Neural Networks Workshop with Codesmith CEO Will Sentance - NYC",
-        "event_date": "August 23, 2024",
-        "location": "New York, United States",
-        "link": "https://dev.events/conferences/in-person-neural-networks-workshop-with-codesmith-ceo-will-sentance-nyc-302946017",
-        "published": "Wed, 21 Aug 2024 19:00:42 GMT",
-        "category": "AI / ML",
-        "type": "meetup"
-    },
-    {
         "title": "Design Decisions in Web Application Development",
         "event_date": "August 28, 2024",
         "location": "Sacramento, United States",
@@ -384,15 +420,6 @@
         "link": "https://dev.events/conferences/columbus-containers-and-friends-meetup-at-improving-6-30-pm-null",
         "published": "Tue, 20 Aug 2024 22:41:46 GMT",
         "category": "Docker / Kubernetes",
-        "type": "meetup"
-    },
-    {
-        "title": "Code4Community Meeting",
-        "event_date": "August 23, 2024",
-        "location": "Lexington, United States",
-        "link": "https://dev.events/conferences/code4-community-meeting-302786103",
-        "published": "Tue, 20 Aug 2024 22:02:25 GMT",
-        "category": "Tech",
         "type": "meetup"
     },
     {
@@ -1449,15 +1476,6 @@
         "type": "conference"
     },
     {
-        "title": "Downtown Rust Lunch, Aug 23",
-        "event_date": "August 23, 2024",
-        "location": "Boston, United States",
-        "link": "https://dev.events/conferences/downtown-rust-lunch-aug-23-302498696",
-        "published": "Fri, 09 Aug 2024 15:42:19 GMT",
-        "category": "Rust",
-        "type": "meetup"
-    },
-    {
         "title": "CollabDays New England 2024",
         "event_date": "October 18, 2024",
         "location": "Burlington, United States",
@@ -1629,30 +1647,12 @@
         "type": "meetup"
     },
     {
-        "title": "AI-Powered Testing: Transforming QA for Developers and Testers",
-        "event_date": "August 23, 2024",
-        "location": "South Jordan, United States",
-        "link": "https://dev.events/conferences/ai-powered-testing-transforming-qa-for-developers-and-testers-301740202",
-        "published": "Thu, 08 Aug 2024 06:40:13 GMT",
-        "category": "AI / ML",
-        "type": "meetup"
-    },
-    {
         "title": "Learn how to run virtual machines and containers side-by-side",
         "event_date": "September 6, 2024",
         "location": "Costa Mesa, United States",
         "link": "https://dev.events/conferences/learn-how-to-run-virtual-machines-and-containers-side-by-side-302694294",
         "published": "Thu, 08 Aug 2024 05:41:33 GMT",
         "category": "Cloud",
-        "type": "meetup"
-    },
-    {
-        "title": "Kibana's ES|QL For The Win! Joint Meetup with ElasticLA",
-        "event_date": "August 23, 2024",
-        "location": "Santa Monica, United States",
-        "link": "https://dev.events/conferences/kibana-s-es-ql-for-the-win-joint-meetup-with-elastic-la-302683230",
-        "published": "Thu, 08 Aug 2024 03:01:04 GMT",
-        "category": "DevOps",
         "type": "meetup"
     },
     {
@@ -1710,30 +1710,12 @@
         "type": "meetup"
     },
     {
-        "title": "Kibana's ES|QL For The Win! Joint Meetup with Elastic LA",
-        "event_date": "August 23, 2024",
-        "location": "Santa Monica, United States",
-        "link": "https://dev.events/conferences/kibana-s-es-ql-for-the-win-joint-meetup-with-elastic-la-302683200",
-        "published": "Wed, 07 Aug 2024 06:01:41 GMT",
-        "category": "DevOps",
-        "type": "meetup"
-    },
-    {
         "title": "HYBRID Lunch & Learn - Enhancing Resilience and Security in Update Rollouts",
         "event_date": "August 28, 2024",
         "location": "Cary, United States",
         "link": "https://dev.events/conferences/hybrid-lunch-and-learn-enhancing-resilience-and-security-in-update-rollouts-302670173",
         "published": "Wed, 07 Aug 2024 05:40:44 GMT",
         "category": "Cybersecurity / InfoSec",
-        "type": "meetup"
-    },
-    {
-        "title": "BoulderJS",
-        "event_date": "August 23, 2024",
-        "location": "Boulder, United States",
-        "link": "https://dev.events/conferences/boulder-js-302551671",
-        "published": "Tue, 06 Aug 2024 23:20:30 GMT",
-        "category": "JavaScript",
         "type": "meetup"
     },
     {
@@ -1959,15 +1941,6 @@
         "link": "https://dev.events/conferences/open-infra-days-north-america-302460847",
         "published": "Tue, 06 Aug 2024 05:22:26 GMT",
         "category": "DevOps",
-        "type": "meetup"
-    },
-    {
-        "title": "\"Back to School\" Social @ Angry Scotsman with OKC WebDevs & Friends",
-        "event_date": "August 23, 2024",
-        "location": "Oklahoma City , United States",
-        "link": "https://dev.events/conferences/back-to-school-social-angry-scotsman-with-okc-web-devs-and-friends-302378875",
-        "published": "Tue, 06 Aug 2024 05:22:25 GMT",
-        "category": "Python",
         "type": "meetup"
     },
     {
@@ -3921,15 +3894,6 @@
         "link": "https://dev.events/conferences/hashi-conf-2024-jz-z-pdy7u",
         "published": "Fri, 26 Jan 2024 14:30:03 GMT",
         "category": "DevOps",
-        "type": "conference"
-    },
-    {
-        "title": "Carolina Code Conference",
-        "event_date": "August 23, 2024",
-        "location": "Greenville, United States",
-        "link": "https://dev.events/conferences/carolina-code-conference-i6e1i-i-ws",
-        "published": "Wed, 24 Jan 2024 13:50:32 GMT",
-        "category": "Full-stack",
         "type": "conference"
     },
     {
