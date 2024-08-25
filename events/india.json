@@ -1,5 +1,41 @@
 [
     {
+        "title": "react meetup #80",
+        "event_date": "September 28, 2024",
+        "location": "Bengaluru, India",
+        "link": "https://dev.events/conferences/react-meetup-80-302975692",
+        "published": "Sat, 24 Aug 2024 08:40:47 GMT",
+        "category": "React",
+        "type": "meetup"
+    },
+    {
+        "title": "Grafana & Friends x Kubernetes Pune: Happy Hours",
+        "event_date": "August 31, 2024",
+        "location": "Pune, India",
+        "link": "https://dev.events/conferences/grafana-and-friends-x-kubernetes-pune-happy-hours-302649371",
+        "published": "Sat, 24 Aug 2024 07:02:00 GMT",
+        "category": "DevOps",
+        "type": "meetup"
+    },
+    {
+        "title": "Kubetools Day 3.0 Show-n-Tell",
+        "event_date": "September 21, 2024",
+        "location": "Bangalore, India",
+        "link": "https://dev.events/conferences/kubetools-day-3-0-show-n-tell-302507128",
+        "published": "Sat, 24 Aug 2024 03:42:34 GMT",
+        "category": "DevOps",
+        "type": "meetup"
+    },
+    {
+        "title": "Microsoft Azure Skillup Tamilnadu Session 3",
+        "event_date": "September 28, 2024",
+        "location": "Chennai, India",
+        "link": "https://dev.events/conferences/microsoft-azure-skillup-tamilnadu-session-3-302941752",
+        "published": "Sat, 24 Aug 2024 03:42:30 GMT",
+        "category": "Microsoft",
+        "type": "meetup"
+    },
+    {
         "title": "Security and AI with Containers",
         "event_date": "August 31, 2024",
         "location": "Ahmedabad, India",
@@ -36,15 +72,6 @@
         "type": "meetup"
     },
     {
-        "title": "Defining Scalability for OTT Platforms",
-        "event_date": "August 24, 2024",
-        "location": "Noida, India",
-        "link": "https://dev.events/conferences/defining-scalability-for-ott-platforms-302977431",
-        "published": "Thu, 22 Aug 2024 19:21:22 GMT",
-        "category": "DevOps",
-        "type": "meetup"
-    },
-    {
         "title": "Meetup - Unlocking the Power of Kong Konnect",
         "event_date": "August 30, 2024",
         "location": "Hyderabad, India",
@@ -52,15 +79,6 @@
         "published": "Thu, 22 Aug 2024 16:02:48 GMT",
         "category": "API",
         "type": "meetup"
-    },
-    {
-        "title": "Observability Marathon Nizami Edition",
-        "event_date": "August 24, 2024",
-        "location": "Hyderabad, India",
-        "link": "https://dev.events/conferences/observability-marathon-nizami-edition-t4ai0zud",
-        "published": "Thu, 22 Aug 2024 10:20:01 GMT",
-        "category": "SRE",
-        "type": "conference"
     },
     {
         "title": "AWS UG Pune - August 2024 Sepcial Edition Meet-up",
@@ -79,60 +97,6 @@
         "published": "Tue, 20 Aug 2024 09:30:32 GMT",
         "category": "Microsoft",
         "type": "conference"
-    },
-    {
-        "title": "react meetup #79",
-        "event_date": "August 24, 2024",
-        "location": "Bengaluru, India",
-        "link": "https://dev.events/conferences/react-meetup-79-302419181",
-        "published": "Tue, 20 Aug 2024 06:20:31 GMT",
-        "category": "React",
-        "type": "meetup"
-    },
-    {
-        "title": "Microsoft Season of AI",
-        "event_date": "August 24, 2024",
-        "location": "Kochi , India",
-        "link": "https://dev.events/conferences/microsoft-season-of-ai-302916059",
-        "published": "Mon, 19 Aug 2024 08:23:22 GMT",
-        "category": "Microsoft",
-        "type": "meetup"
-    },
-    {
-        "title": "Elixir Delhi + FPIndia + PyDelhi Combined August Meetup",
-        "event_date": "August 24, 2024",
-        "location": "Delhi, India",
-        "link": "https://dev.events/conferences/elixir-delhi-fp-india-py-delhi-combined-august-meetup-302904105",
-        "published": "Sun, 18 Aug 2024 18:02:19 GMT",
-        "category": "Elixir",
-        "type": "meetup"
-    },
-    {
-        "title": "BrowserStack QA meetup Bengaluru - August",
-        "event_date": "August 24, 2024",
-        "location": "Bengaluru, India",
-        "link": "https://dev.events/conferences/browser-stack-qa-meetup-bengaluru-august-302248340",
-        "published": "Sun, 18 Aug 2024 14:04:00 GMT",
-        "category": "Testing / QA",
-        "type": "meetup"
-    },
-    {
-        "title": "Huddles' Data Lake Nexus by OCD India",
-        "event_date": "August 24, 2024",
-        "location": "Gurugram, India",
-        "link": "https://dev.events/conferences/huddles-data-lake-nexus-by-ocd-india-u3zrnxna",
-        "published": "Sat, 17 Aug 2024 12:22:28 GMT",
-        "category": "Data / Database",
-        "type": "conference"
-    },
-    {
-        "title": "GitTogether Bengaluru",
-        "event_date": "August 24, 2024",
-        "location": "Bengaluru, India",
-        "link": "https://dev.events/conferences/git-together-bengaluru-302784046",
-        "published": "Fri, 16 Aug 2024 00:41:41 GMT",
-        "category": "Tech",
-        "type": "meetup"
     },
     {
         "title": "Effective Cloud Management: AWS Cost Optimization with Terraform & GitLab",
@@ -162,24 +126,6 @@
         "type": "masterclass"
     },
     {
-        "title": "How AI empowers DevOps and Search capabilities",
-        "event_date": "August 24, 2024",
-        "location": "Chennai, India",
-        "link": "https://dev.events/conferences/how-ai-empowers-dev-ops-and-search-capabilities-302822493",
-        "published": "Wed, 14 Aug 2024 09:22:49 GMT",
-        "category": "AI / ML",
-        "type": "meetup"
-    },
-    {
-        "title": "PuneFOSS 2.1",
-        "event_date": "August 24, 2024",
-        "location": "Pune, India",
-        "link": "https://dev.events/conferences/pune-foss-2-1-gjakgtou",
-        "published": "Tue, 13 Aug 2024 09:24:33 GMT",
-        "category": "Open Source",
-        "type": "conference"
-    },
-    {
         "title": "Coimbatore JavaScript Group - August 2024  Meetup",
         "event_date": "August 31, 2024",
         "location": "coimbatore, India",
@@ -205,15 +151,6 @@
         "published": "Sun, 11 Aug 2024 13:10:52 GMT",
         "category": "Data / Database",
         "type": "conference"
-    },
-    {
-        "title": "Microsoft Azure Skillup Tamilnadu Session",
-        "event_date": "August 24, 2024",
-        "location": "Chennai, India",
-        "link": "https://dev.events/conferences/microsoft-azure-skillup-tamilnadu-session-301672808",
-        "published": "Sun, 11 Aug 2024 08:21:52 GMT",
-        "category": "Microsoft",
-        "type": "meetup"
     },
     {
         "title": "ILUGC Monthly Meet",
@@ -279,66 +216,12 @@
         "type": "meetup"
     },
     {
-        "title": "Docker DevTools Day 3.0 Workshop and Talks",
-        "event_date": "August 24, 2024",
-        "location": "Bangalore, India",
-        "link": "https://dev.events/conferences/docker-dev-tools-day-3-0-workshop-and-talks-302053509",
-        "published": "Tue, 06 Aug 2024 06:02:36 GMT",
-        "category": "Docker / Kubernetes",
-        "type": "meetup"
-    },
-    {
-        "title": "Docker DevTools Day 3.0 Workshop & Talks",
-        "event_date": "August 24, 2024",
-        "location": "Bangalore, India",
-        "link": "https://dev.events/conferences/docker-dev-tools-day-3-0-workshop-and-talks-301991994",
-        "published": "Tue, 06 Aug 2024 06:02:35 GMT",
-        "category": "Docker / Kubernetes",
-        "type": "meetup"
-    },
-    {
-        "title": "Skillup Tamilnadu Session 2",
-        "event_date": "August 24, 2024",
-        "location": "Chennai, India",
-        "link": "https://dev.events/conferences/skillup-tamilnadu-session-2-301672808",
-        "published": "Tue, 06 Aug 2024 06:02:28 GMT",
-        "category": "Azure",
-        "type": "meetup"
-    },
-    {
-        "title": "Ansible Bangalore Meetup - July 2024",
-        "event_date": "August 24, 2024",
-        "location": "Bangalore, India",
-        "link": "https://dev.events/conferences/ansible-bangalore-meetup-july-2024-302249101",
-        "published": "Tue, 06 Aug 2024 06:02:25 GMT",
-        "category": "DevOps",
-        "type": "meetup"
-    },
-    {
-        "title": "DevOops Pune Meetup #8",
-        "event_date": "August 24, 2024",
-        "location": "Pune, India",
-        "link": "https://dev.events/conferences/dev-oops-pune-meetup-8-302509507",
-        "published": "Tue, 06 Aug 2024 05:22:13 GMT",
-        "category": "DevOps",
-        "type": "meetup"
-    },
-    {
         "title": "Quarterly Large Scale Production Engineering (LSPE) meet up",
         "event_date": "September 14, 2024",
         "location": "Bangalore, India",
         "link": "https://dev.events/conferences/quarterly-large-scale-production-engineering-lspe-meet-up-296179874",
         "published": "Tue, 06 Aug 2024 05:22:02 GMT",
         "category": "SRE",
-        "type": "meetup"
-    },
-    {
-        "title": "ReactJS August Pune Meetup",
-        "event_date": "August 24, 2024",
-        "location": "Pune, India",
-        "link": "https://dev.events/conferences/react-js-august-pune-meetup-302549073",
-        "published": "Tue, 06 Aug 2024 05:20:25 GMT",
-        "category": "React",
         "type": "meetup"
     },
     {
@@ -349,15 +232,6 @@
         "published": "Sat, 03 Aug 2024 19:20:39 GMT",
         "category": "Game dev",
         "type": "conference"
-    },
-    {
-        "title": "Kochi Java User Group Inaugural Meeting",
-        "event_date": "August 24, 2024",
-        "location": "Kochi, India",
-        "link": "https://dev.events/conferences/kochi-java-user-group-inaugural-meeting-302589046",
-        "published": "Fri, 02 Aug 2024 12:19:20 GMT",
-        "category": "Java",
-        "type": "meetup"
     },
     {
         "title": "WordCamp Kolkata 2025",
@@ -474,15 +348,6 @@
         "link": "https://dev.events/conferences/india-foss-kchvbqkq",
         "published": "Thu, 20 Jun 2024 08:47:22 GMT",
         "category": "Open Source",
-        "type": "conference"
-    },
-    {
-        "title": "aMP Pune",
-        "event_date": "August 24, 2024",
-        "location": "Pune, India",
-        "link": "https://dev.events/conferences/a-mp-pune-ukowifbw",
-        "published": "Fri, 14 Jun 2024 17:52:03 GMT",
-        "category": "Microsoft",
         "type": "conference"
     },
     {

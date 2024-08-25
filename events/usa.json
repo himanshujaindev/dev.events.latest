@@ -1,5 +1,617 @@
 [
     {
+        "title": "In-Person Game Development Meetup",
+        "event_date": "August 31, 2024",
+        "location": "Pittsburgh, United States",
+        "link": "https://dev.events/conferences/in-person-game-development-meetup-302773929",
+        "published": "Sat, 24 Aug 2024 17:40:16 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "Design Minds - Design Thinking Workshop (South Bay Area)",
+        "event_date": "September 18, 2024",
+        "location": "Mountain View, United States",
+        "link": "https://dev.events/conferences/design-minds-design-thinking-workshop-south-bay-area-302736052",
+        "published": "Sat, 24 Aug 2024 17:01:47 GMT",
+        "category": "Product management",
+        "type": "meetup"
+    },
+    {
+        "title": "NSCoder Night",
+        "event_date": "August 27, 2024",
+        "location": "Lewis Center, United States",
+        "link": "https://dev.events/conferences/ns-coder-night-302702198",
+        "published": "Sat, 24 Aug 2024 16:01:36 GMT",
+        "category": "iOS / Swift",
+        "type": "meetup"
+    },
+    {
+        "title": "Side Project Saturday IRL",
+        "event_date": "August 31, 2024",
+        "location": "Willow Grove, United States",
+        "link": "https://dev.events/conferences/side-project-saturday-irl-302725087",
+        "published": "Sat, 24 Aug 2024 16:01:36 GMT",
+        "category": "iOS / Swift",
+        "type": "meetup"
+    },
+    {
+        "title": "CocoaHeads SLC",
+        "event_date": "September 4, 2024",
+        "location": "Midvale, United States",
+        "link": "https://dev.events/conferences/cocoa-heads-slc-302834017",
+        "published": "Sat, 24 Aug 2024 16:01:36 GMT",
+        "category": "iOS / Swift",
+        "type": "meetup"
+    },
+    {
+        "title": "Monthly Discussion",
+        "event_date": "September 12, 2024",
+        "location": "Pittsburgh, United States",
+        "link": "https://dev.events/conferences/monthly-discussion-303011549",
+        "published": "Sat, 24 Aug 2024 16:01:36 GMT",
+        "category": "iOS / Swift",
+        "type": "meetup"
+    },
+    {
+        "title": "Uber x Apache Pinot Meetup",
+        "event_date": "August 28, 2024",
+        "location": "Sunnyvale, United States",
+        "link": "https://dev.events/conferences/uber-x-apache-pinot-meetup-302656240",
+        "published": "Sat, 24 Aug 2024 16:01:34 GMT",
+        "category": "Tech",
+        "type": "meetup"
+    },
+    {
+        "title": "CocoaHeads / SLUG Trivia Night",
+        "event_date": "September 13, 2024",
+        "location": "San Francisco, United States",
+        "link": "https://dev.events/conferences/cocoa-heads-slug-trivia-night-302895918",
+        "published": "Sat, 24 Aug 2024 16:01:34 GMT",
+        "category": "iOS / Swift",
+        "type": "meetup"
+    },
+    {
+        "title": "ODevs Social at Stardust",
+        "event_date": "August 29, 2024",
+        "location": "Orlando, United States",
+        "link": "https://dev.events/conferences/o-devs-social-at-stardust-302825511",
+        "published": "Sat, 24 Aug 2024 16:01:33 GMT",
+        "category": "Tech",
+        "type": "meetup"
+    },
+    {
+        "title": "In-Person Meetup!",
+        "event_date": "August 26, 2024",
+        "location": "Milwaukee, United States",
+        "link": "https://dev.events/conferences/in-person-meetup-302893887",
+        "published": "Sat, 24 Aug 2024 16:00:18 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "Saturday Work and Chill",
+        "event_date": "August 31, 2024",
+        "location": "Denver, United States",
+        "link": "https://dev.events/conferences/saturday-work-and-chill-302772663",
+        "published": "Sat, 24 Aug 2024 16:00:07 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "[In-Person Event] PGM Playtest Night",
+        "event_date": "September 5, 2024",
+        "location": "Philadelphia, United States",
+        "link": "https://dev.events/conferences/in-person-event-pgm-playtest-night-302921779",
+        "published": "Sat, 24 Aug 2024 15:00:07 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "Playtest and Design Night",
+        "event_date": "August 28, 2024",
+        "location": "Knoxville, United States",
+        "link": "https://dev.events/conferences/playtest-and-design-night-302724575",
+        "published": "Sat, 24 Aug 2024 14:42:04 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "Common C++ Optimizations - How and why modern C++ runs fast, very fast.",
+        "event_date": "September 3, 2024",
+        "location": "Austin, United States",
+        "link": "https://dev.events/conferences/common-c-optimizations-how-and-why-modern-c-runs-fast-very-fast-302836089",
+        "published": "Sat, 24 Aug 2024 14:41:59 GMT",
+        "category": "C/C++",
+        "type": "meetup"
+    },
+    {
+        "title": "Las Vegas IGDA Monthly Game Development Meetup",
+        "event_date": "August 31, 2024",
+        "location": "Las Vegas, United States",
+        "link": "https://dev.events/conferences/las-vegas-igda-monthly-game-development-meetup-302479924",
+        "published": "Sat, 24 Aug 2024 14:41:54 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "Nooga Code and Coffee ft. Know Your Worth by John Goodwin",
+        "event_date": "September 7, 2024",
+        "location": "Chattanooga, United States",
+        "link": "https://dev.events/conferences/nooga-code-and-coffee-ft-know-your-worth-by-john-goodwin-299080310",
+        "published": "Sat, 24 Aug 2024 14:41:54 GMT",
+        "category": "Tech",
+        "type": "meetup"
+    },
+    {
+        "title": "Art Tech & Game Coffee Meetup",
+        "event_date": "August 28, 2024",
+        "location": "Eugene, United States",
+        "link": "https://dev.events/conferences/art-tech-and-game-coffee-meetup-302719083",
+        "published": "Sat, 24 Aug 2024 14:41:49 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "Black Code Collective: HAPPY HOUR",
+        "event_date": "August 28, 2024",
+        "location": "Arlington , United States",
+        "link": "https://dev.events/conferences/black-code-collective-happy-hour-302923458",
+        "published": "Sat, 24 Aug 2024 14:41:49 GMT",
+        "category": "Tech",
+        "type": "meetup"
+    },
+    {
+        "title": "September Portland HUG Meetup!  Live Talks!",
+        "event_date": "September 7, 2024",
+        "location": "Portland, United States",
+        "link": "https://dev.events/conferences/september-portland-hug-meetup-live-talks-302914617",
+        "published": "Sat, 24 Aug 2024 14:41:49 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "Monthly Meetup at GigaParts!",
+        "event_date": "September 6, 2024",
+        "location": "Huntsville, United States",
+        "link": "https://dev.events/conferences/monthly-meetup-at-giga-parts-302894213",
+        "published": "Sat, 24 Aug 2024 14:41:35 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "Let's Discuss Video Game Development",
+        "event_date": "September 14, 2024",
+        "location": "Colorado Springs, United States",
+        "link": "https://dev.events/conferences/let-s-discuss-video-game-development-null",
+        "published": "Sat, 24 Aug 2024 14:41:34 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "Strawberry Jam",
+        "event_date": "August 25, 2024",
+        "location": "Los Angeles, United States",
+        "link": "https://dev.events/conferences/strawberry-jam-302521689",
+        "published": "Sat, 24 Aug 2024 14:41:32 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "OC Indies Monthly",
+        "event_date": "August 29, 2024",
+        "location": "Santa Ana, United States",
+        "link": "https://dev.events/conferences/oc-indies-monthly-301961882",
+        "published": "Sat, 24 Aug 2024 14:41:32 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "Excuse To Create",
+        "event_date": "September 7, 2024",
+        "location": "Cleveland, United States",
+        "link": "https://dev.events/conferences/excuse-to-create-301524821",
+        "published": "Sat, 24 Aug 2024 14:41:29 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "Sacramento GameDev Drinkup",
+        "event_date": "September 13, 2024",
+        "location": "Sacramento, United States",
+        "link": "https://dev.events/conferences/sacramento-game-dev-drinkup-302679170",
+        "published": "Sat, 24 Aug 2024 14:41:29 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "Game Creators Meetup (IN-PERSON)",
+        "event_date": "September 1, 2024",
+        "location": "Louisville, United States",
+        "link": "https://dev.events/conferences/game-creators-meetup-in-person-302794952",
+        "published": "Sat, 24 Aug 2024 14:41:27 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "Game Makers Happy Hour",
+        "event_date": "September 17, 2024",
+        "location": "Burien, United States",
+        "link": "https://dev.events/conferences/game-makers-happy-hour-302012946",
+        "published": "Sat, 24 Aug 2024 14:41:20 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "SF Game Development feat: Cinevva and Digital Bandidos",
+        "event_date": "September 19, 2024",
+        "location": "San Francisco, United States",
+        "link": "https://dev.events/conferences/sf-game-development-feat-cinevva-and-digital-bandidos-302524802",
+        "published": "Sat, 24 Aug 2024 14:41:20 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "Game Dev Hangout & Showcase @ Temescal Brewing",
+        "event_date": "August 28, 2024",
+        "location": "Oakland, United States",
+        "link": "https://dev.events/conferences/game-dev-hangout-and-showcase-temescal-brewing-302813466",
+        "published": "Sat, 24 Aug 2024 14:41:11 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "Game Industry Gathering with POTIONS & PIXELS",
+        "event_date": "August 28, 2024",
+        "location": "Charlotte, United States",
+        "link": "https://dev.events/conferences/game-industry-gathering-with-potions-and-pixels-302961729",
+        "published": "Sat, 24 Aug 2024 14:41:01 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "GameDev Coworking",
+        "event_date": "August 26, 2024",
+        "location": "Cary, United States",
+        "link": "https://dev.events/conferences/game-dev-coworking-302678718",
+        "published": "Sat, 24 Aug 2024 14:40:57 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "Timpanogos Game Dev Club Meetup - August 2024",
+        "event_date": "August 28, 2024",
+        "location": "Lehi, United States",
+        "link": "https://dev.events/conferences/timpanogos-game-dev-club-meetup-august-2024-302671764",
+        "published": "Sat, 24 Aug 2024 14:40:57 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "Social Night",
+        "event_date": "August 28, 2024",
+        "location": "Houston, United States",
+        "link": "https://dev.events/conferences/social-night-302798490",
+        "published": "Sat, 24 Aug 2024 14:40:57 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "Game Dev Hang - Dock Street Brewery",
+        "event_date": "August 25, 2024",
+        "location": "Philadelphia , United States",
+        "link": "https://dev.events/conferences/game-dev-hang-dock-street-brewery-302648961",
+        "published": "Sat, 24 Aug 2024 14:40:55 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "Ambitious Indie Game Night",
+        "event_date": "September 5, 2024",
+        "location": "Long Beach, United States",
+        "link": "https://dev.events/conferences/ambitious-indie-game-night-302854098",
+        "published": "Sat, 24 Aug 2024 14:40:55 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "September in person Meetup",
+        "event_date": "September 12, 2024",
+        "location": "Tulsa, United States",
+        "link": "https://dev.events/conferences/september-in-person-meetup-302921940",
+        "published": "Sat, 24 Aug 2024 14:40:55 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "Rust Meetup at Hacker Dojo",
+        "event_date": "September 6, 2024",
+        "location": "Mountain View, United States",
+        "link": "https://dev.events/conferences/rust-meetup-at-hacker-dojo-302723843",
+        "published": "Sat, 24 Aug 2024 14:40:50 GMT",
+        "category": "Rust",
+        "type": "meetup"
+    },
+    {
+        "title": "Monthly Southern New Hampshire Game Dev Meetup (In-Person)",
+        "event_date": "September 16, 2024",
+        "location": "Nashua, United States",
+        "link": "https://dev.events/conferences/monthly-southern-new-hampshire-game-dev-meetup-in-person-301767576",
+        "published": "Sat, 24 Aug 2024 14:40:35 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "Game Dev Coworking",
+        "event_date": "August 27, 2024",
+        "location": "Oakland, United States",
+        "link": "https://dev.events/conferences/game-dev-coworking-302697803",
+        "published": "Sat, 24 Aug 2024 14:40:26 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "Weekly Project Meetup",
+        "event_date": "August 30, 2024",
+        "location": "Plano, United States",
+        "link": "https://dev.events/conferences/weekly-project-meetup-302747728",
+        "published": "Sat, 24 Aug 2024 14:40:26 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "PVGD 10th Annual Potluck",
+        "event_date": "September 8, 2024",
+        "location": "South Deerfield, United States",
+        "link": "https://dev.events/conferences/pvgd-10th-annual-potluck-302525518",
+        "published": "Sat, 24 Aug 2024 14:40:26 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "Game Dev Work & Play",
+        "event_date": "August 25, 2024",
+        "location": "Nashville, United States",
+        "link": "https://dev.events/conferences/game-dev-work-and-play-302138370",
+        "published": "Sat, 24 Aug 2024 14:40:18 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "MeGa Health Jam 2024",
+        "event_date": "September 6, 2024",
+        "location": "Orlando, United States",
+        "link": "https://dev.events/conferences/me-ga-health-jam-2024-302661272",
+        "published": "Sat, 24 Aug 2024 14:40:18 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "Monthly Game Creator Meetup (Sept)",
+        "event_date": "September 15, 2024",
+        "location": "Anchorage, United States",
+        "link": "https://dev.events/conferences/monthly-game-creator-meetup-sept-302922318",
+        "published": "Sat, 24 Aug 2024 14:40:18 GMT",
+        "category": "Tech",
+        "type": "meetup"
+    },
+    {
+        "title": "IGDA Ann Arbor : The Art of Anime - How to become a gacha game illustrator",
+        "event_date": "August 29, 2024",
+        "location": "Ann Arbor, United States",
+        "link": "https://dev.events/conferences/igda-ann-arbor-the-art-of-anime-how-to-become-a-gacha-game-illustrator-301902901",
+        "published": "Sat, 24 Aug 2024 14:40:08 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "New(er) Ways to deploy Linux",
+        "event_date": "September 28, 2024",
+        "location": "Fredericksburg, United States",
+        "link": "https://dev.events/conferences/new-er-ways-to-deploy-linux-301522611",
+        "published": "Sat, 24 Aug 2024 13:42:35 GMT",
+        "category": "Linux / OS",
+        "type": "meetup"
+    },
+    {
+        "title": "Queer UX Designers Network in San Francisco | Product Design | UX | UI",
+        "event_date": "September 15, 2024",
+        "location": "San Francisco, United States",
+        "link": "https://dev.events/conferences/queer-ux-designers-network-in-san-francisco-product-design-ux-ui-302817859",
+        "published": "Sat, 24 Aug 2024 13:21:01 GMT",
+        "category": "UI / UX",
+        "type": "meetup"
+    },
+    {
+        "title": "The Next Evolution of Education & Training | AWE Nite Chicago",
+        "event_date": "September 4, 2024",
+        "location": "Chicago, United States",
+        "link": "https://dev.events/conferences/the-next-evolution-of-education-and-training-awe-nite-chicago-302424403",
+        "published": "Sat, 24 Aug 2024 13:20:57 GMT",
+        "category": "AR / VR / XR",
+        "type": "meetup"
+    },
+    {
+        "title": "Coffee and Game Dev Sundays at Six Twelve",
+        "event_date": "September 1, 2024",
+        "location": "Fayetteville, United States",
+        "link": "https://dev.events/conferences/coffee-and-game-dev-sundays-at-six-twelve-302789925",
+        "published": "Sat, 24 Aug 2024 13:20:36 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "Monthly Meetup - Kiva Cowork",
+        "event_date": "August 30, 2024",
+        "location": "Santa Barbara, United States",
+        "link": "https://dev.events/conferences/monthly-meetup-kiva-cowork-302607923",
+        "published": "Sat, 24 Aug 2024 13:20:21 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "Game Developers Conference",
+        "event_date": "March 17, 2025",
+        "location": "San Francisco, United States",
+        "link": "https://dev.events/conferences/game-developers-conference-rzsgr6yz",
+        "published": "Sat, 24 Aug 2024 13:15:49 GMT",
+        "category": "Game dev",
+        "type": "conference"
+    },
+    {
+        "title": "General Meetup - Show Off Your Projects!",
+        "event_date": "August 28, 2024",
+        "location": "Columbus, United States",
+        "link": "https://dev.events/conferences/general-meetup-show-off-your-projects-302870181",
+        "published": "Sat, 24 Aug 2024 13:01:20 GMT",
+        "category": "AR / VR / XR",
+        "type": "meetup"
+    },
+    {
+        "title": "San Francisco AI Investors & Networking",
+        "event_date": "August 28, 2024",
+        "location": "San Francisco, United States",
+        "link": "https://dev.events/conferences/san-francisco-ai-investors-and-networking-302702624",
+        "published": "Sat, 24 Aug 2024 13:01:18 GMT",
+        "category": "AI / ML",
+        "type": "meetup"
+    },
+    {
+        "title": "End of Summer 2024 Chillfest Colorado Video Games BBQ",
+        "event_date": "August 31, 2024",
+        "location": "Aurora, United States",
+        "link": "https://dev.events/conferences/end-of-summer-2024-chillfest-colorado-video-games-bbq-302816937",
+        "published": "Sat, 24 Aug 2024 13:01:18 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "How Unreal Engine created 60 new millionaires with Fortnite Creative (UE Miami)",
+        "event_date": "September 11, 2024",
+        "location": "Miami, United States",
+        "link": "https://dev.events/conferences/how-unreal-engine-created-60-new-millionaires-with-fortnite-creative-ue-miami-301141060",
+        "published": "Sat, 24 Aug 2024 13:01:18 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "Presentations on the Latest VR & AR Developments!",
+        "event_date": "September 20, 2024",
+        "location": "Houston, United States",
+        "link": "https://dev.events/conferences/presentations-on-the-latest-vr-and-ar-developments-301658593",
+        "published": "Sat, 24 Aug 2024 13:01:14 GMT",
+        "category": "AR / VR / XR",
+        "type": "meetup"
+    },
+    {
+        "title": "Monthly Virtual and Augmented Reality Meetup",
+        "event_date": "September 19, 2024",
+        "location": "Charleston, United States",
+        "link": "https://dev.events/conferences/monthly-virtual-and-augmented-reality-meetup-302440697",
+        "published": "Sat, 24 Aug 2024 13:01:09 GMT",
+        "category": "AR / VR / XR",
+        "type": "meetup"
+    },
+    {
+        "title": "XR & AI",
+        "event_date": "August 28, 2024",
+        "location": "Durham, United States",
+        "link": "https://dev.events/conferences/xr-and-ai-302104439",
+        "published": "Sat, 24 Aug 2024 13:01:07 GMT",
+        "category": "AR / VR / XR",
+        "type": "meetup"
+    },
+    {
+        "title": "Tech or Treat: Hacktoberfest Costume Party",
+        "event_date": "October 17, 2024",
+        "location": "Fort Myers, United States",
+        "link": "https://dev.events/conferences/tech-or-treat-hacktoberfest-costume-party-302179853",
+        "published": "Sat, 24 Aug 2024 13:01:07 GMT",
+        "category": "Tech",
+        "type": "meetup"
+    },
+    {
+        "title": "Meet New People!!  Sunday  Night Networking!",
+        "event_date": "August 26, 2024",
+        "location": "Santa Clara, United States",
+        "link": "https://dev.events/conferences/meet-new-people-sunday-night-networking-302663727",
+        "published": "Sat, 24 Aug 2024 13:01:01 GMT",
+        "category": "Tech",
+        "type": "meetup"
+    },
+    {
+        "title": "Meet New People!!  Sunday  Night Networking",
+        "event_date": "August 26, 2024",
+        "location": "Santa Clara, United States",
+        "link": "https://dev.events/conferences/meet-new-people-sunday-night-networking-302663753",
+        "published": "Sat, 24 Aug 2024 13:00:58 GMT",
+        "category": "AR / VR / XR",
+        "type": "meetup"
+    },
+    {
+        "title": "Photographers And Models Park Group Shoot",
+        "event_date": "August 25, 2024",
+        "location": "culver city, United States",
+        "link": "https://dev.events/conferences/photographers-and-models-park-group-shoot-302961513",
+        "published": "Sat, 24 Aug 2024 13:00:55 GMT",
+        "category": "AR / VR / XR",
+        "type": "meetup"
+    },
+    {
+        "title": "BostonVR Social",
+        "event_date": "September 9, 2024",
+        "location": "Boston, United States",
+        "link": "https://dev.events/conferences/boston-vr-social-302743287",
+        "published": "Sat, 24 Aug 2024 13:00:55 GMT",
+        "category": "AR / VR / XR",
+        "type": "meetup"
+    },
+    {
+        "title": "NYVR - Sept 2024 (Digital Fashion Theme)",
+        "event_date": "September 12, 2024",
+        "location": "new york, United States",
+        "link": "https://dev.events/conferences/nyvr-sept-2024-digital-fashion-theme-300436150",
+        "published": "Sat, 24 Aug 2024 13:00:55 GMT",
+        "category": "AR / VR / XR",
+        "type": "meetup"
+    },
+    {
+        "title": "Raleigh Unreal Engine Meetup",
+        "event_date": "August 28, 2024",
+        "location": "Cary, United States",
+        "link": "https://dev.events/conferences/raleigh-unreal-engine-meetup-298147139",
+        "published": "Sat, 24 Aug 2024 13:00:50 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "8/28 Chicago Unreal Engine meetup!",
+        "event_date": "August 28, 2024",
+        "location": "Chicago, United States",
+        "link": "https://dev.events/conferences/8-28-chicago-unreal-engine-meetup-302723274",
+        "published": "Sat, 24 Aug 2024 13:00:46 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "Chicago Code and Coffee September 22nd Meetup @ Capital One Caf\u00e9 State St!",
+        "event_date": "September 22, 2024",
+        "location": "Chicago, United States",
+        "link": "https://dev.events/conferences/chicago-code-and-coffee-september-22nd-meetup-capital-one-cafe-state-st-303015367",
+        "published": "Sat, 24 Aug 2024 06:41:49 GMT",
+        "category": "Tech",
+        "type": "meetup"
+    },
+    {
+        "title": "SGV Linux Users Group Monthly Meeting",
+        "event_date": "September 13, 2024",
+        "location": "Arcadia, United States",
+        "link": "https://dev.events/conferences/sgv-linux-users-group-monthly-meeting-302737941",
+        "published": "Sat, 24 Aug 2024 01:41:41 GMT",
+        "category": "Linux / OS",
+        "type": "meetup"
+    },
+    {
         "title": "Bytes & Brews with the Bluegrass Developers Guild",
         "event_date": "September 5, 2024",
         "location": "Lexington, United States",
@@ -531,15 +1143,6 @@
         "type": "conference"
     },
     {
-        "title": "SGVHAK Study Session  [Raspberry Pi/AVR Programming]",
-        "event_date": "August 24, 2024",
-        "location": "Arcadia, United States",
-        "link": "https://dev.events/conferences/sgvhak-study-session-raspberry-pi-avr-programming-302923454",
-        "published": "Tue, 20 Aug 2024 08:01:47 GMT",
-        "category": "Linux / OS",
-        "type": "meetup"
-    },
-    {
         "title": "IN PERSON!! Infrastructure Code Design Patterns",
         "event_date": "September 26, 2024",
         "location": "Columbia, United States",
@@ -600,15 +1203,6 @@
         "link": "https://dev.events/conferences/virtual-creating-games-for-dev-ops-research-and-assessment-dora-300400466",
         "published": "Mon, 19 Aug 2024 15:04:08 GMT",
         "category": "Game dev",
-        "type": "meetup"
-    },
-    {
-        "title": "Downtown Coding Cafe (In-Person)",
-        "event_date": "August 24, 2024",
-        "location": "New York, United States",
-        "link": "https://dev.events/conferences/downtown-coding-cafe-in-person-302326803",
-        "published": "Mon, 19 Aug 2024 12:20:26 GMT",
-        "category": "Web / Frontend",
         "type": "meetup"
     },
     {
@@ -1359,15 +1953,6 @@
         "type": "meetup"
     },
     {
-        "title": "LA Tech Meetup",
-        "event_date": "August 24, 2024",
-        "location": "Santa Monica, United States",
-        "link": "https://dev.events/conferences/la-tech-meetup-302763730",
-        "published": "Mon, 12 Aug 2024 02:41:27 GMT",
-        "category": "Tech",
-        "type": "meetup"
-    },
-    {
         "title": "PMI\u00ae Global Summit 2024",
         "event_date": "September 18, 2024",
         "location": "Los Angeles, United States",
@@ -1815,15 +2400,6 @@
         "link": "https://dev.events/conferences/dev-ops-kc-august-serverless-saa-s-building-for-multi-tenancy-on-aws-301582554",
         "published": "Tue, 06 Aug 2024 06:02:22 GMT",
         "category": "DevOps",
-        "type": "meetup"
-    },
-    {
-        "title": "RF modulation with Linux and Raspberry Pis",
-        "event_date": "August 24, 2024",
-        "location": "Fredericksburg, United States",
-        "link": "https://dev.events/conferences/rf-modulation-with-linux-and-raspberry-pis-301008187",
-        "published": "Tue, 06 Aug 2024 06:02:20 GMT",
-        "category": "Linux / OS",
         "type": "meetup"
     },
     {

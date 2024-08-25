@@ -1,5 +1,617 @@
 [
     {
+        "title": "Webinar: Hvordan kan du s\u00f8rge for at teamet ditt n\u00e5r sitt fulle potensial?",
+        "event_date": "September 5, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/webinar-hvordan-kan-du-sorge-for-at-teamet-ditt-nar-sitt-fulle-potensial-303018723",
+        "published": "Sat, 24 Aug 2024 20:04:12 GMT",
+        "category": "Agile",
+        "type": "meetup"
+    },
+    {
+        "title": "Writer's Room",
+        "event_date": "August 30, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/writer-s-room-302595950",
+        "published": "Sat, 24 Aug 2024 20:00:25 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "Game Dev Together",
+        "event_date": "September 7, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/game-dev-together-302908454",
+        "published": "Sat, 24 Aug 2024 19:00:38 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "Social Night",
+        "event_date": "August 28, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/social-night-302207783",
+        "published": "Sat, 24 Aug 2024 17:00:26 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "COGG Let's Play (Online)",
+        "event_date": "August 25, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/cogg-let-s-play-online-302943766",
+        "published": "Sat, 24 Aug 2024 17:00:23 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "7 Things Every Scrum Master thinks of on Day 1",
+        "event_date": "August 25, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/7-things-every-scrum-master-thinks-of-on-day-1-302995307",
+        "published": "Sat, 24 Aug 2024 16:06:36 GMT",
+        "category": "Scrum",
+        "type": "meetup"
+    },
+    {
+        "title": "Welsh Azure User Group - September 2024 Event (Virtual)",
+        "event_date": "September 18, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/welsh-azure-user-group-september-2024-event-virtual-303001786",
+        "published": "Sat, 24 Aug 2024 16:04:12 GMT",
+        "category": "Azure",
+        "type": "meetup"
+    },
+    {
+        "title": "MacTechGroup Meetup",
+        "event_date": "September 4, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/mac-tech-group-meetup-302857047",
+        "published": "Sat, 24 Aug 2024 16:01:34 GMT",
+        "category": "iOS / Swift",
+        "type": "meetup"
+    },
+    {
+        "title": "Coffee Meetup (virtual)",
+        "event_date": "September 14, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/coffee-meetup-virtual-300096275",
+        "published": "Sat, 24 Aug 2024 15:03:39 GMT",
+        "category": "Linux / OS",
+        "type": "meetup"
+    },
+    {
+        "title": "Sesi\u00f3n en l\u00ednea: eBPF: Tracing Across the Kernel Space",
+        "event_date": "August 29, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/sesion-en-linea-e-bpf-tracing-across-the-kernel-space-303003128",
+        "published": "Sat, 24 Aug 2024 14:45:15 GMT",
+        "category": "Cloud",
+        "type": "meetup"
+    },
+    {
+        "title": "Game Design Forum",
+        "event_date": "August 25, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/game-design-forum-302952775",
+        "published": "Sat, 24 Aug 2024 14:41:59 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "IGDA NYC Monday Afternoon Co-Working on Discord",
+        "event_date": "August 26, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/igda-nyc-monday-afternoon-co-working-on-discord-302672273",
+        "published": "Sat, 24 Aug 2024 14:41:38 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "Friday's open meetup",
+        "event_date": "August 30, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/friday-s-open-meetup-302757133",
+        "published": "Sat, 24 Aug 2024 14:41:35 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "Indie Video Game Developer Meetup - ZOOM",
+        "event_date": "September 1, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/indie-video-game-developer-meetup-zoom-302404017",
+        "published": "Sat, 24 Aug 2024 14:41:32 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "Create Session - Online",
+        "event_date": "September 3, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/create-session-online-302832049",
+        "published": "Sat, 24 Aug 2024 14:41:32 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "[ONLINE] Bi-Monthly Meeting",
+        "event_date": "September 5, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/online-bi-monthly-meeting-302860405",
+        "published": "Sat, 24 Aug 2024 14:41:32 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "Spel\u00f6l!",
+        "event_date": "August 27, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/speloel-302692820",
+        "published": "Sat, 24 Aug 2024 14:41:29 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "Game Audio Boston Community Hang!",
+        "event_date": "August 27, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/game-audio-boston-community-hang-302830750",
+        "published": "Sat, 24 Aug 2024 14:41:27 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "Unity Toastmasters",
+        "event_date": "August 29, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/unity-toastmasters-302731185",
+        "published": "Sat, 24 Aug 2024 14:41:27 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "Worldwide: C++ Online Interactive Q&A and Code Reviews, CppMSG.com, Gratis",
+        "event_date": "August 31, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/worldwide-c-online-interactive-q-and-a-and-code-reviews-cpp-msg-com-gratis-302762384",
+        "published": "Sat, 24 Aug 2024 14:41:27 GMT",
+        "category": "C/C++",
+        "type": "meetup"
+    },
+    {
+        "title": "Three.js Meetup",
+        "event_date": "September 7, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/three-js-meetup-302555482",
+        "published": "Sat, 24 Aug 2024 14:41:20 GMT",
+        "category": "JavaScript",
+        "type": "meetup"
+    },
+    {
+        "title": "Virtual Monthly Get together",
+        "event_date": "September 19, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/virtual-monthly-get-together-null",
+        "published": "Sat, 24 Aug 2024 14:41:11 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "[Virtual] South Bay Game Dev Monthly Meetup",
+        "event_date": "August 27, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/virtual-south-bay-game-dev-monthly-meetup-302682659",
+        "published": "Sat, 24 Aug 2024 14:41:01 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "SLC Unreal User Group Meetup",
+        "event_date": "September 11, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/slc-unreal-user-group-meetup-302972585",
+        "published": "Sat, 24 Aug 2024 14:40:57 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "Game Development Discord Mixer!",
+        "event_date": "August 30, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/game-development-discord-mixer-302747825",
+        "published": "Sat, 24 Aug 2024 14:40:55 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "YYC Game Critique - Little Kitty, Big City",
+        "event_date": "September 4, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/yyc-game-critique-little-kitty-big-city-302682319",
+        "published": "Sat, 24 Aug 2024 14:40:54 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "[ONLINE] Game Dev Meetup (Main Monthly Meetup)",
+        "event_date": "September 7, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/online-game-dev-meetup-main-monthly-meetup-302754244",
+        "published": "Sat, 24 Aug 2024 14:40:52 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "[Online] Let's meet and talk about game development!",
+        "event_date": "September 12, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/online-let-s-meet-and-talk-about-game-development-302538978",
+        "published": "Sat, 24 Aug 2024 14:40:52 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "Godot Wisconsin Meetup",
+        "event_date": "September 10, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/godot-wisconsin-meetup-302934560",
+        "published": "Sat, 24 Aug 2024 14:40:45 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "Omaha Game Developers Meetup",
+        "event_date": "September 13, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/omaha-game-developers-meetup-303011997",
+        "published": "Sat, 24 Aug 2024 14:40:45 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "Virtual game developer hangout",
+        "event_date": "August 29, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/virtual-game-developer-hangout-302744797",
+        "published": "Sat, 24 Aug 2024 14:40:26 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "Unreal Engine Memphis Virtual Meet",
+        "event_date": "August 31, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/unreal-engine-memphis-virtual-meet-302880421",
+        "published": "Sat, 24 Aug 2024 14:40:26 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "Monthly Dig. Game Dev. Meeting",
+        "event_date": "September 5, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/monthly-dig-game-dev-meeting-302246979",
+        "published": "Sat, 24 Aug 2024 14:40:18 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "HTML5 Game Development Monthly Meetup",
+        "event_date": "September 19, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/html-5-game-development-monthly-meetup-302988336",
+        "published": "Sat, 24 Aug 2024 14:40:18 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "Design of Holographic Display Systems based on Artificial Intelligence",
+        "event_date": "September 19, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/design-of-holographic-display-systems-based-on-artificial-intelligence-301969297",
+        "published": "Sat, 24 Aug 2024 14:40:18 GMT",
+        "category": "AI / ML",
+        "type": "meetup"
+    },
+    {
+        "title": "OpenAI Fundamentals for Product Managers, Startup Founders & Business Leaders",
+        "event_date": "August 31, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/open-ai-fundamentals-for-product-managers-startup-founders-and-business-leaders-302768945",
+        "published": "Sat, 24 Aug 2024 14:21:46 GMT",
+        "category": "Product management",
+        "type": "meetup"
+    },
+    {
+        "title": "AWS CloudWatch and CloudTrail",
+        "event_date": "August 25, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/aws-cloud-watch-and-cloud-trail-302885876",
+        "published": "Sat, 24 Aug 2024 14:03:29 GMT",
+        "category": "AWS",
+        "type": "meetup"
+    },
+    {
+        "title": "Code a Fullstack React App - mornings",
+        "event_date": "August 26, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/code-a-fullstack-react-app-mornings-302257441",
+        "published": "Sat, 24 Aug 2024 14:00:43 GMT",
+        "category": "Full-stack",
+        "type": "meetup"
+    },
+    {
+        "title": "Top 5 Automation Examples in UiPath",
+        "event_date": "August 25, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/top-5-automation-examples-in-ui-path-302935487",
+        "published": "Sat, 24 Aug 2024 13:42:46 GMT",
+        "category": "Tech",
+        "type": "meetup"
+    },
+    {
+        "title": "Amazon Rekognition Immersion Day - Workshop",
+        "event_date": "August 31, 2024",
+        "location": "Medellin, Colombia and Online",
+        "link": "https://dev.events/conferences/amazon-rekognition-immersion-day-workshop-302758460",
+        "published": "Sat, 24 Aug 2024 13:22:42 GMT",
+        "category": "AWS",
+        "type": "meetup"
+    },
+    {
+        "title": "AI Webinar: Explore how AI tools can revolutionize your work and teams.",
+        "event_date": "August 26, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/ai-webinar-explore-how-ai-tools-can-revolutionize-your-work-and-teams-302928912",
+        "published": "Sat, 24 Aug 2024 13:20:59 GMT",
+        "category": "AI / ML",
+        "type": "meetup"
+    },
+    {
+        "title": "\u2728Free Workshop | MasterClass: Game Economy Design Webinar  Wed, 4th Sep 2024",
+        "event_date": "September 4, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/free-workshop-master-class-game-economy-design-webinar-wed-4th-sep-2024-302864370",
+        "published": "Sat, 24 Aug 2024 13:20:40 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "Game Project Therapy (Virtual)",
+        "event_date": "September 21, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/game-project-therapy-virtual-null",
+        "published": "Sat, 24 Aug 2024 13:20:40 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "FC Game Development and Unity SIG",
+        "event_date": "August 25, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/fc-game-development-and-unity-sig-302660791",
+        "published": "Sat, 24 Aug 2024 13:20:29 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "Online - Unity project work and meet",
+        "event_date": "August 28, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/online-unity-project-work-and-meet-302708035",
+        "published": "Sat, 24 Aug 2024 13:20:21 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "Gen AI Essentials",
+        "event_date": "August 30, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/gen-ai-essentials-302687586",
+        "published": "Sat, 24 Aug 2024 13:01:20 GMT",
+        "category": "AI / ML",
+        "type": "meetup"
+    },
+    {
+        "title": "[Online] Unite 2024",
+        "event_date": "September 19, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/online-unite-2024-302560727",
+        "published": "Sat, 24 Aug 2024 13:01:18 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "Building and Using Virtual Reality in Education",
+        "event_date": "September 18, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/building-and-using-virtual-reality-in-education-297694257",
+        "published": "Sat, 24 Aug 2024 13:01:16 GMT",
+        "category": "AR / VR / XR",
+        "type": "meetup"
+    },
+    {
+        "title": "Global XR Conference 2024",
+        "event_date": "November 8, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/global-xr-conference-2024-298540658",
+        "published": "Sat, 24 Aug 2024 13:01:16 GMT",
+        "category": "AR / VR / XR",
+        "type": "meetup"
+    },
+    {
+        "title": "About DAM Time: 3D Digital Asset Management for Enterprises",
+        "event_date": "September 4, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/about-dam-time-3-d-digital-asset-management-for-enterprises-299035833",
+        "published": "Sat, 24 Aug 2024 13:01:14 GMT",
+        "category": "AR / VR / XR",
+        "type": "meetup"
+    },
+    {
+        "title": "Saturday VR Creator Meetup",
+        "event_date": "August 31, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/saturday-vr-creator-meetup-302767359",
+        "published": "Sat, 24 Aug 2024 13:01:09 GMT",
+        "category": "AR / VR / XR",
+        "type": "meetup"
+    },
+    {
+        "title": "How to Design \"About Me\" Page For Your UX Design Portfolio",
+        "event_date": "August 29, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/how-to-design-about-me-page-for-your-ux-design-portfolio-302755029",
+        "published": "Sat, 24 Aug 2024 13:01:07 GMT",
+        "category": "UI / UX",
+        "type": "meetup"
+    },
+    {
+        "title": "Vision Pro Developers Online Meetup",
+        "event_date": "September 12, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/vision-pro-developers-online-meetup-300216543",
+        "published": "Sat, 24 Aug 2024 13:01:01 GMT",
+        "category": "AR / VR / XR",
+        "type": "meetup"
+    },
+    {
+        "title": "Vision Pro Dev Collaboration",
+        "event_date": "September 3, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/vision-pro-dev-collaboration-300907467",
+        "published": "Sat, 24 Aug 2024 13:00:55 GMT",
+        "category": "AR / VR / XR",
+        "type": "meetup"
+    },
+    {
+        "title": "Silicon Beach Virtual Pitch Night [Start-up, Founder, Startup, Community]",
+        "event_date": "September 5, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/silicon-beach-virtual-pitch-night-start-up-founder-startup-community-null",
+        "published": "Sat, 24 Aug 2024 13:00:55 GMT",
+        "category": "Startup",
+        "type": "meetup"
+    },
+    {
+        "title": "Lecture",
+        "event_date": "September 8, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/lecture-null",
+        "published": "Sat, 24 Aug 2024 13:00:52 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "Unreal Florida - Virtual Catching Up",
+        "event_date": "September 9, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/unreal-florida-virtual-catching-up-302274392",
+        "published": "Sat, 24 Aug 2024 13:00:52 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "Dallas Discord Meet-up - August 2024",
+        "event_date": "August 28, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/dallas-discord-meet-up-august-2024-302800218",
+        "published": "Sat, 24 Aug 2024 13:00:47 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "September Oklahoma Discord chat",
+        "event_date": "September 19, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/september-oklahoma-discord-chat-302922019",
+        "published": "Sat, 24 Aug 2024 13:00:47 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "Unreal Pittsburgh September 2024 Online Meeting",
+        "event_date": "September 22, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/unreal-pittsburgh-september-2024-online-meeting-302396073",
+        "published": "Sat, 24 Aug 2024 13:00:46 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "Denver/Boulder Unreal Engine via Zoom",
+        "event_date": "September 12, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/denver-boulder-unreal-engine-via-zoom-302992359",
+        "published": "Sat, 24 Aug 2024 13:00:44 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "Unreal Engine Developers Meetup and Showcase",
+        "event_date": "September 18, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/unreal-engine-developers-meetup-and-showcase-302988610",
+        "published": "Sat, 24 Aug 2024 13:00:44 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "Tech Summer School 2024. 20 recursos gratuitos de IA, Unreal Engine, BIM y 3D",
+        "event_date": "August 25, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/tech-summer-school-2024-20-recursos-gratuitos-de-ia-unreal-engine-bim-y-3-d-302369873",
+        "published": "Sat, 24 Aug 2024 13:00:42 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "Data Science/AI Career Talk",
+        "event_date": "August 25, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/data-science-ai-career-talk-301112231",
+        "published": "Sat, 24 Aug 2024 12:41:52 GMT",
+        "category": "Data / Database",
+        "type": "meetup"
+    },
+    {
+        "title": "Scrum Mastery with ChatGPT Students Group: Learning Through Collaboration",
+        "event_date": "October 1, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/scrum-mastery-with-chat-gpt-students-group-learning-through-collaboration-301331233",
+        "published": "Sat, 24 Aug 2024 08:02:57 GMT",
+        "category": "Scrum",
+        "type": "meetup"
+    },
+    {
+        "title": "ARC Kampala Chapter Mini workshop",
+        "event_date": "September 7, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/arc-kampala-chapter-mini-workshop-300548245",
+        "published": "Sat, 24 Aug 2024 08:00:58 GMT",
+        "category": "Ruby",
+        "type": "meetup"
+    },
+    {
+        "title": "Burnout  Compassionate Leadship  Creating a Bartender Training App",
+        "event_date": "September 13, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/burnout-compassionate-leadship-creating-a-bartender-training-app-302840839",
+        "published": "Sat, 24 Aug 2024 05:03:06 GMT",
+        "category": "AWS",
+        "type": "meetup"
+    },
+    {
+        "title": "Feeling The Pressure of Falling Behind? Respond Quickly to Market Shifts!",
+        "event_date": "August 28, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/feeling-the-pressure-of-falling-behind-respond-quickly-to-market-shifts-302955858",
+        "published": "Sat, 24 Aug 2024 03:02:07 GMT",
+        "category": "Agile",
+        "type": "meetup"
+    },
+    {
         "title": "From Theory to Practice: ML Engineering with Santiago Valdarrama",
         "event_date": "August 26, 2024",
         "location": "Online",
@@ -117,24 +729,6 @@
         "type": "meetup"
     },
     {
-        "title": "Introduction to generative AI LLM and playground",
-        "event_date": "August 24, 2024",
-        "location": "Online",
-        "link": "https://dev.events/conferences/introduction-to-generative-ai-llm-and-playground-303000449",
-        "published": "Fri, 23 Aug 2024 16:21:38 GMT",
-        "category": "AI / ML",
-        "type": "meetup"
-    },
-    {
-        "title": "DevOps For Scrum Master & Agile Coaches",
-        "event_date": "August 24, 2024",
-        "location": "Online",
-        "link": "https://dev.events/conferences/dev-ops-for-scrum-master-and-agile-coaches-302879867",
-        "published": "Fri, 23 Aug 2024 15:44:31 GMT",
-        "category": "DevOps",
-        "type": "meetup"
-    },
-    {
         "title": "[ONLINE] O que esta chegando no Flutter",
         "event_date": "September 24, 2024",
         "location": "Online",
@@ -177,24 +771,6 @@
         "link": "https://dev.events/conferences/chris-richardson-microservices-small-talk-302996341",
         "published": "Fri, 23 Aug 2024 14:03:51 GMT",
         "category": "Agile",
-        "type": "meetup"
-    },
-    {
-        "title": "Amazon Virtual Private Cloud in 60 Minutes",
-        "event_date": "August 24, 2024",
-        "location": "Online",
-        "link": "https://dev.events/conferences/amazon-virtual-private-cloud-in-60-minutes-302935477",
-        "published": "Fri, 23 Aug 2024 13:43:14 GMT",
-        "category": "Cloud",
-        "type": "meetup"
-    },
-    {
-        "title": "AWS Kinesis",
-        "event_date": "August 24, 2024",
-        "location": "Online",
-        "link": "https://dev.events/conferences/aws-kinesis-302885671",
-        "published": "Fri, 23 Aug 2024 13:03:08 GMT",
-        "category": "AWS",
         "type": "meetup"
     },
     {
@@ -450,15 +1026,6 @@
         "type": "meetup"
     },
     {
-        "title": "Unlocking Business Potential: AI Integration Strategies for Success",
-        "event_date": "August 24, 2024",
-        "location": "Online",
-        "link": "https://dev.events/conferences/unlocking-business-potential-ai-integration-strategies-for-success-302074859",
-        "published": "Thu, 22 Aug 2024 14:41:19 GMT",
-        "category": "AI / ML",
-        "type": "meetup"
-    },
-    {
         "title": "Complimentary Class on Google Cloud Fundamentals: Core Infrastructure",
         "event_date": "August 26, 2024",
         "location": "Online",
@@ -501,15 +1068,6 @@
         "link": "https://dev.events/conferences/chat-about-dev-ops-over-morning-coffee-tea-302735589",
         "published": "Thu, 22 Aug 2024 12:41:27 GMT",
         "category": "DevOps",
-        "type": "meetup"
-    },
-    {
-        "title": "Cloud Cost Management with AWS Cost Explorer and AWS Budgets",
-        "event_date": "August 24, 2024",
-        "location": "Online",
-        "link": "https://dev.events/conferences/cloud-cost-management-with-aws-cost-explorer-and-aws-budgets-302825435",
-        "published": "Thu, 22 Aug 2024 12:02:40 GMT",
-        "category": "Cloud",
         "type": "meetup"
     },
     {
@@ -1251,15 +1809,6 @@
         "type": "meetup"
     },
     {
-        "title": "Desarrollando Videojuegos en Flutter con Flame",
-        "event_date": "August 24, 2024",
-        "location": "Online",
-        "link": "https://dev.events/conferences/desarrollando-videojuegos-en-flutter-con-flame-302922766",
-        "published": "Tue, 20 Aug 2024 08:40:28 GMT",
-        "category": "Flutter",
-        "type": "meetup"
-    },
-    {
         "title": "Agila G\u00f6teborg Augusti 2024 - Online!",
         "event_date": "August 30, 2024",
         "location": "Online",
@@ -1284,15 +1833,6 @@
         "link": "https://dev.events/conferences/monthly-meeting-302932853",
         "published": "Tue, 20 Aug 2024 01:42:05 GMT",
         "category": "Linux / OS",
-        "type": "meetup"
-    },
-    {
-        "title": "GDG: Building Next-Generation, Gemini-Powered Flutter Apps",
-        "event_date": "August 24, 2024",
-        "location": "Online",
-        "link": "https://dev.events/conferences/gdg-building-next-generation-gemini-powered-flutter-apps-302924658",
-        "published": "Tue, 20 Aug 2024 01:40:24 GMT",
-        "category": "Google",
         "type": "meetup"
     },
     {
@@ -2079,15 +2619,6 @@
         "type": "meetup"
     },
     {
-        "title": "Workflows for Building Production-Ready AI Powered Software",
-        "event_date": "August 24, 2024",
-        "location": "Online",
-        "link": "https://dev.events/conferences/workflows-for-building-production-ready-ai-powered-software-302763731",
-        "published": "Wed, 14 Aug 2024 07:41:24 GMT",
-        "category": "AI / ML",
-        "type": "meetup"
-    },
-    {
         "title": "Raspberry Pint : Raspberry Pi and other Digital Making Fun -Arduino, ESP32, etc.",
         "event_date": "September 24, 2024",
         "location": "Online",
@@ -2349,48 +2880,12 @@
         "type": "meetup"
     },
     {
-        "title": "Getting Started with Azure & .NET Part Two",
-        "event_date": "August 24, 2024",
-        "location": "Online",
-        "link": "https://dev.events/conferences/getting-started-with-azure-and-net-part-two-301673505",
-        "published": "Sun, 11 Aug 2024 09:22:11 GMT",
-        "category": "Azure",
-        "type": "meetup"
-    },
-    {
         "title": "Getting to know each other",
         "event_date": "September 14, 2024",
         "location": "Online",
         "link": "https://dev.events/conferences/getting-to-know-each-other-null",
         "published": "Sat, 10 Aug 2024 18:23:33 GMT",
         "category": "Agile",
-        "type": "meetup"
-    },
-    {
-        "title": "ARC Kampala Chapter Mini workshop",
-        "event_date": "August 24, 2024",
-        "location": "Online",
-        "link": "https://dev.events/conferences/arc-kampala-chapter-mini-workshop-300548241",
-        "published": "Sat, 10 Aug 2024 08:20:53 GMT",
-        "category": "Ruby",
-        "type": "meetup"
-    },
-    {
-        "title": "Design Thinking for Startup Success - Online",
-        "event_date": "August 24, 2024",
-        "location": "Online",
-        "link": "https://dev.events/conferences/design-thinking-for-startup-success-online-302750901",
-        "published": "Sat, 10 Aug 2024 07:42:50 GMT",
-        "category": "Startup",
-        "type": "meetup"
-    },
-    {
-        "title": "Design Thinking for Startup Success - Online Session",
-        "event_date": "August 24, 2024",
-        "location": "Online",
-        "link": "https://dev.events/conferences/design-thinking-for-startup-success-online-session-302750859",
-        "published": "Sat, 10 Aug 2024 07:42:49 GMT",
-        "category": "Startup",
         "type": "meetup"
     },
     {
@@ -2769,15 +3264,6 @@
         "link": "https://dev.events/conferences/careers-in-cloud-and-microsoft-certifications-298054264",
         "published": "Tue, 06 Aug 2024 06:02:20 GMT",
         "category": "Cloud",
-        "type": "meetup"
-    },
-    {
-        "title": "Kanban Mastery for Newbies",
-        "event_date": "August 24, 2024",
-        "location": "Online",
-        "link": "https://dev.events/conferences/kanban-mastery-for-newbies-301801786",
-        "published": "Tue, 06 Aug 2024 06:02:16 GMT",
-        "category": "Agile",
         "type": "meetup"
     },
     {
