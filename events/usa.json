@@ -1,5 +1,149 @@
 [
     {
+        "title": "Vue.js Project Day",
+        "event_date": "September 1, 2024",
+        "location": "Indianapolis, United States",
+        "link": "https://dev.events/conferences/vue-js-project-day-302796501",
+        "published": "Sun, 25 Aug 2024 20:01:30 GMT",
+        "category": "Vue",
+        "type": "meetup"
+    },
+    {
+        "title": "Strawberry Jam",
+        "event_date": "September 8, 2024",
+        "location": "Los Angeles, United States",
+        "link": "https://dev.events/conferences/strawberry-jam-302927796",
+        "published": "Sun, 25 Aug 2024 19:00:25 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "Issues Involving Generative AI in Game Development: A Discussion",
+        "event_date": "August 26, 2024",
+        "location": "Nashville, United States",
+        "link": "https://dev.events/conferences/issues-involving-generative-ai-in-game-development-a-discussion-302773566",
+        "published": "Sun, 25 Aug 2024 19:00:04 GMT",
+        "category": "AI / ML",
+        "type": "meetup"
+    },
+    {
+        "title": "Prototype, Play, and Build Workshops (In-Person @GameArena)",
+        "event_date": "September 13, 2024",
+        "location": "Columbus, United States",
+        "link": "https://dev.events/conferences/prototype-play-and-build-workshops-in-person-game-arena-303021057",
+        "published": "Sun, 25 Aug 2024 18:00:17 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "ElixirConf 2024 in Review",
+        "event_date": "September 12, 2024",
+        "location": "Jacksonville Beach, United States",
+        "link": "https://dev.events/conferences/elixir-conf-2024-in-review-303025133",
+        "published": "Sun, 25 Aug 2024 16:24:36 GMT",
+        "category": "Elixir",
+        "type": "meetup"
+    },
+    {
+        "title": "Test Automation Summit | Seattle",
+        "event_date": "October 8, 2024",
+        "location": "Seattle, United States",
+        "link": "https://dev.events/conferences/test-automation-summit-seattle-s3b5jxqp",
+        "published": "Sun, 25 Aug 2024 09:01:10 GMT",
+        "category": "Testing / QA",
+        "type": "conference"
+    },
+    {
+        "title": "SQL Saturday Houston",
+        "event_date": "December 7, 2024",
+        "location": "Houston, United States",
+        "link": "https://dev.events/conferences/sql-saturday-houston-8e2es9oa",
+        "published": "Sun, 25 Aug 2024 07:45:52 GMT",
+        "category": "SQL",
+        "type": "conference"
+    },
+    {
+        "title": "CyberConVA 2025",
+        "event_date": "February 6, 2025",
+        "location": "Richmond, United States",
+        "link": "https://dev.events/conferences/cyber-con-va-2025-o-0zdwy",
+        "published": "Sun, 25 Aug 2024 07:41:19 GMT",
+        "category": "Cybersecurity / InfoSec",
+        "type": "conference"
+    },
+    {
+        "title": "PMBA Conference",
+        "event_date": "May 5, 2025",
+        "location": "Orlando, United States",
+        "link": "https://dev.events/conferences/pmba-conference-odaq03a0",
+        "published": "Sun, 25 Aug 2024 07:30:56 GMT",
+        "category": "Project management / PMO",
+        "type": "conference"
+    },
+    {
+        "title": "PMBA Conference",
+        "event_date": "June 16, 2025",
+        "location": "Washington, United States",
+        "link": "https://dev.events/conferences/pmba-conference-3hga2apc",
+        "published": "Sun, 25 Aug 2024 07:26:20 GMT",
+        "category": "Project management / PMO",
+        "type": "conference"
+    },
+    {
+        "title": "Test Automation Summit | San Francisco",
+        "event_date": "October 4, 2024",
+        "location": "San Francisco, United States",
+        "link": "https://dev.events/conferences/test-automation-summit-san-francisco-5nkdowda",
+        "published": "Sun, 25 Aug 2024 07:21:31 GMT",
+        "category": "Testing / QA",
+        "type": "conference"
+    },
+    {
+        "title": "Test Automation Summit | Salt Lake",
+        "event_date": "October 1, 2024",
+        "location": "Salt Lake City, United States",
+        "link": "https://dev.events/conferences/test-automation-summit-salt-lake-4cvrxsom",
+        "published": "Sun, 25 Aug 2024 07:18:49 GMT",
+        "category": "Testing / QA",
+        "type": "conference"
+    },
+    {
+        "title": "OpenSearchCon 2024 North America",
+        "event_date": "September 24, 2024",
+        "location": "San Francisco, United States",
+        "link": "https://dev.events/conferences/open-search-con-2024-north-america-0smo3uyq",
+        "published": "Sun, 25 Aug 2024 07:18:16 GMT",
+        "category": "Open Source",
+        "type": "conference"
+    },
+    {
+        "title": "Open Source Summit North America",
+        "event_date": "June 23, 2025",
+        "location": "Denver, United States",
+        "link": "https://dev.events/conferences/open-source-summit-north-america-aqvaezyq",
+        "published": "Sun, 25 Aug 2024 07:14:26 GMT",
+        "category": "Open Source",
+        "type": "conference"
+    },
+    {
+        "title": "Linux Security Summit North America",
+        "event_date": "June 26, 2025",
+        "location": "Denver, United States",
+        "link": "https://dev.events/conferences/linux-security-summit-north-america-ydndcvcz",
+        "published": "Sun, 25 Aug 2024 07:11:54 GMT",
+        "category": "Linux / OS",
+        "type": "conference"
+    },
+    {
+        "title": "Rust Community Meetup - Ferndale",
+        "event_date": "August 27, 2024",
+        "location": "Ferndale, United States",
+        "link": "https://dev.events/conferences/rust-community-meetup-ferndale-303025143",
+        "published": "Sun, 25 Aug 2024 01:03:00 GMT",
+        "category": "Rust",
+        "type": "meetup"
+    },
+    {
         "title": "In-Person Game Development Meetup",
         "event_date": "August 31, 2024",
         "location": "Pittsburgh, United States",
@@ -189,15 +333,6 @@
         "type": "meetup"
     },
     {
-        "title": "Strawberry Jam",
-        "event_date": "August 25, 2024",
-        "location": "Los Angeles, United States",
-        "link": "https://dev.events/conferences/strawberry-jam-302521689",
-        "published": "Sat, 24 Aug 2024 14:41:32 GMT",
-        "category": "Game dev",
-        "type": "meetup"
-    },
-    {
         "title": "OC Indies Monthly",
         "event_date": "August 29, 2024",
         "location": "Santa Ana, United States",
@@ -297,15 +432,6 @@
         "type": "meetup"
     },
     {
-        "title": "Game Dev Hang - Dock Street Brewery",
-        "event_date": "August 25, 2024",
-        "location": "Philadelphia , United States",
-        "link": "https://dev.events/conferences/game-dev-hang-dock-street-brewery-302648961",
-        "published": "Sat, 24 Aug 2024 14:40:55 GMT",
-        "category": "Game dev",
-        "type": "meetup"
-    },
-    {
         "title": "Ambitious Indie Game Night",
         "event_date": "September 5, 2024",
         "location": "Long Beach, United States",
@@ -365,15 +491,6 @@
         "location": "South Deerfield, United States",
         "link": "https://dev.events/conferences/pvgd-10th-annual-potluck-302525518",
         "published": "Sat, 24 Aug 2024 14:40:26 GMT",
-        "category": "Game dev",
-        "type": "meetup"
-    },
-    {
-        "title": "Game Dev Work & Play",
-        "event_date": "August 25, 2024",
-        "location": "Nashville, United States",
-        "link": "https://dev.events/conferences/game-dev-work-and-play-302138370",
-        "published": "Sat, 24 Aug 2024 14:40:18 GMT",
         "category": "Game dev",
         "type": "meetup"
     },
@@ -545,15 +662,6 @@
         "location": "Santa Clara, United States",
         "link": "https://dev.events/conferences/meet-new-people-sunday-night-networking-302663753",
         "published": "Sat, 24 Aug 2024 13:00:58 GMT",
-        "category": "AR / VR / XR",
-        "type": "meetup"
-    },
-    {
-        "title": "Photographers And Models Park Group Shoot",
-        "event_date": "August 25, 2024",
-        "location": "culver city, United States",
-        "link": "https://dev.events/conferences/photographers-and-models-park-group-shoot-302961513",
-        "published": "Sat, 24 Aug 2024 13:00:55 GMT",
         "category": "AR / VR / XR",
         "type": "meetup"
     },
@@ -1188,15 +1296,6 @@
         "type": "meetup"
     },
     {
-        "title": "WIA Columbus: Book Club (In person) - The Phoenix Project",
-        "event_date": "August 25, 2024",
-        "location": "Columbus, United States",
-        "link": "https://dev.events/conferences/wia-columbus-book-club-in-person-the-phoenix-project-302597267",
-        "published": "Mon, 19 Aug 2024 20:43:27 GMT",
-        "category": "Agile",
-        "type": "meetup"
-    },
-    {
         "title": "VIRTUAL: Creating Games for DevOps Research and Assessment (DORA)",
         "event_date": "August 28, 2024",
         "location": "Arlington, United States",
@@ -1221,15 +1320,6 @@
         "link": "https://dev.events/conferences/py-irvine-office-hours-where-python-enthusiasts-connect-302797930",
         "published": "Sun, 18 Aug 2024 22:24:23 GMT",
         "category": "Python",
-        "type": "meetup"
-    },
-    {
-        "title": "Vue.js Project Day",
-        "event_date": "August 25, 2024",
-        "location": "Indianapolis, United States",
-        "link": "https://dev.events/conferences/vue-js-project-day-302658535",
-        "published": "Sun, 18 Aug 2024 20:00:24 GMT",
-        "category": "Vue",
         "type": "meetup"
     },
     {
@@ -1554,15 +1644,6 @@
         "link": "https://dev.events/conferences/derby-dev-ops-meet-up-302513819",
         "published": "Wed, 14 Aug 2024 22:02:56 GMT",
         "category": "DevOps",
-        "type": "meetup"
-    },
-    {
-        "title": "Open Source Coffee & Chat",
-        "event_date": "August 25, 2024",
-        "location": "Lafayette, United States",
-        "link": "https://dev.events/conferences/open-source-coffee-and-chat-302654865",
-        "published": "Wed, 14 Aug 2024 21:40:41 GMT",
-        "category": "Open Source",
         "type": "meetup"
     },
     {
