@@ -1,5 +1,257 @@
 [
     {
+        "title": "A Journey Across Entra External ID and Entra Verifiable Credentials",
+        "event_date": "September 18, 2024",
+        "location": "Auckland, New Zealand and Online",
+        "link": "https://dev.events/conferences/a-journey-across-entra-external-id-and-entra-verifiable-credentials-303064352",
+        "published": "Tue, 27 Aug 2024 00:03:54 GMT",
+        "category": ".NET",
+        "type": "meetup"
+    },
+    {
+        "title": "Weekly Dev Chat",
+        "event_date": "August 27, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/weekly-dev-chat-302694444",
+        "published": "Tue, 27 Aug 2024 00:00:26 GMT",
+        "category": "Tech",
+        "type": "meetup"
+    },
+    {
+        "title": "Saturday Workgroup (Virtual)",
+        "event_date": "September 7, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/saturday-workgroup-virtual-302904461",
+        "published": "Mon, 26 Aug 2024 23:40:22 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "ONLINE - Coding Dojo/TDD with Ensemble/Paired Programming",
+        "event_date": "September 9, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/online-coding-dojo-tdd-with-ensemble-paired-programming-301005420",
+        "published": "Mon, 26 Aug 2024 23:01:57 GMT",
+        "category": "Tech",
+        "type": "meetup"
+    },
+    {
+        "title": "[Online] Azure Monitor: monitoramento e observabilidade na nuvem Microsoft",
+        "event_date": "August 27, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/online-azure-monitor-monitoramento-e-observabilidade-na-nuvem-microsoft-303064223",
+        "published": "Mon, 26 Aug 2024 21:43:19 GMT",
+        "category": "Azure",
+        "type": "meetup"
+    },
+    {
+        "title": "Create Custom Copilots with Azure AI Studio",
+        "event_date": "September 7, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/create-custom-copilots-with-azure-ai-studio-302779272",
+        "published": "Mon, 26 Aug 2024 20:03:43 GMT",
+        "category": "Azure",
+        "type": "meetup"
+    },
+    {
+        "title": ".Net Aspire",
+        "event_date": "September 11, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/net-aspire-303059533",
+        "published": "Mon, 26 Aug 2024 19:21:49 GMT",
+        "category": "Azure",
+        "type": "meetup"
+    },
+    {
+        "title": "How to find Product Market Fit Quickly",
+        "event_date": "August 27, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/how-to-find-product-market-fit-quickly-302689720",
+        "published": "Mon, 26 Aug 2024 19:03:54 GMT",
+        "category": "Startup",
+        "type": "meetup"
+    },
+    {
+        "title": "Silicon Valley Business Networking (Online)",
+        "event_date": "August 28, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/silicon-valley-business-networking-online-302721376",
+        "published": "Mon, 26 Aug 2024 19:00:45 GMT",
+        "category": "Startup",
+        "type": "meetup"
+    },
+    {
+        "title": "How to find Product Market Fit Quickly",
+        "event_date": "August 27, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/how-to-find-product-market-fit-quickly-302689602",
+        "published": "Mon, 26 Aug 2024 19:00:40 GMT",
+        "category": "AR / VR / XR",
+        "type": "meetup"
+    },
+    {
+        "title": "Wir bewegen das Webdesign -Live Coding Session mit Web Apis & Angular",
+        "event_date": "August 29, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/wir-bewegen-das-webdesign-live-coding-session-mit-web-apis-and-angular-302976118",
+        "published": "Mon, 26 Aug 2024 18:01:19 GMT",
+        "category": "Angular",
+        "type": "meetup"
+    },
+    {
+        "title": "Architecture Coaching",
+        "event_date": "September 2, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/architecture-coaching-302811782",
+        "published": "Mon, 26 Aug 2024 18:00:39 GMT",
+        "category": "Software architecture",
+        "type": "meetup"
+    },
+    {
+        "title": "Machine Learning/Data Sciences/R",
+        "event_date": "September 4, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/machine-learning-data-sciences-r-300427832",
+        "published": "Mon, 26 Aug 2024 17:01:40 GMT",
+        "category": "AI / ML",
+        "type": "meetup"
+    },
+    {
+        "title": "IGDA NYC Monday Afternoon Co-Working on Discord",
+        "event_date": "September 2, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/igda-nyc-monday-afternoon-co-working-on-discord-302809869",
+        "published": "Mon, 26 Aug 2024 17:00:19 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "Educational Program: Introduction to Artificial Intelligence",
+        "event_date": "September 3, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/educational-program-introduction-to-artificial-intelligence-302823505",
+        "published": "Mon, 26 Aug 2024 16:02:50 GMT",
+        "category": "AI / ML",
+        "type": "meetup"
+    },
+    {
+        "title": "AI Hands On Workshop!",
+        "event_date": "October 17, 2024",
+        "location": "Urbandale, United States and Online",
+        "link": "https://dev.events/conferences/ai-hands-on-workshop-303051689",
+        "published": "Mon, 26 Aug 2024 16:02:03 GMT",
+        "category": "AI / ML",
+        "type": "meetup"
+    },
+    {
+        "title": "Sept 2 - Virtual Open Office Hours\u2028with Prof Jason Corso",
+        "event_date": "September 2, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/sept-2-virtual-open-office-hours-with-prof-jason-corso-302428374",
+        "published": "Mon, 26 Aug 2024 16:01:58 GMT",
+        "category": "AI / ML",
+        "type": "meetup"
+    },
+    {
+        "title": "Empower Your Classroom with Roblox: Free Workshop for Teachers and Youth Workers",
+        "event_date": "September 4, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/empower-your-classroom-with-roblox-free-workshop-for-teachers-and-youth-workers-302804980",
+        "published": "Mon, 26 Aug 2024 15:00:48 GMT",
+        "category": "AR / VR / XR",
+        "type": "meetup"
+    },
+    {
+        "title": "Update Days: .NET Performance",
+        "event_date": "October 30, 2024",
+        "location": "Krakow, Poland and Online",
+        "link": "https://dev.events/conferences/update-days-net-performance-ty745-1s",
+        "published": "Mon, 26 Aug 2024 12:06:41 GMT",
+        "category": ".NET",
+        "type": "conference"
+    },
+    {
+        "title": "Hybrid: August gathering @Rackspace Technology",
+        "event_date": "August 28, 2024",
+        "location": "Munich, Germany and Online",
+        "link": "https://dev.events/conferences/hybrid-august-gathering-rackspace-technology-302529977",
+        "published": "Mon, 26 Aug 2024 12:02:51 GMT",
+        "category": "Google",
+        "type": "meetup"
+    },
+    {
+        "title": "Code a Fullstack React App - mornings",
+        "event_date": "August 31, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/code-a-fullstack-react-app-mornings-302614624",
+        "published": "Mon, 26 Aug 2024 12:01:07 GMT",
+        "category": "Full-stack",
+        "type": "meetup"
+    },
+    {
+        "title": "10 tips and tricks for GitHub Actions and Azure DevOps, with David Gardiner",
+        "event_date": "September 11, 2024",
+        "location": "Adelaide, Australia and Online",
+        "link": "https://dev.events/conferences/10-tips-and-tricks-for-git-hub-actions-and-azure-dev-ops-with-david-gardiner-303049329",
+        "published": "Mon, 26 Aug 2024 11:24:31 GMT",
+        "category": "Open Source",
+        "type": "meetup"
+    },
+    {
+        "title": "Reading the Room :  Enhancing Your Meeting Presence : [BETA Pilot*]",
+        "event_date": "August 28, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/reading-the-room-enhancing-your-meeting-presence-beta-pilot-303036554",
+        "published": "Mon, 26 Aug 2024 10:44:59 GMT",
+        "category": "Agile",
+        "type": "meetup"
+    },
+    {
+        "title": "AWS User Group 09/2024",
+        "event_date": "September 9, 2024",
+        "location": "Nurnberg, Germany and Online",
+        "link": "https://dev.events/conferences/aws-user-group-09-2024-303037485",
+        "published": "Mon, 26 Aug 2024 09:44:03 GMT",
+        "category": "AWS",
+        "type": "meetup"
+    },
+    {
+        "title": "A Comprehensive UI/UX Design Tutorial",
+        "event_date": "August 27, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/a-comprehensive-ui-ux-design-tutorial-302935504",
+        "published": "Mon, 26 Aug 2024 09:03:39 GMT",
+        "category": "UI / UX",
+        "type": "meetup"
+    },
+    {
+        "title": "AWS - Deploy .NET 8 Minimal API on Ubuntu EC2 Nginx, and Windows EC2 IIS",
+        "event_date": "September 1, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/aws-deploy-net-8-minimal-api-on-ubuntu-ec-2-nginx-and-windows-ec-2-iis-301436462",
+        "published": "Mon, 26 Aug 2024 08:03:36 GMT",
+        "category": "AWS",
+        "type": "meetup"
+    },
+    {
+        "title": "Amazon Rekognition Immersion Day - Workshop (WeWork Calle 7D #43A-40)",
+        "event_date": "August 31, 2024",
+        "location": "Medellin, Colombia and Online",
+        "link": "https://dev.events/conferences/amazon-rekognition-immersion-day-workshop-we-work-calle-7-d-43-a-40-302758460",
+        "published": "Mon, 26 Aug 2024 05:42:09 GMT",
+        "category": "AWS",
+        "type": "meetup"
+    },
+    {
+        "title": "Workshop: LLMs Fine-tuning & Prompt Engineering (In Person & Virtual Event)",
+        "event_date": "September 8, 2024",
+        "location": "Singapore, Singapore and Online",
+        "link": "https://dev.events/conferences/workshop-ll-ms-fine-tuning-and-prompt-engineering-in-person-and-virtual-event-302957518",
+        "published": "Mon, 26 Aug 2024 03:02:24 GMT",
+        "category": "AI / ML",
+        "type": "meetup"
+    },
+    {
         "title": "GitLab Community Pairing",
         "event_date": "August 27, 2024",
         "location": "Online",
@@ -54,15 +306,6 @@
         "type": "meetup"
     },
     {
-        "title": "DevOps For Scrum Master & Agile Coaches",
-        "event_date": "August 26, 2024",
-        "location": "Online",
-        "link": "https://dev.events/conferences/dev-ops-for-scrum-master-and-agile-coaches-303036586",
-        "published": "Sun, 25 Aug 2024 16:04:26 GMT",
-        "category": "DevOps",
-        "type": "meetup"
-    },
-    {
         "title": "SSL & Nginx Shield for Prometheus & Grafana | Thoufeek S | DevOps Malayalam",
         "event_date": "August 28, 2024",
         "location": "Online",
@@ -96,15 +339,6 @@
         "link": "https://dev.events/conferences/aws-serverless-302885936",
         "published": "Sun, 25 Aug 2024 14:03:29 GMT",
         "category": "AWS",
-        "type": "meetup"
-    },
-    {
-        "title": "Customer-Product Analysis With Tableau",
-        "event_date": "August 26, 2024",
-        "location": "Online",
-        "link": "https://dev.events/conferences/customer-product-analysis-with-tableau-302935497",
-        "published": "Sun, 25 Aug 2024 13:43:24 GMT",
-        "category": "Tech",
         "type": "meetup"
     },
     {
@@ -258,15 +492,6 @@
         "link": "https://dev.events/conferences/sesion-en-linea-e-bpf-tracing-across-the-kernel-space-303003128",
         "published": "Sat, 24 Aug 2024 14:45:15 GMT",
         "category": "Cloud",
-        "type": "meetup"
-    },
-    {
-        "title": "IGDA NYC Monday Afternoon Co-Working on Discord",
-        "event_date": "August 26, 2024",
-        "location": "Online",
-        "link": "https://dev.events/conferences/igda-nyc-monday-afternoon-co-working-on-discord-302672273",
-        "published": "Sat, 24 Aug 2024 14:41:38 GMT",
-        "category": "Game dev",
         "type": "meetup"
     },
     {
@@ -486,30 +711,12 @@
         "type": "meetup"
     },
     {
-        "title": "Code a Fullstack React App - mornings",
-        "event_date": "August 26, 2024",
-        "location": "Online",
-        "link": "https://dev.events/conferences/code-a-fullstack-react-app-mornings-302257441",
-        "published": "Sat, 24 Aug 2024 14:00:43 GMT",
-        "category": "Full-stack",
-        "type": "meetup"
-    },
-    {
         "title": "Amazon Rekognition Immersion Day - Workshop",
         "event_date": "August 31, 2024",
         "location": "Medellin, Colombia and Online",
         "link": "https://dev.events/conferences/amazon-rekognition-immersion-day-workshop-302758460",
         "published": "Sat, 24 Aug 2024 13:22:42 GMT",
         "category": "AWS",
-        "type": "meetup"
-    },
-    {
-        "title": "AI Webinar: Explore how AI tools can revolutionize your work and teams.",
-        "event_date": "August 26, 2024",
-        "location": "Online",
-        "link": "https://dev.events/conferences/ai-webinar-explore-how-ai-tools-can-revolutionize-your-work-and-teams-302928912",
-        "published": "Sat, 24 Aug 2024 13:20:59 GMT",
-        "category": "AI / ML",
         "type": "meetup"
     },
     {
@@ -729,15 +936,6 @@
         "type": "meetup"
     },
     {
-        "title": "From Theory to Practice: ML Engineering with Santiago Valdarrama",
-        "event_date": "August 26, 2024",
-        "location": "Online",
-        "link": "https://dev.events/conferences/from-theory-to-practice-ml-engineering-with-santiago-valdarrama-303006985",
-        "published": "Sat, 24 Aug 2024 00:01:59 GMT",
-        "category": "AI / ML",
-        "type": "meetup"
-    },
-    {
         "title": "Live labs hands-on Oracle Integration training Oracle SaaS Partner Community Web",
         "event_date": "August 27, 2024",
         "location": "Online",
@@ -757,7 +955,7 @@
     },
     {
         "title": "[Online]Dicas de Bancos de Dados para Desenvolvedores - SQL, NoSQL... | 7ed",
-        "event_date": "August 27, 2024",
+        "event_date": "August 29, 2024",
         "location": "Online",
         "link": "https://dev.events/conferences/online-dicas-de-bancos-de-dados-para-desenvolvedores-sql-no-sql-7ed-302937767",
         "published": "Fri, 23 Aug 2024 21:03:22 GMT",
@@ -834,15 +1032,6 @@
         "link": "https://dev.events/conferences/friday-virtual-book-club-302184021",
         "published": "Fri, 23 Aug 2024 17:02:09 GMT",
         "category": "Cloud",
-        "type": "meetup"
-    },
-    {
-        "title": "Virtual Lunch!",
-        "event_date": "August 26, 2024",
-        "location": "Online",
-        "link": "https://dev.events/conferences/virtual-lunch-300427802",
-        "published": "Fri, 23 Aug 2024 16:41:03 GMT",
-        "category": "Tech",
         "type": "meetup"
     },
     {
@@ -1125,30 +1314,12 @@
         "type": "meetup"
     },
     {
-        "title": "Silicon Valley Business Networking (Online)",
-        "event_date": "August 26, 2024",
-        "location": "Online",
-        "link": "https://dev.events/conferences/silicon-valley-business-networking-online-302675394",
-        "published": "Thu, 22 Aug 2024 15:02:32 GMT",
-        "category": "Startup",
-        "type": "meetup"
-    },
-    {
         "title": "Abusing Windows EFS to steal data using PowerShell",
         "event_date": "August 27, 2024",
         "location": "Online",
         "link": "https://dev.events/conferences/abusing-windows-efs-to-steal-data-using-power-shell-302645242",
         "published": "Thu, 22 Aug 2024 15:01:54 GMT",
         "category": "IT service management",
-        "type": "meetup"
-    },
-    {
-        "title": "Complimentary Class on Google Cloud Fundamentals: Core Infrastructure",
-        "event_date": "August 26, 2024",
-        "location": "Online",
-        "link": "https://dev.events/conferences/complimentary-class-on-google-cloud-fundamentals-core-infrastructure-302937691",
-        "published": "Thu, 22 Aug 2024 14:03:16 GMT",
-        "category": "Google",
         "type": "meetup"
     },
     {
@@ -1284,15 +1455,6 @@
         "link": "https://dev.events/conferences/angular-lunch-session-302433095",
         "published": "Thu, 22 Aug 2024 10:00:29 GMT",
         "category": "Angular",
-        "type": "meetup"
-    },
-    {
-        "title": "Von Null bis Live: Deine erste Web-App mit Svelte - Nils R\u00f6hrig",
-        "event_date": "August 26, 2024",
-        "location": "Online",
-        "link": "https://dev.events/conferences/von-null-bis-live-deine-erste-web-app-mit-svelte-nils-roehrig-302958054",
-        "published": "Thu, 22 Aug 2024 09:00:34 GMT",
-        "category": "Tech",
         "type": "meetup"
     },
     {
@@ -1449,15 +1611,6 @@
         "type": "meetup"
     },
     {
-        "title": "Build NLP Solutions with Azure AI Services",
-        "event_date": "August 26, 2024",
-        "location": "Online",
-        "link": "https://dev.events/conferences/build-nlp-solutions-with-azure-ai-services-302770806",
-        "published": "Wed, 21 Aug 2024 20:02:59 GMT",
-        "category": "Azure",
-        "type": "meetup"
-    },
-    {
         "title": "Book Club: Head First Design Patterns - continued!",
         "event_date": "August 29, 2024",
         "location": "Online",
@@ -1518,15 +1671,6 @@
         "link": "https://dev.events/conferences/book-club-bring-your-own-book-null",
         "published": "Wed, 21 Aug 2024 16:01:51 GMT",
         "category": "Tech",
-        "type": "meetup"
-    },
-    {
-        "title": "Aug 26 - Virtual Open Office Hours\u2028with Prof Jason Corso",
-        "event_date": "August 26, 2024",
-        "location": "Online",
-        "link": "https://dev.events/conferences/aug-26-virtual-open-office-hours-with-prof-jason-corso-302428323",
-        "published": "Wed, 21 Aug 2024 16:01:10 GMT",
-        "category": "AI / ML",
         "type": "meetup"
     },
     {
@@ -1617,15 +1761,6 @@
         "link": "https://dev.events/conferences/unlocking-the-power-of-social-selling-strategies-for-success-on-linked-in-302589460",
         "published": "Wed, 21 Aug 2024 10:41:20 GMT",
         "category": "Tech",
-        "type": "meetup"
-    },
-    {
-        "title": "Architecture Coaching",
-        "event_date": "August 26, 2024",
-        "location": "Online",
-        "link": "https://dev.events/conferences/architecture-coaching-302674237",
-        "published": "Wed, 21 Aug 2024 09:20:10 GMT",
-        "category": "Software architecture",
         "type": "meetup"
     },
     {
@@ -1881,15 +2016,6 @@
         "type": "meetup"
     },
     {
-        "title": "GitLab August 2024 Hackathon",
-        "event_date": "August 26, 2024",
-        "location": "Online",
-        "link": "https://dev.events/conferences/git-lab-august-2024-hackathon-301054841",
-        "published": "Tue, 20 Aug 2024 10:21:49 GMT",
-        "category": "DevOps",
-        "type": "meetup"
-    },
-    {
         "title": "Ding's Agile Transformation Success Story!",
         "event_date": "September 25, 2024",
         "location": "Online",
@@ -1972,7 +2098,7 @@
     },
     {
         "title": "[Online]Dicas de Bancos de Dados para Desenvolvedores - SQL, NoSQL... | 7ed",
-        "event_date": "August 27, 2024",
+        "event_date": "August 29, 2024",
         "location": "Online",
         "link": "https://dev.events/conferences/online-dicas-de-bancos-de-dados-para-desenvolvedores-sql-no-sql-7ed-302874072",
         "published": "Tue, 20 Aug 2024 00:02:55 GMT",
@@ -2211,15 +2337,6 @@
         "link": "https://dev.events/conferences/unlock-the-potential-of-the-flow-system-with-essence-302849159",
         "published": "Fri, 16 Aug 2024 08:42:36 GMT",
         "category": "Agile",
-        "type": "meetup"
-    },
-    {
-        "title": "Introduction to Gen AI, Semantic Search and Retrieval Augmented Generation",
-        "event_date": "August 26, 2024",
-        "location": "Online",
-        "link": "https://dev.events/conferences/introduction-to-gen-ai-semantic-search-and-retrieval-augmented-generation-302714655",
-        "published": "Fri, 16 Aug 2024 03:43:14 GMT",
-        "category": "AI / ML",
         "type": "meetup"
     },
     {
@@ -2872,7 +2989,7 @@
     },
     {
         "title": "GitHub Artifact Attestations is now GA: What Docker Can do about it?",
-        "event_date": "August 27, 2024",
+        "event_date": "August 28, 2024",
         "location": "Online",
         "link": "https://dev.events/conferences/git-hub-artifact-attestations-is-now-ga-what-docker-can-do-about-it-302803169",
         "published": "Tue, 13 Aug 2024 08:23:25 GMT",
@@ -2895,15 +3012,6 @@
         "link": "https://dev.events/conferences/the-weekly-function-302682827",
         "published": "Tue, 13 Aug 2024 00:21:59 GMT",
         "category": "Functional programming",
-        "type": "meetup"
-    },
-    {
-        "title": "Free Online SpringOne Conference",
-        "event_date": "August 26, 2024",
-        "location": "Online",
-        "link": "https://dev.events/conferences/free-online-spring-one-conference-301713846",
-        "published": "Mon, 12 Aug 2024 23:42:50 GMT",
-        "category": "Java",
         "type": "meetup"
     },
     {
@@ -2994,15 +3102,6 @@
         "link": "https://dev.events/conferences/streamlining-git-ops-promotions-with-kargo-301641074",
         "published": "Fri, 09 Aug 2024 18:01:30 GMT",
         "category": "Tech",
-        "type": "meetup"
-    },
-    {
-        "title": "Intro to Data Analytics with Python",
-        "event_date": "August 26, 2024",
-        "location": "Online",
-        "link": "https://dev.events/conferences/intro-to-data-analytics-with-python-302405048",
-        "published": "Fri, 09 Aug 2024 13:21:12 GMT",
-        "category": "Data / Database",
         "type": "meetup"
     },
     {
@@ -3501,30 +3600,12 @@
         "type": "meetup"
     },
     {
-        "title": "Intro to PyTest, Part 3",
-        "event_date": "August 26, 2024",
-        "location": "Online",
-        "link": "https://dev.events/conferences/intro-to-py-test-part-3-301005414",
-        "published": "Tue, 06 Aug 2024 05:20:32 GMT",
-        "category": "Tech",
-        "type": "meetup"
-    },
-    {
         "title": "Free Startup Fundraising Office Hours Expert AMA with Angel Investor Scott Fox!",
         "event_date": "August 27, 2024",
         "location": "Online",
         "link": "https://dev.events/conferences/free-startup-fundraising-office-hours-expert-ama-with-angel-investor-scott-fox-301256573",
         "published": "Tue, 06 Aug 2024 05:20:19 GMT",
         "category": "Startup",
-        "type": "meetup"
-    },
-    {
-        "title": "Data Engineer's Lunch: How Dremio's Semantic Layer Empowers Data Lakehouses",
-        "event_date": "August 26, 2024",
-        "location": "Online",
-        "link": "https://dev.events/conferences/data-engineer-s-lunch-how-dremio-s-semantic-layer-empowers-data-lakehouses-301715917",
-        "published": "Tue, 06 Aug 2024 05:20:12 GMT",
-        "category": "Data / Database",
         "type": "meetup"
     },
     {
@@ -4614,15 +4695,6 @@
         "link": "https://dev.events/conferences/java-script-and-angular-days-aw4cijf",
         "published": "Thu, 06 Jun 2024 14:30:47 GMT",
         "category": "Angular",
-        "type": "conference"
-    },
-    {
-        "title": "HasuraCon 2024",
-        "event_date": "August 26, 2024",
-        "location": "Online",
-        "link": "https://dev.events/conferences/hasura-con-2024-wdtkwsfo",
-        "published": "Wed, 05 Jun 2024 16:34:28 GMT",
-        "category": "API",
         "type": "conference"
     },
     {

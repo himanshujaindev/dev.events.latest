@@ -1,5 +1,140 @@
 [
     {
+        "title": "Game Dev Hang - Dock Street Brewery",
+        "event_date": "September 1, 2024",
+        "location": "Philadelphia , United States",
+        "link": "https://dev.events/conferences/game-dev-hang-dock-street-brewery-303059522",
+        "published": "Mon, 26 Aug 2024 23:40:08 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "Game Dev Work & Play",
+        "event_date": "September 1, 2024",
+        "location": "Nashville, United States",
+        "link": "https://dev.events/conferences/game-dev-work-and-play-302138373",
+        "published": "Mon, 26 Aug 2024 23:00:03 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "GameDev Coworking",
+        "event_date": "September 2, 2024",
+        "location": "Cary, United States",
+        "link": "https://dev.events/conferences/game-dev-coworking-302816332",
+        "published": "Mon, 26 Aug 2024 22:40:17 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "R\u00e9sum\u00e9 Build Systems: Continuously Integrate and Deploy",
+        "event_date": "September 5, 2024",
+        "location": "Pittsburgh, United States",
+        "link": "https://dev.events/conferences/resume-build-systems-continuously-integrate-and-deploy-302518602",
+        "published": "Mon, 26 Aug 2024 22:01:30 GMT",
+        "category": "Tech",
+        "type": "meetup"
+    },
+    {
+        "title": "Git 'n' Sip - Monthly Meetup",
+        "event_date": "September 19, 2024",
+        "location": "Sacramento, United States",
+        "link": "https://dev.events/conferences/git-n-sip-monthly-meetup-303059398",
+        "published": "Mon, 26 Aug 2024 21:22:51 GMT",
+        "category": "DevOps",
+        "type": "meetup"
+    },
+    {
+        "title": "Domain Driven Design using CQRS and Mediatr with Tom Becker",
+        "event_date": "September 10, 2024",
+        "location": "Virginia Beach, United States",
+        "link": "https://dev.events/conferences/domain-driven-design-using-cqrs-and-mediatr-with-tom-becker-303049280",
+        "published": "Mon, 26 Aug 2024 19:24:19 GMT",
+        "category": "DDD",
+        "type": "meetup"
+    },
+    {
+        "title": "GenAI on AWS: Use Cases, Challenges, and Solutions",
+        "event_date": "September 24, 2024",
+        "location": "Miami, United States",
+        "link": "https://dev.events/conferences/gen-ai-on-aws-use-cases-challenges-and-solutions-303051579",
+        "published": "Mon, 26 Aug 2024 18:23:45 GMT",
+        "category": "AWS",
+        "type": "meetup"
+    },
+    {
+        "title": "Eric Honsey: A Tour of JVM Languages",
+        "event_date": "September 11, 2024",
+        "location": "Denver, United States",
+        "link": "https://dev.events/conferences/eric-honsey-a-tour-of-jvm-languages-301736262",
+        "published": "Mon, 26 Aug 2024 16:04:07 GMT",
+        "category": "Java",
+        "type": "meetup"
+    },
+    {
+        "title": "AI Hands On Workshop!",
+        "event_date": "October 17, 2024",
+        "location": "Urbandale, United States and Online",
+        "link": "https://dev.events/conferences/ai-hands-on-workshop-303051689",
+        "published": "Mon, 26 Aug 2024 16:02:03 GMT",
+        "category": "AI / ML",
+        "type": "meetup"
+    },
+    {
+        "title": "Learning the DOTween Plugin",
+        "event_date": "September 7, 2024",
+        "location": "Kingwood Area, United States",
+        "link": "https://dev.events/conferences/learning-the-do-tween-plugin-303043294",
+        "published": "Mon, 26 Aug 2024 15:20:16 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "LA Tech Meetup",
+        "event_date": "August 31, 2024",
+        "location": "Santa Monica, United States",
+        "link": "https://dev.events/conferences/la-tech-meetup-303048762",
+        "published": "Mon, 26 Aug 2024 15:02:39 GMT",
+        "category": "Tech",
+        "type": "meetup"
+    },
+    {
+        "title": "BSides Cleveland 2024",
+        "event_date": "October 19, 2024",
+        "location": "Cleveland, United States",
+        "link": "https://dev.events/conferences/b-sides-cleveland-2024-qhrd-qwc",
+        "published": "Mon, 26 Aug 2024 12:41:15 GMT",
+        "category": "Cybersecurity / InfoSec",
+        "type": "conference"
+    },
+    {
+        "title": "MacAdmins Conference 2024",
+        "event_date": "June 15, 2025",
+        "location": "State College, United States",
+        "link": "https://dev.events/conferences/mac-admins-conference-2024-kosidshr",
+        "published": "Mon, 26 Aug 2024 11:56:47 GMT",
+        "category": "Apple",
+        "type": "conference"
+    },
+    {
+        "title": "Baymeadows Code and Coffee",
+        "event_date": "August 27, 2024",
+        "location": "Jacksonville , United States",
+        "link": "https://dev.events/conferences/baymeadows-code-and-coffee-302686441",
+        "published": "Mon, 26 Aug 2024 11:01:28 GMT",
+        "category": "Tech",
+        "type": "meetup"
+    },
+    {
+        "title": "Faster Websites with React Query",
+        "event_date": "September 18, 2024",
+        "location": "Douglas, United States",
+        "link": "https://dev.events/conferences/faster-websites-with-react-query-303041962",
+        "published": "Mon, 26 Aug 2024 01:40:58 GMT",
+        "category": "React",
+        "type": "meetup"
+    },
+    {
         "title": "Vue.js Project Day",
         "event_date": "September 1, 2024",
         "location": "Indianapolis, United States",
@@ -15,15 +150,6 @@
         "link": "https://dev.events/conferences/strawberry-jam-302927796",
         "published": "Sun, 25 Aug 2024 19:00:25 GMT",
         "category": "Game dev",
-        "type": "meetup"
-    },
-    {
-        "title": "Issues Involving Generative AI in Game Development: A Discussion",
-        "event_date": "August 26, 2024",
-        "location": "Nashville, United States",
-        "link": "https://dev.events/conferences/issues-involving-generative-ai-in-game-development-a-discussion-302773566",
-        "published": "Sun, 25 Aug 2024 19:00:04 GMT",
-        "category": "AI / ML",
         "type": "meetup"
     },
     {
@@ -225,15 +351,6 @@
         "type": "meetup"
     },
     {
-        "title": "In-Person Meetup!",
-        "event_date": "August 26, 2024",
-        "location": "Milwaukee, United States",
-        "link": "https://dev.events/conferences/in-person-meetup-302893887",
-        "published": "Sat, 24 Aug 2024 16:00:18 GMT",
-        "category": "Game dev",
-        "type": "meetup"
-    },
-    {
         "title": "Saturday Work and Chill",
         "event_date": "August 31, 2024",
         "location": "Denver, United States",
@@ -401,15 +518,6 @@
         "location": "Charlotte, United States",
         "link": "https://dev.events/conferences/game-industry-gathering-with-potions-and-pixels-302961729",
         "published": "Sat, 24 Aug 2024 14:41:01 GMT",
-        "category": "Game dev",
-        "type": "meetup"
-    },
-    {
-        "title": "GameDev Coworking",
-        "event_date": "August 26, 2024",
-        "location": "Cary, United States",
-        "link": "https://dev.events/conferences/game-dev-coworking-302678718",
-        "published": "Sat, 24 Aug 2024 14:40:57 GMT",
         "category": "Game dev",
         "type": "meetup"
     },
@@ -648,24 +756,6 @@
         "type": "meetup"
     },
     {
-        "title": "Meet New People!!  Sunday  Night Networking!",
-        "event_date": "August 26, 2024",
-        "location": "Santa Clara, United States",
-        "link": "https://dev.events/conferences/meet-new-people-sunday-night-networking-302663727",
-        "published": "Sat, 24 Aug 2024 13:01:01 GMT",
-        "category": "Tech",
-        "type": "meetup"
-    },
-    {
-        "title": "Meet New People!!  Sunday  Night Networking",
-        "event_date": "August 26, 2024",
-        "location": "Santa Clara, United States",
-        "link": "https://dev.events/conferences/meet-new-people-sunday-night-networking-302663753",
-        "published": "Sat, 24 Aug 2024 13:00:58 GMT",
-        "category": "AR / VR / XR",
-        "type": "meetup"
-    },
-    {
         "title": "BostonVR Social",
         "event_date": "September 9, 2024",
         "location": "Boston, United States",
@@ -870,15 +960,6 @@
         "link": "https://dev.events/conferences/building-a-custom-ai-chatbot-with-spring-boot-react-and-lang-chain4j-302928800",
         "published": "Thu, 22 Aug 2024 13:43:09 GMT",
         "category": "AI / ML",
-        "type": "meetup"
-    },
-    {
-        "title": "C&C at  [Spring Park Coffee]",
-        "event_date": "August 26, 2024",
-        "location": "Green Cove Spgs, United States",
-        "link": "https://dev.events/conferences/c-and-c-at-spring-park-coffee-302667683",
-        "published": "Thu, 22 Aug 2024 13:01:24 GMT",
-        "category": "Tech",
         "type": "meetup"
     },
     {
@@ -1449,15 +1530,6 @@
         "type": "meetup"
     },
     {
-        "title": "Community Talks with AWS.",
-        "event_date": "August 26, 2024",
-        "location": "Kansas City, United States",
-        "link": "https://dev.events/conferences/community-talks-with-aws-302847397",
-        "published": "Fri, 16 Aug 2024 04:22:51 GMT",
-        "category": "AWS",
-        "type": "meetup"
-    },
-    {
         "title": "Kubernetes Atlanta August 2024 Meetup",
         "event_date": "August 29, 2024",
         "location": "Atlanta, United States",
@@ -1572,15 +1644,6 @@
         "link": "https://dev.events/conferences/graph-ql-sf-meetup-4-302825146",
         "published": "Thu, 15 Aug 2024 02:21:42 GMT",
         "category": "API",
-        "type": "meetup"
-    },
-    {
-        "title": "Ken Collins presents AI Agents with Expert.js",
-        "event_date": "August 26, 2024",
-        "location": "Norfolk, United States",
-        "link": "https://dev.events/conferences/ken-collins-presents-ai-agents-with-expert-js-302828095",
-        "published": "Thu, 15 Aug 2024 01:40:23 GMT",
-        "category": "AI / ML",
         "type": "meetup"
     },
     {
@@ -2674,7 +2737,7 @@
     },
     {
         "title": "Further Topics of Mesos",
-        "event_date": "August 27, 2024",
+        "event_date": "September 24, 2024",
         "location": "Plano, United States",
         "link": "https://dev.events/conferences/further-topics-of-mesos-null",
         "published": "Tue, 06 Aug 2024 05:21:11 GMT",
@@ -2705,15 +2768,6 @@
         "location": "Reno, United States",
         "link": "https://dev.events/conferences/reno-developer-social-299618203",
         "published": "Tue, 06 Aug 2024 05:20:22 GMT",
-        "category": "Tech",
-        "type": "meetup"
-    },
-    {
-        "title": "Build Night",
-        "event_date": "August 26, 2024",
-        "location": "Pittsburgh, United States",
-        "link": "https://dev.events/conferences/build-night-300726444",
-        "published": "Tue, 06 Aug 2024 05:20:21 GMT",
         "category": "Tech",
         "type": "meetup"
     },
@@ -2867,15 +2921,6 @@
         "location": "Blacksburg, United States",
         "link": "https://dev.events/conferences/in-person-meeting-blacksburg-the-humanity-of-agile-301844882",
         "published": "Fri, 02 Aug 2024 12:19:12 GMT",
-        "category": "Agile",
-        "type": "meetup"
-    },
-    {
-        "title": "Scaled Agile Simplified: It's not as complicated as you may think!",
-        "event_date": "August 26, 2024",
-        "location": "Charleston, United States",
-        "link": "https://dev.events/conferences/scaled-agile-simplified-it-s-not-as-complicated-as-you-may-think-302389474",
-        "published": "Fri, 02 Aug 2024 12:19:04 GMT",
         "category": "Agile",
         "type": "meetup"
     },
@@ -3813,15 +3858,6 @@
         "link": "https://dev.events/conferences/ray-summit-rpatymre",
         "published": "Sat, 11 May 2024 14:48:19 GMT",
         "category": "AI / ML",
-        "type": "conference"
-    },
-    {
-        "title": "SpringOne",
-        "event_date": "August 26, 2024",
-        "location": "Las Vegas, United States",
-        "link": "https://dev.events/conferences/spring-one-gddyewxz",
-        "published": "Thu, 09 May 2024 07:51:49 GMT",
-        "category": "Java",
         "type": "conference"
     },
     {
