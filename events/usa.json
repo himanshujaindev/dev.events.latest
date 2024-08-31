@@ -1,5 +1,140 @@
 [
     {
+        "title": "Technology Summer Series Conference - Cloud Security",
+        "event_date": "September 12, 2024",
+        "location": "Ashburn, United States",
+        "link": "https://dev.events/conferences/technology-summer-series-conference-cloud-security-303124006",
+        "published": "Fri, 30 Aug 2024 20:23:45 GMT",
+        "category": "Cloud",
+        "type": "meetup"
+    },
+    {
+        "title": "Venice Canal Photo Walk",
+        "event_date": "September 7, 2024",
+        "location": "Los Angeles, United States",
+        "link": "https://dev.events/conferences/venice-canal-photo-walk-303143749",
+        "published": "Fri, 30 Aug 2024 20:00:44 GMT",
+        "category": "AR / VR / XR",
+        "type": "meetup"
+    },
+    {
+        "title": "[External registration] The 4th AI Alliance Meetup @ Unstructured Data Meetup",
+        "event_date": "September 10, 2024",
+        "location": "San Francisco, United States",
+        "link": "https://dev.events/conferences/external-registration-the-4th-ai-alliance-meetup-unstructured-data-meetup-302870140",
+        "published": "Fri, 30 Aug 2024 19:21:45 GMT",
+        "category": "AI / ML",
+        "type": "meetup"
+    },
+    {
+        "title": "Lunch informal Qt get-together in Costa Mesa",
+        "event_date": "September 6, 2024",
+        "location": "Costa Mesa, United States",
+        "link": "https://dev.events/conferences/lunch-informal-qt-get-together-in-costa-mesa-302890781",
+        "published": "Fri, 30 Aug 2024 19:01:02 GMT",
+        "category": "C/C++",
+        "type": "meetup"
+    },
+    {
+        "title": "Immersive Worlds: The Intersection of Spatial Computing, Entertainment & Gaming",
+        "event_date": "September 24, 2024",
+        "location": "Tampa, United States",
+        "link": "https://dev.events/conferences/immersive-worlds-the-intersection-of-spatial-computing-entertainment-and-gaming-303138764",
+        "published": "Fri, 30 Aug 2024 16:20:46 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "The Future of AI in the Enterprise - Project, Governance and Beyond",
+        "event_date": "October 10, 2024",
+        "location": "Palo Alto, United States",
+        "link": "https://dev.events/conferences/the-future-of-ai-in-the-enterprise-project-governance-and-beyond-303084792",
+        "published": "Fri, 30 Aug 2024 15:03:52 GMT",
+        "category": "AI / ML",
+        "type": "meetup"
+    },
+    {
+        "title": "Cloud Security Summer Series Conference - Part 3",
+        "event_date": "September 12, 2024",
+        "location": "Ashburn, United States",
+        "link": "https://dev.events/conferences/cloud-security-summer-series-conference-part-3-303123931",
+        "published": "Fri, 30 Aug 2024 12:42:39 GMT",
+        "category": "Cloud",
+        "type": "meetup"
+    },
+    {
+        "title": "Adding API Security to your DevSecOps Toolbelt and a SoCal Python Presentation",
+        "event_date": "September 20, 2024",
+        "location": "Santa Monica, United States",
+        "link": "https://dev.events/conferences/adding-api-security-to-your-dev-sec-ops-toolbelt-and-a-so-cal-python-presentation-303132881",
+        "published": "Fri, 30 Aug 2024 08:23:43 GMT",
+        "category": "API",
+        "type": "meetup"
+    },
+    {
+        "title": "SUPER AI ML SUMMIT [Partner Event]",
+        "event_date": "September 5, 2024",
+        "location": "New York, United States",
+        "link": "https://dev.events/conferences/super-ai-ml-summit-partner-event-303118340",
+        "published": "Fri, 30 Aug 2024 07:40:33 GMT",
+        "category": "AI / ML",
+        "type": "meetup"
+    },
+    {
+        "title": "\"Cloud Incident Response\" Summer Series Conference - Finale",
+        "event_date": "September 12, 2024",
+        "location": "Ashburn, United States",
+        "link": "https://dev.events/conferences/cloud-incident-response-summer-series-conference-finale-303124029",
+        "published": "Fri, 30 Aug 2024 07:24:40 GMT",
+        "category": "Cloud",
+        "type": "meetup"
+    },
+    {
+        "title": "Southend Linux Users Group - Meetup",
+        "event_date": "September 29, 2024",
+        "location": "Seattle, United States",
+        "link": "https://dev.events/conferences/southend-linux-users-group-meetup-303131256",
+        "published": "Fri, 30 Aug 2024 05:22:15 GMT",
+        "category": "Linux / OS",
+        "type": "meetup"
+    },
+    {
+        "title": "Digital Scene - KC: Game Development",
+        "event_date": "September 12, 2024",
+        "location": "Kansas City, United States",
+        "link": "https://dev.events/conferences/digital-scene-kc-game-development-303116528",
+        "published": "Fri, 30 Aug 2024 02:40:43 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "Indie Co-working Support Group (ISG - IRL)",
+        "event_date": "August 31, 2024",
+        "location": "Seattle, United States",
+        "link": "https://dev.events/conferences/indie-co-working-support-group-isg-irl-302776842",
+        "published": "Fri, 30 Aug 2024 01:40:19 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "Art Tech & Game Coffee Meetup",
+        "event_date": "September 4, 2024",
+        "location": "Eugene, United States",
+        "link": "https://dev.events/conferences/art-tech-and-game-coffee-meetup-302849452",
+        "published": "Fri, 30 Aug 2024 01:00:27 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "Weekly Project Meetup",
+        "event_date": "September 6, 2024",
+        "location": "Plano, United States",
+        "link": "https://dev.events/conferences/weekly-project-meetup-302880492",
+        "published": "Fri, 30 Aug 2024 01:00:04 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
         "title": "Visualizing Problems: From Abstract to Concrete",
         "event_date": "September 10, 2024",
         "location": "Austin, United States",
@@ -186,15 +321,6 @@
         "link": "https://dev.events/conferences/bluegrass-ruby-users-group-september-303108245",
         "published": "Thu, 29 Aug 2024 16:44:53 GMT",
         "category": "Ruby",
-        "type": "meetup"
-    },
-    {
-        "title": "Venture Capital Panel: Investment and Latest Innovations in FinTech",
-        "event_date": "August 30, 2024",
-        "location": "San Francisco, United States",
-        "link": "https://dev.events/conferences/venture-capital-panel-investment-and-latest-innovations-in-fin-tech-303100053",
-        "published": "Thu, 29 Aug 2024 15:00:45 GMT",
-        "category": "Fintech",
         "type": "meetup"
     },
     {
@@ -591,15 +717,6 @@
         "link": "https://dev.events/conferences/workspace-build-with-ai-boston-302290777",
         "published": "Tue, 27 Aug 2024 22:02:50 GMT",
         "category": "AI / ML",
-        "type": "meetup"
-    },
-    {
-        "title": "Orange County Ruby Users Group (OCRuby) Meetup",
-        "event_date": "August 30, 2024",
-        "location": "Dana Point, United States",
-        "link": "https://dev.events/conferences/orange-county-ruby-users-group-oc-ruby-meetup-302748814",
-        "published": "Tue, 27 Aug 2024 22:01:39 GMT",
-        "category": "Ruby",
         "type": "meetup"
     },
     {
@@ -1143,15 +1260,6 @@
         "type": "meetup"
     },
     {
-        "title": "Weekly Project Meetup",
-        "event_date": "August 30, 2024",
-        "location": "Plano, United States",
-        "link": "https://dev.events/conferences/weekly-project-meetup-302747728",
-        "published": "Sat, 24 Aug 2024 14:40:26 GMT",
-        "category": "Game dev",
-        "type": "meetup"
-    },
-    {
         "title": "PVGD 10th Annual Potluck",
         "event_date": "September 8, 2024",
         "location": "South Deerfield, United States",
@@ -1211,15 +1319,6 @@
         "location": "Fayetteville, United States",
         "link": "https://dev.events/conferences/coffee-and-game-dev-sundays-at-six-twelve-302789925",
         "published": "Sat, 24 Aug 2024 13:20:36 GMT",
-        "category": "Game dev",
-        "type": "meetup"
-    },
-    {
-        "title": "Monthly Meetup - Kiva Cowork",
-        "event_date": "August 30, 2024",
-        "location": "Santa Barbara, United States",
-        "link": "https://dev.events/conferences/monthly-meetup-kiva-cowork-302607923",
-        "published": "Sat, 24 Aug 2024 13:20:21 GMT",
         "category": "Game dev",
         "type": "meetup"
     },
@@ -2313,15 +2412,6 @@
         "type": "meetup"
     },
     {
-        "title": "Lunch informal Qt get-together in Costa Mesa",
-        "event_date": "August 30, 2024",
-        "location": "Costa Mesa, United States",
-        "link": "https://dev.events/conferences/lunch-informal-qt-get-together-in-costa-mesa-302619434",
-        "published": "Fri, 09 Aug 2024 19:00:02 GMT",
-        "category": "C/C++",
-        "type": "meetup"
-    },
-    {
         "title": "FreeIPA Web UI With Adam Young!",
         "event_date": "September 10, 2024",
         "location": "Portland, United States",
@@ -2448,7 +2538,7 @@
         "type": "meetup"
     },
     {
-        "title": "Selling your Software: Understanding obj-c Xcode and the AppStore",
+        "title": "Selling your Software: Understanding Obj-C Xcode and the AppStore",
         "event_date": "September 12, 2024",
         "location": "Fort Myers, United States",
         "link": "https://dev.events/conferences/selling-your-software-understanding-obj-c-xcode-and-the-app-store-302718118",
