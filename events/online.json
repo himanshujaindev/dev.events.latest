@@ -1,5 +1,248 @@
 [
     {
+        "title": "Dev Hangout + Dev Tips",
+        "event_date": "September 15, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/dev-hangout-dev-tips-302316677",
+        "published": "Sun, 01 Sep 2024 00:01:13 GMT",
+        "category": "Tech",
+        "type": "meetup"
+    },
+    {
+        "title": "Microsoft Ignite 2024",
+        "event_date": "November 19, 2024",
+        "location": "Chicago, United States and Online",
+        "link": "https://dev.events/conferences/microsoft-ignite-2024-303156470",
+        "published": "Sat, 31 Aug 2024 23:22:27 GMT",
+        "category": "Microsoft",
+        "type": "meetup"
+    },
+    {
+        "title": "[Online]Dicas de Bancos de Dados para Desenvolvedores - SQL, NoSQL... | 7ed",
+        "event_date": "September 3, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/online-dicas-de-bancos-de-dados-para-desenvolvedores-sql-no-sql-7ed-302937768",
+        "published": "Sat, 31 Aug 2024 21:23:00 GMT",
+        "category": "SQL",
+        "type": "meetup"
+    },
+    {
+        "title": "Gene Gendel: Business Agility, as a part of Organizational Agility (ONLINE)",
+        "event_date": "September 10, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/gene-gendel-business-agility-as-a-part-of-organizational-agility-online-301838969",
+        "published": "Sat, 31 Aug 2024 20:46:10 GMT",
+        "category": "Agile",
+        "type": "meetup"
+    },
+    {
+        "title": "Clases semanales de Aprendizaje y Productividad",
+        "event_date": "September 5, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/clases-semanales-de-aprendizaje-y-productividad-303144644",
+        "published": "Sat, 31 Aug 2024 20:42:50 GMT",
+        "category": "Tech",
+        "type": "meetup"
+    },
+    {
+        "title": "Introduction to Long Short-Term Memory Networks",
+        "event_date": "September 1, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/introduction-to-long-short-term-memory-networks-303159099",
+        "published": "Sat, 31 Aug 2024 20:23:30 GMT",
+        "category": "Tech",
+        "type": "meetup"
+    },
+    {
+        "title": "Let's Code Together!",
+        "event_date": "September 14, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/let-s-code-together-302073492",
+        "published": "Sat, 31 Aug 2024 20:02:30 GMT",
+        "category": "Tech",
+        "type": "meetup"
+    },
+    {
+        "title": "Louisville Makes Games - Give For Good Donation Drive",
+        "event_date": "September 9, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/louisville-makes-games-give-for-good-donation-drive-303128006",
+        "published": "Sat, 31 Aug 2024 17:40:26 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "Colorado Game Developers November 2024",
+        "event_date": "November 9, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/colorado-game-developers-november-2024-300556086",
+        "published": "Sat, 31 Aug 2024 17:00:55 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "Open Coworking Session (Discord)",
+        "event_date": "September 14, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/open-coworking-session-discord-300372182",
+        "published": "Sat, 31 Aug 2024 16:00:27 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "Automating Your Workflow with GitHub Actions | DevOps Malayalam",
+        "event_date": "September 4, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/automating-your-workflow-with-git-hub-actions-dev-ops-malayalam-303153411",
+        "published": "Sat, 31 Aug 2024 15:03:28 GMT",
+        "category": "Open Source",
+        "type": "meetup"
+    },
+    {
+        "title": "How to build Secure Conversational Analytics / Text to SQL.",
+        "event_date": "September 5, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/how-to-build-secure-conversational-analytics-text-to-sql-302935969",
+        "published": "Sat, 31 Aug 2024 14:41:49 GMT",
+        "category": "SQL",
+        "type": "meetup"
+    },
+    {
+        "title": "CapSec 2024",
+        "event_date": "October 17, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/cap-sec-2024-b2bvh8gc",
+        "published": "Sat, 31 Aug 2024 14:20:20 GMT",
+        "category": "Cybersecurity / InfoSec",
+        "type": "conference"
+    },
+    {
+        "title": "OnlineTestConf",
+        "event_date": "November 12, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/online-test-conf-n7feyvsb",
+        "published": "Sat, 31 Aug 2024 14:18:59 GMT",
+        "category": "Testing / QA",
+        "type": "conference"
+    },
+    {
+        "title": "Build Stuff Conference",
+        "event_date": "November 13, 2024",
+        "location": "Vilnius, Lithuania and Online",
+        "link": "https://dev.events/conferences/build-stuff-conference-akky08es",
+        "published": "Sat, 31 Aug 2024 14:15:49 GMT",
+        "category": "Full-stack",
+        "type": "conference"
+    },
+    {
+        "title": "UXDX",
+        "event_date": "October 9, 2024",
+        "location": "Dublin, Ireland and Online",
+        "link": "https://dev.events/conferences/uxdx-kynyaysz",
+        "published": "Sat, 31 Aug 2024 14:14:20 GMT",
+        "category": "UI / UX",
+        "type": "conference"
+    },
+    {
+        "title": "Unison Forall",
+        "event_date": "September 20, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/unison-forall-ybwpyv3f",
+        "published": "Sat, 31 Aug 2024 14:08:03 GMT",
+        "category": "IT",
+        "type": "conference"
+    },
+    {
+        "title": "Monthly (Virtual!) Meeting: iOS & VisionOS Development",
+        "event_date": "September 12, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/monthly-virtual-meeting-i-os-and-vision-os-development-298862467",
+        "published": "Sat, 31 Aug 2024 14:02:13 GMT",
+        "category": "iOS / Swift",
+        "type": "meetup"
+    },
+    {
+        "title": "Code a Fullstack React App - mornings",
+        "event_date": "September 2, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/code-a-fullstack-react-app-mornings-302257443",
+        "published": "Sat, 31 Aug 2024 13:01:33 GMT",
+        "category": "Full-stack",
+        "type": "meetup"
+    },
+    {
+        "title": "Data Science/AI Career Talk",
+        "event_date": "September 1, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/data-science-ai-career-talk-301112232",
+        "published": "Sat, 31 Aug 2024 12:41:41 GMT",
+        "category": "Data / Database",
+        "type": "meetup"
+    },
+    {
+        "title": "Blazor UI: proviamo Radzen",
+        "event_date": "September 6, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/blazor-ui-proviamo-radzen-303138429",
+        "published": "Sat, 31 Aug 2024 12:23:51 GMT",
+        "category": "UI / UX",
+        "type": "meetup"
+    },
+    {
+        "title": "Amazon Q",
+        "event_date": "September 1, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/amazon-q-302887562",
+        "published": "Sat, 31 Aug 2024 11:03:32 GMT",
+        "category": "AWS",
+        "type": "meetup"
+    },
+    {
+        "title": "Saturday VR Creator Meetup",
+        "event_date": "September 7, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/saturday-vr-creator-meetup-302899288",
+        "published": "Sat, 31 Aug 2024 10:00:10 GMT",
+        "category": "AR / VR / XR",
+        "type": "meetup"
+    },
+    {
+        "title": "Jetzt kommt Bewegung rein! Gelungenes Change-Management anhand der \u00d6BB",
+        "event_date": "September 24, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/jetzt-kommt-bewegung-rein-gelungenes-change-management-anhand-der-oe-bb-303133557",
+        "published": "Sat, 31 Aug 2024 08:46:03 GMT",
+        "category": "Agile",
+        "type": "meetup"
+    },
+    {
+        "title": "Hands-on with Devin.AI + Text-to-Video GenAI Pipelines + Multi-Modal RAG Demos!",
+        "event_date": "September 16, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/hands-on-with-devin-ai-text-to-video-gen-ai-pipelines-multi-modal-rag-demos-300138559",
+        "published": "Sat, 31 Aug 2024 04:41:33 GMT",
+        "category": "AI / ML",
+        "type": "meetup"
+    },
+    {
+        "title": "Using GenAI to create an ASL (American Sign Language) avatar!",
+        "event_date": "September 26, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/using-gen-ai-to-create-an-asl-american-sign-language-avatar-303140630",
+        "published": "Sat, 31 Aug 2024 04:23:46 GMT",
+        "category": "AWS",
+        "type": "meetup"
+    },
+    {
+        "title": "Enhance Productivity with AmazonQ for Business and Confluence",
+        "event_date": "September 5, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/enhance-productivity-with-amazon-q-for-business-and-confluence-303137669",
+        "published": "Sat, 31 Aug 2024 03:43:14 GMT",
+        "category": "Data / Database",
+        "type": "meetup"
+    },
+    {
         "title": "Worldwide: C++ Online Interactive Q&A and Code Reviews, CppMSG.com, Gratis",
         "event_date": "September 7, 2024",
         "location": "Online",
@@ -81,15 +324,6 @@
         "type": "meetup"
     },
     {
-        "title": "Reading the Room :  Enhancing Your Meeting Presence",
-        "event_date": "August 31, 2024",
-        "location": "Online",
-        "link": "https://dev.events/conferences/reading-the-room-enhancing-your-meeting-presence-303030648",
-        "published": "Fri, 30 Aug 2024 16:05:10 GMT",
-        "category": "Agile",
-        "type": "meetup"
-    },
-    {
         "title": "Meet & Greet: Full Stack Mobile Application Developer!",
         "event_date": "October 6, 2024",
         "location": "Online",
@@ -123,15 +357,6 @@
         "link": "https://dev.events/conferences/charla-informativa-del-programa-de-diseno-e-innovacion-del-inti-303117917",
         "published": "Fri, 30 Aug 2024 14:03:47 GMT",
         "category": "Tech",
-        "type": "meetup"
-    },
-    {
-        "title": "Statistics For Data Science",
-        "event_date": "August 31, 2024",
-        "location": "Online",
-        "link": "https://dev.events/conferences/statistics-for-data-science-302935541",
-        "published": "Fri, 30 Aug 2024 13:44:03 GMT",
-        "category": "Data / Database",
         "type": "meetup"
     },
     {
@@ -213,15 +438,6 @@
         "link": "https://dev.events/conferences/free-webinar-under-the-llm-hood-decoding-llm-s-302687826",
         "published": "Fri, 30 Aug 2024 00:40:52 GMT",
         "category": "AI / ML",
-        "type": "meetup"
-    },
-    {
-        "title": "Ninja Defender XDR: Microsoft Defender for Endpoint | Sesi\u00f3n 03",
-        "event_date": "August 31, 2024",
-        "location": "Online",
-        "link": "https://dev.events/conferences/ninja-defender-xdr-microsoft-defender-for-endpoint-sesion-03-302454000",
-        "published": "Fri, 30 Aug 2024 00:03:23 GMT",
-        "category": "Microsoft",
         "type": "meetup"
     },
     {
@@ -432,15 +648,6 @@
         "type": "meetup"
     },
     {
-        "title": "Generating Professional Diagrams using chatGPT",
-        "event_date": "August 31, 2024",
-        "location": "Online",
-        "link": "https://dev.events/conferences/generating-professional-diagrams-using-chat-gpt-303046976",
-        "published": "Thu, 29 Aug 2024 13:02:03 GMT",
-        "category": "ChatGPT",
-        "type": "meetup"
-    },
-    {
         "title": "Unison Forall 2024",
         "event_date": "September 20, 2024",
         "location": "Online",
@@ -492,15 +699,6 @@
         "link": "https://dev.events/conferences/virtual-fishers-code-and-coffee-302033832",
         "published": "Thu, 29 Aug 2024 11:41:28 GMT",
         "category": "Tech",
-        "type": "meetup"
-    },
-    {
-        "title": "#10 Meetup - Mobile DevCamp KickOff",
-        "event_date": "August 31, 2024",
-        "location": "Online",
-        "link": "https://dev.events/conferences/10-meetup-mobile-dev-camp-kick-off-303098058",
-        "published": "Thu, 29 Aug 2024 11:02:02 GMT",
-        "category": "Mobile",
         "type": "meetup"
     },
     {
@@ -816,15 +1014,6 @@
         "link": "https://dev.events/conferences/free-code-camp-study-group-302838459",
         "published": "Wed, 28 Aug 2024 00:01:34 GMT",
         "category": "JavaScript",
-        "type": "meetup"
-    },
-    {
-        "title": "Open Coworking Session (Discord)",
-        "event_date": "August 31, 2024",
-        "location": "Online",
-        "link": "https://dev.events/conferences/open-coworking-session-discord-300372180",
-        "published": "Wed, 28 Aug 2024 00:00:11 GMT",
-        "category": "Game dev",
         "type": "meetup"
     },
     {
@@ -1170,15 +1359,6 @@
         "type": "conference"
     },
     {
-        "title": "Code a Fullstack React App - mornings",
-        "event_date": "August 31, 2024",
-        "location": "Online",
-        "link": "https://dev.events/conferences/code-a-fullstack-react-app-mornings-302614624",
-        "published": "Mon, 26 Aug 2024 12:01:07 GMT",
-        "category": "Full-stack",
-        "type": "meetup"
-    },
-    {
         "title": "10 tips and tricks for GitHub Actions and Azure DevOps, with David Gardiner",
         "event_date": "September 11, 2024",
         "location": "Adelaide, Australia and Online",
@@ -1202,15 +1382,6 @@
         "location": "Online",
         "link": "https://dev.events/conferences/aws-deploy-net-8-minimal-api-on-ubuntu-ec-2-nginx-and-windows-ec-2-iis-301436462",
         "published": "Mon, 26 Aug 2024 08:03:36 GMT",
-        "category": "AWS",
-        "type": "meetup"
-    },
-    {
-        "title": "Amazon Rekognition Immersion Day - Workshop (WeWork Calle 7D #43A-40)",
-        "event_date": "August 31, 2024",
-        "location": "Medellin, Colombia and Online",
-        "link": "https://dev.events/conferences/amazon-rekognition-immersion-day-workshop-we-work-calle-7-d-43-a-40-302758460",
-        "published": "Mon, 26 Aug 2024 05:42:09 GMT",
         "category": "AWS",
         "type": "meetup"
     },
@@ -1260,21 +1431,21 @@
         "type": "meetup"
     },
     {
+        "title": "DevOps For Scrum Master & Agile Coaches",
+        "event_date": "September 1, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/dev-ops-for-scrum-master-and-agile-coaches-303036586",
+        "published": "Sun, 25 Aug 2024 16:04:26 GMT",
+        "category": "DevOps",
+        "type": "meetup"
+    },
+    {
         "title": "Startup Teaming - Online",
         "event_date": "September 21, 2024",
         "location": "Online",
         "link": "https://dev.events/conferences/startup-teaming-online-303029837",
         "published": "Sun, 25 Aug 2024 14:24:22 GMT",
         "category": "Startup",
-        "type": "meetup"
-    },
-    {
-        "title": "AWS Serverless",
-        "event_date": "August 31, 2024",
-        "location": "Online",
-        "link": "https://dev.events/conferences/aws-serverless-302885936",
-        "published": "Sun, 25 Aug 2024 14:03:29 GMT",
-        "category": "AWS",
         "type": "meetup"
     },
     {
@@ -1422,15 +1593,6 @@
         "type": "meetup"
     },
     {
-        "title": "Worldwide: C++ Online Interactive Q&A and Code Reviews, CppMSG.com, Gratis",
-        "event_date": "August 31, 2024",
-        "location": "Online",
-        "link": "https://dev.events/conferences/worldwide-c-online-interactive-q-and-a-and-code-reviews-cpp-msg-com-gratis-302762384",
-        "published": "Sat, 24 Aug 2024 14:41:27 GMT",
-        "category": "C/C++",
-        "type": "meetup"
-    },
-    {
         "title": "Three.js Meetup",
         "event_date": "September 7, 2024",
         "location": "Online",
@@ -1503,15 +1665,6 @@
         "type": "meetup"
     },
     {
-        "title": "Unreal Engine Memphis Virtual Meet",
-        "event_date": "August 31, 2024",
-        "location": "Online",
-        "link": "https://dev.events/conferences/unreal-engine-memphis-virtual-meet-302880421",
-        "published": "Sat, 24 Aug 2024 14:40:26 GMT",
-        "category": "Game dev",
-        "type": "meetup"
-    },
-    {
         "title": "Monthly Dig. Game Dev. Meeting",
         "event_date": "September 5, 2024",
         "location": "Online",
@@ -1536,24 +1689,6 @@
         "link": "https://dev.events/conferences/design-of-holographic-display-systems-based-on-artificial-intelligence-301969297",
         "published": "Sat, 24 Aug 2024 14:40:18 GMT",
         "category": "AI / ML",
-        "type": "meetup"
-    },
-    {
-        "title": "OpenAI Fundamentals for Product Managers, Startup Founders & Business Leaders",
-        "event_date": "August 31, 2024",
-        "location": "Online",
-        "link": "https://dev.events/conferences/open-ai-fundamentals-for-product-managers-startup-founders-and-business-leaders-302768945",
-        "published": "Sat, 24 Aug 2024 14:21:46 GMT",
-        "category": "Product management",
-        "type": "meetup"
-    },
-    {
-        "title": "Amazon Rekognition Immersion Day - Workshop",
-        "event_date": "August 31, 2024",
-        "location": "Medellin, Colombia and Online",
-        "link": "https://dev.events/conferences/amazon-rekognition-immersion-day-workshop-302758460",
-        "published": "Sat, 24 Aug 2024 13:22:42 GMT",
-        "category": "AWS",
         "type": "meetup"
     },
     {
@@ -1607,15 +1742,6 @@
         "location": "Online",
         "link": "https://dev.events/conferences/about-dam-time-3-d-digital-asset-management-for-enterprises-299035833",
         "published": "Sat, 24 Aug 2024 13:01:14 GMT",
-        "category": "AR / VR / XR",
-        "type": "meetup"
-    },
-    {
-        "title": "Saturday VR Creator Meetup",
-        "event_date": "August 31, 2024",
-        "location": "Online",
-        "link": "https://dev.events/conferences/saturday-vr-creator-meetup-302767359",
-        "published": "Sat, 24 Aug 2024 13:01:09 GMT",
         "category": "AR / VR / XR",
         "type": "meetup"
     },
@@ -1728,6 +1854,33 @@
         "type": "meetup"
     },
     {
+        "title": "[Online]Dicas de Bancos de Dados para Desenvolvedores - SQL, NoSQL... | 7ed",
+        "event_date": "September 3, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/online-dicas-de-bancos-de-dados-para-desenvolvedores-sql-no-sql-7ed-302937770",
+        "published": "Fri, 23 Aug 2024 21:03:23 GMT",
+        "category": "SQL",
+        "type": "meetup"
+    },
+    {
+        "title": "[Online]Dicas de Bancos de Dados para Desenvolvedores - SQL, NoSQL... | 7ed",
+        "event_date": "September 3, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/online-dicas-de-bancos-de-dados-para-desenvolvedores-sql-no-sql-7ed-302937767",
+        "published": "Fri, 23 Aug 2024 21:03:22 GMT",
+        "category": "SQL",
+        "type": "meetup"
+    },
+    {
+        "title": "[Online]Dicas de Bancos de Dados para Desenvolvedores - SQL, NoSQL... | 7ed",
+        "event_date": "September 3, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/online-dicas-de-bancos-de-dados-para-desenvolvedores-sql-no-sql-7ed-302937772",
+        "published": "Fri, 23 Aug 2024 21:01:50 GMT",
+        "category": "SQL",
+        "type": "meetup"
+    },
+    {
         "title": "Friday Morning Code + Commiserate",
         "event_date": "September 13, 2024",
         "location": "Online",
@@ -1809,15 +1962,6 @@
         "type": "conference"
     },
     {
-        "title": "Interview Quotient: QA Interview Prep 2.0",
-        "event_date": "August 31, 2024",
-        "location": "Online",
-        "link": "https://dev.events/conferences/interview-quotient-qa-interview-prep-2-0-302974711",
-        "published": "Fri, 23 Aug 2024 01:22:48 GMT",
-        "category": "Testing / QA",
-        "type": "meetup"
-    },
-    {
         "title": "Crafting Interpreters in Rust Collaboratively",
         "event_date": "September 5, 2024",
         "location": "Online",
@@ -1896,15 +2040,6 @@
         "link": "https://dev.events/conferences/api-summit-2024-where-ap-is-and-ai-converge-301565510",
         "published": "Thu, 22 Aug 2024 16:01:25 GMT",
         "category": "API",
-        "type": "meetup"
-    },
-    {
-        "title": "Evaluating Bedrock Large Language Models with Serverless Architecture",
-        "event_date": "August 31, 2024",
-        "location": "Online",
-        "link": "https://dev.events/conferences/evaluating-bedrock-large-language-models-with-serverless-architecture-302569850",
-        "published": "Thu, 22 Aug 2024 15:42:53 GMT",
-        "category": "Serverless",
         "type": "meetup"
     },
     {
@@ -2232,15 +2367,6 @@
         "type": "conference"
     },
     {
-        "title": "Taller: Explorando Alternativas a AppCenter",
-        "event_date": "August 31, 2024",
-        "location": "Online",
-        "link": "https://dev.events/conferences/taller-explorando-alternativas-a-app-center-302944778",
-        "published": "Wed, 21 Aug 2024 04:44:09 GMT",
-        "category": ".NET",
-        "type": "meetup"
-    },
-    {
         "title": "Software Freedom School - Board Meeting - Open to: Everyone!",
         "event_date": "September 11, 2024",
         "location": "Online",
@@ -2349,6 +2475,15 @@
         "type": "meetup"
     },
     {
+        "title": "[Online]Dicas de Bancos de Dados para Desenvolvedores - SQL, NoSQL... | 7ed",
+        "event_date": "September 3, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/online-dicas-de-bancos-de-dados-para-desenvolvedores-sql-no-sql-7ed-302874072",
+        "published": "Tue, 20 Aug 2024 00:02:55 GMT",
+        "category": "SQL",
+        "type": "meetup"
+    },
+    {
         "title": "[Online] Automatizando o Build e Deployment de Mobile Apps na pr\u00e1tica! | 3a ed",
         "event_date": "September 5, 2024",
         "location": "Online",
@@ -2426,15 +2561,6 @@
         "location": "Online",
         "link": "https://dev.events/conferences/dev-hangout-dev-tips-302316647",
         "published": "Sun, 18 Aug 2024 00:00:27 GMT",
-        "category": "Tech",
-        "type": "meetup"
-    },
-    {
-        "title": "Let's Code Together!",
-        "event_date": "August 31, 2024",
-        "location": "Online",
-        "link": "https://dev.events/conferences/let-s-code-together-301662448",
-        "published": "Sat, 17 Aug 2024 20:00:57 GMT",
         "category": "Tech",
         "type": "meetup"
     },
