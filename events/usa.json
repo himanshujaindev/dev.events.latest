@@ -1,5 +1,122 @@
 [
     {
+        "title": "Game Dev Hang - Dock Street Brewery",
+        "event_date": "September 15, 2024",
+        "location": "Philadelphia , United States",
+        "link": "https://dev.events/conferences/game-dev-hang-dock-street-brewery-303173342",
+        "published": "Sun, 01 Sep 2024 23:00:13 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "PyIrvine Office Hours: Where Python Enthusiasts Connect!",
+        "event_date": "September 15, 2024",
+        "location": "Newport Beach, United States",
+        "link": "https://dev.events/conferences/py-irvine-office-hours-where-python-enthusiasts-connect-303067084",
+        "published": "Sun, 01 Sep 2024 22:04:32 GMT",
+        "category": "Python",
+        "type": "meetup"
+    },
+    {
+        "title": "IVGDA - Chicago Meetup",
+        "event_date": "September 7, 2024",
+        "location": "Chicago, United States",
+        "link": "https://dev.events/conferences/ivgda-chicago-meetup-303166768",
+        "published": "Sun, 01 Sep 2024 20:40:46 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "Vue.js Project Day",
+        "event_date": "September 8, 2024",
+        "location": "Indianapolis, United States",
+        "link": "https://dev.events/conferences/vue-js-project-day-302929647",
+        "published": "Sun, 01 Sep 2024 20:01:20 GMT",
+        "category": "Vue",
+        "type": "meetup"
+    },
+    {
+        "title": "Polyglot Pipelines with Apache Nifi by Bob Paulin",
+        "event_date": "September 19, 2024",
+        "location": "Chicago, United States",
+        "link": "https://dev.events/conferences/polyglot-pipelines-with-apache-nifi-by-bob-paulin-302966436",
+        "published": "Sun, 01 Sep 2024 19:44:45 GMT",
+        "category": "Java",
+        "type": "meetup"
+    },
+    {
+        "title": "Post-PAX Indie Developer Mixer 2024",
+        "event_date": "September 3, 2024",
+        "location": "Seattle, United States",
+        "link": "https://dev.events/conferences/post-pax-indie-developer-mixer-2024-302460888",
+        "published": "Sun, 01 Sep 2024 19:00:15 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "Game Dev Work & Play",
+        "event_date": "September 8, 2024",
+        "location": "Nashville, United States",
+        "link": "https://dev.events/conferences/game-dev-work-and-play-302138374",
+        "published": "Sun, 01 Sep 2024 19:00:03 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "How Modern JS Software Gets Deployed? by Jason Maggard from Atlantis Technology",
+        "event_date": "September 10, 2024",
+        "location": "Richmond, United States",
+        "link": "https://dev.events/conferences/how-modern-js-software-gets-deployed-by-jason-maggard-from-atlantis-technology-302476781",
+        "published": "Sun, 01 Sep 2024 18:01:34 GMT",
+        "category": "JavaScript",
+        "type": "meetup"
+    },
+    {
+        "title": "St. Louis Code and Coffee",
+        "event_date": "September 15, 2024",
+        "location": "University City, United States",
+        "link": "https://dev.events/conferences/st-louis-code-and-coffee-301820289",
+        "published": "Sun, 01 Sep 2024 17:01:46 GMT",
+        "category": "Tech",
+        "type": "meetup"
+    },
+    {
+        "title": "OpenTofu Day NA",
+        "event_date": "November 12, 2024",
+        "location": "Salt Lake City, United States",
+        "link": "https://dev.events/conferences/open-tofu-day-na-pzpk1ums",
+        "published": "Sun, 01 Sep 2024 15:28:33 GMT",
+        "category": "DevOps",
+        "type": "conference"
+    },
+    {
+        "title": "Coffee and Game Dev Sundays at Six Twelve",
+        "event_date": "September 15, 2024",
+        "location": "Fayetteville, United States",
+        "link": "https://dev.events/conferences/coffee-and-game-dev-sundays-at-six-twelve-303052768",
+        "published": "Sun, 01 Sep 2024 15:00:05 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "AI Summit New York 2024",
+        "event_date": "December 11, 2024",
+        "location": "New York, United States",
+        "link": "https://dev.events/conferences/ai-summit-new-york-2024-lassz54n",
+        "published": "Sun, 01 Sep 2024 13:55:52 GMT",
+        "category": "AI / ML",
+        "type": "conference"
+    },
+    {
+        "title": "General Lithium: Winning Contracts With AI, How To Leverage LLMs To Win SAM.gov",
+        "event_date": "September 24, 2024",
+        "location": "San Francisco , United States",
+        "link": "https://dev.events/conferences/general-lithium-winning-contracts-with-ai-how-to-leverage-ll-ms-to-win-sam-gov-303153759",
+        "published": "Sun, 01 Sep 2024 02:40:41 GMT",
+        "category": "AI / ML",
+        "type": "meetup"
+    },
+    {
         "title": "Microsoft Ignite 2024",
         "event_date": "November 19, 2024",
         "location": "Chicago, United States and Online",
@@ -14,15 +131,6 @@
         "location": "Las Vegas, United States",
         "link": "https://dev.events/conferences/las-vegas-igda-monthly-game-development-meetup-302479998",
         "published": "Sat, 31 Aug 2024 21:00:19 GMT",
-        "category": "Game dev",
-        "type": "meetup"
-    },
-    {
-        "title": "Seattle Indies Expo 2024",
-        "event_date": "September 1, 2024",
-        "location": "Seattle, United States",
-        "link": "https://dev.events/conferences/seattle-indies-expo-2024-301980011",
-        "published": "Sat, 31 Aug 2024 20:00:29 GMT",
         "category": "Game dev",
         "type": "meetup"
     },
@@ -954,24 +1062,6 @@
         "type": "meetup"
     },
     {
-        "title": "Game Dev Hang - Dock Street Brewery",
-        "event_date": "September 1, 2024",
-        "location": "Philadelphia , United States",
-        "link": "https://dev.events/conferences/game-dev-hang-dock-street-brewery-303059522",
-        "published": "Mon, 26 Aug 2024 23:40:08 GMT",
-        "category": "Game dev",
-        "type": "meetup"
-    },
-    {
-        "title": "Game Dev Work & Play",
-        "event_date": "September 1, 2024",
-        "location": "Nashville, United States",
-        "link": "https://dev.events/conferences/game-dev-work-and-play-302138373",
-        "published": "Mon, 26 Aug 2024 23:00:03 GMT",
-        "category": "Game dev",
-        "type": "meetup"
-    },
-    {
         "title": "GameDev Coworking",
         "event_date": "September 2, 2024",
         "location": "Cary, United States",
@@ -1077,15 +1167,6 @@
         "link": "https://dev.events/conferences/faster-websites-with-react-query-303041962",
         "published": "Mon, 26 Aug 2024 01:40:58 GMT",
         "category": "React",
-        "type": "meetup"
-    },
-    {
-        "title": "Vue.js Project Day",
-        "event_date": "September 1, 2024",
-        "location": "Indianapolis, United States",
-        "link": "https://dev.events/conferences/vue-js-project-day-302796501",
-        "published": "Sun, 25 Aug 2024 20:01:30 GMT",
-        "category": "Vue",
         "type": "meetup"
     },
     {
@@ -1314,15 +1395,6 @@
         "type": "meetup"
     },
     {
-        "title": "Game Creators Meetup (IN-PERSON)",
-        "event_date": "September 1, 2024",
-        "location": "Louisville, United States",
-        "link": "https://dev.events/conferences/game-creators-meetup-in-person-302794952",
-        "published": "Sat, 24 Aug 2024 14:41:27 GMT",
-        "category": "Game dev",
-        "type": "meetup"
-    },
-    {
         "title": "Game Makers Happy Hour",
         "event_date": "September 17, 2024",
         "location": "Burien, United States",
@@ -1428,15 +1500,6 @@
         "link": "https://dev.events/conferences/the-next-evolution-of-education-and-training-awe-nite-chicago-302424403",
         "published": "Sat, 24 Aug 2024 13:20:57 GMT",
         "category": "AR / VR / XR",
-        "type": "meetup"
-    },
-    {
-        "title": "Coffee and Game Dev Sundays at Six Twelve",
-        "event_date": "September 1, 2024",
-        "location": "Fayetteville, United States",
-        "link": "https://dev.events/conferences/coffee-and-game-dev-sundays-at-six-twelve-302789925",
-        "published": "Sat, 24 Aug 2024 13:20:36 GMT",
-        "category": "Game dev",
         "type": "meetup"
     },
     {
@@ -1914,24 +1977,6 @@
         "link": "https://dev.events/conferences/demystifying-aws-certifications-a-beginner-s-guide-302908991",
         "published": "Mon, 19 Aug 2024 02:01:19 GMT",
         "category": "AWS",
-        "type": "meetup"
-    },
-    {
-        "title": "PyIrvine Office Hours: Where Python Enthusiasts Connect!",
-        "event_date": "September 1, 2024",
-        "location": "Newport Beach, United States",
-        "link": "https://dev.events/conferences/py-irvine-office-hours-where-python-enthusiasts-connect-302797930",
-        "published": "Sun, 18 Aug 2024 22:24:23 GMT",
-        "category": "Python",
-        "type": "meetup"
-    },
-    {
-        "title": "St. Louis Code and Coffee",
-        "event_date": "September 1, 2024",
-        "location": "University City, United States",
-        "link": "https://dev.events/conferences/st-louis-code-and-coffee-301820287",
-        "published": "Sun, 18 Aug 2024 17:00:30 GMT",
-        "category": "Tech",
         "type": "meetup"
     },
     {

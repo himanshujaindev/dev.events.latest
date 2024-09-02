@@ -1,5 +1,203 @@
 [
     {
+        "title": "Panama Game dev Hub - Mesa Redonda",
+        "event_date": "September 5, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/panama-game-dev-hub-mesa-redonda-303164129",
+        "published": "Sun, 01 Sep 2024 18:00:24 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "Reading the Room :  Enhancing Your Meeting Presence",
+        "event_date": "September 6, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/reading-the-room-enhancing-your-meeting-presence-303174360",
+        "published": "Sun, 01 Sep 2024 16:25:54 GMT",
+        "category": "Agile",
+        "type": "meetup"
+    },
+    {
+        "title": "Podlodka Go Crew",
+        "event_date": "October 28, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/podlodka-go-crew-lqjtvoet",
+        "published": "Sun, 01 Sep 2024 15:33:01 GMT",
+        "category": "Golang",
+        "type": "conference"
+    },
+    {
+        "title": "FrontendConf 2024",
+        "event_date": "September 30, 2024",
+        "location": "Moscow, Russia and Online",
+        "link": "https://dev.events/conferences/frontend-conf-2024-o7q3s72y",
+        "published": "Sun, 01 Sep 2024 14:42:32 GMT",
+        "category": "Web / Frontend",
+        "type": "conference"
+    },
+    {
+        "title": "C++ meetup",
+        "event_date": "November 20, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/c-meetup-yujc3qnx",
+        "published": "Sun, 01 Sep 2024 14:38:46 GMT",
+        "category": "C/C++",
+        "type": "meetup"
+    },
+    {
+        "title": "Big Data Conference 2024",
+        "event_date": "November 19, 2024",
+        "location": "Vilnius, Lithuania and Online",
+        "link": "https://dev.events/conferences/big-data-conference-2024-msonpqsg",
+        "published": "Sun, 01 Sep 2024 14:38:24 GMT",
+        "category": "Data / Database",
+        "type": "conference"
+    },
+    {
+        "title": "Understanding Bitcoin and Blockchain",
+        "event_date": "September 2, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/understanding-bitcoin-and-blockchain-303159567",
+        "published": "Sun, 01 Sep 2024 14:24:52 GMT",
+        "category": "Crypto / Blockchain",
+        "type": "meetup"
+    },
+    {
+        "title": "DAMA Kazakhstan 2024",
+        "event_date": "September 6, 2024",
+        "location": "Almaty, Kazakhstan and Online",
+        "link": "https://dev.events/conferences/dama-kazakhstan-2024-epqff294",
+        "published": "Sun, 01 Sep 2024 14:21:29 GMT",
+        "category": "Data / Database",
+        "type": "conference"
+    },
+    {
+        "title": "DevOpsDays Almaty 2024",
+        "event_date": "October 4, 2024",
+        "location": "Almaty, Kazakhstan and Online",
+        "link": "https://dev.events/conferences/dev-ops-days-almaty-2024-dj11wstf",
+        "published": "Sun, 01 Sep 2024 14:16:38 GMT",
+        "category": "DevOps",
+        "type": "conference"
+    },
+    {
+        "title": "Yandex Scale 2024",
+        "event_date": "September 25, 2024",
+        "location": "Moscow, Russia and Online",
+        "link": "https://dev.events/conferences/yandex-scale-2024-vrnkqhbr",
+        "published": "Sun, 01 Sep 2024 14:16:15 GMT",
+        "category": "Full-stack",
+        "type": "conference"
+    },
+    {
+        "title": "Practical ML Conf",
+        "event_date": "September 14, 2024",
+        "location": "Moscow, Russia and Online",
+        "link": "https://dev.events/conferences/practical-ml-conf-6beqtz-x",
+        "published": "Sun, 01 Sep 2024 14:15:51 GMT",
+        "category": "AI / ML",
+        "type": "conference"
+    },
+    {
+        "title": "Podlodka QA Crew",
+        "event_date": "September 2, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/podlodka-qa-crew-xnncsxkm",
+        "published": "Sun, 01 Sep 2024 14:14:25 GMT",
+        "category": "Testing / QA",
+        "type": "conference"
+    },
+    {
+        "title": "Analytics Conference 2024",
+        "event_date": "September 22, 2024",
+        "location": "Yekaterinburg, Russia and Online",
+        "link": "https://dev.events/conferences/analytics-conference-2024-s1b6yikw",
+        "published": "Sun, 01 Sep 2024 14:12:57 GMT",
+        "category": "Business Analysis",
+        "type": "conference"
+    },
+    {
+        "title": "DevFest Omsk 2024",
+        "event_date": "September 5, 2024",
+        "location": "Omsk, Russia and Online",
+        "link": "https://dev.events/conferences/dev-fest-omsk-2024-ef0fzjre",
+        "published": "Sun, 01 Sep 2024 14:07:35 GMT",
+        "category": "Full-stack",
+        "type": "conference"
+    },
+    {
+        "title": "Podlodka Java Crew",
+        "event_date": "November 18, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/podlodka-java-crew-kpmn4nw",
+        "published": "Sun, 01 Sep 2024 14:06:49 GMT",
+        "category": "Java",
+        "type": "conference"
+    },
+    {
+        "title": "SQA Days 35",
+        "event_date": "October 25, 2024",
+        "location": "Moscow, Russia and Online",
+        "link": "https://dev.events/conferences/sqa-days-35-v-ltw1iw",
+        "published": "Sun, 01 Sep 2024 14:01:29 GMT",
+        "category": "Testing / QA",
+        "type": "conference"
+    },
+    {
+        "title": "Analyst Days 19",
+        "event_date": "November 22, 2024",
+        "location": "Moscow, Russia and Online",
+        "link": "https://dev.events/conferences/analyst-days-19-xxrq8tuh",
+        "published": "Sun, 01 Sep 2024 14:00:40 GMT",
+        "category": "Project management / PMO",
+        "type": "conference"
+    },
+    {
+        "title": "TechWriter Days 2",
+        "event_date": "March 28, 2025",
+        "location": "St. Petersburg, Russia and Online",
+        "link": "https://dev.events/conferences/tech-writer-days-2-1nkngxiu",
+        "published": "Sun, 01 Sep 2024 13:54:54 GMT",
+        "category": "Tech",
+        "type": "conference"
+    },
+    {
+        "title": "Columbus Containers and Friends Meetup at Improving 6:30 pm!",
+        "event_date": "September 9, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/columbus-containers-and-friends-meetup-at-improving-6-30-pm-303169504",
+        "published": "Sun, 01 Sep 2024 12:22:04 GMT",
+        "category": "Docker / Kubernetes",
+        "type": "meetup"
+    },
+    {
+        "title": "Cyber Camp 2024",
+        "event_date": "October 3, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/cyber-camp-2024-wuvikn2h",
+        "published": "Sun, 01 Sep 2024 09:33:03 GMT",
+        "category": "Cybersecurity / InfoSec",
+        "type": "conference"
+    },
+    {
+        "title": "AI SHOW :AI/GENERATIVE AI - (LLM) USE CASESAI NEWS",
+        "event_date": "September 3, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/ai-show-ai-generative-ai-llm-use-cases-ai-news-302053542",
+        "published": "Sun, 01 Sep 2024 08:21:52 GMT",
+        "category": "AI / ML",
+        "type": "meetup"
+    },
+    {
+        "title": "Online Lean Beer",
+        "event_date": "September 16, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/online-lean-beer-303139695",
+        "published": "Sun, 01 Sep 2024 03:24:46 GMT",
+        "category": "Agile",
+        "type": "meetup"
+    },
+    {
         "title": "Dev Hangout + Dev Tips",
         "event_date": "September 15, 2024",
         "location": "Online",
@@ -41,15 +239,6 @@
         "location": "Online",
         "link": "https://dev.events/conferences/clases-semanales-de-aprendizaje-y-productividad-303144644",
         "published": "Sat, 31 Aug 2024 20:42:50 GMT",
-        "category": "Tech",
-        "type": "meetup"
-    },
-    {
-        "title": "Introduction to Long Short-Term Memory Networks",
-        "event_date": "September 1, 2024",
-        "location": "Online",
-        "link": "https://dev.events/conferences/introduction-to-long-short-term-memory-networks-303159099",
-        "published": "Sat, 31 Aug 2024 20:23:30 GMT",
         "category": "Tech",
         "type": "meetup"
     },
@@ -171,30 +360,12 @@
         "type": "meetup"
     },
     {
-        "title": "Data Science/AI Career Talk",
-        "event_date": "September 1, 2024",
-        "location": "Online",
-        "link": "https://dev.events/conferences/data-science-ai-career-talk-301112232",
-        "published": "Sat, 31 Aug 2024 12:41:41 GMT",
-        "category": "Data / Database",
-        "type": "meetup"
-    },
-    {
         "title": "Blazor UI: proviamo Radzen",
         "event_date": "September 6, 2024",
         "location": "Online",
         "link": "https://dev.events/conferences/blazor-ui-proviamo-radzen-303138429",
         "published": "Sat, 31 Aug 2024 12:23:51 GMT",
         "category": "UI / UX",
-        "type": "meetup"
-    },
-    {
-        "title": "Amazon Q",
-        "event_date": "September 1, 2024",
-        "location": "Online",
-        "link": "https://dev.events/conferences/amazon-q-302887562",
-        "published": "Sat, 31 Aug 2024 11:03:32 GMT",
-        "category": "AWS",
         "type": "meetup"
     },
     {
@@ -420,15 +591,6 @@
         "link": "https://dev.events/conferences/ruby-science-302809972",
         "published": "Fri, 30 Aug 2024 02:02:09 GMT",
         "category": "Ruby",
-        "type": "meetup"
-    },
-    {
-        "title": "Game Design Forum",
-        "event_date": "September 1, 2024",
-        "location": "Online",
-        "link": "https://dev.events/conferences/game-design-forum-303129651",
-        "published": "Fri, 30 Aug 2024 01:40:26 GMT",
-        "category": "Game dev",
         "type": "meetup"
     },
     {
@@ -1431,15 +1593,6 @@
         "type": "meetup"
     },
     {
-        "title": "DevOps For Scrum Master & Agile Coaches",
-        "event_date": "September 1, 2024",
-        "location": "Online",
-        "link": "https://dev.events/conferences/dev-ops-for-scrum-master-and-agile-coaches-303036586",
-        "published": "Sun, 25 Aug 2024 16:04:26 GMT",
-        "category": "DevOps",
-        "type": "meetup"
-    },
-    {
         "title": "Startup Teaming - Online",
         "event_date": "September 21, 2024",
         "location": "Online",
@@ -1512,15 +1665,6 @@
         "type": "conference"
     },
     {
-        "title": "Meet & Greet: Full Stack Mobile Application Developer!",
-        "event_date": "September 1, 2024",
-        "location": "Online",
-        "link": "https://dev.events/conferences/meet-and-greet-full-stack-mobile-application-developer-302754180",
-        "published": "Sun, 25 Aug 2024 06:03:13 GMT",
-        "category": "Mobile",
-        "type": "meetup"
-    },
-    {
         "title": "Webinar: Hvordan kan du s\u00f8rge for at teamet ditt n\u00e5r sitt fulle potensial?",
         "event_date": "September 5, 2024",
         "location": "Online",
@@ -1563,15 +1707,6 @@
         "link": "https://dev.events/conferences/coffee-meetup-virtual-300096275",
         "published": "Sat, 24 Aug 2024 15:03:39 GMT",
         "category": "Linux / OS",
-        "type": "meetup"
-    },
-    {
-        "title": "Indie Video Game Developer Meetup - ZOOM",
-        "event_date": "September 1, 2024",
-        "location": "Online",
-        "link": "https://dev.events/conferences/indie-video-game-developer-meetup-zoom-302404017",
-        "published": "Sat, 24 Aug 2024 14:41:32 GMT",
-        "category": "Game dev",
         "type": "meetup"
     },
     {
@@ -2556,15 +2691,6 @@
         "type": "meetup"
     },
     {
-        "title": "Dev Hangout + Dev Tips",
-        "event_date": "September 1, 2024",
-        "location": "Online",
-        "link": "https://dev.events/conferences/dev-hangout-dev-tips-302316647",
-        "published": "Sun, 18 Aug 2024 00:00:27 GMT",
-        "category": "Tech",
-        "type": "meetup"
-    },
-    {
         "title": "Online Lean Beer",
         "event_date": "September 2, 2024",
         "location": "Online",
@@ -3184,15 +3310,6 @@
         "published": "Sun, 11 Aug 2024 13:08:09 GMT",
         "category": "Project management / PMO",
         "type": "conference"
-    },
-    {
-        "title": "Practical Golang Pointers",
-        "event_date": "September 1, 2024",
-        "location": "Online",
-        "link": "https://dev.events/conferences/practical-golang-pointers-302763746",
-        "published": "Sun, 11 Aug 2024 11:02:09 GMT",
-        "category": "Golang",
-        "type": "meetup"
     },
     {
         "title": "Getting to know each other",
