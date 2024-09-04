@@ -1,5 +1,149 @@
 [
     {
+        "title": "Memphis Tech Lunch",
+        "event_date": "September 4, 2024",
+        "location": "Memphis , United States",
+        "link": "https://dev.events/conferences/memphis-tech-lunch-303058103",
+        "published": "Wed, 04 Sep 2024 00:01:56 GMT",
+        "category": "Tech",
+        "type": "meetup"
+    },
+    {
+        "title": "Hang out and talk code [Oddbirds]",
+        "event_date": "September 17, 2024",
+        "location": "St. Augustine, United States",
+        "link": "https://dev.events/conferences/hang-out-and-talk-code-oddbirds-302384255",
+        "published": "Tue, 03 Sep 2024 23:04:04 GMT",
+        "category": "Tech",
+        "type": "meetup"
+    },
+    {
+        "title": "Virtual Weekly Hack Night",
+        "event_date": "September 10, 2024",
+        "location": "Boston, United States",
+        "link": "https://dev.events/conferences/virtual-weekly-hack-night-302970472",
+        "published": "Tue, 03 Sep 2024 23:01:58 GMT",
+        "category": "Tech",
+        "type": "meetup"
+    },
+    {
+        "title": "Common C++ Optimizations - How and why modern C++ runs fast, very fast.",
+        "event_date": "October 1, 2024",
+        "location": "Austin, United States",
+        "link": "https://dev.events/conferences/common-c-optimizations-how-and-why-modern-c-runs-fast-very-fast-303199452",
+        "published": "Tue, 03 Sep 2024 23:00:34 GMT",
+        "category": "C/C++",
+        "type": "meetup"
+    },
+    {
+        "title": "Open Hax",
+        "event_date": "September 10, 2024",
+        "location": "Jacksonville, United States",
+        "link": "https://dev.events/conferences/open-hax-302970360",
+        "published": "Tue, 03 Sep 2024 22:41:32 GMT",
+        "category": "Ruby",
+        "type": "meetup"
+    },
+    {
+        "title": "In-Person Neural Networks Workshop with Codesmith CEO Will Sentance - NYC",
+        "event_date": "September 6, 2024",
+        "location": "New York, United States",
+        "link": "https://dev.events/conferences/in-person-neural-networks-workshop-with-codesmith-ceo-will-sentance-nyc-303220719",
+        "published": "Tue, 03 Sep 2024 22:01:45 GMT",
+        "category": "AI / ML",
+        "type": "meetup"
+    },
+    {
+        "title": "IGDA Silicon Valley Monthly Meetup",
+        "event_date": "September 18, 2024",
+        "location": "Mountain View, United States",
+        "link": "https://dev.events/conferences/igda-silicon-valley-monthly-meetup-303208289",
+        "published": "Tue, 03 Sep 2024 22:00:33 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "Game Dev Coworking",
+        "event_date": "September 10, 2024",
+        "location": "Oakland, United States",
+        "link": "https://dev.events/conferences/game-dev-coworking-302964828",
+        "published": "Tue, 03 Sep 2024 21:00:05 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "Data Stream Night (Austin) with Talks, Networking and Book Signing",
+        "event_date": "September 16, 2024",
+        "location": "Austin, United States",
+        "link": "https://dev.events/conferences/data-stream-night-austin-with-talks-networking-and-book-signing-303216492",
+        "published": "Tue, 03 Sep 2024 19:24:02 GMT",
+        "category": "Data / Database",
+        "type": "meetup"
+    },
+    {
+        "title": "DenverScript September 2024",
+        "event_date": "September 25, 2024",
+        "location": "Denver, United States",
+        "link": "https://dev.events/conferences/denver-script-september-2024-303215161",
+        "published": "Tue, 03 Sep 2024 19:21:43 GMT",
+        "category": "JavaScript",
+        "type": "meetup"
+    },
+    {
+        "title": "Shooting Stars: Create a game from scratch in 25 minutes!",
+        "event_date": "September 6, 2024",
+        "location": "Lehi, United States",
+        "link": "https://dev.events/conferences/shooting-stars-create-a-game-from-scratch-in-25-minutes-303204006",
+        "published": "Tue, 03 Sep 2024 17:20:26 GMT",
+        "category": "Rust",
+        "type": "meetup"
+    },
+    {
+        "title": "Automating Infrastructure: Deploying Terraform with GitHub Actions",
+        "event_date": "September 9, 2024",
+        "location": "Douglas, United States",
+        "link": "https://dev.events/conferences/automating-infrastructure-deploying-terraform-with-git-hub-actions-302460250",
+        "published": "Tue, 03 Sep 2024 17:04:23 GMT",
+        "category": "Open Source",
+        "type": "meetup"
+    },
+    {
+        "title": "Tuesday Coffee Caravan and chat every Tuesday morning @ 10:30am",
+        "event_date": "September 10, 2024",
+        "location": "Fredericksburg, United States",
+        "link": "https://dev.events/conferences/tuesday-coffee-caravan-and-chat-every-tuesday-morning-10-30am-302959764",
+        "published": "Tue, 03 Sep 2024 14:42:31 GMT",
+        "category": "Tech",
+        "type": "meetup"
+    },
+    {
+        "title": "Fruit Cove Code and Coffee",
+        "event_date": "September 4, 2024",
+        "location": "Jacksonville, United States",
+        "link": "https://dev.events/conferences/fruit-cove-code-and-coffee-302845575",
+        "published": "Tue, 03 Sep 2024 11:02:03 GMT",
+        "category": "Tech",
+        "type": "meetup"
+    },
+    {
+        "title": "Remix Meetup September",
+        "event_date": "September 6, 2024",
+        "location": "Lehi, United States",
+        "link": "https://dev.events/conferences/remix-meetup-september-302793599",
+        "published": "Tue, 03 Sep 2024 07:40:46 GMT",
+        "category": "React",
+        "type": "meetup"
+    },
+    {
+        "title": "Eastside Meetup - Seattle Indies",
+        "event_date": "September 4, 2024",
+        "location": "Redmond, United States",
+        "link": "https://dev.events/conferences/eastside-meetup-seattle-indies-302202873",
+        "published": "Tue, 03 Sep 2024 03:00:25 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
         "title": "File Uploads and the New Wave of ORMs \u2014 Remix Austin September",
         "event_date": "September 5, 2024",
         "location": "Austin, United States",
@@ -15,15 +159,6 @@
         "link": "https://dev.events/conferences/september-game-dev-drinkup-303180698",
         "published": "Mon, 02 Sep 2024 15:00:09 GMT",
         "category": "Game dev",
-        "type": "meetup"
-    },
-    {
-        "title": "Baymeadows Code and Coffee",
-        "event_date": "September 3, 2024",
-        "location": "Jacksonville , United States",
-        "link": "https://dev.events/conferences/baymeadows-code-and-coffee-302823831",
-        "published": "Mon, 02 Sep 2024 11:01:50 GMT",
-        "category": "Tech",
         "type": "meetup"
     },
     {
@@ -87,15 +222,6 @@
         "link": "https://dev.events/conferences/polyglot-pipelines-with-apache-nifi-by-bob-paulin-302966436",
         "published": "Sun, 01 Sep 2024 19:44:45 GMT",
         "category": "Java",
-        "type": "meetup"
-    },
-    {
-        "title": "Post-PAX Indie Developer Mixer 2024",
-        "event_date": "September 3, 2024",
-        "location": "Seattle, United States",
-        "link": "https://dev.events/conferences/post-pax-indie-developer-mixer-2024-302460888",
-        "published": "Sun, 01 Sep 2024 19:00:15 GMT",
-        "category": "Game dev",
         "type": "meetup"
     },
     {
@@ -522,15 +648,6 @@
         "type": "meetup"
     },
     {
-        "title": "Tuesday Coffee Caravan and chat every Tuesday morning @ 10:30am",
-        "event_date": "September 3, 2024",
-        "location": "Fredericksburg, United States",
-        "link": "https://dev.events/conferences/tuesday-coffee-caravan-and-chat-every-tuesday-morning-10-30am-302827351",
-        "published": "Thu, 29 Aug 2024 22:02:39 GMT",
-        "category": "Tech",
-        "type": "meetup"
-    },
-    {
         "title": "CD Tech Thursday",
         "event_date": "September 12, 2024",
         "location": "Chattanooga, United States",
@@ -618,15 +735,6 @@
         "link": "https://dev.events/conferences/fall-picnic-and-speaker-have-a-topic-relevant-to-our-audience-contact-me-302795325",
         "published": "Thu, 29 Aug 2024 16:46:18 GMT",
         "category": "Agile",
-        "type": "meetup"
-    },
-    {
-        "title": "Bluegrass Ruby Users Group September",
-        "event_date": "September 3, 2024",
-        "location": "Lexington, United States",
-        "link": "https://dev.events/conferences/bluegrass-ruby-users-group-september-303108245",
-        "published": "Thu, 29 Aug 2024 16:44:53 GMT",
-        "category": "Ruby",
         "type": "meetup"
     },
     {
@@ -936,30 +1044,12 @@
         "type": "meetup"
     },
     {
-        "title": "Hybrid Weekly Hack Night",
-        "event_date": "September 3, 2024",
-        "location": "Cambridge, United States",
-        "link": "https://dev.events/conferences/hybrid-weekly-hack-night-302574601",
-        "published": "Tue, 27 Aug 2024 23:01:59 GMT",
-        "category": "Tech",
-        "type": "meetup"
-    },
-    {
         "title": "Cocoaheads",
         "event_date": "September 10, 2024",
         "location": "Columbus, United States",
         "link": "https://dev.events/conferences/cocoaheads-302969405",
         "published": "Tue, 27 Aug 2024 23:01:43 GMT",
         "category": "iOS / Swift",
-        "type": "meetup"
-    },
-    {
-        "title": "Open Hax",
-        "event_date": "September 3, 2024",
-        "location": "Jacksonville, United States",
-        "link": "https://dev.events/conferences/open-hax-302836796",
-        "published": "Tue, 27 Aug 2024 22:41:18 GMT",
-        "category": "Ruby",
         "type": "meetup"
     },
     {
@@ -1023,15 +1113,6 @@
         "link": "https://dev.events/conferences/dev-ops-and-platform-engineering-happy-hour-302858250",
         "published": "Tue, 27 Aug 2024 21:42:25 GMT",
         "category": "DevOps",
-        "type": "meetup"
-    },
-    {
-        "title": "Game Dev Coworking",
-        "event_date": "September 3, 2024",
-        "location": "Oakland, United States",
-        "link": "https://dev.events/conferences/game-dev-coworking-302833136",
-        "published": "Tue, 27 Aug 2024 19:20:08 GMT",
-        "category": "Game dev",
         "type": "meetup"
     },
     {
@@ -1338,15 +1419,6 @@
         "link": "https://dev.events/conferences/in-person-event-pgm-playtest-night-302921779",
         "published": "Sat, 24 Aug 2024 15:00:07 GMT",
         "category": "Game dev",
-        "type": "meetup"
-    },
-    {
-        "title": "Common C++ Optimizations - How and why modern C++ runs fast, very fast.",
-        "event_date": "September 3, 2024",
-        "location": "Austin, United States",
-        "link": "https://dev.events/conferences/common-c-optimizations-how-and-why-modern-c-runs-fast-very-fast-302836089",
-        "published": "Sat, 24 Aug 2024 14:41:59 GMT",
-        "category": "C/C++",
         "type": "meetup"
     },
     {
@@ -1833,15 +1905,6 @@
         "link": "https://dev.events/conferences/kubernetes-297615378",
         "published": "Wed, 21 Aug 2024 00:41:42 GMT",
         "category": "Docker / Kubernetes",
-        "type": "meetup"
-    },
-    {
-        "title": "Hang out and talk code [Oddbirds]",
-        "event_date": "September 3, 2024",
-        "location": "St. Augustine, United States",
-        "link": "https://dev.events/conferences/hang-out-and-talk-code-oddbirds-302384253",
-        "published": "Tue, 20 Aug 2024 23:23:31 GMT",
-        "category": "Tech",
         "type": "meetup"
     },
     {
