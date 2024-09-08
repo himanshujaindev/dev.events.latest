@@ -1,5 +1,149 @@
 [
     {
+        "title": "Bellevue College -Quality Software Practices",
+        "event_date": "September 11, 2024",
+        "location": "Bellevue, United States",
+        "link": "https://dev.events/conferences/bellevue-college-quality-software-practices-303291711",
+        "published": "Sun, 08 Sep 2024 00:22:26 GMT",
+        "category": "Tech",
+        "type": "meetup"
+    },
+    {
+        "title": "Northside Social",
+        "event_date": "September 13, 2024",
+        "location": "Seattle, United States",
+        "link": "https://dev.events/conferences/northside-social-302813404",
+        "published": "Sat, 07 Sep 2024 20:00:36 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "Rust Hack Night/Happy Hour",
+        "event_date": "September 12, 2024",
+        "location": "Chicago, United States",
+        "link": "https://dev.events/conferences/rust-hack-night-happy-hour-303286998",
+        "published": "Sat, 07 Sep 2024 19:24:51 GMT",
+        "category": "Rust",
+        "type": "meetup"
+    },
+    {
+        "title": "Nooga Code and Coffee @ Night",
+        "event_date": "September 17, 2024",
+        "location": "Chattanooga, United States",
+        "link": "https://dev.events/conferences/nooga-code-and-coffee-night-298000543",
+        "published": "Sat, 07 Sep 2024 19:00:22 GMT",
+        "category": "Tech",
+        "type": "meetup"
+    },
+    {
+        "title": "Memphis Data Professionals",
+        "event_date": "September 10, 2024",
+        "location": "Memphis, United States",
+        "link": "https://dev.events/conferences/memphis-data-professionals-302659132",
+        "published": "Sat, 07 Sep 2024 18:02:28 GMT",
+        "category": "Data / Database",
+        "type": "meetup"
+    },
+    {
+        "title": "Game Day: First Saturday of Every Month",
+        "event_date": "October 5, 2024",
+        "location": "Orlando, United States",
+        "link": "https://dev.events/conferences/game-day-first-saturday-of-every-month-296495778",
+        "published": "Sat, 07 Sep 2024 18:00:04 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "Going Platform-less in the Era of Building Platforms",
+        "event_date": "September 26, 2024",
+        "location": "Austin, United States",
+        "link": "https://dev.events/conferences/going-platform-less-in-the-era-of-building-platforms-303290473",
+        "published": "Sat, 07 Sep 2024 17:43:07 GMT",
+        "category": "Docker / Kubernetes",
+        "type": "meetup"
+    },
+    {
+        "title": "In-Person Game Development Meetup",
+        "event_date": "September 14, 2024",
+        "location": "Pittsburgh, United States",
+        "link": "https://dev.events/conferences/in-person-game-development-meetup-303039483",
+        "published": "Sat, 07 Sep 2024 17:40:17 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "Cleveland Game Devs Play Test Night and Social Meetup",
+        "event_date": "September 17, 2024",
+        "location": "Shaker Heights, United States",
+        "link": "https://dev.events/conferences/cleveland-game-devs-play-test-night-and-social-meetup-301524800",
+        "published": "Sat, 07 Sep 2024 17:00:51 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "UtahJS Lehi Meetup \u2192 Hack & Snack: BYO Projects + Potluck Extravaganza",
+        "event_date": "September 13, 2024",
+        "location": "Lehi, United States",
+        "link": "https://dev.events/conferences/utah-js-lehi-meetup-hack-and-snack-byo-projects-potluck-extravaganza-302854301",
+        "published": "Sat, 07 Sep 2024 16:02:03 GMT",
+        "category": "JavaScript",
+        "type": "meetup"
+    },
+    {
+        "title": "Unlocking the Power of eBPF: Building Next-Generation Cloud-Native Applications",
+        "event_date": "September 18, 2024",
+        "location": "Lehi, United States",
+        "link": "https://dev.events/conferences/unlocking-the-power-of-e-bpf-building-next-generation-cloud-native-applications-297615378",
+        "published": "Sat, 07 Sep 2024 15:02:52 GMT",
+        "category": "Cloud",
+        "type": "meetup"
+    },
+    {
+        "title": "Cleveland Game Devs Social Meetup",
+        "event_date": "September 17, 2024",
+        "location": "Shaker Heights, United States",
+        "link": "https://dev.events/conferences/cleveland-game-devs-social-meetup-301524800",
+        "published": "Sat, 07 Sep 2024 14:00:33 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "[IN-PERSON/ONLINE] Game Dev Meetup (Savage Branch Library)",
+        "event_date": "September 21, 2024",
+        "location": "Laurel, United States",
+        "link": "https://dev.events/conferences/in-person-online-game-dev-meetup-savage-branch-library-302754263",
+        "published": "Sat, 07 Sep 2024 14:00:25 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "San Francisco AI Investors & Networking",
+        "event_date": "September 17, 2024",
+        "location": "San Francisco, United States",
+        "link": "https://dev.events/conferences/san-francisco-ai-investors-and-networking-303291798",
+        "published": "Sat, 07 Sep 2024 12:21:04 GMT",
+        "category": "AI / ML",
+        "type": "meetup"
+    },
+    {
+        "title": "Going Platform-less in the Era of Platforms",
+        "event_date": "September 26, 2024",
+        "location": "Austin, United States",
+        "link": "https://dev.events/conferences/going-platform-less-in-the-era-of-platforms-303290473",
+        "published": "Sat, 07 Sep 2024 03:02:45 GMT",
+        "category": "Docker / Kubernetes",
+        "type": "meetup"
+    },
+    {
+        "title": "What Will It Take to End the VR Winter? Spatial Computing [&] Beer, at Ex Novo!",
+        "event_date": "October 6, 2024",
+        "location": "Albuquerque, United States",
+        "link": "https://dev.events/conferences/what-will-it-take-to-end-the-vr-winter-spatial-computing-and-beer-at-ex-novo-303043163",
+        "published": "Sat, 07 Sep 2024 01:20:42 GMT",
+        "category": "AR / VR / XR",
+        "type": "meetup"
+    },
+    {
         "title": "Monthly Meetup at GigaParts!",
         "event_date": "October 4, 2024",
         "location": "Huntsville, United States",
@@ -14,15 +158,6 @@
         "location": "Buffalo, United States",
         "link": "https://dev.events/conferences/bgs-game-development-in-person-meeting-303010427",
         "published": "Fri, 06 Sep 2024 22:00:04 GMT",
-        "category": "Game dev",
-        "type": "meetup"
-    },
-    {
-        "title": "Game Day: First Saturday of Every Month",
-        "event_date": "September 7, 2024",
-        "location": "Orlando, United States",
-        "link": "https://dev.events/conferences/game-day-first-saturday-of-every-month-296495766",
-        "published": "Fri, 06 Sep 2024 22:00:03 GMT",
         "category": "Game dev",
         "type": "meetup"
     },
@@ -231,15 +366,6 @@
         "link": "https://dev.events/conferences/iterators-in-rust-302371456",
         "published": "Thu, 05 Sep 2024 23:07:15 GMT",
         "category": "Rust",
-        "type": "meetup"
-    },
-    {
-        "title": "Software Freedom Gathering - Gaming Edition",
-        "event_date": "September 7, 2024",
-        "location": "Littleton, United States",
-        "link": "https://dev.events/conferences/software-freedom-gathering-gaming-edition-303264689",
-        "published": "Thu, 05 Sep 2024 23:07:02 GMT",
-        "category": "Game dev",
         "type": "meetup"
     },
     {
@@ -549,15 +675,6 @@
         "type": "meetup"
     },
     {
-        "title": "Indie Co-working Support Group (ISG - IRL)",
-        "event_date": "September 7, 2024",
-        "location": "Seattle, United States",
-        "link": "https://dev.events/conferences/indie-co-working-support-group-isg-irl-302456627",
-        "published": "Wed, 04 Sep 2024 01:40:19 GMT",
-        "category": "Game dev",
-        "type": "meetup"
-    },
-    {
         "title": "Cocktails + Code",
         "event_date": "September 19, 2024",
         "location": "Portland, United States",
@@ -720,15 +837,6 @@
         "type": "meetup"
     },
     {
-        "title": "IVGDA - Chicago Meetup",
-        "event_date": "September 7, 2024",
-        "location": "Chicago, United States",
-        "link": "https://dev.events/conferences/ivgda-chicago-meetup-303166768",
-        "published": "Sun, 01 Sep 2024 20:40:46 GMT",
-        "category": "Game dev",
-        "type": "meetup"
-    },
-    {
         "title": "Vue.js Project Day",
         "event_date": "September 8, 2024",
         "location": "Indianapolis, United States",
@@ -834,24 +942,6 @@
         "link": "https://dev.events/conferences/aws-community-day-friday-sep-13-2024-303161482",
         "published": "Sat, 31 Aug 2024 19:23:45 GMT",
         "category": "AWS",
-        "type": "meetup"
-    },
-    {
-        "title": "In-Person Game Development Meetup",
-        "event_date": "September 7, 2024",
-        "location": "Pittsburgh, United States",
-        "link": "https://dev.events/conferences/in-person-game-development-meetup-302906235",
-        "published": "Sat, 31 Aug 2024 17:40:35 GMT",
-        "category": "Game dev",
-        "type": "meetup"
-    },
-    {
-        "title": "Boulder Saturday Work and Chill",
-        "event_date": "September 7, 2024",
-        "location": "Boulder, United States",
-        "link": "https://dev.events/conferences/boulder-saturday-work-and-chill-302904538",
-        "published": "Sat, 31 Aug 2024 16:00:15 GMT",
-        "category": "Game dev",
         "type": "meetup"
     },
     {
@@ -969,15 +1059,6 @@
         "link": "https://dev.events/conferences/technology-summer-series-conference-cloud-security-303124006",
         "published": "Fri, 30 Aug 2024 20:23:45 GMT",
         "category": "Cloud",
-        "type": "meetup"
-    },
-    {
-        "title": "Venice Canal Photo Walk",
-        "event_date": "September 7, 2024",
-        "location": "Los Angeles, United States",
-        "link": "https://dev.events/conferences/venice-canal-photo-walk-303143749",
-        "published": "Fri, 30 Aug 2024 20:00:44 GMT",
-        "category": "AR / VR / XR",
         "type": "meetup"
     },
     {
@@ -1224,15 +1305,6 @@
         "type": "conference"
     },
     {
-        "title": "SQL Saturday Syracuse",
-        "event_date": "September 7, 2024",
-        "location": "Syracuse, United States",
-        "link": "https://dev.events/conferences/sql-saturday-syracuse-jm1bje4h",
-        "published": "Thu, 29 Aug 2024 12:57:35 GMT",
-        "category": "SQL",
-        "type": "conference"
-    },
-    {
         "title": "FluxxCon",
         "event_date": "September 23, 2024",
         "location": "Denver, United States",
@@ -1419,15 +1491,6 @@
         "link": "https://dev.events/conferences/open-shift-falco-giveaways-303076539",
         "published": "Wed, 28 Aug 2024 03:43:07 GMT",
         "category": "Docker / Kubernetes",
-        "type": "meetup"
-    },
-    {
-        "title": "Friday Night Game Dev Showcase @ The MADE",
-        "event_date": "September 7, 2024",
-        "location": "Oakland, United States",
-        "link": "https://dev.events/conferences/friday-night-game-dev-showcase-the-made-302930108",
-        "published": "Wed, 28 Aug 2024 01:40:10 GMT",
-        "category": "Game dev",
         "type": "meetup"
     },
     {
@@ -1629,15 +1692,6 @@
         "type": "meetup"
     },
     {
-        "title": "LA Tech Meetup",
-        "event_date": "September 7, 2024",
-        "location": "Santa Monica, United States",
-        "link": "https://dev.events/conferences/la-tech-meetup-303048762",
-        "published": "Mon, 26 Aug 2024 15:02:39 GMT",
-        "category": "Tech",
-        "type": "meetup"
-    },
-    {
         "title": "BSides Cleveland 2024",
         "event_date": "October 19, 2024",
         "location": "Cleveland, United States",
@@ -1809,38 +1863,11 @@
         "type": "meetup"
     },
     {
-        "title": "Nooga Code and Coffee ft. Know Your Worth by John Goodwin",
-        "event_date": "September 7, 2024",
-        "location": "Chattanooga, United States",
-        "link": "https://dev.events/conferences/nooga-code-and-coffee-ft-know-your-worth-by-john-goodwin-299080310",
-        "published": "Sat, 24 Aug 2024 14:41:54 GMT",
-        "category": "Tech",
-        "type": "meetup"
-    },
-    {
-        "title": "September Portland HUG Meetup!  Live Talks!",
-        "event_date": "September 7, 2024",
-        "location": "Portland, United States",
-        "link": "https://dev.events/conferences/september-portland-hug-meetup-live-talks-302914617",
-        "published": "Sat, 24 Aug 2024 14:41:49 GMT",
-        "category": "Game dev",
-        "type": "meetup"
-    },
-    {
         "title": "Let's Discuss Video Game Development",
         "event_date": "September 14, 2024",
         "location": "Colorado Springs, United States",
         "link": "https://dev.events/conferences/let-s-discuss-video-game-development-null",
         "published": "Sat, 24 Aug 2024 14:41:34 GMT",
-        "category": "Game dev",
-        "type": "meetup"
-    },
-    {
-        "title": "Excuse To Create",
-        "event_date": "September 7, 2024",
-        "location": "Cleveland, United States",
-        "link": "https://dev.events/conferences/excuse-to-create-301524821",
-        "published": "Sat, 24 Aug 2024 14:41:29 GMT",
         "category": "Game dev",
         "type": "meetup"
     },
@@ -2484,15 +2511,6 @@
         "type": "meetup"
     },
     {
-        "title": "Ann Arbor Tech Convergence",
-        "event_date": "September 7, 2024",
-        "location": "Ann Arbor, United States",
-        "link": "https://dev.events/conferences/ann-arbor-tech-convergence-302834117",
-        "published": "Thu, 15 Aug 2024 02:21:50 GMT",
-        "category": "Agile",
-        "type": "meetup"
-    },
-    {
         "title": "Clojure Talk",
         "event_date": "September 12, 2024",
         "location": "Austin, United States",
@@ -2953,7 +2971,7 @@
     },
     {
         "title": "Monthly Meeting",
-        "event_date": "September 12, 2024",
+        "event_date": "September 17, 2024",
         "location": "Brentwood, United States",
         "link": "https://dev.events/conferences/monthly-meeting-302423857",
         "published": "Thu, 08 Aug 2024 22:43:02 GMT",
