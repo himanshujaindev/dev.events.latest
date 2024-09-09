@@ -1,5 +1,104 @@
 [
     {
+        "title": "Columbus Containers and Friends Online Meetup 6:30 pm!",
+        "event_date": "September 9, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/columbus-containers-and-friends-online-meetup-6-30-pm-303169504",
+        "published": "Sun, 08 Sep 2024 22:42:29 GMT",
+        "category": "Docker / Kubernetes",
+        "type": "meetup"
+    },
+    {
+        "title": "Celebrate and Support Women in Agile at Badass Agile Coaching Days",
+        "event_date": "September 18, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/celebrate-and-support-women-in-agile-at-badass-agile-coaching-days-303316694",
+        "published": "Sun, 08 Sep 2024 19:24:49 GMT",
+        "category": "Agile",
+        "type": "meetup"
+    },
+    {
+        "title": "Agile PM Online Roundtable: Supporting the transition to hybrid work",
+        "event_date": "September 12, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/agile-pm-online-roundtable-supporting-the-transition-to-hybrid-work-300533140",
+        "published": "Sun, 08 Sep 2024 17:06:14 GMT",
+        "category": "Agile",
+        "type": "meetup"
+    },
+    {
+        "title": "Collaborative Learning - HoneySQL",
+        "event_date": "September 12, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/collaborative-learning-honey-sql-303302710",
+        "published": "Sun, 08 Sep 2024 16:46:16 GMT",
+        "category": "Clojure",
+        "type": "meetup"
+    },
+    {
+        "title": "Tracing Features \u2013 September Chapter Meeting",
+        "event_date": "September 18, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/tracing-features-september-chapter-meeting-303301133",
+        "published": "Sun, 08 Sep 2024 16:41:02 GMT",
+        "category": "Business Analysis",
+        "type": "meetup"
+    },
+    {
+        "title": "Hidden Pioneers: Programmers of the ENIAC & the Birth of Computing [ATLRUG]",
+        "event_date": "September 11, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/hidden-pioneers-programmers-of-the-eniac-and-the-birth-of-computing-atlrug-302989742",
+        "published": "Sun, 08 Sep 2024 15:41:53 GMT",
+        "category": "Ruby",
+        "type": "meetup"
+    },
+    {
+        "title": "Learn to Design and Publish Dashboards in Power BI",
+        "event_date": "September 9, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/learn-to-design-and-publish-dashboards-in-power-bi-303159742",
+        "published": "Sun, 08 Sep 2024 13:44:20 GMT",
+        "category": "Tech",
+        "type": "meetup"
+    },
+    {
+        "title": "The Java Developer Career Masterplan: 15 Steps to an amazing Java Career",
+        "event_date": "September 10, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/the-java-developer-career-masterplan-15-steps-to-an-amazing-java-career-303309970",
+        "published": "Sun, 08 Sep 2024 13:04:33 GMT",
+        "category": "Java",
+        "type": "meetup"
+    },
+    {
+        "title": "Database Session - Day 1",
+        "event_date": "September 14, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/database-session-day-1-302966423",
+        "published": "Sun, 08 Sep 2024 09:06:15 GMT",
+        "category": "Data / Database",
+        "type": "meetup"
+    },
+    {
+        "title": "AI SHOW :AI/GENERATIVE AI - (LLM) USE CASESAI NEWS",
+        "event_date": "September 10, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/ai-show-ai-generative-ai-llm-use-cases-ai-news-302053541",
+        "published": "Sun, 08 Sep 2024 08:02:00 GMT",
+        "category": "AI / ML",
+        "type": "meetup"
+    },
+    {
+        "title": "Workshop: LLMs Fine-tuning & Prompt Engineering (In Person & Virtual Event)",
+        "event_date": "September 15, 2024",
+        "location": "Singapore, Singapore and Online",
+        "link": "https://dev.events/conferences/workshop-ll-ms-fine-tuning-and-prompt-engineering-in-person-and-virtual-event-303018121",
+        "published": "Sun, 08 Sep 2024 06:02:37 GMT",
+        "category": "AI / ML",
+        "type": "meetup"
+    },
+    {
         "title": "AI Seminar (Virtual): Open-Source AI and Research Infrastructure",
         "event_date": "September 25, 2024",
         "location": "Online",
@@ -90,24 +189,6 @@
         "type": "meetup"
     },
     {
-        "title": "ChatGPT for SEO in 60 Minutes",
-        "event_date": "September 8, 2024",
-        "location": "Online",
-        "link": "https://dev.events/conferences/chat-gpt-for-seo-in-60-minutes-303159733",
-        "published": "Sat, 07 Sep 2024 13:43:55 GMT",
-        "category": "ChatGPT",
-        "type": "meetup"
-    },
-    {
-        "title": "CAREER TALK Importance of AI App Challenges and Building Projects",
-        "event_date": "September 8, 2024",
-        "location": "Online",
-        "link": "https://dev.events/conferences/career-talk-importance-of-ai-app-challenges-and-building-projects-301112233",
-        "published": "Sat, 07 Sep 2024 12:02:11 GMT",
-        "category": "AI / ML",
-        "type": "meetup"
-    },
-    {
         "title": "Saturday VR Creator Meetup",
         "event_date": "September 14, 2024",
         "location": "Online",
@@ -123,15 +204,6 @@
         "link": "https://dev.events/conferences/how-to-design-your-platform-backend-302456897",
         "published": "Sat, 07 Sep 2024 05:43:09 GMT",
         "category": "Full-stack",
-        "type": "meetup"
-    },
-    {
-        "title": "Reading the Room :  Enhancing Your Meeting Presence",
-        "event_date": "September 8, 2024",
-        "location": "Online",
-        "link": "https://dev.events/conferences/reading-the-room-enhancing-your-meeting-presence-303174364",
-        "published": "Sat, 07 Sep 2024 04:24:21 GMT",
-        "category": "Agile",
         "type": "meetup"
     },
     {
@@ -348,15 +420,6 @@
         "link": "https://dev.events/conferences/machine-learning-belongs-in-a-museum-by-sam-gomez-geneca-303255336",
         "published": "Fri, 06 Sep 2024 11:22:19 GMT",
         "category": "AI / ML",
-        "type": "meetup"
-    },
-    {
-        "title": "Tailwind with flexbox",
-        "event_date": "September 8, 2024",
-        "location": "Online",
-        "link": "https://dev.events/conferences/tailwind-with-flexbox-303272952",
-        "published": "Fri, 06 Sep 2024 08:01:26 GMT",
-        "category": "JavaScript",
         "type": "meetup"
     },
     {
@@ -2250,15 +2313,6 @@
         "type": "meetup"
     },
     {
-        "title": "Kick start Your Journey with .NET 8 Aspire",
-        "event_date": "September 8, 2024",
-        "location": "Online",
-        "link": "https://dev.events/conferences/kick-start-your-journey-with-net-8-aspire-302915003",
-        "published": "Tue, 27 Aug 2024 05:04:21 GMT",
-        "category": ".NET",
-        "type": "meetup"
-    },
-    {
         "title": ".NET Aspire: Not just for cloud native distributed systems",
         "event_date": "September 11, 2024",
         "location": "Online",
@@ -2358,15 +2412,6 @@
         "type": "meetup"
     },
     {
-        "title": "Workshop: LLMs Fine-tuning & Prompt Engineering (In Person & Virtual Event)",
-        "event_date": "September 8, 2024",
-        "location": "Singapore, Singapore and Online",
-        "link": "https://dev.events/conferences/workshop-ll-ms-fine-tuning-and-prompt-engineering-in-person-and-virtual-event-302957518",
-        "published": "Mon, 26 Aug 2024 03:02:24 GMT",
-        "category": "AI / ML",
-        "type": "meetup"
-    },
-    {
         "title": "FC Game Development and Unity SIG",
         "event_date": "September 22, 2024",
         "location": "Online",
@@ -2382,15 +2427,6 @@
         "link": "https://dev.events/conferences/monthly-thursdays-hosted-by-zack-wheeler-null",
         "published": "Sun, 25 Aug 2024 17:41:27 GMT",
         "category": "Tech",
-        "type": "meetup"
-    },
-    {
-        "title": "Halifax Indie Devs Virtual Play and Tell",
-        "event_date": "September 8, 2024",
-        "location": "Online",
-        "link": "https://dev.events/conferences/halifax-indie-devs-virtual-play-and-tell-302816862",
-        "published": "Sun, 25 Aug 2024 17:00:32 GMT",
-        "category": "Game dev",
         "type": "meetup"
     },
     {
@@ -2601,19 +2637,19 @@
         "type": "meetup"
     },
     {
-        "title": "Lecture",
-        "event_date": "September 8, 2024",
+        "title": "Unreal Florida - Virtual Catching Up",
+        "event_date": "September 9, 2024",
         "location": "Online",
-        "link": "https://dev.events/conferences/lecture-null",
+        "link": "https://dev.events/conferences/unreal-florida-virtual-catching-up-302274392",
         "published": "Sat, 24 Aug 2024 13:00:52 GMT",
         "category": "Game dev",
         "type": "meetup"
     },
     {
-        "title": "Unreal Florida - Virtual Catching Up",
-        "event_date": "September 9, 2024",
+        "title": "Lecture",
+        "event_date": "October 13, 2024",
         "location": "Online",
-        "link": "https://dev.events/conferences/unreal-florida-virtual-catching-up-302274392",
+        "link": "https://dev.events/conferences/lecture-null",
         "published": "Sat, 24 Aug 2024 13:00:52 GMT",
         "category": "Game dev",
         "type": "meetup"
@@ -3600,15 +3636,6 @@
         "type": "conference"
     },
     {
-        "title": "Exploring Snowflake: From Basics to Big Data",
-        "event_date": "September 8, 2024",
-        "location": "Online",
-        "link": "https://dev.events/conferences/exploring-snowflake-from-basics-to-big-data-302784889",
-        "published": "Tue, 13 Aug 2024 09:22:03 GMT",
-        "category": "Data / Database",
-        "type": "meetup"
-    },
-    {
         "title": "Crash Course: Kubernetes, IaC & GitOps 2.0",
         "event_date": "September 9, 2024",
         "location": "Online",
@@ -3687,15 +3714,6 @@
         "link": "https://dev.events/conferences/success-in-setbacks-insights-into-scaling-a-thriving-tech-startup-302535869",
         "published": "Thu, 08 Aug 2024 18:00:21 GMT",
         "category": "Startup",
-        "type": "meetup"
-    },
-    {
-        "title": "High Church of Lean Coffee",
-        "event_date": "September 8, 2024",
-        "location": "Online",
-        "link": "https://dev.events/conferences/high-church-of-lean-coffee-302670276",
-        "published": "Thu, 08 Aug 2024 14:03:07 GMT",
-        "category": "Agile",
         "type": "meetup"
     },
     {
@@ -4428,15 +4446,6 @@
         "type": "conference"
     },
     {
-        "title": "SmartData 2024",
-        "event_date": "September 8, 2024",
-        "location": "Moscow, Russia and Online",
-        "link": "https://dev.events/conferences/smart-data-2024-vzyywyv2",
-        "published": "Tue, 16 Jul 2024 09:28:42 GMT",
-        "category": "Data / Database",
-        "type": "conference"
-    },
-    {
         "title": "QA Day 2024",
         "event_date": "October 19, 2024",
         "location": "Online",
@@ -4686,15 +4695,6 @@
         "link": "https://dev.events/conferences/jakarta-one-livestream-2024-nrezis3",
         "published": "Sun, 23 Jun 2024 09:40:59 GMT",
         "category": "Cloud",
-        "type": "conference"
-    },
-    {
-        "title": "AI Cybersecurity Summit",
-        "event_date": "September 8, 2024",
-        "location": "Las Vegas, United States and Online",
-        "link": "https://dev.events/conferences/ai-cybersecurity-summit-inz-a5h",
-        "published": "Fri, 21 Jun 2024 14:23:27 GMT",
-        "category": "AI / ML",
         "type": "conference"
     },
     {

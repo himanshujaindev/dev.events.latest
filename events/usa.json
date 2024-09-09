@@ -1,5 +1,59 @@
 [
     {
+        "title": "Vue.js Project Day",
+        "event_date": "September 15, 2024",
+        "location": "Indianapolis, United States",
+        "link": "https://dev.events/conferences/vue-js-project-day-303063154",
+        "published": "Sun, 08 Sep 2024 20:01:32 GMT",
+        "category": "Vue",
+        "type": "meetup"
+    },
+    {
+        "title": "Strawberry Jam",
+        "event_date": "September 22, 2024",
+        "location": "Los Angeles, United States",
+        "link": "https://dev.events/conferences/strawberry-jam-303200749",
+        "published": "Sun, 08 Sep 2024 19:00:29 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "Game Dev Work & Play",
+        "event_date": "September 15, 2024",
+        "location": "Nashville, United States",
+        "link": "https://dev.events/conferences/game-dev-work-and-play-302138376",
+        "published": "Sun, 08 Sep 2024 19:00:05 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "Somerville Union Square Rust Lunch, Sep 16",
+        "event_date": "September 16, 2024",
+        "location": "Somerville, United States",
+        "link": "https://dev.events/conferences/somerville-union-square-rust-lunch-sep-16-302498750",
+        "published": "Sun, 08 Sep 2024 15:44:34 GMT",
+        "category": "Rust",
+        "type": "meetup"
+    },
+    {
+        "title": "BCC Field Trip | Museum of Illusions DC",
+        "event_date": "September 14, 2024",
+        "location": "Washington, United States",
+        "link": "https://dev.events/conferences/bcc-field-trip-museum-of-illusions-dc-303298146",
+        "published": "Sun, 08 Sep 2024 05:00:27 GMT",
+        "category": "Tech",
+        "type": "meetup"
+    },
+    {
+        "title": "LA Tech Meetup",
+        "event_date": "September 14, 2024",
+        "location": "Santa Monica, United States",
+        "link": "https://dev.events/conferences/la-tech-meetup-303294030",
+        "published": "Sun, 08 Sep 2024 04:02:29 GMT",
+        "category": "Tech",
+        "type": "meetup"
+    },
+    {
         "title": "Bellevue College -Quality Software Practices",
         "event_date": "September 11, 2024",
         "location": "Bellevue, United States",
@@ -837,30 +891,12 @@
         "type": "meetup"
     },
     {
-        "title": "Vue.js Project Day",
-        "event_date": "September 8, 2024",
-        "location": "Indianapolis, United States",
-        "link": "https://dev.events/conferences/vue-js-project-day-302929647",
-        "published": "Sun, 01 Sep 2024 20:01:20 GMT",
-        "category": "Vue",
-        "type": "meetup"
-    },
-    {
         "title": "Polyglot Pipelines with Apache Nifi by Bob Paulin",
         "event_date": "September 19, 2024",
         "location": "Chicago, United States",
         "link": "https://dev.events/conferences/polyglot-pipelines-with-apache-nifi-by-bob-paulin-302966436",
         "published": "Sun, 01 Sep 2024 19:44:45 GMT",
         "category": "Java",
-        "type": "meetup"
-    },
-    {
-        "title": "Game Dev Work & Play",
-        "event_date": "September 8, 2024",
-        "location": "Nashville, United States",
-        "link": "https://dev.events/conferences/game-dev-work-and-play-302138374",
-        "published": "Sun, 01 Sep 2024 19:00:03 GMT",
-        "category": "Game dev",
         "type": "meetup"
     },
     {
@@ -942,15 +978,6 @@
         "link": "https://dev.events/conferences/aws-community-day-friday-sep-13-2024-303161482",
         "published": "Sat, 31 Aug 2024 19:23:45 GMT",
         "category": "AWS",
-        "type": "meetup"
-    },
-    {
-        "title": "Northeastern Rust Lunch, Sep 8",
-        "event_date": "September 8, 2024",
-        "location": "Boston, United States",
-        "link": "https://dev.events/conferences/northeastern-rust-lunch-sep-8-302498734",
-        "published": "Sat, 31 Aug 2024 15:43:31 GMT",
-        "category": "Rust",
         "type": "meetup"
     },
     {
@@ -1719,15 +1746,6 @@
         "type": "meetup"
     },
     {
-        "title": "Strawberry Jam",
-        "event_date": "September 8, 2024",
-        "location": "Los Angeles, United States",
-        "link": "https://dev.events/conferences/strawberry-jam-302927796",
-        "published": "Sun, 25 Aug 2024 19:00:25 GMT",
-        "category": "Game dev",
-        "type": "meetup"
-    },
-    {
         "title": "Prototype, Play, and Build Workshops (In-Person @GameArena)",
         "event_date": "September 13, 2024",
         "location": "Columbus, United States",
@@ -1913,15 +1931,6 @@
         "location": "Nashua, United States",
         "link": "https://dev.events/conferences/monthly-southern-new-hampshire-game-dev-meetup-in-person-301767576",
         "published": "Sat, 24 Aug 2024 14:40:35 GMT",
-        "category": "Game dev",
-        "type": "meetup"
-    },
-    {
-        "title": "PVGD 10th Annual Potluck",
-        "event_date": "September 8, 2024",
-        "location": "South Deerfield, United States",
-        "link": "https://dev.events/conferences/pvgd-10th-annual-potluck-302525518",
-        "published": "Sat, 24 Aug 2024 14:40:26 GMT",
         "category": "Game dev",
         "type": "meetup"
     },
@@ -3687,15 +3696,6 @@
         "link": "https://dev.events/conferences/dnn-summit-2025-dwnlz9f7",
         "published": "Sun, 23 Jun 2024 09:35:27 GMT",
         "category": "Tech",
-        "type": "conference"
-    },
-    {
-        "title": "AI Cybersecurity Summit",
-        "event_date": "September 8, 2024",
-        "location": "Las Vegas, United States and Online",
-        "link": "https://dev.events/conferences/ai-cybersecurity-summit-inz-a5h",
-        "published": "Fri, 21 Jun 2024 14:23:27 GMT",
-        "category": "AI / ML",
         "type": "conference"
     },
     {
