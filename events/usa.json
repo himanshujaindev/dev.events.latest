@@ -1,5 +1,77 @@
 [
     {
+        "title": "Let's animate a train in Blender!",
+        "event_date": "September 29, 2024",
+        "location": "Watertown, United States",
+        "link": "https://dev.events/conferences/let-s-animate-a-train-in-blender-303201215",
+        "published": "Mon, 09 Sep 2024 23:00:33 GMT",
+        "category": "AR / VR / XR",
+        "type": "meetup"
+    },
+    {
+        "title": "GameDev Coworking",
+        "event_date": "September 16, 2024",
+        "location": "Cary, United States",
+        "link": "https://dev.events/conferences/game-dev-coworking-303085813",
+        "published": "Mon, 09 Sep 2024 22:40:16 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "Monthly Meeting",
+        "event_date": "September 19, 2024",
+        "location": "Lowell, United States",
+        "link": "https://dev.events/conferences/monthly-meeting-303009029",
+        "published": "Mon, 09 Sep 2024 19:42:45 GMT",
+        "category": "Tech",
+        "type": "meetup"
+    },
+    {
+        "title": "Omaha Azure User Group Meeting - September'2024",
+        "event_date": "September 18, 2024",
+        "location": "Douglas, United States and Online",
+        "link": "https://dev.events/conferences/omaha-azure-user-group-meeting-september-2024-303331208",
+        "published": "Mon, 09 Sep 2024 18:22:44 GMT",
+        "category": "Azure",
+        "type": "meetup"
+    },
+    {
+        "title": "Cloudflare Tour w/Mackenly Jones",
+        "event_date": "September 10, 2024",
+        "location": "Johnson City, United States",
+        "link": "https://dev.events/conferences/cloudflare-tour-w-mackenly-jones-301580758",
+        "published": "Mon, 09 Sep 2024 18:04:40 GMT",
+        "category": ".NET",
+        "type": "meetup"
+    },
+    {
+        "title": "ReactJS Dallas September @ Text-Em-All in Frisco",
+        "event_date": "September 10, 2024",
+        "location": "Frisco, United States",
+        "link": "https://dev.events/conferences/react-js-dallas-september-text-em-all-in-frisco-299972090",
+        "published": "Mon, 09 Sep 2024 15:21:46 GMT",
+        "category": "React",
+        "type": "meetup"
+    },
+    {
+        "title": "Baymeadows Code and Coffee",
+        "event_date": "September 10, 2024",
+        "location": "Jacksonville , United States",
+        "link": "https://dev.events/conferences/baymeadows-code-and-coffee-302956123",
+        "published": "Mon, 09 Sep 2024 11:03:49 GMT",
+        "category": "Tech",
+        "type": "meetup"
+    },
+    {
+        "title": "The DevOps Handbook",
+        "event_date": "September 19, 2024",
+        "location": "Independence, United States",
+        "link": "https://dev.events/conferences/the-dev-ops-handbook-303323945",
+        "published": "Mon, 09 Sep 2024 08:01:47 GMT",
+        "category": "DevOps",
+        "type": "meetup"
+    },
+    {
         "title": "Vue.js Project Day",
         "event_date": "September 15, 2024",
         "location": "Indianapolis, United States",
@@ -252,15 +324,6 @@
         "type": "meetup"
     },
     {
-        "title": "Meet New People!!  Sunday  Night Networking!",
-        "event_date": "September 9, 2024",
-        "location": "Santa Clara, United States",
-        "link": "https://dev.events/conferences/meet-new-people-sunday-night-networking-302933436",
-        "published": "Fri, 06 Sep 2024 16:01:19 GMT",
-        "category": "Tech",
-        "type": "meetup"
-    },
-    {
         "title": "Music City Rust Develpers : Community Presentations",
         "event_date": "September 26, 2024",
         "location": "Nashville, United States",
@@ -459,15 +522,6 @@
         "type": "meetup"
     },
     {
-        "title": "Platform Engineering Executive Roundtable @ swampUP, Austin",
-        "event_date": "September 9, 2024",
-        "location": "Austin, United States",
-        "link": "https://dev.events/conferences/platform-engineering-executive-roundtable-swamp-up-austin-302824097",
-        "published": "Thu, 05 Sep 2024 17:03:56 GMT",
-        "category": "DevOps",
-        "type": "meetup"
-    },
-    {
         "title": "Lean Cuisine and even Leaner Wine - The Great Southern Box Company Food Hall",
         "event_date": "September 11, 2024",
         "location": "Orlando, United States",
@@ -483,24 +537,6 @@
         "link": "https://dev.events/conferences/front-range-platform-engineering-devopsdays-denver-community-happy-hour-303250834",
         "published": "Thu, 05 Sep 2024 15:04:38 GMT",
         "category": "DevOps",
-        "type": "meetup"
-    },
-    {
-        "title": "Meet New People!!  Sunday  Night Networking",
-        "event_date": "September 9, 2024",
-        "location": "Santa Clara, United States",
-        "link": "https://dev.events/conferences/meet-new-people-sunday-night-networking-302933484",
-        "published": "Thu, 05 Sep 2024 15:00:59 GMT",
-        "category": "AR / VR / XR",
-        "type": "meetup"
-    },
-    {
-        "title": "C&C at  [Spring Park Coffee]",
-        "event_date": "September 9, 2024",
-        "location": "Green Cove Spgs, United States",
-        "link": "https://dev.events/conferences/c-and-c-at-spring-park-coffee-302937662",
-        "published": "Thu, 05 Sep 2024 13:01:58 GMT",
-        "category": "Tech",
         "type": "meetup"
     },
     {
@@ -825,15 +861,6 @@
         "link": "https://dev.events/conferences/denver-script-september-2024-303215161",
         "published": "Tue, 03 Sep 2024 19:21:43 GMT",
         "category": "JavaScript",
-        "type": "meetup"
-    },
-    {
-        "title": "Automating Infrastructure: Deploying Terraform with GitHub Actions",
-        "event_date": "September 9, 2024",
-        "location": "Douglas, United States",
-        "link": "https://dev.events/conferences/automating-infrastructure-deploying-terraform-with-git-hub-actions-302460250",
-        "published": "Tue, 03 Sep 2024 17:04:23 GMT",
-        "category": "Open Source",
         "type": "meetup"
     },
     {
@@ -1494,15 +1521,6 @@
         "type": "meetup"
     },
     {
-        "title": "GameDev Coworking",
-        "event_date": "September 9, 2024",
-        "location": "Cary, United States",
-        "link": "https://dev.events/conferences/game-dev-coworking-302949011",
-        "published": "Wed, 28 Aug 2024 14:00:20 GMT",
-        "category": "Game dev",
-        "type": "meetup"
-    },
-    {
         "title": "Defcon: A Recap",
         "event_date": "September 19, 2024",
         "location": "Madison, United States",
@@ -2007,15 +2025,6 @@
         "type": "meetup"
     },
     {
-        "title": "BostonVR Social",
-        "event_date": "September 9, 2024",
-        "location": "Boston, United States",
-        "link": "https://dev.events/conferences/boston-vr-social-302743287",
-        "published": "Sat, 24 Aug 2024 13:00:55 GMT",
-        "category": "AR / VR / XR",
-        "type": "meetup"
-    },
-    {
         "title": "NYVR - Sept 2024 (Digital Fashion Theme)",
         "event_date": "September 12, 2024",
         "location": "new york, United States",
@@ -2436,15 +2445,6 @@
         "link": "https://dev.events/conferences/platform-engineering-and-dev-ops-meet-up-three-notch-d-craft-kitchen-and-brewing-302861501",
         "published": "Fri, 16 Aug 2024 13:42:05 GMT",
         "category": "DevOps",
-        "type": "meetup"
-    },
-    {
-        "title": "Jakarta EE meets AI",
-        "event_date": "September 9, 2024",
-        "location": "Morrisville, United States",
-        "link": "https://dev.events/conferences/jakarta-ee-meets-ai-302865204",
-        "published": "Fri, 16 Aug 2024 13:02:29 GMT",
-        "category": "AI / ML",
         "type": "meetup"
     },
     {
@@ -2943,15 +2943,6 @@
         "type": "meetup"
     },
     {
-        "title": "Triangle Tech Talks. ClickHouse For AI",
-        "event_date": "September 9, 2024",
-        "location": "Cary, United States",
-        "link": "https://dev.events/conferences/triangle-tech-talks-click-house-for-ai-302723486",
-        "published": "Fri, 09 Aug 2024 01:21:35 GMT",
-        "category": "AI / ML",
-        "type": "meetup"
-    },
-    {
         "title": "Boulder Linux Users Group (BLUG) Monthly Meeting",
         "event_date": "September 13, 2024",
         "location": "Boulder, United States",
@@ -3214,7 +3205,7 @@
     },
     {
         "title": "Baton Rouge .Net, SQL Server & PowerBI User Groups Meeting",
-        "event_date": "September 11, 2024",
+        "event_date": "September 25, 2024",
         "location": "Baton Rouge, United States",
         "link": "https://dev.events/conferences/baton-rouge-net-sql-server-and-power-bi-user-groups-meeting-300226305",
         "published": "Mon, 05 Aug 2024 18:41:15 GMT",
@@ -3870,15 +3861,6 @@
         "type": "conference"
     },
     {
-        "title": "SOSS Policy Summit",
-        "event_date": "September 9, 2024",
-        "location": "Washington, United States",
-        "link": "https://dev.events/conferences/soss-policy-summit-ga6mtzqp",
-        "published": "Sat, 25 May 2024 14:55:12 GMT",
-        "category": "Cybersecurity / InfoSec",
-        "type": "conference"
-    },
-    {
         "title": "Frontrunners",
         "event_date": "March 21, 2025",
         "location": "Washington, United States",
@@ -4473,15 +4455,6 @@
         "type": "conference"
     },
     {
-        "title": "swampUP 2024",
-        "event_date": "September 9, 2024",
-        "location": "Austin, United States",
-        "link": "https://dev.events/conferences/swamp-up-2024-6igopsf4",
-        "published": "Wed, 20 Mar 2024 13:11:21 GMT",
-        "category": "DevOps",
-        "type": "conference"
-    },
-    {
         "title": "CloudX 2024",
         "event_date": "November 5, 2024",
         "location": "Santa Clara, United States",
@@ -4893,15 +4866,6 @@
         "link": "https://dev.events/conferences/smashing-conf-new-york-new-york-9-2024",
         "published": "Wed, 22 Nov 2023 12:59:17 GMT",
         "category": "Web / Frontend",
-        "type": "conference"
-    },
-    {
-        "title": "FinovateFall",
-        "event_date": "September 9, 2024",
-        "location": "New York, United States",
-        "link": "https://dev.events/conferences/finovate-fall-new-york-8-2024",
-        "published": "Sun, 19 Nov 2023 13:14:03 GMT",
-        "category": "Fintech",
         "type": "conference"
     },
     {
