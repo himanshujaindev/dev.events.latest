@@ -1,5 +1,284 @@
 [
     {
+        "title": "Enhancing Developer Experience",
+        "event_date": "October 2, 2024",
+        "location": "Irving, United States",
+        "link": "https://dev.events/conferences/enhancing-developer-experience-303357572",
+        "published": "Wed, 11 Sep 2024 00:24:16 GMT",
+        "category": "Cloud",
+        "type": "meetup"
+    },
+    {
+        "title": "PNSQC September: Diana Larsen - Ask Me Anything",
+        "event_date": "September 20, 2024",
+        "location": "Beaverton, United States",
+        "link": "https://dev.events/conferences/pnsqc-september-diana-larsen-ask-me-anything-303343705",
+        "published": "Wed, 11 Sep 2024 00:22:24 GMT",
+        "category": "Tech",
+        "type": "meetup"
+    },
+    {
+        "title": "September Full Stack Fargo",
+        "event_date": "September 19, 2024",
+        "location": "Fargo, United States",
+        "link": "https://dev.events/conferences/september-full-stack-fargo-303348083",
+        "published": "Wed, 11 Sep 2024 00:21:40 GMT",
+        "category": "Tech",
+        "type": "meetup"
+    },
+    {
+        "title": "Alana Kihn - Efficient DevOps Practices Using Open Source Solutions",
+        "event_date": "September 13, 2024",
+        "location": "Boulder, United States",
+        "link": "https://dev.events/conferences/alana-kihn-efficient-dev-ops-practices-using-open-source-solutions-303351911",
+        "published": "Wed, 11 Sep 2024 00:03:21 GMT",
+        "category": "DevOps",
+        "type": "meetup"
+    },
+    {
+        "title": "Ruby Social - Morning",
+        "event_date": "September 26, 2024",
+        "location": "Austin, United States",
+        "link": "https://dev.events/conferences/ruby-social-morning-302552072",
+        "published": "Tue, 10 Sep 2024 23:41:24 GMT",
+        "category": "Ruby",
+        "type": "meetup"
+    },
+    {
+        "title": "ReactJS Dallas monthly event",
+        "event_date": "October 8, 2024",
+        "location": "Frisco, United States",
+        "link": "https://dev.events/conferences/react-js-dallas-monthly-event-299972091",
+        "published": "Tue, 10 Sep 2024 23:41:13 GMT",
+        "category": "React",
+        "type": "meetup"
+    },
+    {
+        "title": "Hybrid Weekly Hack Night",
+        "event_date": "September 17, 2024",
+        "location": "Cambridge, United States",
+        "link": "https://dev.events/conferences/hybrid-weekly-hack-night-302574766",
+        "published": "Tue, 10 Sep 2024 23:01:49 GMT",
+        "category": "Tech",
+        "type": "meetup"
+    },
+    {
+        "title": "NSCoder Night",
+        "event_date": "September 24, 2024",
+        "location": "Lewis Center, United States",
+        "link": "https://dev.events/conferences/ns-coder-night-303245400",
+        "published": "Tue, 10 Sep 2024 23:01:36 GMT",
+        "category": "iOS / Swift",
+        "type": "meetup"
+    },
+    {
+        "title": "BoulderJS",
+        "event_date": "September 27, 2024",
+        "location": "Boulder, United States",
+        "link": "https://dev.events/conferences/boulder-js-302990619",
+        "published": "Tue, 10 Sep 2024 23:01:34 GMT",
+        "category": "JavaScript",
+        "type": "meetup"
+    },
+    {
+        "title": "Open Hax",
+        "event_date": "September 17, 2024",
+        "location": "Jacksonville, United States",
+        "link": "https://dev.events/conferences/open-hax-303104994",
+        "published": "Tue, 10 Sep 2024 22:41:35 GMT",
+        "category": "Ruby",
+        "type": "meetup"
+    },
+    {
+        "title": "#FrontEndParty",
+        "event_date": "October 8, 2024",
+        "location": "New Orleans, United States",
+        "link": "https://dev.events/conferences/front-end-party-301824544",
+        "published": "Tue, 10 Sep 2024 22:41:06 GMT",
+        "category": "Web / Frontend",
+        "type": "meetup"
+    },
+    {
+        "title": "TEMP NEW LOCATION  - Remix Meetup October",
+        "event_date": "October 4, 2024",
+        "location": "Lehi, United States",
+        "link": "https://dev.events/conferences/temp-new-location-remix-meetup-october-302793606",
+        "published": "Tue, 10 Sep 2024 22:40:51 GMT",
+        "category": "React",
+        "type": "meetup"
+    },
+    {
+        "title": "Software Developer Meetup!",
+        "event_date": "October 8, 2024",
+        "location": "Johnson City, United States",
+        "link": "https://dev.events/conferences/software-developer-meetup-null",
+        "published": "Tue, 10 Sep 2024 22:04:44 GMT",
+        "category": ".NET",
+        "type": "meetup"
+    },
+    {
+        "title": "Social at Novare Res!",
+        "event_date": "October 8, 2024",
+        "location": "Portland, United States",
+        "link": "https://dev.events/conferences/social-at-novare-res-302740380",
+        "published": "Tue, 10 Sep 2024 22:01:35 GMT",
+        "category": "JavaScript",
+        "type": "meetup"
+    },
+    {
+        "title": "Tech Tuesday",
+        "event_date": "October 8, 2024",
+        "location": "Savannah, United States",
+        "link": "https://dev.events/conferences/tech-tuesday-299526464",
+        "published": "Tue, 10 Sep 2024 21:41:36 GMT",
+        "category": "Tech",
+        "type": "meetup"
+    },
+    {
+        "title": "Tom Becker, a Director at CapTech Consulting, will be our speaker",
+        "event_date": "October 1, 2024",
+        "location": "Richmond, United States",
+        "link": "https://dev.events/conferences/tom-becker-a-director-at-cap-tech-consulting-will-be-our-speaker-302476794",
+        "published": "Tue, 10 Sep 2024 21:41:11 GMT",
+        "category": "JavaScript",
+        "type": "meetup"
+    },
+    {
+        "title": "DROIDCON NEW YORK 2024",
+        "event_date": "September 19, 2024",
+        "location": "Astoria , United States",
+        "link": "https://dev.events/conferences/droidcon-new-york-2024-303350889",
+        "published": "Tue, 10 Sep 2024 21:24:06 GMT",
+        "category": "Kotlin",
+        "type": "meetup"
+    },
+    {
+        "title": "Game Dev Coworking",
+        "event_date": "September 17, 2024",
+        "location": "Oakland, United States",
+        "link": "https://dev.events/conferences/game-dev-coworking-303102356",
+        "published": "Tue, 10 Sep 2024 19:20:04 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "Unreal Engine Meetup - Hangout at Mr. Tramps",
+        "event_date": "September 13, 2024",
+        "location": "Austin, United States",
+        "link": "https://dev.events/conferences/unreal-engine-meetup-hangout-at-mr-tramps-303352002",
+        "published": "Tue, 10 Sep 2024 17:40:15 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "Tech Meet Up Returns: This October!",
+        "event_date": "October 1, 2024",
+        "location": "Peachtree Corners, United States",
+        "link": "https://dev.events/conferences/tech-meet-up-returns-this-october-303350941",
+        "published": "Tue, 10 Sep 2024 16:23:05 GMT",
+        "category": "Tech",
+        "type": "meetup"
+    },
+    {
+        "title": "\u2728 Armed Forces Jam 2024 - Orlando |   Sep/13th - Sun/15th , 2024 (EST)",
+        "event_date": "September 13, 2024",
+        "location": "Orlando, United States and Online",
+        "link": "https://dev.events/conferences/armed-forces-jam-2024-orlando-sep-13th-sun-15th-2024-est-302900426",
+        "published": "Tue, 10 Sep 2024 16:00:26 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "Tuesday Coffee Caravan and chat every Tuesday morning @ 10:30am",
+        "event_date": "September 17, 2024",
+        "location": "Fredericksburg, United States",
+        "link": "https://dev.events/conferences/tuesday-coffee-caravan-and-chat-every-tuesday-morning-10-30am-303005129",
+        "published": "Tue, 10 Sep 2024 14:42:52 GMT",
+        "category": "Tech",
+        "type": "meetup"
+    },
+    {
+        "title": "SQL Saturday Oregon",
+        "event_date": "November 2, 2024",
+        "location": "Vancouver, United States",
+        "link": "https://dev.events/conferences/sql-saturday-oregon-g1wqjbj4",
+        "published": "Tue, 10 Sep 2024 13:29:53 GMT",
+        "category": "SQL",
+        "type": "conference"
+    },
+    {
+        "title": "Cloud Native University NA",
+        "event_date": "November 12, 2024",
+        "location": "Salt Lake City, United States",
+        "link": "https://dev.events/conferences/cloud-native-university-na-vvywowmm",
+        "published": "Tue, 10 Sep 2024 13:26:34 GMT",
+        "category": "Cloud",
+        "type": "conference"
+    },
+    {
+        "title": "IASPA Annual Conference- 2025",
+        "event_date": "January 30, 2025",
+        "location": "Naperville, United States",
+        "link": "https://dev.events/conferences/iaspa-annual-conference-2025-wf-akhez",
+        "published": "Tue, 10 Sep 2024 12:42:16 GMT",
+        "category": "Tech leadership",
+        "type": "conference"
+    },
+    {
+        "title": "SCaLE 22x",
+        "event_date": "March 6, 2025",
+        "location": "Pasadena, United States",
+        "link": "https://dev.events/conferences/s-ca-le-22x-fflt0soq",
+        "published": "Tue, 10 Sep 2024 12:10:17 GMT",
+        "category": "Linux / OS",
+        "type": "conference"
+    },
+    {
+        "title": "Coders at Cubby's",
+        "event_date": "September 19, 2024",
+        "location": "St George, United States and Online",
+        "link": "https://dev.events/conferences/coders-at-cubby-s-303341732",
+        "published": "Tue, 10 Sep 2024 11:21:09 GMT",
+        "category": "Web / Frontend",
+        "type": "meetup"
+    },
+    {
+        "title": "Fruit Cove Code and Coffee",
+        "event_date": "September 11, 2024",
+        "location": "Jacksonville, United States",
+        "link": "https://dev.events/conferences/fruit-cove-code-and-coffee-302979347",
+        "published": "Tue, 10 Sep 2024 11:01:58 GMT",
+        "category": "Tech",
+        "type": "meetup"
+    },
+    {
+        "title": "Unraveling the Mysteries of Microsoft Fabric",
+        "event_date": "September 30, 2024",
+        "location": "Creve Coeur, United States",
+        "link": "https://dev.events/conferences/unraveling-the-mysteries-of-microsoft-fabric-303330421",
+        "published": "Tue, 10 Sep 2024 09:04:42 GMT",
+        "category": "Microsoft",
+        "type": "meetup"
+    },
+    {
+        "title": "Refactoring Older JS Frameworks to Modern Vanilla JavaScript",
+        "event_date": "September 18, 2024",
+        "location": "Sacramento, United States",
+        "link": "https://dev.events/conferences/refactoring-older-js-frameworks-to-modern-vanilla-java-script-303345931",
+        "published": "Tue, 10 Sep 2024 08:01:11 GMT",
+        "category": "JavaScript",
+        "type": "meetup"
+    },
+    {
+        "title": "AWS User Group Generative AI Game Day!",
+        "event_date": "September 18, 2024",
+        "location": "Austin, United States",
+        "link": "https://dev.events/conferences/aws-user-group-generative-ai-game-day-303343774",
+        "published": "Tue, 10 Sep 2024 01:43:44 GMT",
+        "category": "AWS",
+        "type": "meetup"
+    },
+    {
         "title": "Let's animate a train in Blender!",
         "event_date": "September 29, 2024",
         "location": "Watertown, United States",
@@ -33,33 +312,6 @@
         "link": "https://dev.events/conferences/omaha-azure-user-group-meeting-september-2024-303331208",
         "published": "Mon, 09 Sep 2024 18:22:44 GMT",
         "category": "Azure",
-        "type": "meetup"
-    },
-    {
-        "title": "Cloudflare Tour w/Mackenly Jones",
-        "event_date": "September 10, 2024",
-        "location": "Johnson City, United States",
-        "link": "https://dev.events/conferences/cloudflare-tour-w-mackenly-jones-301580758",
-        "published": "Mon, 09 Sep 2024 18:04:40 GMT",
-        "category": ".NET",
-        "type": "meetup"
-    },
-    {
-        "title": "ReactJS Dallas September @ Text-Em-All in Frisco",
-        "event_date": "September 10, 2024",
-        "location": "Frisco, United States",
-        "link": "https://dev.events/conferences/react-js-dallas-september-text-em-all-in-frisco-299972090",
-        "published": "Mon, 09 Sep 2024 15:21:46 GMT",
-        "category": "React",
-        "type": "meetup"
-    },
-    {
-        "title": "Baymeadows Code and Coffee",
-        "event_date": "September 10, 2024",
-        "location": "Jacksonville , United States",
-        "link": "https://dev.events/conferences/baymeadows-code-and-coffee-302956123",
-        "published": "Mon, 09 Sep 2024 11:03:49 GMT",
-        "category": "Tech",
         "type": "meetup"
     },
     {
@@ -159,15 +411,6 @@
         "link": "https://dev.events/conferences/nooga-code-and-coffee-night-298000543",
         "published": "Sat, 07 Sep 2024 19:00:22 GMT",
         "category": "Tech",
-        "type": "meetup"
-    },
-    {
-        "title": "Memphis Data Professionals",
-        "event_date": "September 10, 2024",
-        "location": "Memphis, United States",
-        "link": "https://dev.events/conferences/memphis-data-professionals-302659132",
-        "published": "Sat, 07 Sep 2024 18:02:28 GMT",
-        "category": "Data / Database",
         "type": "meetup"
     },
     {
@@ -306,15 +549,6 @@
         "type": "meetup"
     },
     {
-        "title": "Laravel Forever!",
-        "event_date": "September 10, 2024",
-        "location": "Lexington, United States",
-        "link": "https://dev.events/conferences/laravel-forever-302825011",
-        "published": "Fri, 06 Sep 2024 17:43:50 GMT",
-        "category": "Laravel",
-        "type": "meetup"
-    },
-    {
         "title": "Using your Second Brain & Digital Organization Using the PARA Method",
         "event_date": "September 18, 2024",
         "location": "Washington, United States",
@@ -375,15 +609,6 @@
         "link": "https://dev.events/conferences/nash-js-data-structures-and-algorithms-for-confidence-in-the-coding-interview-303255166",
         "published": "Fri, 06 Sep 2024 07:41:15 GMT",
         "category": "Data / Database",
-        "type": "meetup"
-    },
-    {
-        "title": "Efficiency and Cost Optimizing on AWS",
-        "event_date": "September 10, 2024",
-        "location": "Franklin, United States",
-        "link": "https://dev.events/conferences/efficiency-and-cost-optimizing-on-aws-303255555",
-        "published": "Fri, 06 Sep 2024 04:43:47 GMT",
-        "category": "AWS",
         "type": "meetup"
     },
     {
@@ -594,30 +819,12 @@
         "type": "meetup"
     },
     {
-        "title": "Northeast Meetup",
-        "event_date": "September 10, 2024",
-        "location": "Los Angeles, United States",
-        "link": "https://dev.events/conferences/northeast-meetup-302738277",
-        "published": "Thu, 05 Sep 2024 01:40:11 GMT",
-        "category": "Game dev",
-        "type": "meetup"
-    },
-    {
         "title": "Remix Austin October",
         "event_date": "October 3, 2024",
         "location": "Austin, United States",
         "link": "https://dev.events/conferences/remix-austin-october-302872294",
         "published": "Thu, 05 Sep 2024 00:01:32 GMT",
         "category": "React",
-        "type": "meetup"
-    },
-    {
-        "title": "PLUG North - Discussion and informative talks.",
-        "event_date": "September 10, 2024",
-        "location": "Bluebell, United States",
-        "link": "https://dev.events/conferences/plug-north-discussion-and-informative-talks-302969162",
-        "published": "Wed, 04 Sep 2024 23:03:14 GMT",
-        "category": "Linux / OS",
         "type": "meetup"
     },
     {
@@ -684,30 +891,12 @@
         "type": "meetup"
     },
     {
-        "title": "OpenShift + Falco + Mesh + giveaways",
-        "event_date": "September 10, 2024",
-        "location": "Cambridge, United States",
-        "link": "https://dev.events/conferences/open-shift-falco-mesh-giveaways-303076539",
-        "published": "Wed, 04 Sep 2024 20:44:07 GMT",
-        "category": "Docker / Kubernetes",
-        "type": "meetup"
-    },
-    {
         "title": "Simulation Sessions @ Gray Area | Monday October 21st @ 6PM",
         "event_date": "October 22, 2024",
         "location": "San Francisco, United States",
         "link": "https://dev.events/conferences/simulation-sessions-gray-area-monday-october-21st-6-pm-303084578",
         "published": "Wed, 04 Sep 2024 19:40:32 GMT",
         "category": "Game dev",
-        "type": "meetup"
-    },
-    {
-        "title": "Leveling Up Lottie Animations",
-        "event_date": "September 10, 2024",
-        "location": "Tysons, United States",
-        "link": "https://dev.events/conferences/leveling-up-lottie-animations-303232959",
-        "published": "Wed, 04 Sep 2024 17:22:01 GMT",
-        "category": "iOS / Swift",
         "type": "meetup"
     },
     {
@@ -801,15 +990,6 @@
         "type": "meetup"
     },
     {
-        "title": "Virtual Weekly Hack Night",
-        "event_date": "September 10, 2024",
-        "location": "Boston, United States",
-        "link": "https://dev.events/conferences/virtual-weekly-hack-night-302970472",
-        "published": "Tue, 03 Sep 2024 23:01:58 GMT",
-        "category": "Tech",
-        "type": "meetup"
-    },
-    {
         "title": "Common C++ Optimizations - How and why modern C++ runs fast, very fast.",
         "event_date": "October 1, 2024",
         "location": "Austin, United States",
@@ -819,29 +999,11 @@
         "type": "meetup"
     },
     {
-        "title": "Open Hax",
-        "event_date": "September 10, 2024",
-        "location": "Jacksonville, United States",
-        "link": "https://dev.events/conferences/open-hax-302970360",
-        "published": "Tue, 03 Sep 2024 22:41:32 GMT",
-        "category": "Ruby",
-        "type": "meetup"
-    },
-    {
         "title": "IGDA Silicon Valley Monthly Meetup",
         "event_date": "September 18, 2024",
         "location": "Mountain View, United States",
         "link": "https://dev.events/conferences/igda-silicon-valley-monthly-meetup-303208289",
         "published": "Tue, 03 Sep 2024 22:00:33 GMT",
-        "category": "Game dev",
-        "type": "meetup"
-    },
-    {
-        "title": "Game Dev Coworking",
-        "event_date": "September 10, 2024",
-        "location": "Oakland, United States",
-        "link": "https://dev.events/conferences/game-dev-coworking-302964828",
-        "published": "Tue, 03 Sep 2024 21:00:05 GMT",
         "category": "Game dev",
         "type": "meetup"
     },
@@ -861,15 +1023,6 @@
         "link": "https://dev.events/conferences/denver-script-september-2024-303215161",
         "published": "Tue, 03 Sep 2024 19:21:43 GMT",
         "category": "JavaScript",
-        "type": "meetup"
-    },
-    {
-        "title": "Tuesday Coffee Caravan and chat every Tuesday morning @ 10:30am",
-        "event_date": "September 10, 2024",
-        "location": "Fredericksburg, United States",
-        "link": "https://dev.events/conferences/tuesday-coffee-caravan-and-chat-every-tuesday-morning-10-30am-302959764",
-        "published": "Tue, 03 Sep 2024 14:42:31 GMT",
-        "category": "Tech",
         "type": "meetup"
     },
     {
@@ -924,15 +1077,6 @@
         "link": "https://dev.events/conferences/polyglot-pipelines-with-apache-nifi-by-bob-paulin-302966436",
         "published": "Sun, 01 Sep 2024 19:44:45 GMT",
         "category": "Java",
-        "type": "meetup"
-    },
-    {
-        "title": "How Modern JS Software Gets Deployed? by Jason Maggard from Atlantis Technology",
-        "event_date": "September 10, 2024",
-        "location": "Richmond, United States",
-        "link": "https://dev.events/conferences/how-modern-js-software-gets-deployed-by-jason-maggard-from-atlantis-technology-302476781",
-        "published": "Sun, 01 Sep 2024 18:01:34 GMT",
-        "category": "JavaScript",
         "type": "meetup"
     },
     {
@@ -1116,15 +1260,6 @@
         "type": "meetup"
     },
     {
-        "title": "[External registration] The 4th AI Alliance Meetup @ Unstructured Data Meetup",
-        "event_date": "September 10, 2024",
-        "location": "San Francisco, United States",
-        "link": "https://dev.events/conferences/external-registration-the-4th-ai-alliance-meetup-unstructured-data-meetup-302870140",
-        "published": "Fri, 30 Aug 2024 19:21:45 GMT",
-        "category": "AI / ML",
-        "type": "meetup"
-    },
-    {
         "title": "Immersive Worlds: The Intersection of Spatial Computing, Entertainment & Gaming",
         "event_date": "September 24, 2024",
         "location": "Tampa, United States",
@@ -1185,15 +1320,6 @@
         "link": "https://dev.events/conferences/digital-scene-kc-game-development-303116528",
         "published": "Fri, 30 Aug 2024 02:40:43 GMT",
         "category": "Game dev",
-        "type": "meetup"
-    },
-    {
-        "title": "Visualizing Problems: From Abstract to Concrete",
-        "event_date": "September 10, 2024",
-        "location": "Austin, United States",
-        "link": "https://dev.events/conferences/visualizing-problems-from-abstract-to-concrete-298132889",
-        "published": "Thu, 29 Aug 2024 23:42:15 GMT",
-        "category": "Ruby on Rails",
         "type": "meetup"
     },
     {
@@ -1320,15 +1446,6 @@
         "link": "https://dev.events/conferences/fall-picnic-and-speaker-have-a-topic-relevant-to-our-audience-contact-me-302795325",
         "published": "Thu, 29 Aug 2024 16:46:18 GMT",
         "category": "Agile",
-        "type": "meetup"
-    },
-    {
-        "title": "Rust Community Meetup - Ann Arbor",
-        "event_date": "September 10, 2024",
-        "location": "Ann Arbor, United States",
-        "link": "https://dev.events/conferences/rust-community-meetup-ann-arbor-303108610",
-        "published": "Thu, 29 Aug 2024 14:04:31 GMT",
-        "category": "Rust",
         "type": "meetup"
     },
     {
@@ -1530,15 +1647,6 @@
         "type": "meetup"
     },
     {
-        "title": "OpenShift + Falco + giveaways",
-        "event_date": "September 10, 2024",
-        "location": "Cambridge, United States",
-        "link": "https://dev.events/conferences/open-shift-falco-giveaways-303076539",
-        "published": "Wed, 28 Aug 2024 03:43:07 GMT",
-        "category": "Docker / Kubernetes",
-        "type": "meetup"
-    },
-    {
         "title": "Simulation Sessions @ Gray Area | Monday September 16th @ 6PM",
         "event_date": "September 17, 2024",
         "location": "San Francisco, United States",
@@ -1563,15 +1671,6 @@
         "link": "https://dev.events/conferences/dev-ops-kc-fall-into-re-bac-and-permissions-as-a-service-302403141",
         "published": "Tue, 27 Aug 2024 23:03:58 GMT",
         "category": "DevOps",
-        "type": "meetup"
-    },
-    {
-        "title": "Cocoaheads",
-        "event_date": "September 10, 2024",
-        "location": "Columbus, United States",
-        "link": "https://dev.events/conferences/cocoaheads-302969405",
-        "published": "Tue, 27 Aug 2024 23:01:43 GMT",
-        "category": "iOS / Swift",
         "type": "meetup"
     },
     {
@@ -1617,15 +1716,6 @@
         "link": "https://dev.events/conferences/workspace-build-with-ai-boston-302290777",
         "published": "Tue, 27 Aug 2024 22:02:50 GMT",
         "category": "AI / ML",
-        "type": "meetup"
-    },
-    {
-        "title": "How Modern Software Gets Deployed? by Jason Maggard from Atlantis Technology",
-        "event_date": "September 10, 2024",
-        "location": "Richmond, United States",
-        "link": "https://dev.events/conferences/how-modern-software-gets-deployed-by-jason-maggard-from-atlantis-technology-302476781",
-        "published": "Tue, 27 Aug 2024 22:01:12 GMT",
-        "category": "JavaScript",
         "type": "meetup"
     },
     {
@@ -1689,15 +1779,6 @@
         "link": "https://dev.events/conferences/git-n-sip-monthly-meetup-303059398",
         "published": "Mon, 26 Aug 2024 21:22:51 GMT",
         "category": "DevOps",
-        "type": "meetup"
-    },
-    {
-        "title": "Domain Driven Design using CQRS and Mediatr with Tom Becker",
-        "event_date": "September 10, 2024",
-        "location": "Virginia Beach, United States",
-        "link": "https://dev.events/conferences/domain-driven-design-using-cqrs-and-mediatr-with-tom-becker-303049280",
-        "published": "Mon, 26 Aug 2024 19:24:19 GMT",
-        "category": "DDD",
         "type": "meetup"
     },
     {
@@ -2052,24 +2133,6 @@
         "type": "meetup"
     },
     {
-        "title": "Drive Business Growth via An Outcome-Focused Approach to Prioritization",
-        "event_date": "September 10, 2024",
-        "location": "Tampa, United States",
-        "link": "https://dev.events/conferences/drive-business-growth-via-an-outcome-focused-approach-to-prioritization-302987286",
-        "published": "Fri, 23 Aug 2024 01:41:02 GMT",
-        "category": "Testing / QA",
-        "type": "meetup"
-    },
-    {
-        "title": "BoulderJS - Meet and Greet",
-        "event_date": "September 10, 2024",
-        "location": "Boulder, United States",
-        "link": "https://dev.events/conferences/boulder-js-meet-and-greet-302926705",
-        "published": "Fri, 23 Aug 2024 00:00:45 GMT",
-        "category": "JavaScript",
-        "type": "meetup"
-    },
-    {
         "title": "Mark Richards! The Intersection of Architecture and Implementation",
         "event_date": "September 27, 2024",
         "location": "South Jordan, United States",
@@ -2332,7 +2395,7 @@
     },
     {
         "title": "DevOps Boulder Monthly!",
-        "event_date": "September 17, 2024",
+        "event_date": "September 13, 2024",
         "location": "Boulder, United States",
         "link": "https://dev.events/conferences/dev-ops-boulder-monthly-302804670",
         "published": "Tue, 20 Aug 2024 00:41:32 GMT",
@@ -2428,15 +2491,6 @@
         "published": "Sat, 17 Aug 2024 12:24:25 GMT",
         "category": "PHP",
         "type": "conference"
-    },
-    {
-        "title": "[External registration] The 3rd AI Alliance Meetup @ Unstructured Data Meetup",
-        "event_date": "September 10, 2024",
-        "location": "San Francisco, United States",
-        "link": "https://dev.events/conferences/external-registration-the-3rd-ai-alliance-meetup-unstructured-data-meetup-302870140",
-        "published": "Sat, 17 Aug 2024 01:21:23 GMT",
-        "category": "AI / ML",
-        "type": "meetup"
     },
     {
         "title": "Platform Engineering & DevOps MeetUp @ Three Notch\u2019d Craft Kitchen and Brewing",
@@ -2691,57 +2745,12 @@
         "type": "meetup"
     },
     {
-        "title": "ReactJS Dallas monthly event",
-        "event_date": "September 10, 2024",
-        "location": "Frisco, United States",
-        "link": "https://dev.events/conferences/react-js-dallas-monthly-event-299972090",
-        "published": "Tue, 13 Aug 2024 23:40:21 GMT",
-        "category": "React",
-        "type": "meetup"
-    },
-    {
         "title": "KYPHPUG Monthly Meeting",
-        "event_date": "September 10, 2024",
+        "event_date": "October 8, 2024",
         "location": "Lexington, United States",
         "link": "https://dev.events/conferences/kyphpug-monthly-meeting-null",
         "published": "Tue, 13 Aug 2024 23:23:15 GMT",
         "category": "PHP",
-        "type": "meetup"
-    },
-    {
-        "title": "#FrontEndParty",
-        "event_date": "September 10, 2024",
-        "location": "New Orleans, United States",
-        "link": "https://dev.events/conferences/front-end-party-301824457",
-        "published": "Tue, 13 Aug 2024 22:40:09 GMT",
-        "category": "Web / Frontend",
-        "type": "meetup"
-    },
-    {
-        "title": "Software Developer Meetup!",
-        "event_date": "September 10, 2024",
-        "location": "Johnson City, United States",
-        "link": "https://dev.events/conferences/software-developer-meetup-301580758",
-        "published": "Tue, 13 Aug 2024 22:03:23 GMT",
-        "category": ".NET",
-        "type": "meetup"
-    },
-    {
-        "title": "Tech Tuesday",
-        "event_date": "September 10, 2024",
-        "location": "Savannah, United States",
-        "link": "https://dev.events/conferences/tech-tuesday-299526460",
-        "published": "Tue, 13 Aug 2024 21:40:36 GMT",
-        "category": "Tech",
-        "type": "meetup"
-    },
-    {
-        "title": "Jason Maggard will be our speaker.",
-        "event_date": "September 10, 2024",
-        "location": "Richmond, United States",
-        "link": "https://dev.events/conferences/jason-maggard-will-be-our-speaker-302476781",
-        "published": "Tue, 13 Aug 2024 21:40:17 GMT",
-        "category": "JavaScript",
         "type": "meetup"
     },
     {
@@ -2859,15 +2868,6 @@
         "link": "https://dev.events/conferences/aws-accelerator-neural-seek-by-cerebral-blue-no-code-gen-ai-platform-299073001",
         "published": "Sat, 10 Aug 2024 00:41:49 GMT",
         "category": "AWS",
-        "type": "meetup"
-    },
-    {
-        "title": "FreeIPA Web UI With Adam Young!",
-        "event_date": "September 10, 2024",
-        "location": "Portland, United States",
-        "link": "https://dev.events/conferences/free-ipa-web-ui-with-adam-young-300656739",
-        "published": "Fri, 09 Aug 2024 18:40:22 GMT",
-        "category": "UI / UX",
         "type": "meetup"
     },
     {
@@ -3013,15 +3013,6 @@
         "published": "Thu, 08 Aug 2024 19:05:47 GMT",
         "category": "AI / ML",
         "type": "conference"
-    },
-    {
-        "title": "September Meetup",
-        "event_date": "September 10, 2024",
-        "location": "Portland, United States",
-        "link": "https://dev.events/conferences/september-meetup-300656739",
-        "published": "Thu, 08 Aug 2024 16:40:16 GMT",
-        "category": "JavaScript",
-        "type": "meetup"
     },
     {
         "title": "The Wonders of Abstraction, by Eric Normand (Keynote Rehearsal)",
@@ -3399,15 +3390,6 @@
         "link": "https://dev.events/conferences/test-automation-summit-denver-ywtugza",
         "published": "Wed, 17 Jul 2024 16:32:00 GMT",
         "category": "Testing / QA",
-        "type": "conference"
-    },
-    {
-        "title": "Cybersecurity Summit | Dallas",
-        "event_date": "September 10, 2024",
-        "location": "Dallas, United States",
-        "link": "https://dev.events/conferences/cybersecurity-summit-dallas-7wl1xwbd",
-        "published": "Wed, 17 Jul 2024 16:28:14 GMT",
-        "category": "Cybersecurity / InfoSec",
         "type": "conference"
     },
     {
@@ -4275,15 +4257,6 @@
         "type": "conference"
     },
     {
-        "title": "GraphQLConf",
-        "event_date": "September 10, 2024",
-        "location": "San Francisco, United States",
-        "link": "https://dev.events/conferences/graph-ql-conf-mg9ibaj",
-        "published": "Fri, 05 Apr 2024 07:42:21 GMT",
-        "category": "API",
-        "type": "conference"
-    },
-    {
         "title": "Mindful Leader Summit 2024",
         "event_date": "September 26, 2024",
         "location": "Washington, United States",
@@ -4689,15 +4662,6 @@
         "type": "conference"
     },
     {
-        "title": "Airflow Summit 2024",
-        "event_date": "September 10, 2024",
-        "location": "San Francisco, United States",
-        "link": "https://dev.events/conferences/airflow-summit-2024-r5i-l3l-wh",
-        "published": "Sat, 27 Jan 2024 15:02:35 GMT",
-        "category": "Software architecture",
-        "type": "conference"
-    },
-    {
         "title": "HashiConf 2024",
         "event_date": "October 14, 2024",
         "location": "Boston, United States",
@@ -4884,15 +4848,6 @@
         "link": "https://dev.events/conferences/pnsqc-portland-9-2024",
         "published": "Fri, 17 Nov 2023 13:48:20 GMT",
         "category": "Testing / QA",
-        "type": "conference"
-    },
-    {
-        "title": "AI Hardware & Edge AI Summit",
-        "event_date": "September 10, 2024",
-        "location": "San Jose, United States",
-        "link": "https://dev.events/conferences/ai-hardware-and-edge-ai-summit-san-jose-8-2024",
-        "published": "Fri, 17 Nov 2023 11:36:12 GMT",
-        "category": "Hardware / IoT",
         "type": "conference"
     },
     {
