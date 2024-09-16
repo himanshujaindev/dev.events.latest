@@ -1,5 +1,95 @@
 [
     {
+        "title": "Southside Social (Kent)",
+        "event_date": "September 17, 2024",
+        "location": "Kent, United States",
+        "link": "https://dev.events/conferences/southside-social-kent-303025772",
+        "published": "Sun, 15 Sep 2024 22:00:30 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "Monthly Meetup",
+        "event_date": "September 20, 2024",
+        "location": "Anchorage, United States",
+        "link": "https://dev.events/conferences/monthly-meetup-303151875",
+        "published": "Sun, 15 Sep 2024 22:00:08 GMT",
+        "category": "Tech",
+        "type": "meetup"
+    },
+    {
+        "title": "Vue.js Project Day",
+        "event_date": "September 22, 2024",
+        "location": "Indianapolis, United States",
+        "link": "https://dev.events/conferences/vue-js-project-day-303202562",
+        "published": "Sun, 15 Sep 2024 20:01:34 GMT",
+        "category": "Vue",
+        "type": "meetup"
+    },
+    {
+        "title": "Game Dev Work & Play",
+        "event_date": "September 22, 2024",
+        "location": "Nashville, United States",
+        "link": "https://dev.events/conferences/game-dev-work-and-play-303200816",
+        "published": "Sun, 15 Sep 2024 19:00:16 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "Taking a look at abstractions",
+        "event_date": "October 1, 2024",
+        "location": "Denver, United States",
+        "link": "https://dev.events/conferences/taking-a-look-at-abstractions-303448645",
+        "published": "Sun, 15 Sep 2024 18:44:11 GMT",
+        "category": "Golang",
+        "type": "meetup"
+    },
+    {
+        "title": "Ludum Dare 56",
+        "event_date": "October 4, 2024",
+        "location": "Louisville, United States",
+        "link": "https://dev.events/conferences/ludum-dare-56-303106840",
+        "published": "Sun, 15 Sep 2024 18:00:43 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "St. Louis Code and Coffee",
+        "event_date": "September 29, 2024",
+        "location": "University City, United States",
+        "link": "https://dev.events/conferences/st-louis-code-and-coffee-301820291",
+        "published": "Sun, 15 Sep 2024 17:02:03 GMT",
+        "category": "Tech",
+        "type": "meetup"
+    },
+    {
+        "title": "Columbus Containers and Friends Meetup at Improving 6:30 pm!",
+        "event_date": "September 17, 2024",
+        "location": "Columbus, United States",
+        "link": "https://dev.events/conferences/columbus-containers-and-friends-meetup-at-improving-6-30-pm-303432544",
+        "published": "Sun, 15 Sep 2024 16:42:46 GMT",
+        "category": "Docker / Kubernetes",
+        "type": "meetup"
+    },
+    {
+        "title": "Coffee and Game Dev Sundays at Six Twelve",
+        "event_date": "September 29, 2024",
+        "location": "Fayetteville, United States",
+        "link": "https://dev.events/conferences/coffee-and-game-dev-sundays-at-six-twelve-303333208",
+        "published": "Sun, 15 Sep 2024 15:00:04 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "Case Study \u2013 Building Intelligent Apps & AI for Organizations",
+        "event_date": "September 18, 2024",
+        "location": "Woodbridge Township, United States",
+        "link": "https://dev.events/conferences/case-study-building-intelligent-apps-and-ai-for-organizations-303433575",
+        "published": "Sun, 15 Sep 2024 01:03:26 GMT",
+        "category": "AI / ML",
+        "type": "meetup"
+    },
+    {
         "title": "Queer UX Designers Network in San Francisco | Product Design | UX | UI",
         "event_date": "November 23, 2024",
         "location": "San Francisco, United States",
@@ -15,15 +105,6 @@
         "link": "https://dev.events/conferences/immersed-visor-report-review-301658593",
         "published": "Sat, 14 Sep 2024 20:21:05 GMT",
         "category": "AR / VR / XR",
-        "type": "meetup"
-    },
-    {
-        "title": "Seattle Indies Board Game Meetup",
-        "event_date": "September 15, 2024",
-        "location": "Seattle, United States",
-        "link": "https://dev.events/conferences/seattle-indies-board-game-meetup-302265712",
-        "published": "Sat, 14 Sep 2024 20:00:22 GMT",
-        "category": "Game dev",
         "type": "meetup"
     },
     {
@@ -549,15 +630,6 @@
         "type": "meetup"
     },
     {
-        "title": "Game Creators Meetup",
-        "event_date": "September 15, 2024",
-        "location": "Louisville, United States",
-        "link": "https://dev.events/conferences/game-creators-meetup-303062435",
-        "published": "Thu, 12 Sep 2024 14:00:20 GMT",
-        "category": "Game dev",
-        "type": "meetup"
-    },
-    {
         "title": "C&C at [RoundBird]",
         "event_date": "September 16, 2024",
         "location": "Jacksonville Beach, United States",
@@ -825,15 +897,6 @@
         "link": "https://dev.events/conferences/honolulu-tech-week-presents-ai-xr-sunset-mai-tai-cruise-303364925",
         "published": "Wed, 11 Sep 2024 07:20:36 GMT",
         "category": "AI / ML",
-        "type": "meetup"
-    },
-    {
-        "title": "Making Retro Games: Dan Salvato @ The MADE",
-        "event_date": "September 15, 2024",
-        "location": "Oakland, United States",
-        "link": "https://dev.events/conferences/making-retro-games-dan-salvato-the-made-303356815",
-        "published": "Wed, 11 Sep 2024 06:40:19 GMT",
-        "category": "Game dev",
         "type": "meetup"
     },
     {
@@ -1170,29 +1233,11 @@
         "type": "meetup"
     },
     {
-        "title": "Vue.js Project Day",
-        "event_date": "September 15, 2024",
-        "location": "Indianapolis, United States",
-        "link": "https://dev.events/conferences/vue-js-project-day-303063154",
-        "published": "Sun, 08 Sep 2024 20:01:32 GMT",
-        "category": "Vue",
-        "type": "meetup"
-    },
-    {
         "title": "Strawberry Jam",
         "event_date": "September 22, 2024",
         "location": "Los Angeles, United States",
         "link": "https://dev.events/conferences/strawberry-jam-303200749",
         "published": "Sun, 08 Sep 2024 19:00:29 GMT",
-        "category": "Game dev",
-        "type": "meetup"
-    },
-    {
-        "title": "Game Dev Work & Play",
-        "event_date": "September 15, 2024",
-        "location": "Nashville, United States",
-        "link": "https://dev.events/conferences/game-dev-work-and-play-302138376",
-        "published": "Sun, 08 Sep 2024 19:00:05 GMT",
         "category": "Game dev",
         "type": "meetup"
     },
@@ -1746,39 +1791,12 @@
         "type": "meetup"
     },
     {
-        "title": "Game Dev Hang - Dock Street Brewery",
-        "event_date": "September 15, 2024",
-        "location": "Philadelphia , United States",
-        "link": "https://dev.events/conferences/game-dev-hang-dock-street-brewery-303173342",
-        "published": "Sun, 01 Sep 2024 23:00:13 GMT",
-        "category": "Game dev",
-        "type": "meetup"
-    },
-    {
-        "title": "PyIrvine Office Hours: Where Python Enthusiasts Connect!",
-        "event_date": "September 15, 2024",
-        "location": "Newport Beach, United States",
-        "link": "https://dev.events/conferences/py-irvine-office-hours-where-python-enthusiasts-connect-303067084",
-        "published": "Sun, 01 Sep 2024 22:04:32 GMT",
-        "category": "Python",
-        "type": "meetup"
-    },
-    {
         "title": "Polyglot Pipelines with Apache Nifi by Bob Paulin",
         "event_date": "September 19, 2024",
         "location": "Chicago, United States",
         "link": "https://dev.events/conferences/polyglot-pipelines-with-apache-nifi-by-bob-paulin-302966436",
         "published": "Sun, 01 Sep 2024 19:44:45 GMT",
         "category": "Java",
-        "type": "meetup"
-    },
-    {
-        "title": "St. Louis Code and Coffee",
-        "event_date": "September 15, 2024",
-        "location": "University City, United States",
-        "link": "https://dev.events/conferences/st-louis-code-and-coffee-301820289",
-        "published": "Sun, 01 Sep 2024 17:01:46 GMT",
-        "category": "Tech",
         "type": "meetup"
     },
     {
@@ -1789,15 +1807,6 @@
         "published": "Sun, 01 Sep 2024 15:28:33 GMT",
         "category": "DevOps",
         "type": "conference"
-    },
-    {
-        "title": "Coffee and Game Dev Sundays at Six Twelve",
-        "event_date": "September 15, 2024",
-        "location": "Fayetteville, United States",
-        "link": "https://dev.events/conferences/coffee-and-game-dev-sundays-at-six-twelve-303052768",
-        "published": "Sun, 01 Sep 2024 15:00:05 GMT",
-        "category": "Game dev",
-        "type": "meetup"
     },
     {
         "title": "AI Summit New York 2024",
@@ -2520,30 +2529,12 @@
         "type": "meetup"
     },
     {
-        "title": "Monthly Game Creator Meetup (Sept)",
-        "event_date": "September 15, 2024",
-        "location": "Anchorage, United States",
-        "link": "https://dev.events/conferences/monthly-game-creator-meetup-sept-302922318",
-        "published": "Sat, 24 Aug 2024 14:40:18 GMT",
-        "category": "Tech",
-        "type": "meetup"
-    },
-    {
         "title": "New(er) Ways to deploy Linux",
         "event_date": "September 28, 2024",
         "location": "Fredericksburg, United States",
         "link": "https://dev.events/conferences/new-er-ways-to-deploy-linux-301522611",
         "published": "Sat, 24 Aug 2024 13:42:35 GMT",
         "category": "Linux / OS",
-        "type": "meetup"
-    },
-    {
-        "title": "Queer UX Designers Network in San Francisco | Product Design | UX | UI",
-        "event_date": "September 15, 2024",
-        "location": "San Francisco, United States",
-        "link": "https://dev.events/conferences/queer-ux-designers-network-in-san-francisco-product-design-ux-ui-302817859",
-        "published": "Sat, 24 Aug 2024 13:21:01 GMT",
-        "category": "UI / UX",
         "type": "meetup"
     },
     {
@@ -5010,15 +5001,6 @@
         "link": "https://dev.events/conferences/smashing-conf-new-york-new-york-9-2024",
         "published": "Wed, 22 Nov 2023 12:59:17 GMT",
         "category": "Web / Frontend",
-        "type": "conference"
-    },
-    {
-        "title": "CppCon 2024",
-        "event_date": "September 15, 2024",
-        "location": "Aurora, United States",
-        "link": "https://dev.events/conferences/cpp-con-aurora-8-2024",
-        "published": "Fri, 17 Nov 2023 14:25:42 GMT",
-        "category": "C/C++",
         "type": "conference"
     },
     {
