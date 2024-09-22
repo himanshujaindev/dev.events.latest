@@ -1,5 +1,32 @@
 [
     {
+        "title": "Meetup #94: Enterprise Architecture, Edge AI and more",
+        "event_date": "October 26, 2024",
+        "location": "Bangalore, India",
+        "link": "https://dev.events/conferences/meetup-94-enterprise-architecture-edge-ai-and-more-303565833",
+        "published": "Sat, 21 Sep 2024 15:21:21 GMT",
+        "category": "AI / ML",
+        "type": "meetup"
+    },
+    {
+        "title": "TechXConf - AI & Cloud Conference 2024",
+        "event_date": "November 15, 2024",
+        "location": "Chennai, India",
+        "link": "https://dev.events/conferences/tech-x-conf-ai-and-cloud-conference-2024-303500910",
+        "published": "Sat, 21 Sep 2024 13:08:21 GMT",
+        "category": "AI / ML",
+        "type": "meetup"
+    },
+    {
+        "title": "ILUGC Monthly Meet",
+        "event_date": "October 12, 2024",
+        "location": "Chennai, India",
+        "link": "https://dev.events/conferences/ilugc-monthly-meet-302902837",
+        "published": "Sat, 21 Sep 2024 04:03:26 GMT",
+        "category": "Linux / OS",
+        "type": "meetup"
+    },
+    {
         "title": "[Geeknight CBE] [Edition 72] AI and the Evolution of Human roles",
         "event_date": "September 26, 2024",
         "location": "Coimbatore, India",
@@ -69,15 +96,6 @@
         "link": "https://dev.events/conferences/js-lovers-pune-september-2024-meetup-302751894",
         "published": "Thu, 19 Sep 2024 07:01:38 GMT",
         "category": "JavaScript",
-        "type": "meetup"
-    },
-    {
-        "title": "AI/ML September 2024 | DevDays Hyderabad",
-        "event_date": "September 21, 2024",
-        "location": "Hyderabad, India",
-        "link": "https://dev.events/conferences/ai-ml-september-2024-dev-days-hyderabad-303520522",
-        "published": "Thu, 19 Sep 2024 05:23:19 GMT",
-        "category": "AI / ML",
         "type": "meetup"
     },
     {
@@ -168,24 +186,6 @@
         "link": "https://dev.events/conferences/quarterly-large-scale-production-engineering-lspe-meet-up-298771549",
         "published": "Sat, 14 Sep 2024 05:22:04 GMT",
         "category": "SRE",
-        "type": "meetup"
-    },
-    {
-        "title": "Achieving Robust Security Compliance and Governance Strategies in AWS",
-        "event_date": "September 21, 2024",
-        "location": "Pune, India",
-        "link": "https://dev.events/conferences/achieving-robust-security-compliance-and-governance-strategies-in-aws-303406484",
-        "published": "Fri, 13 Sep 2024 07:03:22 GMT",
-        "category": "Cybersecurity / InfoSec",
-        "type": "meetup"
-    },
-    {
-        "title": "ILUGC Monthly Meet and SFD Event",
-        "event_date": "September 21, 2024",
-        "location": "Chennai, India",
-        "link": "https://dev.events/conferences/ilugc-monthly-meet-and-sfd-event-302765475",
-        "published": "Fri, 13 Sep 2024 06:43:39 GMT",
-        "category": "Linux / OS",
         "type": "meetup"
     },
     {
@@ -297,66 +297,12 @@
         "type": "meetup"
     },
     {
-        "title": "Unlock the future of cloud at AWS Commuinity Day Delhi 2024!",
-        "event_date": "September 21, 2024",
-        "location": "New Delhi, India",
-        "link": "https://dev.events/conferences/unlock-the-future-of-cloud-at-aws-commuinity-day-delhi-2024-303229661",
-        "published": "Thu, 05 Sep 2024 20:03:09 GMT",
-        "category": "Cloud",
-        "type": "meetup"
-    },
-    {
-        "title": "Kubetools Day 3.0 Show-n-Tell",
-        "event_date": "September 21, 2024",
-        "location": "Bangalore, India",
-        "link": "https://dev.events/conferences/kubetools-day-3-0-show-n-tell-303251196",
-        "published": "Thu, 05 Sep 2024 06:43:35 GMT",
-        "category": "Docker / Kubernetes",
-        "type": "meetup"
-    },
-    {
-        "title": "Devtron x React Delhi | September Meetup",
-        "event_date": "September 21, 2024",
-        "location": "Gurugram, India",
-        "link": "https://dev.events/conferences/devtron-x-react-delhi-september-meetup-303169307",
-        "published": "Sun, 01 Sep 2024 19:44:27 GMT",
-        "category": "React",
-        "type": "meetup"
-    },
-    {
-        "title": "September Meetup",
-        "event_date": "September 21, 2024",
-        "location": "Pune, India",
-        "link": "https://dev.events/conferences/september-meetup-303153624",
-        "published": "Sat, 31 Aug 2024 14:41:43 GMT",
-        "category": "Ruby",
-        "type": "meetup"
-    },
-    {
-        "title": "Devtron X React Delhi | September Meetup",
-        "event_date": "September 21, 2024",
-        "location": "Gurugram, India",
-        "link": "https://dev.events/conferences/devtron-x-react-delhi-september-meetup-303111894",
-        "published": "Thu, 29 Aug 2024 22:01:13 GMT",
-        "category": "React",
-        "type": "meetup"
-    },
-    {
         "title": "AWS Pune September Meetup: Cloud Journey with AWS",
         "event_date": "September 22, 2024",
         "location": "Pune, India",
         "link": "https://dev.events/conferences/aws-pune-september-meetup-cloud-journey-with-aws-303070963",
         "published": "Thu, 29 Aug 2024 11:43:58 GMT",
         "category": "AWS",
-        "type": "meetup"
-    },
-    {
-        "title": "Recruitment Workshop-Pair Sourcing (Agile way of Recruiting)",
-        "event_date": "September 21, 2024",
-        "location": "Pune, India",
-        "link": "https://dev.events/conferences/recruitment-workshop-pair-sourcing-agile-way-of-recruiting-303047768",
-        "published": "Mon, 26 Aug 2024 07:00:47 GMT",
-        "category": "Agile",
         "type": "meetup"
     },
     {
@@ -378,39 +324,12 @@
         "type": "meetup"
     },
     {
-        "title": "Kubetools Day 3.0 Show-n-Tell",
-        "event_date": "September 21, 2024",
-        "location": "Bangalore, India",
-        "link": "https://dev.events/conferences/kubetools-day-3-0-show-n-tell-302507128",
-        "published": "Sat, 24 Aug 2024 03:42:34 GMT",
-        "category": "DevOps",
-        "type": "meetup"
-    },
-    {
         "title": "Microsoft Azure Skillup Tamilnadu Session 3",
         "event_date": "September 28, 2024",
         "location": "Chennai, India",
         "link": "https://dev.events/conferences/microsoft-azure-skillup-tamilnadu-session-3-302941752",
         "published": "Sat, 24 Aug 2024 03:42:30 GMT",
         "category": "Microsoft",
-        "type": "meetup"
-    },
-    {
-        "title": "Bangalore SRE Meetup",
-        "event_date": "September 21, 2024",
-        "location": "Bengaluru, India",
-        "link": "https://dev.events/conferences/bangalore-sre-meetup-302999054",
-        "published": "Fri, 23 Aug 2024 14:43:20 GMT",
-        "category": "SRE",
-        "type": "meetup"
-    },
-    {
-        "title": "[In-Person - September] Secure your Java Application",
-        "event_date": "September 21, 2024",
-        "location": "Bengaluru, Bellandur Amanikere, India",
-        "link": "https://dev.events/conferences/in-person-september-secure-your-java-application-302995568",
-        "published": "Fri, 23 Aug 2024 09:43:47 GMT",
-        "category": "Java",
         "type": "meetup"
     },
     {
@@ -448,15 +367,6 @@
         "published": "Thu, 08 Aug 2024 17:02:42 GMT",
         "category": "AI / ML",
         "type": "meetup"
-    },
-    {
-        "title": "Google Cloud Community Day Pune 2024",
-        "event_date": "September 21, 2024",
-        "location": "Pune, India",
-        "link": "https://dev.events/conferences/google-cloud-community-day-pune-2024-qxmeobfa",
-        "published": "Wed, 07 Aug 2024 21:17:41 GMT",
-        "category": "Cloud",
-        "type": "conference"
     },
     {
         "title": "India Game Developer Conference 2024",
