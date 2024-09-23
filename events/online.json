@@ -1,5 +1,131 @@
 [
     {
+        "title": "Monthly Meetup",
+        "event_date": "October 16, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/monthly-meetup-303590621",
+        "published": "Sun, 22 Sep 2024 23:02:21 GMT",
+        "category": "Ruby",
+        "type": "meetup"
+    },
+    {
+        "title": "Introducci\u00f3n .NET Aspire",
+        "event_date": "October 3, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/introduccion-net-aspire-303531284",
+        "published": "Sun, 22 Sep 2024 22:07:11 GMT",
+        "category": ".NET",
+        "type": "meetup"
+    },
+    {
+        "title": "System Design Hands On and Discussion",
+        "event_date": "September 24, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/system-design-hands-on-and-discussion-303287203",
+        "published": "Sun, 22 Sep 2024 22:02:35 GMT",
+        "category": "Tech",
+        "type": "meetup"
+    },
+    {
+        "title": "Writer's Room",
+        "event_date": "September 27, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/writer-s-room-302595962",
+        "published": "Sun, 22 Sep 2024 18:00:46 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "SHIPPED 2024",
+        "event_date": "November 20, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/shipped-2024-yhh6ximo",
+        "published": "Sun, 22 Sep 2024 17:15:32 GMT",
+        "category": "Cloud",
+        "type": "conference"
+    },
+    {
+        "title": "Cyber AI & Automation Summit",
+        "event_date": "December 4, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/cyber-ai-and-automation-summit-p1u8mphi",
+        "published": "Sun, 22 Sep 2024 17:09:09 GMT",
+        "category": "AI / ML",
+        "type": "conference"
+    },
+    {
+        "title": "Halifax Indie Devs Virtual Play and Tell",
+        "event_date": "October 6, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/halifax-indie-devs-virtual-play-and-tell-303339189",
+        "published": "Sun, 22 Sep 2024 17:00:45 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "Indy.rs - Ezra Singh on Rust's HashMap",
+        "event_date": "October 2, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/indy-rs-ezra-singh-on-rust-s-hash-map-302031649",
+        "published": "Sun, 22 Sep 2024 16:07:19 GMT",
+        "category": "Rust",
+        "type": "meetup"
+    },
+    {
+        "title": "Coimbatore JavaScript Group - Online Meetup (September 2024)",
+        "event_date": "September 28, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/coimbatore-java-script-group-online-meetup-september-2024-303583936",
+        "published": "Sun, 22 Sep 2024 16:02:32 GMT",
+        "category": "JavaScript",
+        "type": "meetup"
+    },
+    {
+        "title": "Live Webinar: What's New in GitLab + GitLab AI + Q & A + Trends",
+        "event_date": "September 30, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/live-webinar-what-s-new-in-git-lab-git-lab-ai-q-and-a-trends-303581177",
+        "published": "Sun, 22 Sep 2024 13:13:51 GMT",
+        "category": "AI / ML",
+        "type": "meetup"
+    },
+    {
+        "title": "OKRs for Startup Success - Online",
+        "event_date": "October 5, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/ok-rs-for-startup-success-online-303580689",
+        "published": "Sun, 22 Sep 2024 12:21:07 GMT",
+        "category": "Startup",
+        "type": "meetup"
+    },
+    {
+        "title": "OKRs for Startup Success - Online Session",
+        "event_date": "October 5, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/ok-rs-for-startup-success-online-session-303579805",
+        "published": "Sun, 22 Sep 2024 10:44:26 GMT",
+        "category": "Startup",
+        "type": "meetup"
+    },
+    {
+        "title": "Database Session - Day 5",
+        "event_date": "September 28, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/database-session-day-5-302966503",
+        "published": "Sun, 22 Sep 2024 09:43:42 GMT",
+        "category": "Data / Database",
+        "type": "meetup"
+    },
+    {
+        "title": "AI SHOW :AI/GENERATIVE AI - (LLM) USE CASESAI NEWS",
+        "event_date": "September 24, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/ai-show-ai-generative-ai-llm-use-cases-ai-news-302916002",
+        "published": "Sun, 22 Sep 2024 08:01:52 GMT",
+        "category": "AI / ML",
+        "type": "meetup"
+    },
+    {
         "title": "Virtual Lunch!",
         "event_date": "September 23, 2024",
         "location": "Online",
@@ -81,30 +207,12 @@
         "type": "meetup"
     },
     {
-        "title": "Database Session - Day 4",
-        "event_date": "September 22, 2024",
-        "location": "Online",
-        "link": "https://dev.events/conferences/database-session-day-4-302966487",
-        "published": "Sat, 21 Sep 2024 14:03:54 GMT",
-        "category": "Data / Database",
-        "type": "meetup"
-    },
-    {
         "title": "[ONLINE] Game Dev Meetup (Main Monthly Meetup)",
         "event_date": "October 5, 2024",
         "location": "Online",
         "link": "https://dev.events/conferences/online-game-dev-meetup-main-monthly-meetup-303093514",
         "published": "Sat, 21 Sep 2024 14:00:08 GMT",
         "category": "Game dev",
-        "type": "meetup"
-    },
-    {
-        "title": "Data Science/AI Career Talk",
-        "event_date": "September 22, 2024",
-        "location": "Online",
-        "link": "https://dev.events/conferences/data-science-ai-career-talk-301112235",
-        "published": "Sat, 21 Sep 2024 12:58:52 GMT",
-        "category": "Data / Database",
         "type": "meetup"
     },
     {
@@ -465,15 +573,6 @@
         "link": "https://dev.events/conferences/come-discuss-topics-of-the-day-in-linux-open-source-and-information-technology-303473089",
         "published": "Thu, 19 Sep 2024 22:03:25 GMT",
         "category": "Linux / OS",
-        "type": "meetup"
-    },
-    {
-        "title": "Virtual Sundays Hosted by Guillermo",
-        "event_date": "September 22, 2024",
-        "location": "Online",
-        "link": "https://dev.events/conferences/virtual-sundays-hosted-by-guillermo-303198354",
-        "published": "Thu, 19 Sep 2024 22:02:39 GMT",
-        "category": "Tech",
         "type": "meetup"
     },
     {
@@ -2934,15 +3033,6 @@
         "type": "conference"
     },
     {
-        "title": "Analytics Conference 2024",
-        "event_date": "September 22, 2024",
-        "location": "Yekaterinburg, Russia and Online",
-        "link": "https://dev.events/conferences/analytics-conference-2024-s1b6yikw",
-        "published": "Sun, 01 Sep 2024 14:12:57 GMT",
-        "category": "Business Analysis",
-        "type": "conference"
-    },
-    {
         "title": "Podlodka Java Crew",
         "event_date": "November 18, 2024",
         "location": "Online",
@@ -3295,11 +3385,20 @@
     },
     {
         "title": "FC Game Development and Unity SIG",
-        "event_date": "September 22, 2024",
+        "event_date": "October 27, 2024",
         "location": "Online",
         "link": "https://dev.events/conferences/fc-game-development-and-unity-sig-null",
         "published": "Sun, 25 Aug 2024 23:00:26 GMT",
         "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "Monthly Thursdays Hosted by Zack Wheeler",
+        "event_date": "October 17, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/monthly-thursdays-hosted-by-zack-wheeler-null",
+        "published": "Sun, 25 Aug 2024 17:41:27 GMT",
+        "category": "Tech",
         "type": "meetup"
     },
     {
@@ -3380,15 +3479,6 @@
         "location": "Online",
         "link": "https://dev.events/conferences/lecture-null",
         "published": "Sat, 24 Aug 2024 13:00:52 GMT",
-        "category": "Game dev",
-        "type": "meetup"
-    },
-    {
-        "title": "Unreal Pittsburgh September 2024 Online Meeting",
-        "event_date": "September 22, 2024",
-        "location": "Online",
-        "link": "https://dev.events/conferences/unreal-pittsburgh-september-2024-online-meeting-302396073",
-        "published": "Sat, 24 Aug 2024 13:00:46 GMT",
         "category": "Game dev",
         "type": "meetup"
     },
@@ -4353,15 +4443,6 @@
         "link": "https://dev.events/conferences/sq-ldays-konferenz-orpz96az",
         "published": "Wed, 17 Jul 2024 16:39:39 GMT",
         "category": "SQL",
-        "type": "conference"
-    },
-    {
-        "title": "STARWEST 2024",
-        "event_date": "September 22, 2024",
-        "location": "Anaheim, United States and Online",
-        "link": "https://dev.events/conferences/starwest-2024-y8tqit4m",
-        "published": "Wed, 17 Jul 2024 16:33:06 GMT",
-        "category": "Testing / QA",
         "type": "conference"
     },
     {

@@ -1,5 +1,86 @@
 [
     {
+        "title": "Testing in Production (No Actually)",
+        "event_date": "October 17, 2024",
+        "location": "Madison, United States",
+        "link": "https://dev.events/conferences/testing-in-production-no-actually-303589044",
+        "published": "Sun, 22 Sep 2024 23:03:28 GMT",
+        "category": "Testing / QA",
+        "type": "meetup"
+    },
+    {
+        "title": "Vue.js Project Day",
+        "event_date": "September 29, 2024",
+        "location": "Indianapolis, United States",
+        "link": "https://dev.events/conferences/vue-js-project-day-303340221",
+        "published": "Sun, 22 Sep 2024 20:02:53 GMT",
+        "category": "Vue",
+        "type": "meetup"
+    },
+    {
+        "title": "Game Jam: Ludum Dare #56",
+        "event_date": "October 5, 2024",
+        "location": "Los Angeles, United States",
+        "link": "https://dev.events/conferences/game-jam-ludum-dare-56-303495483",
+        "published": "Sun, 22 Sep 2024 19:00:27 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "Game Dev Work & Play",
+        "event_date": "September 29, 2024",
+        "location": "Nashville, United States",
+        "link": "https://dev.events/conferences/game-dev-work-and-play-303338593",
+        "published": "Sun, 22 Sep 2024 19:00:03 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "IntelliC0N",
+        "event_date": "February 3, 2025",
+        "location": "Austin, United States",
+        "link": "https://dev.events/conferences/intelli-c0-n-yzghsrrd",
+        "published": "Sun, 22 Sep 2024 17:12:27 GMT",
+        "category": "Cybersecurity / InfoSec",
+        "type": "conference"
+    },
+    {
+        "title": "Deep Dish Swift",
+        "event_date": "April 27, 2025",
+        "location": "Chicago, United States",
+        "link": "https://dev.events/conferences/deep-dish-swift-i7jwelt7",
+        "published": "Sun, 22 Sep 2024 17:02:40 GMT",
+        "category": "iOS / Swift",
+        "type": "conference"
+    },
+    {
+        "title": "Kubernetes hands-on - Deploy a web app on EKS",
+        "event_date": "September 25, 2024",
+        "location": "Orlando, United States",
+        "link": "https://dev.events/conferences/kubernetes-hands-on-deploy-a-web-app-on-eks-303319266",
+        "published": "Sun, 22 Sep 2024 15:04:09 GMT",
+        "category": "Docker / Kubernetes",
+        "type": "meetup"
+    },
+    {
+        "title": "Local Event - DevFest Central Florida 2024 [Google Developer Group Central FL]",
+        "event_date": "September 28, 2024",
+        "location": "Sanford, United States",
+        "link": "https://dev.events/conferences/local-event-dev-fest-central-florida-2024-google-developer-group-central-fl-303571713",
+        "published": "Sun, 22 Sep 2024 13:11:54 GMT",
+        "category": "Google",
+        "type": "meetup"
+    },
+    {
+        "title": "LA Tech Meetup",
+        "event_date": "October 5, 2024",
+        "location": "Santa Monica, United States",
+        "link": "https://dev.events/conferences/la-tech-meetup-303577920",
+        "published": "Sun, 22 Sep 2024 06:47:08 GMT",
+        "category": "Tech",
+        "type": "meetup"
+    },
+    {
         "title": "Demo Time! Showcase your StartUp or Pet Project.",
         "event_date": "October 19, 2024",
         "location": "Las Vegas, United States",
@@ -14,15 +95,6 @@
         "location": "Oakland, United States",
         "link": "https://dev.events/conferences/game-dev-coworking-303240624",
         "published": "Sat, 21 Sep 2024 21:00:04 GMT",
-        "category": "Game dev",
-        "type": "meetup"
-    },
-    {
-        "title": "Diversity Collective+ Coffee Chat",
-        "event_date": "September 22, 2024",
-        "location": "Seattle, United States",
-        "link": "https://dev.events/conferences/diversity-collective-coffee-chat-303354772",
-        "published": "Sat, 21 Sep 2024 20:00:44 GMT",
         "category": "Game dev",
         "type": "meetup"
     },
@@ -1008,24 +1080,6 @@
         "type": "meetup"
     },
     {
-        "title": "Vue.js Project Day",
-        "event_date": "September 22, 2024",
-        "location": "Indianapolis, United States",
-        "link": "https://dev.events/conferences/vue-js-project-day-303202562",
-        "published": "Sun, 15 Sep 2024 20:01:34 GMT",
-        "category": "Vue",
-        "type": "meetup"
-    },
-    {
-        "title": "Game Dev Work & Play",
-        "event_date": "September 22, 2024",
-        "location": "Nashville, United States",
-        "link": "https://dev.events/conferences/game-dev-work-and-play-303200816",
-        "published": "Sun, 15 Sep 2024 19:00:16 GMT",
-        "category": "Game dev",
-        "type": "meetup"
-    },
-    {
         "title": "Taking a look at abstractions",
         "event_date": "October 1, 2024",
         "location": "Denver, United States",
@@ -1530,15 +1584,6 @@
         "type": "meetup"
     },
     {
-        "title": "Biweekly event - train for CKA (Certified Kubernetes Adminstrator) together",
-        "event_date": "September 22, 2024",
-        "location": "Orlando , United States",
-        "link": "https://dev.events/conferences/biweekly-event-train-for-cka-certified-kubernetes-adminstrator-together-303314755",
-        "published": "Wed, 11 Sep 2024 23:02:46 GMT",
-        "category": "Docker / Kubernetes",
-        "type": "meetup"
-    },
-    {
         "title": "Derby DevOps MeetUp",
         "event_date": "October 9, 2024",
         "location": "Louisville, United States",
@@ -1554,15 +1599,6 @@
         "link": "https://dev.events/conferences/casual-discussion-doing-dev-and-dev-ops-better-hosted-by-emtec-and-data-motion-null",
         "published": "Wed, 11 Sep 2024 21:43:24 GMT",
         "category": "DevOps",
-        "type": "meetup"
-    },
-    {
-        "title": "Open Source Coffee & Chat",
-        "event_date": "September 22, 2024",
-        "location": "Lafayette, United States",
-        "link": "https://dev.events/conferences/open-source-coffee-and-chat-303198706",
-        "published": "Wed, 11 Sep 2024 21:41:38 GMT",
-        "category": "Open Source",
         "type": "meetup"
     },
     {
@@ -1600,15 +1636,6 @@
         "published": "Wed, 11 Sep 2024 14:00:12 GMT",
         "category": "Drupal",
         "type": "conference"
-    },
-    {
-        "title": "Frederick Code and Coffee: Do You Remember?",
-        "event_date": "September 22, 2024",
-        "location": "Frederick, United States",
-        "link": "https://dev.events/conferences/frederick-code-and-coffee-do-you-remember-303353290",
-        "published": "Wed, 11 Sep 2024 09:40:03 GMT",
-        "category": "Tech",
-        "type": "meetup"
     },
     {
         "title": "Elastic & Microsoft meetup",
@@ -1806,15 +1833,6 @@
         "link": "https://dev.events/conferences/let-s-animate-a-train-in-blender-303201215",
         "published": "Mon, 09 Sep 2024 23:00:33 GMT",
         "category": "AR / VR / XR",
-        "type": "meetup"
-    },
-    {
-        "title": "Strawberry Jam",
-        "event_date": "September 22, 2024",
-        "location": "Los Angeles, United States",
-        "link": "https://dev.events/conferences/strawberry-jam-303200749",
-        "published": "Sun, 08 Sep 2024 19:00:29 GMT",
-        "category": "Game dev",
         "type": "meetup"
     },
     {
@@ -2691,15 +2709,6 @@
         "type": "meetup"
     },
     {
-        "title": "Chicago Code and Coffee September 22nd Meetup @ Capital One Caf\u00e9 State St!",
-        "event_date": "September 22, 2024",
-        "location": "Chicago, United States",
-        "link": "https://dev.events/conferences/chicago-code-and-coffee-september-22nd-meetup-capital-one-cafe-state-st-303015367",
-        "published": "Sat, 24 Aug 2024 06:41:49 GMT",
-        "category": "Tech",
-        "type": "meetup"
-    },
-    {
         "title": "Mark Richards! The Intersection of Architecture and Implementation",
         "event_date": "September 27, 2024",
         "location": "South Jordan, United States",
@@ -3480,15 +3489,6 @@
         "link": "https://dev.events/conferences/alt-4-rebooting-community-after-gamer-gate-90yclhpg",
         "published": "Wed, 17 Jul 2024 16:35:15 GMT",
         "category": "Game dev",
-        "type": "conference"
-    },
-    {
-        "title": "STARWEST 2024",
-        "event_date": "September 22, 2024",
-        "location": "Anaheim, United States and Online",
-        "link": "https://dev.events/conferences/starwest-2024-y8tqit4m",
-        "published": "Wed, 17 Jul 2024 16:33:06 GMT",
-        "category": "Testing / QA",
         "type": "conference"
     },
     {
@@ -4281,15 +4281,6 @@
         "link": "https://dev.events/conferences/js-nation-us-hxbracmg",
         "published": "Tue, 02 Apr 2024 06:28:12 GMT",
         "category": "JavaScript",
-        "type": "conference"
-    },
-    {
-        "title": "DjangoCon US",
-        "event_date": "September 22, 2024",
-        "location": "Durham, United States",
-        "link": "https://dev.events/conferences/django-con-us-jpfzlqhr",
-        "published": "Tue, 02 Apr 2024 06:26:43 GMT",
-        "category": "Django",
         "type": "conference"
     },
     {
