@@ -1,5 +1,104 @@
 [
     {
+        "title": "Las Vegas IGDA Monthly Game Development Meetup",
+        "event_date": "October 27, 2024",
+        "location": "Las Vegas, United States",
+        "link": "https://dev.events/conferences/las-vegas-igda-monthly-game-development-meetup-302620306",
+        "published": "Sun, 29 Sep 2024 22:01:34 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "Vue.js Project Day",
+        "event_date": "October 6, 2024",
+        "location": "Indianapolis, United States",
+        "link": "https://dev.events/conferences/vue-js-project-day-303473805",
+        "published": "Sun, 29 Sep 2024 20:02:23 GMT",
+        "category": "Vue",
+        "type": "meetup"
+    },
+    {
+        "title": "BostonVR Social",
+        "event_date": "October 7, 2024",
+        "location": "Boston, United States",
+        "link": "https://dev.events/conferences/boston-vr-social-303490855",
+        "published": "Sun, 29 Sep 2024 19:02:02 GMT",
+        "category": "AR / VR / XR",
+        "type": "meetup"
+    },
+    {
+        "title": "October Game Dev Drinkup!",
+        "event_date": "October 18, 2024",
+        "location": "Ballwin, United States",
+        "link": "https://dev.events/conferences/october-game-dev-drinkup-303541264",
+        "published": "Sun, 29 Sep 2024 19:00:50 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "Fall Networking Event",
+        "event_date": "September 30, 2024",
+        "location": "Nashville, United States",
+        "link": "https://dev.events/conferences/fall-networking-event-303445669",
+        "published": "Sun, 29 Sep 2024 19:00:04 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "St. Louis Code and Coffee",
+        "event_date": "October 13, 2024",
+        "location": "University City, United States",
+        "link": "https://dev.events/conferences/st-louis-code-and-coffee-301820292",
+        "published": "Sun, 29 Sep 2024 17:04:11 GMT",
+        "category": "Tech",
+        "type": "meetup"
+    },
+    {
+        "title": "Eastside Meetup - Seattle Indies",
+        "event_date": "October 2, 2024",
+        "location": "Redmond, United States",
+        "link": "https://dev.events/conferences/eastside-meetup-seattle-indies-302202886",
+        "published": "Sun, 29 Sep 2024 17:01:11 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "Boston Indies: Demo Night @ All Systems Go",
+        "event_date": "October 1, 2024",
+        "location": "Worcester , United States",
+        "link": "https://dev.events/conferences/boston-indies-demo-night-all-systems-go-302185417",
+        "published": "Sun, 29 Sep 2024 16:00:54 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "Coffee and Game Dev Sundays at Six Twelve",
+        "event_date": "October 13, 2024",
+        "location": "Fayetteville, United States",
+        "link": "https://dev.events/conferences/coffee-and-game-dev-sundays-at-six-twelve-303602908",
+        "published": "Sun, 29 Sep 2024 15:00:05 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "IT Networking @ Scout Ferndale",
+        "event_date": "October 17, 2024",
+        "location": "Ferndale, United States",
+        "link": "https://dev.events/conferences/it-networking-scout-ferndale-303710150",
+        "published": "Sun, 29 Sep 2024 02:05:35 GMT",
+        "category": "Agile",
+        "type": "meetup"
+    },
+    {
+        "title": "Davis Square Rust Lunch, Oct 5",
+        "event_date": "October 5, 2024",
+        "location": "Somerville, United States",
+        "link": "https://dev.events/conferences/davis-square-rust-lunch-oct-5-303708325",
+        "published": "Sun, 29 Sep 2024 02:04:39 GMT",
+        "category": "Rust",
+        "type": "meetup"
+    },
+    {
         "title": "Master All Frontends in Real-Time with React Native with Stephen Shary",
         "event_date": "October 2, 2024",
         "location": "Columbus, United States",
@@ -100,7 +199,7 @@
     },
     {
         "title": "Getting Started With Amazon Bedrock for RAG",
-        "event_date": "October 15, 2024",
+        "event_date": "October 16, 2024",
         "location": "Charleston, United States",
         "link": "https://dev.events/conferences/getting-started-with-amazon-bedrock-for-rag-303689299",
         "published": "Sat, 28 Sep 2024 05:05:03 GMT",
@@ -231,15 +330,6 @@
         "link": "https://dev.events/conferences/build-and-deploy-a-self-contained-chatbot-without-open-ai-303672340",
         "published": "Fri, 27 Sep 2024 13:02:28 GMT",
         "category": "JavaScript",
-        "type": "meetup"
-    },
-    {
-        "title": "Farewell to Summer Community BBQ",
-        "event_date": "September 29, 2024",
-        "location": "Cambridge, United States",
-        "link": "https://dev.events/conferences/farewell-to-summer-community-bbq-303202802",
-        "published": "Fri, 27 Sep 2024 13:00:41 GMT",
-        "category": "Game dev",
         "type": "meetup"
     },
     {
@@ -963,29 +1053,11 @@
         "type": "meetup"
     },
     {
-        "title": "Vue.js Project Day",
-        "event_date": "September 29, 2024",
-        "location": "Indianapolis, United States",
-        "link": "https://dev.events/conferences/vue-js-project-day-303340221",
-        "published": "Sun, 22 Sep 2024 20:02:53 GMT",
-        "category": "Vue",
-        "type": "meetup"
-    },
-    {
         "title": "Game Jam: Ludum Dare #56",
         "event_date": "October 5, 2024",
         "location": "Los Angeles, United States",
         "link": "https://dev.events/conferences/game-jam-ludum-dare-56-303495483",
         "published": "Sun, 22 Sep 2024 19:00:27 GMT",
-        "category": "Game dev",
-        "type": "meetup"
-    },
-    {
-        "title": "Game Dev Work & Play",
-        "event_date": "September 29, 2024",
-        "location": "Nashville, United States",
-        "link": "https://dev.events/conferences/game-dev-work-and-play-303338593",
-        "published": "Sun, 22 Sep 2024 19:00:03 GMT",
         "category": "Game dev",
         "type": "meetup"
     },
@@ -1674,15 +1746,6 @@
         "type": "conference"
     },
     {
-        "title": "Game Dev Hang - Dock Street Brewery",
-        "event_date": "September 29, 2024",
-        "location": "Philadelphia , United States",
-        "link": "https://dev.events/conferences/game-dev-hang-dock-street-brewery-303462550",
-        "published": "Tue, 17 Sep 2024 10:40:09 GMT",
-        "category": "Game dev",
-        "type": "meetup"
-    },
-    {
         "title": "Cloud Native PDX Meetup",
         "event_date": "October 4, 2024",
         "location": "Portland, United States",
@@ -1742,24 +1805,6 @@
         "location": "Louisville, United States",
         "link": "https://dev.events/conferences/ludum-dare-56-303106840",
         "published": "Sun, 15 Sep 2024 18:00:43 GMT",
-        "category": "Game dev",
-        "type": "meetup"
-    },
-    {
-        "title": "St. Louis Code and Coffee",
-        "event_date": "September 29, 2024",
-        "location": "University City, United States",
-        "link": "https://dev.events/conferences/st-louis-code-and-coffee-301820291",
-        "published": "Sun, 15 Sep 2024 17:02:03 GMT",
-        "category": "Tech",
-        "type": "meetup"
-    },
-    {
-        "title": "Coffee and Game Dev Sundays at Six Twelve",
-        "event_date": "September 29, 2024",
-        "location": "Fayetteville, United States",
-        "link": "https://dev.events/conferences/coffee-and-game-dev-sundays-at-six-twelve-303333208",
-        "published": "Sun, 15 Sep 2024 15:00:04 GMT",
         "category": "Game dev",
         "type": "meetup"
     },
@@ -2322,15 +2367,6 @@
         "type": "meetup"
     },
     {
-        "title": "Let's animate a train in Blender!",
-        "event_date": "September 29, 2024",
-        "location": "Watertown, United States",
-        "link": "https://dev.events/conferences/let-s-animate-a-train-in-blender-303201215",
-        "published": "Mon, 09 Sep 2024 23:00:33 GMT",
-        "category": "AR / VR / XR",
-        "type": "meetup"
-    },
-    {
         "title": "Game Day: First Saturday of Every Month",
         "event_date": "October 5, 2024",
         "location": "Orlando, United States",
@@ -2574,15 +2610,6 @@
         "type": "meetup"
     },
     {
-        "title": "Las Vegas IGDA Monthly Game Development Meetup",
-        "event_date": "September 29, 2024",
-        "location": "Las Vegas, United States",
-        "link": "https://dev.events/conferences/las-vegas-igda-monthly-game-development-meetup-302479998",
-        "published": "Sat, 31 Aug 2024 21:00:19 GMT",
-        "category": "Game dev",
-        "type": "meetup"
-    },
-    {
         "title": "Hands-on workshop - GoLang",
         "event_date": "November 28, 2024",
         "location": "Orlando, United States",
@@ -2652,15 +2679,6 @@
         "link": "https://dev.events/conferences/the-future-of-ai-in-the-enterprise-project-governance-and-beyond-303084792",
         "published": "Fri, 30 Aug 2024 15:03:52 GMT",
         "category": "AI / ML",
-        "type": "meetup"
-    },
-    {
-        "title": "Southend Linux Users Group - Meetup",
-        "event_date": "September 29, 2024",
-        "location": "Seattle, United States",
-        "link": "https://dev.events/conferences/southend-linux-users-group-meetup-303131256",
-        "published": "Fri, 30 Aug 2024 05:22:15 GMT",
-        "category": "Linux / OS",
         "type": "meetup"
     },
     {
@@ -3274,15 +3292,6 @@
         "published": "Fri, 09 Aug 2024 12:41:41 GMT",
         "category": "Microsoft",
         "type": "conference"
-    },
-    {
-        "title": "Messari Testnet Hackathon 2024",
-        "event_date": "September 29, 2024",
-        "location": "New York, United States",
-        "link": "https://dev.events/conferences/messari-testnet-hackathon-2024-r43uh7n7",
-        "published": "Fri, 09 Aug 2024 12:25:05 GMT",
-        "category": "Crypto / Blockchain",
-        "type": "hackathon"
     },
     {
         "title": "1UpState - a Game Developer Expo",
