@@ -1,5 +1,176 @@
 [
     {
+        "title": "Strawberry Jam",
+        "event_date": "October 6, 2024",
+        "location": "Los Angeles, United States",
+        "link": "https://dev.events/conferences/strawberry-jam-303471819",
+        "published": "Sat, 05 Oct 2024 00:00:36 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "Beverly Hills Golden Hour Photo Walk",
+        "event_date": "October 12, 2024",
+        "location": "Beverly Hills, United States",
+        "link": "https://dev.events/conferences/beverly-hills-golden-hour-photo-walk-303493912",
+        "published": "Fri, 04 Oct 2024 23:01:09 GMT",
+        "category": "AR / VR / XR",
+        "type": "meetup"
+    },
+    {
+        "title": "Game Creators Meetup (IN-PERSON)",
+        "event_date": "October 6, 2024",
+        "location": "Louisville, United States",
+        "link": "https://dev.events/conferences/game-creators-meetup-in-person-303472028",
+        "published": "Fri, 04 Oct 2024 23:00:39 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "Game Day: First Saturday of Every Month",
+        "event_date": "November 2, 2024",
+        "location": "Orlando, United States",
+        "link": "https://dev.events/conferences/game-day-first-saturday-of-every-month-296495796",
+        "published": "Fri, 04 Oct 2024 22:00:04 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "Lunch informal Qt get-together in Costa Mesa",
+        "event_date": "October 18, 2024",
+        "location": "Costa Mesa, United States",
+        "link": "https://dev.events/conferences/lunch-informal-qt-get-together-in-costa-mesa-303742944",
+        "published": "Fri, 04 Oct 2024 19:01:20 GMT",
+        "category": "C/C++",
+        "type": "meetup"
+    },
+    {
+        "title": "API Security Workshop - Boston",
+        "event_date": "October 24, 2024",
+        "location": "Boston, United States",
+        "link": "https://dev.events/conferences/api-security-workshop-boston-303824786",
+        "published": "Fri, 04 Oct 2024 18:03:10 GMT",
+        "category": "API",
+        "type": "meetup"
+    },
+    {
+        "title": "Cloud Native Meetup (Eastside",
+        "event_date": "October 29, 2024",
+        "location": "Bellevue, United States",
+        "link": "https://dev.events/conferences/cloud-native-meetup-eastside-303828552",
+        "published": "Fri, 04 Oct 2024 17:04:29 GMT",
+        "category": "Cloud",
+        "type": "meetup"
+    },
+    {
+        "title": "CocoaHeads x Swift Language User Group (SLUG) | October Meetup",
+        "event_date": "October 11, 2024",
+        "location": "San Francisco, United States",
+        "link": "https://dev.events/conferences/cocoa-heads-x-swift-language-user-group-slug-october-meetup-303706286",
+        "published": "Fri, 04 Oct 2024 17:02:05 GMT",
+        "category": "iOS / Swift",
+        "type": "meetup"
+    },
+    {
+        "title": "Data to AI Executive Summit - Google",
+        "event_date": "October 30, 2024",
+        "location": "Portland, United States",
+        "link": "https://dev.events/conferences/data-to-ai-executive-summit-google-303813603",
+        "published": "Fri, 04 Oct 2024 16:04:11 GMT",
+        "category": "Data / Database",
+        "type": "meetup"
+    },
+    {
+        "title": "Meet New People!!  Sunday  Night Networking!",
+        "event_date": "October 7, 2024",
+        "location": "Santa Clara, United States",
+        "link": "https://dev.events/conferences/meet-new-people-sunday-night-networking-303478334",
+        "published": "Fri, 04 Oct 2024 16:01:04 GMT",
+        "category": "Tech",
+        "type": "meetup"
+    },
+    {
+        "title": "Intro to Scrum / Agile framework + Community Networking",
+        "event_date": "October 16, 2024",
+        "location": "Poughkeepsie, United States",
+        "link": "https://dev.events/conferences/intro-to-scrum-agile-framework-community-networking-303816482",
+        "published": "Fri, 04 Oct 2024 15:02:00 GMT",
+        "category": "Scrum",
+        "type": "meetup"
+    },
+    {
+        "title": "Rust NYC Monthly Meetup",
+        "event_date": "October 8, 2024",
+        "location": "New York, United States",
+        "link": "https://dev.events/conferences/rust-nyc-monthly-meetup-303822954",
+        "published": "Fri, 04 Oct 2024 13:04:48 GMT",
+        "category": "Rust",
+        "type": "meetup"
+    },
+    {
+        "title": "Mastering the DevOps Machine Learning Pipeline for Unrivaled Innovation",
+        "event_date": "November 12, 2024",
+        "location": "Lehi, United States",
+        "link": "https://dev.events/conferences/mastering-the-dev-ops-machine-learning-pipeline-for-unrivaled-innovation-303618562",
+        "published": "Fri, 04 Oct 2024 06:01:57 GMT",
+        "category": "DevOps",
+        "type": "meetup"
+    },
+    {
+        "title": "EVSec CitySec Meet-up: Security & Beer",
+        "event_date": "November 8, 2024",
+        "location": "Mesa, United States",
+        "link": "https://dev.events/conferences/ev-sec-city-sec-meet-up-security-and-beer-303252940",
+        "published": "Fri, 04 Oct 2024 02:04:22 GMT",
+        "category": "Cybersecurity / InfoSec",
+        "type": "meetup"
+    },
+    {
+        "title": "AWS Cloud 2024-25 Introduction",
+        "event_date": "October 11, 2024",
+        "location": "San Luis Obispo, United States",
+        "link": "https://dev.events/conferences/aws-cloud-2024-25-introduction-303813018",
+        "published": "Fri, 04 Oct 2024 02:04:00 GMT",
+        "category": "AWS",
+        "type": "meetup"
+    },
+    {
+        "title": "SD Ruby Monthly Meetup",
+        "event_date": "November 8, 2024",
+        "location": "San Diego, United States",
+        "link": "https://dev.events/conferences/sd-ruby-monthly-meetup-303820136",
+        "published": "Fri, 04 Oct 2024 02:02:13 GMT",
+        "category": "Ruby",
+        "type": "meetup"
+    },
+    {
+        "title": "Developer Group Hike to Hunter Creek Falls",
+        "event_date": "October 19, 2024",
+        "location": "Reno, United States",
+        "link": "https://dev.events/conferences/developer-group-hike-to-hunter-creek-falls-303816108",
+        "published": "Fri, 04 Oct 2024 01:02:02 GMT",
+        "category": "Tech",
+        "type": "meetup"
+    },
+    {
+        "title": "Art Tech & Game Coffee Meetup",
+        "event_date": "October 9, 2024",
+        "location": "Eugene, United States",
+        "link": "https://dev.events/conferences/art-tech-and-game-coffee-meetup-303528543",
+        "published": "Fri, 04 Oct 2024 01:00:42 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "Weekly Project Meetup",
+        "event_date": "October 11, 2024",
+        "location": "Plano, United States",
+        "link": "https://dev.events/conferences/weekly-project-meetup-303560793",
+        "published": "Fri, 04 Oct 2024 01:00:05 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
         "title": "Compliant Secrets & Serverless Problems",
         "event_date": "October 17, 2024",
         "location": "San Francisco, United States",
@@ -126,24 +297,6 @@
         "type": "meetup"
     },
     {
-        "title": "Reno Developer Social Hour",
-        "event_date": "October 4, 2024",
-        "location": "Reno, United States",
-        "link": "https://dev.events/conferences/reno-developer-social-hour-299374630",
-        "published": "Thu, 03 Oct 2024 15:08:13 GMT",
-        "category": "Tech",
-        "type": "meetup"
-    },
-    {
-        "title": "80 PERCENT OFF!   2024 Startup World Cup Grand Finale",
-        "event_date": "October 4, 2024",
-        "location": "San Francisco, United States",
-        "link": "https://dev.events/conferences/80-percent-off-2024-startup-world-cup-grand-finale-303747148",
-        "published": "Thu, 03 Oct 2024 15:01:44 GMT",
-        "category": "Startup",
-        "type": "meetup"
-    },
-    {
         "title": "Meet New People!!  Sunday  Night Networking",
         "event_date": "October 7, 2024",
         "location": "Santa Clara, United States",
@@ -258,15 +411,6 @@
         "link": "https://dev.events/conferences/turning-threat-data-into-threat-intelligence-it-s-only-log-ical-303790370",
         "published": "Wed, 02 Oct 2024 23:04:08 GMT",
         "category": "Data / Database",
-        "type": "meetup"
-    },
-    {
-        "title": "MEMSEC - DEFCON901 - Memphis InfoSec social #13",
-        "event_date": "October 4, 2024",
-        "location": "Memphis, United States",
-        "link": "https://dev.events/conferences/memsec-defcon-901-memphis-info-sec-social-13-303685864",
-        "published": "Wed, 02 Oct 2024 23:02:58 GMT",
-        "category": "Cybersecurity / InfoSec",
         "type": "meetup"
     },
     {
@@ -428,15 +572,6 @@
         "location": "Spokane, United States",
         "link": "https://dev.events/conferences/monthly-meetup-303774335",
         "published": "Wed, 02 Oct 2024 09:05:14 GMT",
-        "category": "Rust",
-        "type": "meetup"
-    },
-    {
-        "title": "Rust Meetup at Hacker Dojo",
-        "event_date": "October 4, 2024",
-        "location": "Mountain View, United States",
-        "link": "https://dev.events/conferences/rust-meetup-at-hacker-dojo-303768323",
-        "published": "Wed, 02 Oct 2024 06:00:26 GMT",
         "category": "Rust",
         "type": "meetup"
     },
@@ -726,15 +861,6 @@
         "link": "https://dev.events/conferences/nasa-international-space-apps-challenge-303391182",
         "published": "Mon, 30 Sep 2024 22:02:46 GMT",
         "category": "Tech",
-        "type": "meetup"
-    },
-    {
-        "title": "All Hallows Game Jam",
-        "event_date": "October 4, 2024",
-        "location": "Orlando, United States",
-        "link": "https://dev.events/conferences/all-hallows-game-jam-296495778",
-        "published": "Mon, 30 Sep 2024 21:00:10 GMT",
-        "category": "Game dev",
         "type": "meetup"
     },
     {
@@ -1053,15 +1179,6 @@
         "type": "meetup"
     },
     {
-        "title": "Weekly Project Meetup",
-        "event_date": "October 4, 2024",
-        "location": "Plano, United States",
-        "link": "https://dev.events/conferences/weekly-project-meetup-303423718",
-        "published": "Fri, 27 Sep 2024 01:00:07 GMT",
-        "category": "Game dev",
-        "type": "meetup"
-    },
-    {
         "title": "Memphis .NET and Azure Developers Group - In Person Meetup",
         "event_date": "October 24, 2024",
         "location": "Memphis, United States",
@@ -1113,15 +1230,6 @@
         "link": "https://dev.events/conferences/golang-nyc-microservices-orchestration-using-conductor-intro-and-workshop-303651107",
         "published": "Thu, 26 Sep 2024 21:03:11 GMT",
         "category": "Golang",
-        "type": "meetup"
-    },
-    {
-        "title": "Build 2024 and Beyond - Designing and Developing for AI",
-        "event_date": "October 4, 2024",
-        "location": "Malvern, United States",
-        "link": "https://dev.events/conferences/build-2024-and-beyond-designing-and-developing-for-ai-303644760",
-        "published": "Thu, 26 Sep 2024 19:04:55 GMT",
-        "category": "AI / ML",
         "type": "meetup"
     },
     {
@@ -1431,15 +1539,6 @@
         "type": "meetup"
     },
     {
-        "title": "Gilded Rose: A Refactoring Kata",
-        "event_date": "October 4, 2024",
-        "location": "Sacramento, United States",
-        "link": "https://dev.events/conferences/gilded-rose-a-refactoring-kata-303611934",
-        "published": "Tue, 24 Sep 2024 11:02:21 GMT",
-        "category": "Tech",
-        "type": "meetup"
-    },
-    {
         "title": "October Gathering",
         "event_date": "October 9, 2024",
         "location": "Loudonville, United States",
@@ -1644,15 +1743,6 @@
         "link": "https://dev.events/conferences/in-person-game-dev-meetup-303547866",
         "published": "Fri, 20 Sep 2024 20:00:19 GMT",
         "category": "Game dev",
-        "type": "meetup"
-    },
-    {
-        "title": "Lunch informal Qt get-together in Costa Mesa",
-        "event_date": "October 4, 2024",
-        "location": "Costa Mesa, United States",
-        "link": "https://dev.events/conferences/lunch-informal-qt-get-together-in-costa-mesa-303435190",
-        "published": "Fri, 20 Sep 2024 19:00:50 GMT",
-        "category": "C/C++",
         "type": "meetup"
     },
     {
@@ -1953,15 +2043,6 @@
         "type": "meetup"
     },
     {
-        "title": "Film Frenzy: 48Hour Film Planning Session",
-        "event_date": "October 4, 2024",
-        "location": "Inglewood, United States",
-        "link": "https://dev.events/conferences/film-frenzy-48-hour-film-planning-session-303489326",
-        "published": "Wed, 18 Sep 2024 04:20:30 GMT",
-        "category": "AR / VR / XR",
-        "type": "meetup"
-    },
-    {
         "title": "PDXCPP - Monthly Meetup",
         "event_date": "October 16, 2024",
         "location": "Portland, United States",
@@ -2079,15 +2160,6 @@
         "type": "conference"
     },
     {
-        "title": "Cloud Native PDX Meetup",
-        "event_date": "October 4, 2024",
-        "location": "Portland, United States",
-        "link": "https://dev.events/conferences/cloud-native-pdx-meetup-303467648",
-        "published": "Tue, 17 Sep 2024 10:03:42 GMT",
-        "category": "Cloud",
-        "type": "meetup"
-    },
-    {
         "title": "Columbus Ruby Brigade Monthly Meetup",
         "event_date": "October 21, 2024",
         "location": "Columbus, United States",
@@ -2121,15 +2193,6 @@
         "link": "https://dev.events/conferences/detroit-hispanic-heritage-month-summit-303458798",
         "published": "Mon, 16 Sep 2024 10:02:48 GMT",
         "category": "Web / Frontend",
-        "type": "meetup"
-    },
-    {
-        "title": "Ludum Dare 56",
-        "event_date": "October 4, 2024",
-        "location": "Louisville, United States",
-        "link": "https://dev.events/conferences/ludum-dare-56-303106840",
-        "published": "Sun, 15 Sep 2024 18:00:43 GMT",
-        "category": "Game dev",
         "type": "meetup"
     },
     {
@@ -2538,15 +2601,6 @@
         "type": "meetup"
     },
     {
-        "title": "TEMP NEW LOCATION  - Remix Meetup October",
-        "event_date": "October 4, 2024",
-        "location": "Lehi, United States",
-        "link": "https://dev.events/conferences/temp-new-location-remix-meetup-october-302793606",
-        "published": "Tue, 10 Sep 2024 22:40:51 GMT",
-        "category": "React",
-        "type": "meetup"
-    },
-    {
         "title": "Software Developer Meetup!",
         "event_date": "October 8, 2024",
         "location": "Johnson City, United States",
@@ -2629,7 +2683,7 @@
     },
     {
         "title": "Monthly Meetup at GigaParts!",
-        "event_date": "October 4, 2024",
+        "event_date": "November 1, 2024",
         "location": "Huntsville, United States",
         "link": "https://dev.events/conferences/monthly-meetup-at-giga-parts-null",
         "published": "Fri, 06 Sep 2024 23:40:25 GMT",
@@ -2664,39 +2718,12 @@
         "type": "conference"
     },
     {
-        "title": "EVSec CitySec Meet-up: Security & Beer",
-        "event_date": "October 4, 2024",
-        "location": "Mesa, United States",
-        "link": "https://dev.events/conferences/ev-sec-city-sec-meet-up-security-and-beer-300789253",
-        "published": "Fri, 06 Sep 2024 02:03:42 GMT",
-        "category": "Cybersecurity / InfoSec",
-        "type": "meetup"
-    },
-    {
-        "title": "SD Ruby Monthly Meetup",
-        "event_date": "October 4, 2024",
-        "location": "San Diego, United States",
-        "link": "https://dev.events/conferences/sd-ruby-monthly-meetup-302800231",
-        "published": "Fri, 06 Sep 2024 02:01:46 GMT",
-        "category": "Ruby",
-        "type": "meetup"
-    },
-    {
         "title": "SDBUG Meeting",
-        "event_date": "October 4, 2024",
+        "event_date": "November 8, 2024",
         "location": "San Diego, United States",
         "link": "https://dev.events/conferences/sdbug-meeting-null",
         "published": "Fri, 06 Sep 2024 02:00:48 GMT",
         "category": "BSD / OS",
-        "type": "meetup"
-    },
-    {
-        "title": "Reno Developer Lightning Talks",
-        "event_date": "October 4, 2024",
-        "location": "Reno, United States",
-        "link": "https://dev.events/conferences/reno-developer-lightning-talks-299374630",
-        "published": "Fri, 06 Sep 2024 01:02:07 GMT",
-        "category": "Tech",
         "type": "meetup"
     },
     {
@@ -2976,15 +3003,6 @@
         "link": "https://dev.events/conferences/pmba-conference-3hga2apc",
         "published": "Sun, 25 Aug 2024 07:26:20 GMT",
         "category": "Project management / PMO",
-        "type": "conference"
-    },
-    {
-        "title": "Test Automation Summit | San Francisco",
-        "event_date": "October 4, 2024",
-        "location": "San Francisco, United States",
-        "link": "https://dev.events/conferences/test-automation-summit-san-francisco-5nkdowda",
-        "published": "Sun, 25 Aug 2024 07:21:31 GMT",
-        "category": "Testing / QA",
         "type": "conference"
     },
     {
@@ -3571,15 +3589,6 @@
         "published": "Fri, 02 Aug 2024 12:19:04 GMT",
         "category": "Agile",
         "type": "meetup"
-    },
-    {
-        "title": "Devmoot 2024",
-        "event_date": "October 4, 2024",
-        "location": "Knoxville, United States",
-        "link": "https://dev.events/conferences/devmoot-2024-a2ctuqug",
-        "published": "Thu, 01 Aug 2024 20:57:06 GMT",
-        "category": "Tech",
-        "type": "conference"
     },
     {
         "title": "SAP Spend Connect Live",
