@@ -1,11 +1,29 @@
 [
     {
-        "title": "Hacktoberfest 2024 + freeCodeCamp",
-        "event_date": "October 5, 2024",
-        "location": "Mumbai, India",
-        "link": "https://dev.events/conferences/hacktoberfest-2024-free-code-camp-303816080",
-        "published": "Fri, 04 Oct 2024 01:04:01 GMT",
-        "category": "Tech",
+        "title": "PGConf India",
+        "event_date": "March 5, 2025",
+        "location": "Bengaluru, India",
+        "link": "https://dev.events/conferences/pg-conf-india-6b-h7rhe",
+        "published": "Sat, 05 Oct 2024 13:21:56 GMT",
+        "category": "Postgres",
+        "type": "conference"
+    },
+    {
+        "title": "React meetup #81",
+        "event_date": "October 19, 2024",
+        "location": "Bangalore, India",
+        "link": "https://dev.events/conferences/react-meetup-81-303722572",
+        "published": "Sat, 05 Oct 2024 07:01:35 GMT",
+        "category": "React",
+        "type": "meetup"
+    },
+    {
+        "title": "Flutter Meet & Greet",
+        "event_date": "October 13, 2024",
+        "location": "Vadodara, India",
+        "link": "https://dev.events/conferences/flutter-meet-and-greet-303843145",
+        "published": "Sat, 05 Oct 2024 06:01:40 GMT",
+        "category": "Flutter",
         "type": "meetup"
     },
     {
@@ -15,15 +33,6 @@
         "link": "https://dev.events/conferences/open-source-day-303799638",
         "published": "Thu, 03 Oct 2024 03:04:43 GMT",
         "category": "Open Source",
-        "type": "meetup"
-    },
-    {
-        "title": "[In person] Automated Remediation of Common Security Threats",
-        "event_date": "October 5, 2024",
-        "location": "Mumbai, India",
-        "link": "https://dev.events/conferences/in-person-automated-remediation-of-common-security-threats-303799548",
-        "published": "Thu, 03 Oct 2024 03:04:32 GMT",
-        "category": "Cybersecurity / InfoSec",
         "type": "meetup"
     },
     {
@@ -135,15 +144,6 @@
         "type": "conference"
     },
     {
-        "title": "DevFest Chenai",
-        "event_date": "October 5, 2024",
-        "location": "Chennai, India",
-        "link": "https://dev.events/conferences/dev-fest-chenai-w-jgohzi",
-        "published": "Tue, 24 Sep 2024 12:38:34 GMT",
-        "category": "Google",
-        "type": "conference"
-    },
-    {
         "title": "Docker DevTools Day 4.0 Show-n-Tell",
         "event_date": "October 19, 2024",
         "location": "Bengaluru, India",
@@ -158,15 +158,6 @@
         "location": "Bangalore, India",
         "link": "https://dev.events/conferences/grafana-aws-bangalore-meetup-oct-2024-303608522",
         "published": "Tue, 24 Sep 2024 03:03:51 GMT",
-        "category": "DevOps",
-        "type": "meetup"
-    },
-    {
-        "title": "Grafana & Friends Chennai October 2024 Meetup",
-        "event_date": "October 5, 2024",
-        "location": "Chennai, India",
-        "link": "https://dev.events/conferences/grafana-and-friends-chennai-october-2024-meetup-303538619",
-        "published": "Mon, 23 Sep 2024 19:04:49 GMT",
         "category": "DevOps",
         "type": "meetup"
     },
@@ -207,15 +198,6 @@
         "type": "conference"
     },
     {
-        "title": "Call for Papers: Grafana & Friends Chennai October 2024 Meetup",
-        "event_date": "October 5, 2024",
-        "location": "Chennai, India",
-        "link": "https://dev.events/conferences/call-for-papers-grafana-and-friends-chennai-october-2024-meetup-303538619",
-        "published": "Fri, 20 Sep 2024 07:43:11 GMT",
-        "category": "DevOps",
-        "type": "meetup"
-    },
-    {
         "title": "Grafana + AWS Mumbai Meetup Oct 2024",
         "event_date": "October 8, 2024",
         "location": "Mumbai, India",
@@ -239,15 +221,6 @@
         "location": "Bengaluru, India",
         "link": "https://dev.events/conferences/devon-s-dev-ops-meet-up-in-person-303482065",
         "published": "Tue, 17 Sep 2024 11:43:33 GMT",
-        "category": "DevOps",
-        "type": "meetup"
-    },
-    {
-        "title": "DevOops Pune Meetup #9 - GenAI Edition",
-        "event_date": "October 5, 2024",
-        "location": "Pune, India",
-        "link": "https://dev.events/conferences/dev-oops-pune-meetup-9-gen-ai-edition-303479616",
-        "published": "Tue, 17 Sep 2024 07:02:58 GMT",
         "category": "DevOps",
         "type": "meetup"
     },
@@ -342,15 +315,6 @@
         "type": "conference"
     },
     {
-        "title": "Convergence '24",
-        "event_date": "October 5, 2024",
-        "location": "Gurugram, India",
-        "link": "https://dev.events/conferences/convergence-24-etam9ccp",
-        "published": "Mon, 09 Sep 2024 13:18:46 GMT",
-        "category": "Tech leadership",
-        "type": "conference"
-    },
-    {
         "title": "Google Cloud Community Day 2024 Kochi",
         "event_date": "October 6, 2024",
         "location": "Kochi, India",
@@ -358,15 +322,6 @@
         "published": "Mon, 09 Sep 2024 13:18:02 GMT",
         "category": "Google",
         "type": "conference"
-    },
-    {
-        "title": "AWS Community Day Rajasthan 2024",
-        "event_date": "October 5, 2024",
-        "location": "Jaipur, India",
-        "link": "https://dev.events/conferences/aws-community-day-rajasthan-2024-303293494",
-        "published": "Sat, 07 Sep 2024 12:23:28 GMT",
-        "category": "AWS",
-        "type": "meetup"
     },
     {
         "title": ".NET Conf 2024 - KMUG - Kochi",
@@ -384,15 +339,6 @@
         "link": "https://dev.events/conferences/react-india-2024-y2a57z3",
         "published": "Sun, 25 Aug 2024 09:02:05 GMT",
         "category": "React",
-        "type": "conference"
-    },
-    {
-        "title": "M365 Saturday Coimbatore 2024",
-        "event_date": "October 5, 2024",
-        "location": "Coimbatore, India",
-        "link": "https://dev.events/conferences/m365-saturday-coimbatore-2024-w73sqr2h",
-        "published": "Tue, 20 Aug 2024 09:30:32 GMT",
-        "category": "Microsoft",
         "type": "conference"
     },
     {
