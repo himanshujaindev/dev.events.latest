@@ -1,5 +1,59 @@
 [
     {
+        "title": "Vue.js Project Day",
+        "event_date": "October 13, 2024",
+        "location": "Indianapolis, United States",
+        "link": "https://dev.events/conferences/vue-js-project-day-303610232",
+        "published": "Sun, 06 Oct 2024 20:01:58 GMT",
+        "category": "Vue",
+        "type": "meetup"
+    },
+    {
+        "title": "Strawberry Jam",
+        "event_date": "October 20, 2024",
+        "location": "Los Angeles, United States",
+        "link": "https://dev.events/conferences/strawberry-jam-303758882",
+        "published": "Sun, 06 Oct 2024 19:00:37 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "Game Dev Work & Play",
+        "event_date": "October 13, 2024",
+        "location": "Nashville, United States",
+        "link": "https://dev.events/conferences/game-dev-work-and-play-303450096",
+        "published": "Sun, 06 Oct 2024 19:00:06 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "2024 6 Hour Spooky Jam!",
+        "event_date": "October 12, 2024",
+        "location": "Louisville, United States",
+        "link": "https://dev.events/conferences/2024-6-hour-spooky-jam-303107001",
+        "published": "Sun, 06 Oct 2024 18:00:38 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "Biweekly event - train for CKA (Certified Kubernetes Adminstrator) together",
+        "event_date": "October 20, 2024",
+        "location": "Orlando , United States",
+        "link": "https://dev.events/conferences/biweekly-event-train-for-cka-certified-kubernetes-adminstrator-together-303727471",
+        "published": "Sun, 06 Oct 2024 15:02:47 GMT",
+        "category": "Docker / Kubernetes",
+        "type": "meetup"
+    },
+    {
+        "title": "Improve Unity workflows with AI tools (Unity Muse)",
+        "event_date": "October 19, 2024",
+        "location": "Cambridge, United States",
+        "link": "https://dev.events/conferences/improve-unity-workflows-with-ai-tools-unity-muse-303630085",
+        "published": "Sun, 06 Oct 2024 13:00:08 GMT",
+        "category": "AI / ML",
+        "type": "meetup"
+    },
+    {
         "title": "Tech Alliance: Tech or Treat - Hacktoberfest Costume Party",
         "event_date": "October 17, 2024",
         "location": "Fort Myers, United States",
@@ -63,15 +117,6 @@
         "type": "meetup"
     },
     {
-        "title": "Boulder Saturday Work and Chill",
-        "event_date": "October 6, 2024",
-        "location": "Boulder, United States",
-        "link": "https://dev.events/conferences/boulder-saturday-work-and-chill-303449339",
-        "published": "Sat, 05 Oct 2024 16:00:08 GMT",
-        "category": "Game dev",
-        "type": "meetup"
-    },
-    {
         "title": "Evolutionizing Data Pipelines and Personalized AI",
         "event_date": "October 17, 2024",
         "location": "New York, United States",
@@ -117,30 +162,12 @@
         "type": "meetup"
     },
     {
-        "title": "Strawberry Jam",
-        "event_date": "October 6, 2024",
-        "location": "Los Angeles, United States",
-        "link": "https://dev.events/conferences/strawberry-jam-303471819",
-        "published": "Sat, 05 Oct 2024 00:00:36 GMT",
-        "category": "Game dev",
-        "type": "meetup"
-    },
-    {
         "title": "Beverly Hills Golden Hour Photo Walk",
         "event_date": "October 12, 2024",
         "location": "Beverly Hills, United States",
         "link": "https://dev.events/conferences/beverly-hills-golden-hour-photo-walk-303493912",
         "published": "Fri, 04 Oct 2024 23:01:09 GMT",
         "category": "AR / VR / XR",
-        "type": "meetup"
-    },
-    {
-        "title": "Game Creators Meetup (IN-PERSON)",
-        "event_date": "October 6, 2024",
-        "location": "Louisville, United States",
-        "link": "https://dev.events/conferences/game-creators-meetup-in-person-303472028",
-        "published": "Fri, 04 Oct 2024 23:00:39 GMT",
-        "category": "Game dev",
         "type": "meetup"
     },
     {
@@ -936,15 +963,6 @@
         "type": "meetup"
     },
     {
-        "title": "Game Dev Work & Play",
-        "event_date": "October 6, 2024",
-        "location": "Nashville, United States",
-        "link": "https://dev.events/conferences/game-dev-work-and-play-303450095",
-        "published": "Mon, 30 Sep 2024 23:00:05 GMT",
-        "category": "Game dev",
-        "type": "meetup"
-    },
-    {
         "title": "Kubernetes: How does it actually work?",
         "event_date": "October 15, 2024",
         "location": "Alpharetta, United States",
@@ -969,15 +987,6 @@
         "link": "https://dev.events/conferences/las-vegas-igda-monthly-game-development-meetup-302620306",
         "published": "Sun, 29 Sep 2024 22:01:34 GMT",
         "category": "Game dev",
-        "type": "meetup"
-    },
-    {
-        "title": "Vue.js Project Day",
-        "event_date": "October 6, 2024",
-        "location": "Indianapolis, United States",
-        "link": "https://dev.events/conferences/vue-js-project-day-303473805",
-        "published": "Sun, 29 Sep 2024 20:02:23 GMT",
-        "category": "Vue",
         "type": "meetup"
     },
     {
@@ -1431,15 +1440,6 @@
         "type": "meetup"
     },
     {
-        "title": "Biweekly event - train for CKA (Certified Kubernetes Adminstrator) together",
-        "event_date": "October 6, 2024",
-        "location": "Orlando , United States",
-        "link": "https://dev.events/conferences/biweekly-event-train-for-cka-certified-kubernetes-adminstrator-together-303465456",
-        "published": "Wed, 25 Sep 2024 19:04:34 GMT",
-        "category": "Docker / Kubernetes",
-        "type": "meetup"
-    },
-    {
         "title": "Rust Lunch - Fareground",
         "event_date": "October 23, 2024",
         "location": "Austin, United States",
@@ -1689,15 +1689,6 @@
         "link": "https://dev.events/conferences/prescott-area-web-developers-and-prescott-coders-combined-monthly-meetup-302872017",
         "published": "Sat, 21 Sep 2024 17:02:29 GMT",
         "category": "Web / Frontend",
-        "type": "meetup"
-    },
-    {
-        "title": "Make Talk Play with Scott Hsu",
-        "event_date": "October 6, 2024",
-        "location": "Hadley, United States",
-        "link": "https://dev.events/conferences/make-talk-play-with-scott-hsu-303547940",
-        "published": "Sat, 21 Sep 2024 10:40:06 GMT",
-        "category": "Game dev",
         "type": "meetup"
     },
     {
@@ -2626,15 +2617,6 @@
         "published": "Tue, 10 Sep 2024 12:10:17 GMT",
         "category": "Linux / OS",
         "type": "conference"
-    },
-    {
-        "title": "What Will It Take to End the VR Winter? Spatial Computing [&] Beer, at Ex Novo!",
-        "event_date": "October 6, 2024",
-        "location": "Albuquerque, United States",
-        "link": "https://dev.events/conferences/what-will-it-take-to-end-the-vr-winter-spatial-computing-and-beer-at-ex-novo-303043163",
-        "published": "Sat, 07 Sep 2024 01:20:42 GMT",
-        "category": "AR / VR / XR",
-        "type": "meetup"
     },
     {
         "title": "Monthly Meetup at GigaParts!",
