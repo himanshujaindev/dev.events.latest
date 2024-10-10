@@ -1,5 +1,113 @@
 [
     {
+        "title": "Bangalore SRE Meetup (in-person)",
+        "event_date": "October 19, 2024",
+        "location": "Bengaluru, India",
+        "link": "https://dev.events/conferences/bangalore-sre-meetup-in-person-303711681",
+        "published": "Wed, 09 Oct 2024 17:06:24 GMT",
+        "category": "SRE",
+        "type": "meetup"
+    },
+    {
+        "title": ".NET Conf 2024 @ Chennai",
+        "event_date": "December 14, 2024",
+        "location": "Chennai, India",
+        "link": "https://dev.events/conferences/net-conf-2024-chennai-303501029",
+        "published": "Wed, 09 Oct 2024 06:41:03 GMT",
+        "category": ".NET",
+        "type": "meetup"
+    },
+    {
+        "title": "Microsoft Season of AI - Copilots",
+        "event_date": "December 21, 2024",
+        "location": "Chennai, India",
+        "link": "https://dev.events/conferences/microsoft-season-of-ai-copilots-303877974",
+        "published": "Wed, 09 Oct 2024 06:41:03 GMT",
+        "category": "Microsoft",
+        "type": "meetup"
+    },
+    {
+        "title": "Volunteer for a Free Medical Camp",
+        "event_date": "November 3, 2024",
+        "location": "Hyderabad, India",
+        "link": "https://dev.events/conferences/volunteer-for-a-free-medical-camp-298860366",
+        "published": "Wed, 09 Oct 2024 06:40:17 GMT",
+        "category": "Open Source",
+        "type": "meetup"
+    },
+    {
+        "title": "WomenWhoHack November 2024",
+        "event_date": "November 17, 2024",
+        "location": "Hyderabad, India",
+        "link": "https://dev.events/conferences/women-who-hack-november-2024-298929336",
+        "published": "Wed, 09 Oct 2024 06:40:17 GMT",
+        "category": "Open Source",
+        "type": "meetup"
+    },
+    {
+        "title": "Volunteer for a Free Medical Camp",
+        "event_date": "December 1, 2024",
+        "location": "Hyderabad, India",
+        "link": "https://dev.events/conferences/volunteer-for-a-free-medical-camp-298860385",
+        "published": "Wed, 09 Oct 2024 06:40:17 GMT",
+        "category": "Open Source",
+        "type": "meetup"
+    },
+    {
+        "title": "Data Day - Microsoft Azure Skillup Tamilnadu Session 5",
+        "event_date": "November 9, 2024",
+        "location": "Chennai, India",
+        "link": "https://dev.events/conferences/data-day-microsoft-azure-skillup-tamilnadu-session-5-303827876",
+        "published": "Wed, 09 Oct 2024 06:40:11 GMT",
+        "category": "Data / Database",
+        "type": "meetup"
+    },
+    {
+        "title": "TechXConf , AI & Cloud Conference 2024",
+        "event_date": "November 15, 2024",
+        "location": "CHENNAI, India",
+        "link": "https://dev.events/conferences/tech-x-conf-ai-and-cloud-conference-2024-303563617",
+        "published": "Wed, 09 Oct 2024 06:40:11 GMT",
+        "category": "AI / ML",
+        "type": "meetup"
+    },
+    {
+        "title": "Quarterly Large Scale Production Engineering (LSPE) meet up",
+        "event_date": "March 8, 2025",
+        "location": "Bangalore, India",
+        "link": "https://dev.events/conferences/quarterly-large-scale-production-engineering-lspe-meet-up-299082307",
+        "published": "Wed, 09 Oct 2024 06:38:33 GMT",
+        "category": "SRE",
+        "type": "meetup"
+    },
+    {
+        "title": "Quarterly Large Scale Production Engineering (LSPE) meet up",
+        "event_date": "June 14, 2025",
+        "location": "Bangalore, India",
+        "link": "https://dev.events/conferences/quarterly-large-scale-production-engineering-lspe-meet-up-299082306",
+        "published": "Wed, 09 Oct 2024 06:38:33 GMT",
+        "category": "SRE",
+        "type": "meetup"
+    },
+    {
+        "title": "Quarterly Large Scale Production Engineering (LSPE) meet up",
+        "event_date": "September 13, 2025",
+        "location": "Bangalore, India",
+        "link": "https://dev.events/conferences/quarterly-large-scale-production-engineering-lspe-meet-up-qvgqgdyhcmbrb",
+        "published": "Wed, 09 Oct 2024 06:38:33 GMT",
+        "category": "SRE",
+        "type": "meetup"
+    },
+    {
+        "title": "BrowserStack Bug Bash - Mumbai Edition",
+        "event_date": "November 9, 2024",
+        "location": "Mumbai, India",
+        "link": "https://dev.events/conferences/browser-stack-bug-bash-mumbai-edition-303802690",
+        "published": "Wed, 09 Oct 2024 05:04:21 GMT",
+        "category": "Testing / QA",
+        "type": "meetup"
+    },
+    {
         "title": "Nullcon Goa",
         "event_date": "March 1, 2025",
         "location": "Goa, India",
@@ -204,15 +312,6 @@
         "link": "https://dev.events/conferences/docker-dev-tools-day-4-0-show-n-tell-303616545",
         "published": "Tue, 24 Sep 2024 07:04:41 GMT",
         "category": "Docker / Kubernetes",
-        "type": "meetup"
-    },
-    {
-        "title": "Grafana + AWS Bangalore Meetup Oct 2024",
-        "event_date": "October 9, 2024",
-        "location": "Bangalore, India",
-        "link": "https://dev.events/conferences/grafana-aws-bangalore-meetup-oct-2024-303608522",
-        "published": "Tue, 24 Sep 2024 03:03:51 GMT",
-        "category": "DevOps",
         "type": "meetup"
     },
     {
