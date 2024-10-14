@@ -1,5 +1,158 @@
 [
     {
+        "title": "St. Louis Code and Coffee",
+        "event_date": "December 8, 2024",
+        "location": "University City, United States",
+        "link": "https://dev.events/conferences/st-louis-code-and-coffee-303039003",
+        "published": "Sun, 13 Oct 2024 23:02:11 GMT",
+        "category": "Tech",
+        "type": "meetup"
+    },
+    {
+        "title": "Rails World 2024: Greenville Edition",
+        "event_date": "October 22, 2024",
+        "location": "Greenville, United States",
+        "link": "https://dev.events/conferences/rails-world-2024-greenville-edition-303984045",
+        "published": "Sun, 13 Oct 2024 21:03:00 GMT",
+        "category": "Ruby on Rails",
+        "type": "meetup"
+    },
+    {
+        "title": "Game Creators Meetup",
+        "event_date": "November 17, 2024",
+        "location": "Louisville, United States",
+        "link": "https://dev.events/conferences/game-creators-meetup-shxsctygcpbwb",
+        "published": "Sun, 13 Oct 2024 19:00:41 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "Frederick Tech Open Workshop - 3rd Saturday",
+        "event_date": "October 19, 2024",
+        "location": "Frederick , United States",
+        "link": "https://dev.events/conferences/frederick-tech-open-workshop-3rd-saturday-303978944",
+        "published": "Sun, 13 Oct 2024 17:05:54 GMT",
+        "category": "AWS",
+        "type": "meetup"
+    },
+    {
+        "title": "Frederick Tech Open Workshop - 3rd Saturday",
+        "event_date": "November 16, 2024",
+        "location": "Frederick , United States",
+        "link": "https://dev.events/conferences/frederick-tech-open-workshop-3rd-saturday-bvwqntygcpbvb",
+        "published": "Sun, 13 Oct 2024 17:05:54 GMT",
+        "category": "AWS",
+        "type": "meetup"
+    },
+    {
+        "title": "Frederick Tech Open Workshop - 3rd Saturday",
+        "event_date": "December 21, 2024",
+        "location": "Frederick , United States",
+        "link": "https://dev.events/conferences/frederick-tech-open-workshop-3rd-saturday-bvwqntygcqbcc",
+        "published": "Sun, 13 Oct 2024 17:05:54 GMT",
+        "category": "AWS",
+        "type": "meetup"
+    },
+    {
+        "title": "Frederick Tech Open Workshop - 3rd Saturday",
+        "event_date": "January 18, 2025",
+        "location": "Frederick , United States",
+        "link": "https://dev.events/conferences/frederick-tech-open-workshop-3rd-saturday-bvwqntyhccbxb",
+        "published": "Sun, 13 Oct 2024 17:05:54 GMT",
+        "category": "AWS",
+        "type": "meetup"
+    },
+    {
+        "title": "Let's Discuss Video Game Development",
+        "event_date": "February 8, 2025",
+        "location": "Colorado Springs, United States",
+        "link": "https://dev.events/conferences/let-s-discuss-video-game-development-czqsktyhcdblb",
+        "published": "Sun, 13 Oct 2024 16:00:55 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "High Desert Innovation Fest - Cross promotion to BendJS",
+        "event_date": "October 15, 2024",
+        "location": "Bend, United States",
+        "link": "https://dev.events/conferences/high-desert-innovation-fest-cross-promotion-to-bend-js-303984252",
+        "published": "Sun, 13 Oct 2024 10:01:52 GMT",
+        "category": "JavaScript",
+        "type": "meetup"
+    },
+    {
+        "title": "Analytics and Data Summit 2025",
+        "event_date": "April 8, 2025",
+        "location": "Redwood Shores, United States",
+        "link": "https://dev.events/conferences/analytics-and-data-summit-2025-wqidofbq",
+        "published": "Sun, 13 Oct 2024 09:18:34 GMT",
+        "category": "Data / Database",
+        "type": "conference"
+    },
+    {
+        "title": "Rocky Mountain Ruby 2025",
+        "event_date": "December 31, 2025",
+        "location": "Boulder, United States",
+        "link": "https://dev.events/conferences/rocky-mountain-ruby-2025-ck8uwmjv",
+        "published": "Sun, 13 Oct 2024 09:14:15 GMT",
+        "category": "Ruby",
+        "type": "conference"
+    },
+    {
+        "title": "dev2next",
+        "event_date": "September 29, 2025",
+        "location": "Colorado Springs, United States",
+        "link": "https://dev.events/conferences/dev2next-hpsiketa",
+        "published": "Sun, 13 Oct 2024 09:00:16 GMT",
+        "category": "Full-stack",
+        "type": "conference"
+    },
+    {
+        "title": "Haskell to Improve Your Thinking, Part 3",
+        "event_date": "November 8, 2024",
+        "location": "Sacramento, United States",
+        "link": "https://dev.events/conferences/haskell-to-improve-your-thinking-part-3-303983296",
+        "published": "Sun, 13 Oct 2024 06:02:26 GMT",
+        "category": "Haskell",
+        "type": "meetup"
+    },
+    {
+        "title": "Seattle Indies Show and Tell at Niantic",
+        "event_date": "October 18, 2024",
+        "location": "Bellevue, United States",
+        "link": "https://dev.events/conferences/seattle-indies-show-and-tell-at-niantic-303695417",
+        "published": "Sun, 13 Oct 2024 06:00:55 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "Akron Game Developers Social Meetup",
+        "event_date": "October 21, 2024",
+        "location": "Stow, United States",
+        "link": "https://dev.events/conferences/akron-game-developers-social-meetup-303982101",
+        "published": "Sun, 13 Oct 2024 05:01:00 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "In-Person Game Development Meetup",
+        "event_date": "November 9, 2024",
+        "location": "Pittsburgh, United States",
+        "link": "https://dev.events/conferences/in-person-game-development-meetup-zftnktygcpbmb",
+        "published": "Sun, 13 Oct 2024 02:00:59 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "Xbox Discovery Day Houston",
+        "event_date": "November 14, 2024",
+        "location": "Houston, United States",
+        "link": "https://dev.events/conferences/xbox-discovery-day-houston-303644005",
+        "published": "Sun, 13 Oct 2024 02:00:34 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
         "title": "October social meeting",
         "event_date": "October 17, 2024",
         "location": "Salem, United States",
@@ -4195,7 +4348,7 @@
     },
     {
         "title": "VR Play Testers - DOUBLE FEATURE!",
-        "event_date": "November 7, 2024",
+        "event_date": "November 14, 2024",
         "location": "Los Angeles, United States",
         "link": "https://dev.events/conferences/vr-play-testers-double-feature-303908386",
         "published": "Wed, 09 Oct 2024 01:01:15 GMT",
@@ -4473,29 +4626,11 @@
         "type": "meetup"
     },
     {
-        "title": "Vue.js Project Day",
-        "event_date": "October 13, 2024",
-        "location": "Indianapolis, United States",
-        "link": "https://dev.events/conferences/vue-js-project-day-303610232",
-        "published": "Sun, 06 Oct 2024 20:01:58 GMT",
-        "category": "Vue",
-        "type": "meetup"
-    },
-    {
         "title": "Strawberry Jam",
         "event_date": "October 20, 2024",
         "location": "Los Angeles, United States",
         "link": "https://dev.events/conferences/strawberry-jam-303758882",
         "published": "Sun, 06 Oct 2024 19:00:37 GMT",
-        "category": "Game dev",
-        "type": "meetup"
-    },
-    {
-        "title": "Game Dev Work & Play",
-        "event_date": "October 13, 2024",
-        "location": "Nashville, United States",
-        "link": "https://dev.events/conferences/game-dev-work-and-play-303450096",
-        "published": "Sun, 06 Oct 2024 19:00:06 GMT",
         "category": "Game dev",
         "type": "meetup"
     },
@@ -5126,24 +5261,6 @@
         "location": "Ballwin, United States",
         "link": "https://dev.events/conferences/october-game-dev-drinkup-303541264",
         "published": "Sun, 29 Sep 2024 19:00:50 GMT",
-        "category": "Game dev",
-        "type": "meetup"
-    },
-    {
-        "title": "St. Louis Code and Coffee",
-        "event_date": "October 13, 2024",
-        "location": "University City, United States",
-        "link": "https://dev.events/conferences/st-louis-code-and-coffee-301820292",
-        "published": "Sun, 29 Sep 2024 17:04:11 GMT",
-        "category": "Tech",
-        "type": "meetup"
-    },
-    {
-        "title": "Coffee and Game Dev Sundays at Six Twelve",
-        "event_date": "October 13, 2024",
-        "location": "Fayetteville, United States",
-        "link": "https://dev.events/conferences/coffee-and-game-dev-sundays-at-six-twelve-303602908",
-        "published": "Sun, 29 Sep 2024 15:00:05 GMT",
         "category": "Game dev",
         "type": "meetup"
     },
@@ -7281,15 +7398,6 @@
         "type": "conference"
     },
     {
-        "title": "HR Southwest 2024",
-        "event_date": "October 13, 2024",
-        "location": "Fort Worth, United States",
-        "link": "https://dev.events/conferences/hr-southwest-2024-c-hg0rpd",
-        "published": "Sun, 09 Jun 2024 09:47:13 GMT",
-        "category": "HR / Hiring / Recruiting",
-        "type": "conference"
-    },
-    {
         "title": "2024 GOVIT Leadership Summit & Symposium",
         "event_date": "November 19, 2024",
         "location": "Bloomington, United States",
@@ -7386,15 +7494,6 @@
         "link": "https://dev.events/conferences/frontrunners-nvf-qc3r",
         "published": "Thu, 23 May 2024 14:54:06 GMT",
         "category": "JavaScript",
-        "type": "conference"
-    },
-    {
-        "title": "Agile + DevOps",
-        "event_date": "October 13, 2024",
-        "location": "Orlando, United States and Online",
-        "link": "https://dev.events/conferences/agile-dev-ops-2rqlet-i",
-        "published": "Thu, 23 May 2024 14:50:10 GMT",
-        "category": "Agile",
         "type": "conference"
     },
     {
