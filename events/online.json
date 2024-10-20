@@ -1,5 +1,131 @@
 [
     {
+        "title": "Learn Python Fundamentals in 60 Minutes",
+        "event_date": "October 23, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/learn-python-fundamentals-in-60-minutes-303722125",
+        "published": "Sat, 19 Oct 2024 16:05:51 GMT",
+        "category": "Python",
+        "type": "meetup"
+    },
+    {
+        "title": "Dive into .NET: Cross Platform Development Workshop",
+        "event_date": "November 7, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/dive-into-net-cross-platform-development-workshop-304083206",
+        "published": "Sat, 19 Oct 2024 12:06:09 GMT",
+        "category": ".NET",
+        "type": "meetup"
+    },
+    {
+        "title": "What is new in dotnet MAUI 2025",
+        "event_date": "November 7, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/what-is-new-in-dotnet-maui-2025-304083217",
+        "published": "Sat, 19 Oct 2024 12:06:08 GMT",
+        "category": ".NET",
+        "type": "meetup"
+    },
+    {
+        "title": "Transform Your Service Desk with AI",
+        "event_date": "November 14, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/transform-your-service-desk-with-ai-304077519",
+        "published": "Sat, 19 Oct 2024 10:05:22 GMT",
+        "category": "AI / ML",
+        "type": "meetup"
+    },
+    {
+        "title": "GDG Mountain View + San Francisco DevFest 2024",
+        "event_date": "November 8, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/gdg-mountain-view-san-francisco-dev-fest-2024-304082983",
+        "published": "Sat, 19 Oct 2024 10:02:15 GMT",
+        "category": "Google",
+        "type": "meetup"
+    },
+    {
+        "title": "Flutter 102: Staying relevant in the fast paced Flutter & Dart world",
+        "event_date": "October 26, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/flutter-102-staying-relevant-in-the-fast-paced-flutter-and-dart-world-304091453",
+        "published": "Sat, 19 Oct 2024 10:01:58 GMT",
+        "category": "Flutter",
+        "type": "meetup"
+    },
+    {
+        "title": "Free OPEN Passes to API World 2024",
+        "event_date": "November 5, 2024",
+        "location": "Santa Clara, United States and Online",
+        "link": "https://dev.events/conferences/free-open-passes-to-api-world-2024-304083243",
+        "published": "Sat, 19 Oct 2024 07:06:48 GMT",
+        "category": "API",
+        "type": "meetup"
+    },
+    {
+        "title": "Webinar - Harness the Future of EKS with Devtron: The Next-Generation Platform",
+        "event_date": "October 22, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/webinar-harness-the-future-of-eks-with-devtron-the-next-generation-platform-304075494",
+        "published": "Sat, 19 Oct 2024 06:04:48 GMT",
+        "category": "Docker / Kubernetes",
+        "type": "meetup"
+    },
+    {
+        "title": "Landing Zone 102: From the Application Team Request to Final Cloud Environment",
+        "event_date": "November 27, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/landing-zone-102-from-the-application-team-request-to-final-cloud-environment-304075103",
+        "published": "Sat, 19 Oct 2024 04:03:53 GMT",
+        "category": "Cloud",
+        "type": "meetup"
+    },
+    {
+        "title": "Deconstructing NIST 2.0: Achieving cyber resilience with IAM controls",
+        "event_date": "October 24, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/deconstructing-nist-2-0-achieving-cyber-resilience-with-iam-controls-303680254",
+        "published": "Sat, 19 Oct 2024 02:04:25 GMT",
+        "category": "Tech",
+        "type": "meetup"
+    },
+    {
+        "title": "STLLINUX - St. Louis Linux Users Group",
+        "event_date": "November 22, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/stllinux-st-louis-linux-users-group-302045024",
+        "published": "Sat, 19 Oct 2024 02:04:16 GMT",
+        "category": "Linux / OS",
+        "type": "meetup"
+    },
+    {
+        "title": "Game Development Discord Mixer!",
+        "event_date": "November 8, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/game-development-discord-mixer-303785694",
+        "published": "Sat, 19 Oct 2024 02:00:12 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "Crafting Interpreters in Rust Collaboratively",
+        "event_date": "December 13, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/crafting-interpreters-in-rust-collaboratively-298898129",
+        "published": "Sat, 19 Oct 2024 01:05:02 GMT",
+        "category": "Rust",
+        "type": "meetup"
+    },
+    {
+        "title": "Best Practices for Designing a Secure Google Cloud Network",
+        "event_date": "October 29, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/best-practices-for-designing-a-secure-google-cloud-network-303545556",
+        "published": "Sat, 19 Oct 2024 01:04:58 GMT",
+        "category": "Google",
+        "type": "meetup"
+    },
+    {
         "title": "Succeed in Tech New members Meet and greet",
         "event_date": "November 15, 2024",
         "location": "Online",
@@ -141,15 +267,6 @@
         "link": "https://dev.events/conferences/monthly-thursdays-hosted-by-zack-wheeler-304040636",
         "published": "Fri, 18 Oct 2024 15:02:31 GMT",
         "category": "Tech",
-        "type": "meetup"
-    },
-    {
-        "title": "Noches Tech con GDG #4",
-        "event_date": "October 19, 2024",
-        "location": "Online",
-        "link": "https://dev.events/conferences/noches-tech-con-gdg-4-304075151",
-        "published": "Fri, 18 Oct 2024 15:00:47 GMT",
-        "category": "Google",
         "type": "meetup"
     },
     {
@@ -1026,30 +1143,12 @@
         "type": "meetup"
     },
     {
-        "title": "Game Jam Plus",
-        "event_date": "October 19, 2024",
-        "location": "Bellevue, United States and Online",
-        "link": "https://dev.events/conferences/game-jam-plus-303622857",
-        "published": "Wed, 16 Oct 2024 17:00:28 GMT",
-        "category": "Game dev",
-        "type": "meetup"
-    },
-    {
         "title": "Prompt Engineering Explained",
         "event_date": "October 20, 2024",
         "location": "Online",
         "link": "https://dev.events/conferences/prompt-engineering-explained-303722029",
         "published": "Wed, 16 Oct 2024 16:06:50 GMT",
         "category": "Tech",
-        "type": "meetup"
-    },
-    {
-        "title": "Construye tu propia arquitectura serverless con CI/CD",
-        "event_date": "October 19, 2024",
-        "location": "Medellin, Colombia and Online",
-        "link": "https://dev.events/conferences/construye-tu-propia-arquitectura-serverless-con-ci-cd-304041481",
-        "published": "Wed, 16 Oct 2024 16:04:54 GMT",
-        "category": "Serverless",
         "type": "meetup"
     },
     {
@@ -1096,15 +1195,6 @@
         "published": "Wed, 16 Oct 2024 14:00:26 GMT",
         "category": "API",
         "type": "hackathon"
-    },
-    {
-        "title": "Start Head",
-        "event_date": "October 19, 2024",
-        "location": "Online",
-        "link": "https://dev.events/conferences/start-head-dsxncsot",
-        "published": "Wed, 16 Oct 2024 13:56:06 GMT",
-        "category": "Web3",
-        "type": "conference"
     },
     {
         "title": "Weekly B2B Tech Networking - Online Event",
@@ -1467,15 +1557,6 @@
         "type": "conference"
     },
     {
-        "title": "CISSP Mastery Unleashed",
-        "event_date": "October 19, 2024",
-        "location": "Online",
-        "link": "https://dev.events/conferences/cissp-mastery-unleashed-303722024",
-        "published": "Tue, 15 Oct 2024 12:08:03 GMT",
-        "category": "Tech",
-        "type": "meetup"
-    },
-    {
         "title": "Free OPEN Passes to API World 2024",
         "event_date": "November 12, 2024",
         "location": "Online",
@@ -1491,15 +1572,6 @@
         "link": "https://dev.events/conferences/software-freedom-school-board-meeting-open-to-everyone-jpgzktygcpbhb",
         "published": "Tue, 15 Oct 2024 08:06:15 GMT",
         "category": "Open Source",
-        "type": "meetup"
-    },
-    {
-        "title": "Getting started with Microsoft Defender for Identity - Part 2",
-        "event_date": "October 19, 2024",
-        "location": "Online",
-        "link": "https://dev.events/conferences/getting-started-with-microsoft-defender-for-identity-part-2-304020138",
-        "published": "Tue, 15 Oct 2024 08:06:04 GMT",
-        "category": "Microsoft",
         "type": "meetup"
     },
     {
@@ -1881,15 +1953,6 @@
         "type": "meetup"
     },
     {
-        "title": "Building an AI unicorn out of Dubai",
-        "event_date": "October 19, 2024",
-        "location": "Online",
-        "link": "https://dev.events/conferences/building-an-ai-unicorn-out-of-dubai-303731577",
-        "published": "Sat, 12 Oct 2024 18:03:07 GMT",
-        "category": "AI / ML",
-        "type": "meetup"
-    },
-    {
         "title": "Data Science/AI Career Talk",
         "event_date": "October 20, 2024",
         "location": "Online",
@@ -2058,33 +2121,6 @@
         "link": "https://dev.events/conferences/understand-your-interaction-styles-with-strong-suits-free-online-workshop-2-303922503",
         "published": "Fri, 11 Oct 2024 20:02:16 GMT",
         "category": "Agile",
-        "type": "meetup"
-    },
-    {
-        "title": "Construindo seu primeiro PDI",
-        "event_date": "October 19, 2024",
-        "location": "Online",
-        "link": "https://dev.events/conferences/construindo-seu-primeiro-pdi-303959510",
-        "published": "Fri, 11 Oct 2024 18:08:22 GMT",
-        "category": ".NET",
-        "type": "meetup"
-    },
-    {
-        "title": "Primeiros passos em Domain Driven Design",
-        "event_date": "October 19, 2024",
-        "location": "Online",
-        "link": "https://dev.events/conferences/primeiros-passos-em-domain-driven-design-303959542",
-        "published": "Fri, 11 Oct 2024 18:08:22 GMT",
-        "category": "DDD",
-        "type": "meetup"
-    },
-    {
-        "title": "Desenvolvimento Front-End: Do c\u00f3digo \u00e0 constru\u00e7\u00e3o de componentes",
-        "event_date": "October 19, 2024",
-        "location": "Online",
-        "link": "https://dev.events/conferences/desenvolvimento-front-end-do-codigo-a-construcao-de-componentes-303959555",
-        "published": "Fri, 11 Oct 2024 18:08:22 GMT",
-        "category": "Web / Frontend",
         "type": "meetup"
     },
     {
@@ -2601,15 +2637,6 @@
         "type": "meetup"
     },
     {
-        "title": "Flutter Workshop Series, 2024 - 101",
-        "event_date": "October 19, 2024",
-        "location": "Online",
-        "link": "https://dev.events/conferences/flutter-workshop-series-2024-101-303936788",
-        "published": "Thu, 10 Oct 2024 11:01:42 GMT",
-        "category": "Flutter",
-        "type": "meetup"
-    },
-    {
         "title": "Startup Teaming (Online)",
         "event_date": "October 26, 2024",
         "location": "Online",
@@ -2835,15 +2862,6 @@
         "type": "meetup"
     },
     {
-        "title": "Neural Networks Workshop with Will Sentance",
-        "event_date": "October 19, 2024",
-        "location": "Online",
-        "link": "https://dev.events/conferences/neural-networks-workshop-with-will-sentance-303904177",
-        "published": "Wed, 09 Oct 2024 13:02:59 GMT",
-        "category": "AI / ML",
-        "type": "meetup"
-    },
-    {
         "title": "Proggy-Buggy Contest 2024",
         "event_date": "October 26, 2024",
         "location": "Online",
@@ -2868,15 +2886,6 @@
         "link": "https://dev.events/conferences/philly-rb-pubnite-global-virtual-nnlgbtyhcdbpb",
         "published": "Wed, 09 Oct 2024 10:02:38 GMT",
         "category": "Ruby",
-        "type": "meetup"
-    },
-    {
-        "title": "Interview Quotient: Data Science Interview Prep 2.0",
-        "event_date": "October 19, 2024",
-        "location": "Online",
-        "link": "https://dev.events/conferences/interview-quotient-data-science-interview-prep-2-0-303915601",
-        "published": "Wed, 09 Oct 2024 08:04:54 GMT",
-        "category": "Data / Database",
         "type": "meetup"
     },
     {
@@ -3102,15 +3111,6 @@
         "link": "https://dev.events/conferences/vienna-scrum-meetup-301754506",
         "published": "Wed, 09 Oct 2024 06:41:38 GMT",
         "category": "Scrum",
-        "type": "meetup"
-    },
-    {
-        "title": "Certificaci\u00f3n Team Kanban Practitioner TKP - 19 de octubre _ Kanban University",
-        "event_date": "October 19, 2024",
-        "location": "Online",
-        "link": "https://dev.events/conferences/certificacion-team-kanban-practitioner-tkp-19-de-octubre-kanban-university-303377458",
-        "published": "Wed, 09 Oct 2024 06:41:36 GMT",
-        "category": "Agile",
         "type": "meetup"
     },
     {
@@ -3880,7 +3880,7 @@
     },
     {
         "title": "Machine Maintenance Mob",
-        "event_date": "October 22, 2024",
+        "event_date": "October 27, 2024",
         "location": "Online",
         "link": "https://dev.events/conferences/machine-maintenance-mob-303477244",
         "published": "Wed, 09 Oct 2024 06:40:12 GMT",
@@ -4536,15 +4536,6 @@
         "type": "meetup"
     },
     {
-        "title": "Fine-Tuning an AI Model (and where do they make sense?)",
-        "event_date": "October 19, 2024",
-        "location": "Online",
-        "link": "https://dev.events/conferences/fine-tuning-an-ai-model-and-where-do-they-make-sense-303896872",
-        "published": "Wed, 09 Oct 2024 06:38:22 GMT",
-        "category": "AI / ML",
-        "type": "meetup"
-    },
-    {
         "title": "Book Club: Mindset - Continued!",
         "event_date": "October 24, 2024",
         "location": "Online",
@@ -5144,15 +5135,6 @@
         "location": "Online",
         "link": "https://dev.events/conferences/ruby-hack-night-nqchktyhcdbgb",
         "published": "Wed, 09 Oct 2024 06:37:23 GMT",
-        "category": "Ruby",
-        "type": "meetup"
-    },
-    {
-        "title": "ARC Kampala Chapter Mini workshop",
-        "event_date": "October 19, 2024",
-        "location": "Online",
-        "link": "https://dev.events/conferences/arc-kampala-chapter-mini-workshop-303722099",
-        "published": "Wed, 09 Oct 2024 06:37:22 GMT",
         "category": "Ruby",
         "type": "meetup"
     },
@@ -6012,15 +5994,6 @@
         "type": "meetup"
     },
     {
-        "title": "Game Dev Together",
-        "event_date": "October 19, 2024",
-        "location": "Online",
-        "link": "https://dev.events/conferences/game-dev-together-303050900",
-        "published": "Wed, 09 Oct 2024 06:28:12 GMT",
-        "category": "Game dev",
-        "type": "meetup"
-    },
-    {
         "title": "TheGDG Game Jam 3.0",
         "event_date": "October 20, 2024",
         "location": "Online",
@@ -6291,15 +6264,6 @@
         "type": "meetup"
     },
     {
-        "title": "Worldwide: C++ Online Interactive Q&A and Code Reviews, CppMSG.com, Gratis",
-        "event_date": "October 19, 2024",
-        "location": "Online",
-        "link": "https://dev.events/conferences/worldwide-c-online-interactive-q-and-a-and-code-reviews-cpp-msg-com-gratis-303729380",
-        "published": "Wed, 09 Oct 2024 06:28:02 GMT",
-        "category": "C/C++",
-        "type": "meetup"
-    },
-    {
         "title": "Unity Toastmasters",
         "event_date": "October 24, 2024",
         "location": "Online",
@@ -6558,15 +6522,6 @@
         "link": "https://dev.events/conferences/slc-unreal-user-group-meetup-phhvjtyhccbsb",
         "published": "Wed, 09 Oct 2024 06:17:40 GMT",
         "category": "Game dev",
-        "type": "meetup"
-    },
-    {
-        "title": "Saturday VR Creator Meetup",
-        "event_date": "October 19, 2024",
-        "location": "Online",
-        "link": "https://dev.events/conferences/saturday-vr-creator-meetup-303735472",
-        "published": "Wed, 09 Oct 2024 06:17:39 GMT",
-        "category": "AR / VR / XR",
         "type": "meetup"
     },
     {
@@ -7110,15 +7065,6 @@
         "type": "meetup"
     },
     {
-        "title": "Saturday Workgroup (Virtual)",
-        "event_date": "October 19, 2024",
-        "location": "Online",
-        "link": "https://dev.events/conferences/saturday-workgroup-virtual-303731258",
-        "published": "Sat, 05 Oct 2024 16:00:38 GMT",
-        "category": "Game dev",
-        "type": "meetup"
-    },
-    {
         "title": "Marta Bendomir es entrevistada por Gladys Torkinson.",
         "event_date": "October 23, 2024",
         "location": "Online",
@@ -7170,15 +7116,6 @@
         "link": "https://dev.events/conferences/ok-rs-for-startup-success-online-session-303580602",
         "published": "Sat, 05 Oct 2024 08:05:32 GMT",
         "category": "Startup",
-        "type": "meetup"
-    },
-    {
-        "title": "Three.js Meetup",
-        "event_date": "October 19, 2024",
-        "location": "Online",
-        "link": "https://dev.events/conferences/three-js-meetup-303301486",
-        "published": "Sat, 05 Oct 2024 01:00:32 GMT",
-        "category": "JavaScript",
         "type": "meetup"
     },
     {
@@ -7251,15 +7188,6 @@
         "link": "https://dev.events/conferences/product-unleashed-brighton-october-meetup-303804387",
         "published": "Fri, 04 Oct 2024 10:03:33 GMT",
         "category": "Product management",
-        "type": "meetup"
-    },
-    {
-        "title": "Kochi JUG - Virtual Meetup",
-        "event_date": "October 19, 2024",
-        "location": "Online",
-        "link": "https://dev.events/conferences/kochi-jug-virtual-meetup-303823843",
-        "published": "Fri, 04 Oct 2024 08:04:40 GMT",
-        "category": "Java",
         "type": "meetup"
     },
     {
@@ -7641,24 +7569,6 @@
         "type": "meetup"
     },
     {
-        "title": "Azure Academy - Forma\u00e7\u00e3o AI Services, OpenAI e Data Science no Azure - Online",
-        "event_date": "October 19, 2024",
-        "location": "Online",
-        "link": "https://dev.events/conferences/azure-academy-formacao-ai-services-open-ai-e-data-science-no-azure-online-302403297",
-        "published": "Sat, 28 Sep 2024 12:03:29 GMT",
-        "category": "Azure",
-        "type": "meetup"
-    },
-    {
-        "title": "Forma\u00e7\u00e3o AI Services, OpenAI e Data Science no Azure - Online",
-        "event_date": "October 19, 2024",
-        "location": "Online",
-        "link": "https://dev.events/conferences/formacao-ai-services-open-ai-e-data-science-no-azure-online-302403303",
-        "published": "Sat, 28 Sep 2024 11:04:51 GMT",
-        "category": "AI / ML",
-        "type": "meetup"
-    },
-    {
         "title": "Building Modern .NET Apps: DDD, FastAPI on Azure, and Akka.NET",
         "event_date": "October 26, 2024",
         "location": "Online",
@@ -7830,15 +7740,6 @@
         "type": "meetup"
     },
     {
-        "title": "Testflix 2024 - World's Leading Virtual Software Testing Conference.",
-        "event_date": "October 19, 2024",
-        "location": "Online",
-        "link": "https://dev.events/conferences/testflix-2024-world-s-leading-virtual-software-testing-conference-303209627",
-        "published": "Thu, 26 Sep 2024 00:06:07 GMT",
-        "category": "Testing / QA",
-        "type": "meetup"
-    },
-    {
         "title": "JavaScriptMN Monthly Event: Open Floor Show/Tell and Discussion",
         "event_date": "October 30, 2024",
         "location": "Online",
@@ -7936,15 +7837,6 @@
         "published": "Sun, 22 Sep 2024 17:09:09 GMT",
         "category": "AI / ML",
         "type": "conference"
-    },
-    {
-        "title": "Testflix 2024 - World's Leading Virtual Software Testing Conference.",
-        "event_date": "October 19, 2024",
-        "location": "Online",
-        "link": "https://dev.events/conferences/testflix-2024-world-s-leading-virtual-software-testing-conference-303209625",
-        "published": "Sat, 21 Sep 2024 02:01:49 GMT",
-        "category": "Testing / QA",
-        "type": "meetup"
     },
     {
         "title": "Lattice Developers Conference",
@@ -8361,15 +8253,6 @@
         "type": "meetup"
     },
     {
-        "title": "Testflix 2024 - World's Leading Virtual Software Testing Conference.",
-        "event_date": "October 19, 2024",
-        "location": "Online",
-        "link": "https://dev.events/conferences/testflix-2024-world-s-leading-virtual-software-testing-conference-303209624",
-        "published": "Tue, 03 Sep 2024 11:44:55 GMT",
-        "category": "Testing / QA",
-        "type": "meetup"
-    },
-    {
         "title": "Industrial++ Conf 2024",
         "event_date": "October 21, 2024",
         "location": "Moscow, Russia and Online",
@@ -8631,15 +8514,6 @@
         "type": "conference"
     },
     {
-        "title": "Game Project Therapy (Virtual)",
-        "event_date": "October 19, 2024",
-        "location": "Online",
-        "link": "https://dev.events/conferences/game-project-therapy-virtual-null",
-        "published": "Sat, 24 Aug 2024 13:20:40 GMT",
-        "category": "Game dev",
-        "type": "meetup"
-    },
-    {
         "title": "Global XR Conference 2024",
         "event_date": "November 8, 2024",
         "location": "Online",
@@ -8892,15 +8766,6 @@
         "type": "meetup"
     },
     {
-        "title": "Svelte Summit Fall",
-        "event_date": "October 19, 2024",
-        "location": "Online",
-        "link": "https://dev.events/conferences/svelte-summit-fall-ldbjzdap",
-        "published": "Wed, 07 Aug 2024 21:13:44 GMT",
-        "category": "JavaScript",
-        "type": "conference"
-    },
-    {
         "title": "Azure Italia Podcast",
         "event_date": "June 1, 2025",
         "location": "Online",
@@ -9045,15 +8910,6 @@
         "type": "conference"
     },
     {
-        "title": "React+ fwdays",
-        "event_date": "October 19, 2024",
-        "location": "Kyiv, Ukraine and Online",
-        "link": "https://dev.events/conferences/react-fwdays-b5df2ylf",
-        "published": "Thu, 25 Jul 2024 19:16:00 GMT",
-        "category": "React",
-        "type": "conference"
-    },
-    {
         "title": "Simply Cyber CON",
         "event_date": "November 8, 2024",
         "location": "Online",
@@ -9144,15 +9000,6 @@
         "type": "conference"
     },
     {
-        "title": "Mobius 2024",
-        "event_date": "October 19, 2024",
-        "location": "St. Petersburg, Russia and Online",
-        "link": "https://dev.events/conferences/mobius-2024-jvxpvijp",
-        "published": "Wed, 17 Jul 2024 16:57:20 GMT",
-        "category": "Mobile",
-        "type": "conference"
-    },
-    {
         "title": "Kaigi on Rails 2024",
         "event_date": "October 25, 2024",
         "location": "Tokyo, Japan and Online",
@@ -9186,15 +9033,6 @@
         "link": "https://dev.events/conferences/holy-js-2024-online-fhqev6zt",
         "published": "Wed, 17 Jul 2024 16:54:22 GMT",
         "category": "JavaScript",
-        "type": "conference"
-    },
-    {
-        "title": "QA Day 2024",
-        "event_date": "October 19, 2024",
-        "location": "Online",
-        "link": "https://dev.events/conferences/qa-day-2024-dno0abyu",
-        "published": "Mon, 15 Jul 2024 16:06:12 GMT",
-        "category": "Testing / QA",
         "type": "conference"
     },
     {
@@ -9375,15 +9213,6 @@
         "link": "https://dev.events/conferences/international-java-script-conference-munich-edm0ftea",
         "published": "Mon, 01 Jul 2024 12:39:28 GMT",
         "category": "JavaScript",
-        "type": "conference"
-    },
-    {
-        "title": "DATA BASH '24",
-        "event_date": "October 19, 2024",
-        "location": "Online",
-        "link": "https://dev.events/conferences/data-bash-24-bv1c3ze",
-        "published": "Tue, 25 Jun 2024 09:47:08 GMT",
-        "category": "Data / Database",
         "type": "conference"
     },
     {
@@ -9798,15 +9627,6 @@
         "link": "https://dev.events/conferences/global-xr-conference-2024-wbo-l2-x7-g",
         "published": "Sun, 28 Jan 2024 12:13:39 GMT",
         "category": "AR / VR / XR",
-        "type": "conference"
-    },
-    {
-        "title": "Testflix 2024",
-        "event_date": "October 19, 2024",
-        "location": "Online",
-        "link": "https://dev.events/conferences/testflix-2024-online-10-2024",
-        "published": "Sat, 13 Jan 2024 09:21:36 GMT",
-        "category": "Testing / QA",
         "type": "conference"
     },
     {
