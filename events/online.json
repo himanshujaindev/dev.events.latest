@@ -1,5 +1,230 @@
 [
     {
+        "title": "Writer's Room",
+        "event_date": "October 25, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/writer-s-room-302595970",
+        "published": "Mon, 21 Oct 2024 00:00:27 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "Session #8: Google AI Seminar (Virtual)",
+        "event_date": "November 6, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/session-8-google-ai-seminar-virtual-304116864",
+        "published": "Sun, 20 Oct 2024 23:03:14 GMT",
+        "category": "Google",
+        "type": "meetup"
+    },
+    {
+        "title": "Generative AI on AWS Monthly Webinar",
+        "event_date": "November 18, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/generative-ai-on-aws-monthly-webinar-300138573",
+        "published": "Sun, 20 Oct 2024 23:02:34 GMT",
+        "category": "AI / ML",
+        "type": "meetup"
+    },
+    {
+        "title": "Game Dev Together",
+        "event_date": "November 30, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/game-dev-together-303050903",
+        "published": "Sun, 20 Oct 2024 23:00:32 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "Session #8: Google AI Seminar (Virtual)",
+        "event_date": "November 6, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/session-8-google-ai-seminar-virtual-304116866",
+        "published": "Sun, 20 Oct 2024 22:05:24 GMT",
+        "category": "Google",
+        "type": "meetup"
+    },
+    {
+        "title": "Software Freedom School - Board Meeting - Open to: Everyone!",
+        "event_date": "November 6, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/software-freedom-school-board-meeting-open-to-everyone-304053895",
+        "published": "Sun, 20 Oct 2024 21:04:46 GMT",
+        "category": "Open Source",
+        "type": "meetup"
+    },
+    {
+        "title": "Software Freedom School - Board Meeting - Open to: Everyone!",
+        "event_date": "January 8, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/software-freedom-school-board-meeting-open-to-everyone-jpgzktyhccbkb",
+        "published": "Sun, 20 Oct 2024 21:04:46 GMT",
+        "category": "Open Source",
+        "type": "meetup"
+    },
+    {
+        "title": "Build Code Pipeline Using AWS OpsWorks",
+        "event_date": "October 24, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/build-code-pipeline-using-aws-ops-works-303722159",
+        "published": "Sun, 20 Oct 2024 20:05:08 GMT",
+        "category": "AWS",
+        "type": "meetup"
+    },
+    {
+        "title": "[Online] Open source de A a Z - projetos, dicas, possibilidades... | 13a ed",
+        "event_date": "October 23, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/online-open-source-de-a-a-z-projetos-dicas-possibilidades-13a-ed-303981411",
+        "published": "Sun, 20 Oct 2024 18:04:18 GMT",
+        "category": "Open Source",
+        "type": "meetup"
+    },
+    {
+        "title": "Monthly WasmEdge Community Meeting, the runtime for LLM/AGI",
+        "event_date": "November 5, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/monthly-wasm-edge-community-meeting-the-runtime-for-llm-agi-304105323",
+        "published": "Sun, 20 Oct 2024 17:05:41 GMT",
+        "category": "AI / ML",
+        "type": "meetup"
+    },
+    {
+        "title": "Nuxt Nation",
+        "event_date": "November 12, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/nuxt-nation-fy6yrakz",
+        "published": "Sun, 20 Oct 2024 14:52:04 GMT",
+        "category": "Vue",
+        "type": "conference"
+    },
+    {
+        "title": "Chaos Carnival 2025",
+        "event_date": "January 22, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/chaos-carnival-2025-oz0lzld6",
+        "published": "Sun, 20 Oct 2024 14:51:18 GMT",
+        "category": "SRE",
+        "type": "conference"
+    },
+    {
+        "title": "SQLDay 2025",
+        "event_date": "May 12, 2025",
+        "location": "Wroclaw, Poland and Online",
+        "link": "https://dev.events/conferences/sql-day-2025-q4eqahui",
+        "published": "Sun, 20 Oct 2024 14:50:51 GMT",
+        "category": "SQL",
+        "type": "conference"
+    },
+    {
+        "title": "Vue.js Forge",
+        "event_date": "November 14, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/vue-js-forge-vrbwsiee",
+        "published": "Sun, 20 Oct 2024 14:42:52 GMT",
+        "category": "Vue",
+        "type": "conference"
+    },
+    {
+        "title": "Vue.js Nation",
+        "event_date": "January 29, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/vue-js-nation-afmuwkzz",
+        "published": "Sun, 20 Oct 2024 14:35:18 GMT",
+        "category": "Vue",
+        "type": "conference"
+    },
+    {
+        "title": "Data Science/AI Career Talk",
+        "event_date": "October 27, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/data-science-ai-career-talk-303530980",
+        "published": "Sun, 20 Oct 2024 14:02:37 GMT",
+        "category": "Data / Database",
+        "type": "meetup"
+    },
+    {
+        "title": "Saturday VR Creator Meetup",
+        "event_date": "November 16, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/saturday-vr-creator-meetup-ktqkmtygcpbvb",
+        "published": "Sun, 20 Oct 2024 13:00:09 GMT",
+        "category": "AR / VR / XR",
+        "type": "meetup"
+    },
+    {
+        "title": "Saturday Workgroup (Virtual)",
+        "event_date": "November 30, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/saturday-workgroup-virtual-dkgntsygcpbnc",
+        "published": "Sun, 20 Oct 2024 12:00:31 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "Customer Experience in the Digital Age: Driving Sustainable Growth",
+        "event_date": "October 26, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/customer-experience-in-the-digital-age-driving-sustainable-growth-303862330",
+        "published": "Sun, 20 Oct 2024 10:02:55 GMT",
+        "category": "AI / ML",
+        "type": "meetup"
+    },
+    {
+        "title": "UX/UI Bytes host by Coriano Harris: Web CX Design/Dev Architect",
+        "event_date": "October 25, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/ux-ui-bytes-host-by-coriano-harris-web-cx-design-dev-architect-301857104",
+        "published": "Sun, 20 Oct 2024 07:02:30 GMT",
+        "category": "UI / UX",
+        "type": "meetup"
+    },
+    {
+        "title": "Virtual Lunch!",
+        "event_date": "October 28, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/virtual-lunch-303290654",
+        "published": "Sun, 20 Oct 2024 07:02:30 GMT",
+        "category": "Tech",
+        "type": "meetup"
+    },
+    {
+        "title": "Mock Interview: Frontend Engineer @ Airbnb",
+        "event_date": "October 22, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/mock-interview-frontend-engineer-airbnb-304105385",
+        "published": "Sun, 20 Oct 2024 06:00:49 GMT",
+        "category": "Web / Frontend",
+        "type": "meetup"
+    },
+    {
+        "title": "Game Project Therapy (Virtual)",
+        "event_date": "February 15, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/game-project-therapy-virtual-fdfflsyhcdbtb",
+        "published": "Sun, 20 Oct 2024 05:00:10 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "Come Join Us At Fat Tuesday",
+        "event_date": "November 3, 2024",
+        "location": "Memphis, United States and Online",
+        "link": "https://dev.events/conferences/come-join-us-at-fat-tuesday-304098301",
+        "published": "Sun, 20 Oct 2024 05:00:05 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "K8SUG Australia #27 - Melbourne Meetup @AWS - 6 Nov 2024",
+        "event_date": "November 6, 2024",
+        "location": "Melbourne, Australia and Online",
+        "link": "https://dev.events/conferences/k8-sug-australia-27-melbourne-meetup-aws-6-nov-2024-304102983",
+        "published": "Sun, 20 Oct 2024 02:04:46 GMT",
+        "category": "AWS",
+        "type": "meetup"
+    },
+    {
         "title": "Learn Python Fundamentals in 60 Minutes",
         "event_date": "October 23, 2024",
         "location": "Online",
@@ -402,15 +627,6 @@
         "link": "https://dev.events/conferences/virtual-hack-night-302844567",
         "published": "Fri, 18 Oct 2024 10:02:40 GMT",
         "category": "Tech",
-        "type": "meetup"
-    },
-    {
-        "title": "https://nas.io/artificialintelligence/events/advanced-rag-and-finetuning",
-        "event_date": "October 20, 2024",
-        "location": "Online",
-        "link": "https://dev.events/conferences/https-nas-io-artificialintelligence-events-advanced-rag-and-finetuning-304074319",
-        "published": "Fri, 18 Oct 2024 08:02:48 GMT",
-        "category": "AI / ML",
         "type": "meetup"
     },
     {
@@ -1143,15 +1359,6 @@
         "type": "meetup"
     },
     {
-        "title": "Prompt Engineering Explained",
-        "event_date": "October 20, 2024",
-        "location": "Online",
-        "link": "https://dev.events/conferences/prompt-engineering-explained-303722029",
-        "published": "Wed, 16 Oct 2024 16:06:50 GMT",
-        "category": "Tech",
-        "type": "meetup"
-    },
-    {
         "title": "Kata guiada - Gilded Rose amb Lift Up Conditional",
         "event_date": "October 23, 2024",
         "location": "Online",
@@ -1665,15 +1872,6 @@
         "type": "meetup"
     },
     {
-        "title": "[Online] Open source de A a Z - projetos, dicas, possibilidades... | 13a ed",
-        "event_date": "October 20, 2024",
-        "location": "Online",
-        "link": "https://dev.events/conferences/online-open-source-de-a-a-z-projetos-dicas-possibilidades-13a-ed-303981407",
-        "published": "Mon, 14 Oct 2024 21:07:23 GMT",
-        "category": "Open Source",
-        "type": "meetup"
-    },
-    {
         "title": "Collaborative Coding: Advent Of Code 2024",
         "event_date": "December 9, 2024",
         "location": "Online",
@@ -1702,7 +1900,7 @@
     },
     {
         "title": "[Online] Open source de A a Z - projetos, dicas, possibilidades... | 13a ed",
-        "event_date": "October 20, 2024",
+        "event_date": "October 30, 2024",
         "location": "Online",
         "link": "https://dev.events/conferences/online-open-source-de-a-a-z-projetos-dicas-possibilidades-13a-ed-303981409",
         "published": "Mon, 14 Oct 2024 15:08:11 GMT",
@@ -1711,7 +1909,7 @@
     },
     {
         "title": "[Online] Open source de A a Z - projetos, dicas, possibilidades... | 13a ed",
-        "event_date": "October 20, 2024",
+        "event_date": "October 30, 2024",
         "location": "Online",
         "link": "https://dev.events/conferences/online-open-source-de-a-a-z-projetos-dicas-possibilidades-13a-ed-303981412",
         "published": "Mon, 14 Oct 2024 15:00:11 GMT",
@@ -1810,7 +2008,7 @@
     },
     {
         "title": "[Online] Open source de A a Z - projetos, dicas, possibilidades... | 13a ed",
-        "event_date": "October 20, 2024",
+        "event_date": "October 30, 2024",
         "location": "Online",
         "link": "https://dev.events/conferences/online-open-source-de-a-a-z-projetos-dicas-possibilidades-13a-ed-303981374",
         "published": "Sun, 13 Oct 2024 16:06:18 GMT",
@@ -1845,15 +2043,6 @@
         "type": "conference"
     },
     {
-        "title": "Upskilling to Get Hired - Proven Pathways to AWS Career Success",
-        "event_date": "October 20, 2024",
-        "location": "Online",
-        "link": "https://dev.events/conferences/upskilling-to-get-hired-proven-pathways-to-aws-career-success-303985994",
-        "published": "Sun, 13 Oct 2024 07:04:05 GMT",
-        "category": "AWS",
-        "type": "meetup"
-    },
-    {
         "title": "Advanced Data Modeling in NoSQL Databases",
         "event_date": "November 5, 2024",
         "location": "Online",
@@ -1864,7 +2053,7 @@
     },
     {
         "title": "[Online] Open source de A a Z - projetos, dicas, possibilidades... | 13a ed",
-        "event_date": "October 20, 2024",
+        "event_date": "October 30, 2024",
         "location": "Online",
         "link": "https://dev.events/conferences/online-open-source-de-a-a-z-projetos-dicas-possibilidades-13a-ed-303981408",
         "published": "Sun, 13 Oct 2024 03:03:30 GMT",
@@ -1950,15 +2139,6 @@
         "link": "https://dev.events/conferences/coffee-meetup-virtual-303711463",
         "published": "Sat, 12 Oct 2024 18:05:27 GMT",
         "category": "Linux / OS",
-        "type": "meetup"
-    },
-    {
-        "title": "Data Science/AI Career Talk",
-        "event_date": "October 20, 2024",
-        "location": "Online",
-        "link": "https://dev.events/conferences/data-science-ai-career-talk-303530979",
-        "published": "Sat, 12 Oct 2024 18:03:07 GMT",
-        "category": "Data / Database",
         "type": "meetup"
     },
     {
@@ -3407,15 +3587,6 @@
         "location": "Online",
         "link": "https://dev.events/conferences/net-battle-and-encrypted-file-system-303481017",
         "published": "Wed, 09 Oct 2024 06:41:05 GMT",
-        "category": ".NET",
-        "type": "meetup"
-    },
-    {
-        "title": "Coffee With Techies EP-01 :  The Journey of Mladen Macanovi\u0107 & Blazorise.",
-        "event_date": "October 20, 2024",
-        "location": "Online",
-        "link": "https://dev.events/conferences/coffee-with-techies-ep-01-the-journey-of-mladen-macanovic-and-blazorise-303877527",
-        "published": "Wed, 09 Oct 2024 06:41:04 GMT",
         "category": ".NET",
         "type": "meetup"
     },
@@ -5994,15 +6165,6 @@
         "type": "meetup"
     },
     {
-        "title": "TheGDG Game Jam 3.0",
-        "event_date": "October 20, 2024",
-        "location": "Online",
-        "link": "https://dev.events/conferences/the-gdg-game-jam-3-0-303524768",
-        "published": "Wed, 09 Oct 2024 06:28:12 GMT",
-        "category": "Google",
-        "type": "meetup"
-    },
-    {
         "title": "Game Dev Together",
         "event_date": "November 2, 2024",
         "location": "Online",
@@ -7017,15 +7179,6 @@
         "link": "https://dev.events/conferences/session-7-google-ai-seminar-virtual-303873824",
         "published": "Mon, 07 Oct 2024 05:04:24 GMT",
         "category": "Google",
-        "type": "meetup"
-    },
-    {
-        "title": "Indie Video Game Developer Meetup - NW Burbs Location ZOOM",
-        "event_date": "October 20, 2024",
-        "location": "Online",
-        "link": "https://dev.events/conferences/indie-video-game-developer-meetup-nw-burbs-location-zoom-303758774",
-        "published": "Sun, 06 Oct 2024 20:00:51 GMT",
-        "category": "Game dev",
         "type": "meetup"
     },
     {
