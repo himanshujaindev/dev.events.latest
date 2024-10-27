@@ -1,5 +1,50 @@
 [
     {
+        "title": "In-Person Game Development Meetup",
+        "event_date": "November 23, 2024",
+        "location": "Pittsburgh, United States",
+        "link": "https://dev.events/conferences/in-person-game-development-meetup-zftnktygcpbfc",
+        "published": "Sun, 27 Oct 2024 00:00:26 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "Rust Workshop: Deploying Rust Code",
+        "event_date": "October 30, 2024",
+        "location": "Chicago, United States",
+        "link": "https://dev.events/conferences/rust-workshop-deploying-rust-code-304200915",
+        "published": "Sat, 26 Oct 2024 05:04:36 GMT",
+        "category": "Rust",
+        "type": "meetup"
+    },
+    {
+        "title": "Low-Pressure Social Get-Together",
+        "event_date": "November 22, 2024",
+        "location": "Woodfin, United States",
+        "link": "https://dev.events/conferences/low-pressure-social-get-together-sblpwsygcpbcc",
+        "published": "Sat, 26 Oct 2024 02:02:16 GMT",
+        "category": "Tech",
+        "type": "meetup"
+    },
+    {
+        "title": "Seamless Transitions: Lessons from a Data Migration for a Mission-Critical App",
+        "event_date": "November 6, 2024",
+        "location": "Tampa, United States",
+        "link": "https://dev.events/conferences/seamless-transitions-lessons-from-a-data-migration-for-a-mission-critical-app-301883194",
+        "published": "Sat, 26 Oct 2024 02:01:53 GMT",
+        "category": "Data / Database",
+        "type": "meetup"
+    },
+    {
+        "title": "Data Lake Technologies Talk - Powered by databricks!",
+        "event_date": "January 9, 2025",
+        "location": "Tampa, United States",
+        "link": "https://dev.events/conferences/data-lake-technologies-talk-powered-by-databricks-304210306",
+        "published": "Sat, 26 Oct 2024 02:01:53 GMT",
+        "category": "Data / Database",
+        "type": "meetup"
+    },
+    {
         "title": "Pot Luck Dinner + Perry West leads a discussion on the Domestication of Machines",
         "event_date": "November 26, 2024",
         "location": "Redwood City, United States",
@@ -123,15 +168,6 @@
         "link": "https://dev.events/conferences/distributed-system-design-patterns-a-chat-304173942",
         "published": "Fri, 25 Oct 2024 02:02:58 GMT",
         "category": "Cloud",
-        "type": "meetup"
-    },
-    {
-        "title": "80  PERCENT OFF!    AI Summit Fall 2024: AI for Everyone",
-        "event_date": "October 26, 2024",
-        "location": "Mountain View, United States",
-        "link": "https://dev.events/conferences/80-percent-off-ai-summit-fall-2024-ai-for-everyone-304175443",
-        "published": "Fri, 25 Oct 2024 02:00:40 GMT",
-        "category": "AI / ML",
         "type": "meetup"
     },
     {
@@ -720,15 +756,6 @@
         "type": "conference"
     },
     {
-        "title": "A Complete Beginners Coding Class - Basics of the Web!",
-        "event_date": "October 26, 2024",
-        "location": "Sherman Oaks, United States",
-        "link": "https://dev.events/conferences/a-complete-beginners-coding-class-basics-of-the-web-304138294",
-        "published": "Tue, 22 Oct 2024 06:01:17 GMT",
-        "category": "Web / Frontend",
-        "type": "meetup"
-    },
-    {
         "title": "Seattle Indies Halloween Party",
         "event_date": "October 31, 2024",
         "location": "Seattle, United States",
@@ -762,15 +789,6 @@
         "link": "https://dev.events/conferences/boston-vr-social-304133894",
         "published": "Tue, 22 Oct 2024 02:00:39 GMT",
         "category": "AR / VR / XR",
-        "type": "meetup"
-    },
-    {
-        "title": "Indie Co-working Support Group (ISG - IRL)",
-        "event_date": "October 26, 2024",
-        "location": "Seattle, United States",
-        "link": "https://dev.events/conferences/indie-co-working-support-group-isg-irl-303870632",
-        "published": "Tue, 22 Oct 2024 01:00:23 GMT",
-        "category": "Game dev",
         "type": "meetup"
     },
     {
@@ -1302,15 +1320,6 @@
         "link": "https://dev.events/conferences/horrors-in-dev-a-spooktacular-evening-for-technology-goblins-and-ghouls-304056089",
         "published": "Thu, 17 Oct 2024 18:03:58 GMT",
         "category": "DevOps",
-        "type": "meetup"
-    },
-    {
-        "title": "Saturday Work and Chill",
-        "event_date": "October 26, 2024",
-        "location": "Denver, United States",
-        "link": "https://dev.events/conferences/saturday-work-and-chill-303866724",
-        "published": "Thu, 17 Oct 2024 18:00:13 GMT",
-        "category": "Game dev",
         "type": "meetup"
     },
     {
@@ -2184,15 +2193,6 @@
         "link": "https://dev.events/conferences/the-louisville-open-source-programming-meetup-group-monthly-meetup-rfmpbtyhcdbqb",
         "published": "Fri, 11 Oct 2024 00:02:37 GMT",
         "category": "Open Source",
-        "type": "meetup"
-    },
-    {
-        "title": "Side Project Saturday IRL",
-        "event_date": "October 26, 2024",
-        "location": "Willow Grove, United States",
-        "link": "https://dev.events/conferences/side-project-saturday-irl-303947393",
-        "published": "Thu, 10 Oct 2024 23:02:27 GMT",
-        "category": "iOS / Swift",
         "type": "meetup"
     },
     {
@@ -3654,15 +3654,6 @@
         "type": "meetup"
     },
     {
-        "title": "Michigan DevFest 2024",
-        "event_date": "October 26, 2024",
-        "location": "Detroit , United States",
-        "link": "https://dev.events/conferences/michigan-dev-fest-2024-303545178",
-        "published": "Wed, 09 Oct 2024 06:38:14 GMT",
-        "category": "Web / Frontend",
-        "type": "meetup"
-    },
-    {
         "title": "Further Topics of Mesos",
         "event_date": "November 26, 2024",
         "location": "Plano, United States",
@@ -4357,7 +4348,7 @@
     },
     {
         "title": "Intro to Data Engineering: A Primer",
-        "event_date": "January 8, 2025",
+        "event_date": "February 5, 2025",
         "location": "Tampa, United States",
         "link": "https://dev.events/conferences/intro-to-data-engineering-a-primer-302145600",
         "published": "Wed, 09 Oct 2024 06:36:53 GMT",
@@ -4857,15 +4848,6 @@
         "link": "https://dev.events/conferences/nooga-code-and-coffee-299080321",
         "published": "Wed, 09 Oct 2024 06:28:10 GMT",
         "category": "Tech",
-        "type": "meetup"
-    },
-    {
-        "title": "In-Person Game Development Meetup",
-        "event_date": "October 26, 2024",
-        "location": "Pittsburgh, United States",
-        "link": "https://dev.events/conferences/in-person-game-development-meetup-303868357",
-        "published": "Wed, 09 Oct 2024 06:28:09 GMT",
-        "category": "Game dev",
         "type": "meetup"
     },
     {
@@ -5436,15 +5418,6 @@
         "type": "meetup"
     },
     {
-        "title": "Michigan DevFest 2024",
-        "event_date": "October 26, 2024",
-        "location": "Detroit, United States",
-        "link": "https://dev.events/conferences/michigan-dev-fest-2024-303708733",
-        "published": "Sat, 05 Oct 2024 16:03:23 GMT",
-        "category": "Agile",
-        "type": "meetup"
-    },
-    {
         "title": "Game Day: First Saturday of Every Month",
         "event_date": "November 2, 2024",
         "location": "Orlando, United States",
@@ -5911,15 +5884,6 @@
         "published": "Sun, 15 Sep 2024 00:00:54 GMT",
         "category": "UI / UX",
         "type": "meetup"
-    },
-    {
-        "title": "Iowa Code Camp Fall 2024",
-        "event_date": "October 26, 2024",
-        "location": "Ankeny, United States",
-        "link": "https://dev.events/conferences/iowa-code-camp-fall-2024-49cscj9",
-        "published": "Sat, 14 Sep 2024 11:27:35 GMT",
-        "category": "Web / Frontend",
-        "type": "conference"
     },
     {
         "title": "Disrupt 2024",
@@ -6594,15 +6558,6 @@
         "link": "https://dev.events/conferences/banking-transformation-summit-uj45k6bz",
         "published": "Tue, 06 Aug 2024 20:57:06 GMT",
         "category": "AI / ML",
-        "type": "conference"
-    },
-    {
-        "title": "OpenZFS Developer Summit 2024",
-        "event_date": "October 26, 2024",
-        "location": "Portland, United States",
-        "link": "https://dev.events/conferences/open-zfs-developer-summit-2024-sy-bzowc",
-        "published": "Tue, 06 Aug 2024 14:05:31 GMT",
-        "category": "BSD / OS",
         "type": "conference"
     },
     {
