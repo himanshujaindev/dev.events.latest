@@ -1,5 +1,104 @@
 [
     {
+        "title": "Power BI Summit",
+        "event_date": "February 18, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/power-bi-summit-xfjb-ivs",
+        "published": "Sun, 27 Oct 2024 08:10:15 GMT",
+        "category": "Microsoft",
+        "type": "conference"
+    },
+    {
+        "title": "HashiTalks 2025",
+        "event_date": "February 20, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/hashi-talks-2025-ckefughp",
+        "published": "Sun, 27 Oct 2024 07:58:50 GMT",
+        "category": "DevOps",
+        "type": "conference"
+    },
+    {
+        "title": "C++Online 2025",
+        "event_date": "February 25, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/c-online-2025-dgig5e2y",
+        "published": "Sun, 27 Oct 2024 07:47:01 GMT",
+        "category": "C/C++",
+        "type": "conference"
+    },
+    {
+        "title": "New Stars of Data",
+        "event_date": "May 16, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/new-stars-of-data-abgrbnej",
+        "published": "Sun, 27 Oct 2024 07:17:52 GMT",
+        "category": "Data / Database",
+        "type": "conference"
+    },
+    {
+        "title": "DeFi & Web3: Explore The Golden Opportunity",
+        "event_date": "November 28, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/de-fi-and-web3-explore-the-golden-opportunity-geywj-io",
+        "published": "Sun, 27 Oct 2024 06:48:11 GMT",
+        "category": "Web3",
+        "type": "meetup"
+    },
+    {
+        "title": "Agents in Production 2024",
+        "event_date": "November 13, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/agents-in-production-2024-wu9ztx1w",
+        "published": "Sun, 27 Oct 2024 06:45:48 GMT",
+        "category": "AI / ML",
+        "type": "conference"
+    },
+    {
+        "title": "Machine Maintenance Mob",
+        "event_date": "November 19, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/machine-maintenance-mob-304225900",
+        "published": "Sun, 27 Oct 2024 02:04:09 GMT",
+        "category": "Open Source",
+        "type": "meetup"
+    },
+    {
+        "title": "Event will be updating Every including Agenda and Speaker",
+        "event_date": "November 23, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/event-will-be-updating-every-including-agenda-and-speaker-302976835",
+        "published": "Sun, 27 Oct 2024 01:05:52 GMT",
+        "category": ".NET",
+        "type": "meetup"
+    },
+    {
+        "title": "Event will be updating Every including Agenda and Speaker",
+        "event_date": "December 28, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/event-will-be-updating-every-including-agenda-and-speaker-302976836",
+        "published": "Sun, 27 Oct 2024 01:05:52 GMT",
+        "category": ".NET",
+        "type": "meetup"
+    },
+    {
+        "title": "Event will be updating Every including Agenda and Speaker",
+        "event_date": "January 25, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/event-will-be-updating-every-including-agenda-and-speaker-302976839",
+        "published": "Sun, 27 Oct 2024 01:05:52 GMT",
+        "category": ".NET",
+        "type": "meetup"
+    },
+    {
+        "title": "Kamal 2: A Simpler Way to Deploy Ruby Applications",
+        "event_date": "November 13, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/kamal-2-a-simpler-way-to-deploy-ruby-applications-301063000",
+        "published": "Sun, 27 Oct 2024 01:02:14 GMT",
+        "category": "Ruby",
+        "type": "meetup"
+    },
+    {
         "title": "Monthly (Virtual!) Meeting: iOS & VisionOS Development",
         "event_date": "February 14, 2025",
         "location": "Online",
@@ -159,15 +258,6 @@
         "link": "https://dev.events/conferences/cloud-native-talks-an-open-source-first-step-to-greenify-your-cloud-environment-304197330",
         "published": "Sat, 26 Oct 2024 07:03:54 GMT",
         "category": "Cloud",
-        "type": "meetup"
-    },
-    {
-        "title": "Monthly WebXR Discord meetup",
-        "event_date": "October 27, 2024",
-        "location": "Online",
-        "link": "https://dev.events/conferences/monthly-web-xr-discord-meetup-304203554",
-        "published": "Sat, 26 Oct 2024 06:00:51 GMT",
-        "category": "AR / VR / XR",
         "type": "meetup"
     },
     {
@@ -1098,15 +1188,6 @@
         "type": "meetup"
     },
     {
-        "title": "Demystifying Cybersecurity Frameworks",
-        "event_date": "October 27, 2024",
-        "location": "Online",
-        "link": "https://dev.events/conferences/demystifying-cybersecurity-frameworks-303722222",
-        "published": "Wed, 23 Oct 2024 17:06:25 GMT",
-        "category": "Tech",
-        "type": "meetup"
-    },
-    {
         "title": "GitLab Community Pairing",
         "event_date": "November 12, 2024",
         "location": "Online",
@@ -1935,15 +2016,6 @@
         "type": "conference"
     },
     {
-        "title": "Data Science/AI Career Talk",
-        "event_date": "October 27, 2024",
-        "location": "Online",
-        "link": "https://dev.events/conferences/data-science-ai-career-talk-303530980",
-        "published": "Sun, 20 Oct 2024 14:02:37 GMT",
-        "category": "Data / Database",
-        "type": "meetup"
-    },
-    {
         "title": "Saturday VR Creator Meetup",
         "event_date": "November 16, 2024",
         "location": "Online",
@@ -2242,7 +2314,7 @@
     },
     {
         "title": "Live: GitHub Copilot Day",
-        "event_date": "November 9, 2024",
+        "event_date": "November 30, 2024",
         "location": "Online",
         "link": "https://dev.events/conferences/live-git-hub-copilot-day-303831922",
         "published": "Fri, 18 Oct 2024 13:04:12 GMT",
@@ -4995,15 +5067,6 @@
         "type": "meetup"
     },
     {
-        "title": "Machine Maintenance Mob",
-        "event_date": "October 27, 2024",
-        "location": "Online",
-        "link": "https://dev.events/conferences/machine-maintenance-mob-303477244",
-        "published": "Wed, 09 Oct 2024 06:40:12 GMT",
-        "category": "Open Source",
-        "type": "meetup"
-    },
-    {
         "title": "Weekly B2B Tech Networking - Online Event",
         "event_date": "October 29, 2024",
         "location": "Online",
@@ -6057,15 +6120,6 @@
         "type": "meetup"
     },
     {
-        "title": "Virtual Sundays Hosted by Guillermo",
-        "event_date": "October 27, 2024",
-        "location": "Online",
-        "link": "https://dev.events/conferences/virtual-sundays-hosted-by-guillermo-303887480",
-        "published": "Wed, 09 Oct 2024 06:37:18 GMT",
-        "category": "Tech",
-        "type": "meetup"
-    },
-    {
         "title": "Virtual Fishers Code and Coffee",
         "event_date": "October 31, 2024",
         "location": "Online",
@@ -6297,15 +6351,6 @@
         "link": "https://dev.events/conferences/paused-until-further-notice-learners-java-script-study-group-sdxrftygcpbdb",
         "published": "Wed, 09 Oct 2024 06:37:09 GMT",
         "category": "JavaScript",
-        "type": "meetup"
-    },
-    {
-        "title": "Dev Hangout + Dev Tips",
-        "event_date": "October 27, 2024",
-        "location": "Online",
-        "link": "https://dev.events/conferences/dev-hangout-dev-tips-302316733",
-        "published": "Wed, 09 Oct 2024 06:37:07 GMT",
-        "category": "Tech",
         "type": "meetup"
     },
     {
@@ -8602,15 +8647,6 @@
         "published": "Mon, 26 Aug 2024 12:06:41 GMT",
         "category": ".NET",
         "type": "conference"
-    },
-    {
-        "title": "FC Game Development and Unity SIG",
-        "event_date": "October 27, 2024",
-        "location": "Online",
-        "link": "https://dev.events/conferences/fc-game-development-and-unity-sig-null",
-        "published": "Sun, 25 Aug 2024 23:00:26 GMT",
-        "category": "Game dev",
-        "type": "meetup"
     },
     {
         "title": "Power BI & Fabric Summit 2025",
