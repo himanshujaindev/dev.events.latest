@@ -1,5 +1,32 @@
 [
     {
+        "title": "FinovateFall",
+        "event_date": "September 8, 2025",
+        "location": "New York, United States",
+        "link": "https://dev.events/conferences/finovate-fall-qyrrm9a",
+        "published": "Tue, 29 Oct 2024 15:02:01 GMT",
+        "category": "Fintech",
+        "type": "conference"
+    },
+    {
+        "title": "HR Tech",
+        "event_date": "September 16, 2025",
+        "location": "Las Vegas, United States",
+        "link": "https://dev.events/conferences/hr-tech-7orhpghb",
+        "published": "Tue, 29 Oct 2024 15:01:28 GMT",
+        "category": "HR / Hiring / Recruiting",
+        "type": "conference"
+    },
+    {
+        "title": "FinovateSpring",
+        "event_date": "May 7, 2025",
+        "location": "San Diego, United States",
+        "link": "https://dev.events/conferences/finovate-spring-mmm11wn1",
+        "published": "Tue, 29 Oct 2024 14:46:01 GMT",
+        "category": "Fintech",
+        "type": "conference"
+    },
+    {
         "title": "Visual Studio Live! Las Vegas",
         "event_date": "March 10, 2025",
         "location": "Las Vegas, United States",
@@ -438,15 +465,6 @@
         "link": "https://dev.events/conferences/hype-o-clock-game-dev-and-tea-time-dgccjtygcpbvb",
         "published": "Thu, 24 Oct 2024 00:00:07 GMT",
         "category": "Game dev",
-        "type": "meetup"
-    },
-    {
-        "title": "Baymeadows Code and Coffee",
-        "event_date": "October 29, 2024",
-        "location": "Jacksonville , United States",
-        "link": "https://dev.events/conferences/baymeadows-code-and-coffee-303917821",
-        "published": "Wed, 23 Oct 2024 23:02:24 GMT",
-        "category": "Tech",
         "type": "meetup"
     },
     {
@@ -1359,15 +1377,6 @@
         "type": "meetup"
     },
     {
-        "title": "Desktop Apps Your Way! with Sam Basu",
-        "event_date": "October 29, 2024",
-        "location": "Reston, United States",
-        "link": "https://dev.events/conferences/desktop-apps-your-way-with-sam-basu-304051819",
-        "published": "Thu, 17 Oct 2024 15:07:32 GMT",
-        "category": ".NET",
-        "type": "meetup"
-    },
-    {
         "title": "Playtest and Design Night",
         "event_date": "November 13, 2024",
         "location": "Knoxville, United States",
@@ -1401,15 +1410,6 @@
         "link": "https://dev.events/conferences/manage-engine-shield-2024-an-iam-and-cybersecurity-seminar-orlando-us-303408692",
         "published": "Thu, 17 Oct 2024 09:04:26 GMT",
         "category": "Cybersecurity / InfoSec",
-        "type": "meetup"
-    },
-    {
-        "title": "JAWAD Beer && Code - October 2024 @ Fertile Ground Beer Co.",
-        "event_date": "October 29, 2024",
-        "location": "Jackson, United States",
-        "link": "https://dev.events/conferences/jawad-beer-and-and-code-october-2024-fertile-ground-beer-co-304046397",
-        "published": "Thu, 17 Oct 2024 09:00:23 GMT",
-        "category": "Tech",
         "type": "meetup"
     },
     {
@@ -1572,24 +1572,6 @@
         "link": "https://dev.events/conferences/cleveland-game-devs-play-test-night-and-social-meetup-302168700",
         "published": "Wed, 16 Oct 2024 17:00:25 GMT",
         "category": "Game dev",
-        "type": "meetup"
-    },
-    {
-        "title": "Re-Boo(t): Overcome Frightful Team Dynamics",
-        "event_date": "October 29, 2024",
-        "location": "Richmond, United States",
-        "link": "https://dev.events/conferences/re-boo-t-overcome-frightful-team-dynamics-302661611",
-        "published": "Wed, 16 Oct 2024 15:08:04 GMT",
-        "category": "Agile",
-        "type": "meetup"
-    },
-    {
-        "title": "Boo-Lean Coffee - Frightful Team Dynamics",
-        "event_date": "October 29, 2024",
-        "location": "Richmond, United States",
-        "link": "https://dev.events/conferences/boo-lean-coffee-frightful-team-dynamics-302661611",
-        "published": "Wed, 16 Oct 2024 14:09:15 GMT",
-        "category": "Agile",
         "type": "meetup"
     },
     {
@@ -2358,30 +2340,12 @@
         "type": "meetup"
     },
     {
-        "title": "Flutter Austin Meetup - Side Project Show Off #2!!",
-        "event_date": "October 29, 2024",
-        "location": "Austin, United States",
-        "link": "https://dev.events/conferences/flutter-austin-meetup-side-project-show-off-2-303927482",
-        "published": "Thu, 10 Oct 2024 02:01:55 GMT",
-        "category": "Flutter",
-        "type": "meetup"
-    },
-    {
         "title": "A First Look at WireUI",
         "event_date": "February 12, 2025",
         "location": "Lexington, United States",
         "link": "https://dev.events/conferences/a-first-look-at-wire-ui-nqrpntyhcdbpb",
         "published": "Thu, 10 Oct 2024 01:06:21 GMT",
         "category": "PHP",
-        "type": "meetup"
-    },
-    {
-        "title": "Open Hax",
-        "event_date": "October 29, 2024",
-        "location": "Jacksonville, United States",
-        "link": "https://dev.events/conferences/open-hax-llklbtygcnbmc",
-        "published": "Thu, 10 Oct 2024 01:02:47 GMT",
-        "category": "Ruby",
         "type": "meetup"
     },
     {
@@ -3034,15 +2998,6 @@
     },
     {
         "title": "Hang out and talk code [Oddbirds]",
-        "event_date": "October 29, 2024",
-        "location": "St. Augustine, United States",
-        "link": "https://dev.events/conferences/hang-out-and-talk-code-oddbirds-302384259",
-        "published": "Wed, 09 Oct 2024 06:39:54 GMT",
-        "category": "Tech",
-        "type": "meetup"
-    },
-    {
-        "title": "Hang out and talk code [Oddbirds]",
         "event_date": "November 13, 2024",
         "location": "St. Augustine, United States",
         "link": "https://dev.events/conferences/hang-out-and-talk-code-oddbirds-302384261",
@@ -3529,15 +3484,6 @@
     },
     {
         "title": "Tuesday Coffee Caravan and chat every Tuesday morning @ 10am",
-        "event_date": "October 29, 2024",
-        "location": "Fredericksburg, United States",
-        "link": "https://dev.events/conferences/tuesday-coffee-caravan-and-chat-every-tuesday-morning-10am-303612839",
-        "published": "Wed, 09 Oct 2024 06:38:31 GMT",
-        "category": "Tech",
-        "type": "meetup"
-    },
-    {
-        "title": "Tuesday Coffee Caravan and chat every Tuesday morning @ 10am",
         "event_date": "November 5, 2024",
         "location": "Fredericksburg, United States",
         "link": "https://dev.events/conferences/tuesday-coffee-caravan-and-chat-every-tuesday-morning-10am-mjbqntygcpbhb",
@@ -3705,15 +3651,6 @@
         "link": "https://dev.events/conferences/blockchain-and-infrastructure-conference-303774470",
         "published": "Wed, 09 Oct 2024 06:37:42 GMT",
         "category": "Crypto / Blockchain",
-        "type": "meetup"
-    },
-    {
-        "title": "Hybrid Weekly Hack Night",
-        "event_date": "October 29, 2024",
-        "location": "Boston, United States",
-        "link": "https://dev.events/conferences/hybrid-weekly-hack-night-302575013",
-        "published": "Wed, 09 Oct 2024 06:37:29 GMT",
-        "category": "Tech",
         "type": "meetup"
     },
     {
@@ -5085,15 +5022,6 @@
         "type": "meetup"
     },
     {
-        "title": "Game Dev Coworking",
-        "event_date": "October 29, 2024",
-        "location": "Oakland, United States",
-        "link": "https://dev.events/conferences/game-dev-coworking-qdvfktygcnbmc",
-        "published": "Wed, 09 Oct 2024 06:17:34 GMT",
-        "category": "Game dev",
-        "type": "meetup"
-    },
-    {
         "title": "Weekly Project Meetup",
         "event_date": "November 1, 2024",
         "location": "Plano, United States",
@@ -5274,15 +5202,6 @@
         "type": "conference"
     },
     {
-        "title": "Minneapolis Rust Meetup Happy Hour",
-        "event_date": "October 29, 2024",
-        "location": "Minneapolis, United States",
-        "link": "https://dev.events/conferences/minneapolis-rust-meetup-happy-hour-303884468",
-        "published": "Tue, 08 Oct 2024 01:04:46 GMT",
-        "category": "Rust",
-        "type": "meetup"
-    },
-    {
         "title": "Remix Austin November",
         "event_date": "November 7, 2024",
         "location": "Austin, United States",
@@ -5307,15 +5226,6 @@
         "link": "https://dev.events/conferences/game-day-first-saturday-of-every-month-296495796",
         "published": "Fri, 04 Oct 2024 22:00:04 GMT",
         "category": "Game dev",
-        "type": "meetup"
-    },
-    {
-        "title": "Cloud Native Meetup (Eastside",
-        "event_date": "October 29, 2024",
-        "location": "Bellevue, United States",
-        "link": "https://dev.events/conferences/cloud-native-meetup-eastside-303828552",
-        "published": "Fri, 04 Oct 2024 17:04:29 GMT",
-        "category": "Cloud",
         "type": "meetup"
     },
     {
@@ -5445,15 +5355,6 @@
         "type": "meetup"
     },
     {
-        "title": "Generics from the Ground Up",
-        "event_date": "October 29, 2024",
-        "location": "Boulder , United States",
-        "link": "https://dev.events/conferences/generics-from-the-ground-up-303766925",
-        "published": "Wed, 02 Oct 2024 00:06:38 GMT",
-        "category": "Rust",
-        "type": "meetup"
-    },
-    {
         "title": "C++ Optimizations Part2 - How and why modern C++ runs fast.",
         "event_date": "November 6, 2024",
         "location": "Austin, United States",
@@ -5469,15 +5370,6 @@
         "link": "https://dev.events/conferences/presentation-to-be-announced-soon-303591879",
         "published": "Tue, 01 Oct 2024 22:02:04 GMT",
         "category": "JavaScript",
-        "type": "meetup"
-    },
-    {
-        "title": "Music City Rust Developers :  State of the Group and Expectations for 2025",
-        "event_date": "October 29, 2024",
-        "location": "Nashville, United States",
-        "link": "https://dev.events/conferences/music-city-rust-developers-state-of-the-group-and-expectations-for-2025-301425524",
-        "published": "Tue, 01 Oct 2024 16:06:04 GMT",
-        "category": "Rust",
         "type": "meetup"
     },
     {
@@ -5514,24 +5406,6 @@
         "link": "https://dev.events/conferences/adobe-developers-live-2024-vxtb9k2",
         "published": "Sat, 28 Sep 2024 15:47:14 GMT",
         "category": "Tech",
-        "type": "conference"
-    },
-    {
-        "title": "Co-working + Go with the Flow: Temporal FTW @ Code Talent",
-        "event_date": "October 29, 2024",
-        "location": "Denver, United States",
-        "link": "https://dev.events/conferences/co-working-go-with-the-flow-temporal-ftw-code-talent-303368079",
-        "published": "Sat, 28 Sep 2024 00:03:38 GMT",
-        "category": "DevOps",
-        "type": "meetup"
-    },
-    {
-        "title": "IMPACT WOLRD TOUR 24 San Jose",
-        "event_date": "October 29, 2024",
-        "location": "San Jose, United States",
-        "link": "https://dev.events/conferences/impact-wolrd-tour-24-san-jose-djfcphxj",
-        "published": "Thu, 26 Sep 2024 09:23:42 GMT",
-        "category": "Cybersecurity / InfoSec",
         "type": "conference"
     },
     {
@@ -5580,15 +5454,6 @@
         "type": "meetup"
     },
     {
-        "title": "InnoVAte 2024 Debrief",
-        "event_date": "October 29, 2024",
-        "location": "Richmond, United States",
-        "link": "https://dev.events/conferences/inno-v-ate-2024-debrief-302661611",
-        "published": "Tue, 24 Sep 2024 22:09:30 GMT",
-        "category": "Agile",
-        "type": "meetup"
-    },
-    {
         "title": "ElasticON Tour New York City",
         "event_date": "November 13, 2024",
         "location": "New York, United States",
@@ -5603,15 +5468,6 @@
         "location": "Birmingham, United States",
         "link": "https://dev.events/conferences/explore-how-terraform-and-ansible-complement-each-other-303603935",
         "published": "Tue, 24 Sep 2024 02:03:14 GMT",
-        "category": "DevOps",
-        "type": "meetup"
-    },
-    {
-        "title": "Further Topics of Mesos",
-        "event_date": "October 29, 2024",
-        "location": "Plano, United States",
-        "link": "https://dev.events/conferences/further-topics-of-mesos-303459342",
-        "published": "Tue, 24 Sep 2024 00:02:56 GMT",
         "category": "DevOps",
         "type": "meetup"
     },
@@ -5722,15 +5578,6 @@
         "published": "Tue, 17 Sep 2024 12:40:20 GMT",
         "category": "Cloud",
         "type": "conference"
-    },
-    {
-        "title": "Go with the Flow: Temporal FTW @ Code Talent",
-        "event_date": "October 29, 2024",
-        "location": "Denver, United States",
-        "link": "https://dev.events/conferences/go-with-the-flow-temporal-ftw-code-talent-303368079",
-        "published": "Mon, 16 Sep 2024 14:03:04 GMT",
-        "category": "DevOps",
-        "type": "meetup"
     },
     {
         "title": "Queer UX Designers Network in San Francisco | Product Design | UX | UI",
@@ -6927,15 +6774,6 @@
         "link": "https://dev.events/conferences/java-one-bkp-upug",
         "published": "Tue, 26 Mar 2024 06:04:13 GMT",
         "category": "Java",
-        "type": "conference"
-    },
-    {
-        "title": "GitHub Universe 2024",
-        "event_date": "October 29, 2024",
-        "location": "San Francisco, United States",
-        "link": "https://dev.events/conferences/git-hub-universe-2024-ir-aa0jk",
-        "published": "Mon, 25 Mar 2024 08:10:51 GMT",
-        "category": "Open Source",
         "type": "conference"
     },
     {
