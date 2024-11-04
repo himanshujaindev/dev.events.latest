@@ -1,5 +1,104 @@
 [
     {
+        "title": "U.S. Fintech Symposium",
+        "event_date": "June 1, 2025",
+        "location": "Oak Brook, United States",
+        "link": "https://dev.events/conferences/u-s-fintech-symposium-csakqzoj",
+        "published": "Sun, 03 Nov 2024 11:51:16 GMT",
+        "category": "Fintech",
+        "type": "conference"
+    },
+    {
+        "title": "Great Lakes Software Symposium",
+        "event_date": "May 16, 2025",
+        "location": "Chicago, United States",
+        "link": "https://dev.events/conferences/great-lakes-software-symposium-ts-9apd3",
+        "published": "Sun, 03 Nov 2024 11:45:31 GMT",
+        "category": "Full-stack",
+        "type": "conference"
+    },
+    {
+        "title": "Pacific Northwest Software Symposium",
+        "event_date": "March 21, 2025",
+        "location": "Seattle, United States",
+        "link": "https://dev.events/conferences/pacific-northwest-software-symposium-mvlkp1jr",
+        "published": "Sun, 03 Nov 2024 11:43:14 GMT",
+        "category": "Full-stack",
+        "type": "conference"
+    },
+    {
+        "title": "ArchConf 2024",
+        "event_date": "December 9, 2024",
+        "location": "Clearwater, United States",
+        "link": "https://dev.events/conferences/arch-conf-2024-9e4rvw3",
+        "published": "Sun, 03 Nov 2024 11:39:45 GMT",
+        "category": "Software architecture",
+        "type": "conference"
+    },
+    {
+        "title": "MLOps Vision",
+        "event_date": "December 2, 2024",
+        "location": "Clearwater, United States",
+        "link": "https://dev.events/conferences/ml-ops-vision-o8pbpt9u",
+        "published": "Sun, 03 Nov 2024 11:38:22 GMT",
+        "category": "AI / ML",
+        "type": "conference"
+    },
+    {
+        "title": "Engineering Happy Hour: AI at Work",
+        "event_date": "November 18, 2024",
+        "location": "New York, United States",
+        "link": "https://dev.events/conferences/engineering-happy-hour-ai-at-work-qhnd4x7k",
+        "published": "Sun, 03 Nov 2024 11:29:40 GMT",
+        "category": "AI / ML",
+        "type": "meetup"
+    },
+    {
+        "title": "XPONENTIAL 2025",
+        "event_date": "May 19, 2025",
+        "location": "Houston, United States",
+        "link": "https://dev.events/conferences/xponential-2025-jejqdu-y",
+        "published": "Sun, 03 Nov 2024 11:20:16 GMT",
+        "category": "Tech",
+        "type": "conference"
+    },
+    {
+        "title": "All Things Open",
+        "event_date": "October 12, 2025",
+        "location": "Raleigh, United States",
+        "link": "https://dev.events/conferences/all-things-open-grdey742",
+        "published": "Sun, 03 Nov 2024 11:13:52 GMT",
+        "category": "Open Source",
+        "type": "conference"
+    },
+    {
+        "title": "PostgreSQL@SCaLE22x",
+        "event_date": "March 6, 2025",
+        "location": "Pasadena, United States",
+        "link": "https://dev.events/conferences/postgre-sql-s-ca-le-22x-vvbnfwbo",
+        "published": "Sun, 03 Nov 2024 11:09:40 GMT",
+        "category": "Postgres",
+        "type": "conference"
+    },
+    {
+        "title": "Code Beam America",
+        "event_date": "March 6, 2025",
+        "location": "San Francisco, United States and Online",
+        "link": "https://dev.events/conferences/code-beam-america-23vornwz",
+        "published": "Sun, 03 Nov 2024 10:54:00 GMT",
+        "category": "Elixir",
+        "type": "conference"
+    },
+    {
+        "title": "Code Beam Lite NY",
+        "event_date": "November 15, 2024",
+        "location": "New York, United States",
+        "link": "https://dev.events/conferences/code-beam-lite-ny-tnjrtvjy",
+        "published": "Sun, 03 Nov 2024 10:49:52 GMT",
+        "category": "Elixir",
+        "type": "conference"
+    },
+    {
         "title": "Central Iowa Software Symposium",
         "event_date": "September 5, 2025",
         "location": "Des Moines, United States",
@@ -621,15 +720,6 @@
         "type": "meetup"
     },
     {
-        "title": "MGD Meet and Greet @ Memphis StreamerFest: relaunched",
-        "event_date": "November 3, 2024",
-        "location": "Memphis, United States",
-        "link": "https://dev.events/conferences/mgd-meet-and-greet-memphis-streamer-fest-relaunched-304153041",
-        "published": "Wed, 23 Oct 2024 12:00:26 GMT",
-        "category": "Game dev",
-        "type": "meetup"
-    },
-    {
         "title": "DeveloperWeek CloudX 2024 (Free OPEN Passes for Jet Tech Meetup members)",
         "event_date": "November 5, 2024",
         "location": "Santa Clara, United States",
@@ -996,15 +1086,6 @@
         "link": "https://dev.events/conferences/land-your-dream-job-a-mock-interview-workshop-for-software-developers-304105887",
         "published": "Sun, 20 Oct 2024 07:02:29 GMT",
         "category": "Tech",
-        "type": "meetup"
-    },
-    {
-        "title": "Come Join Us At Fat Tuesday",
-        "event_date": "November 3, 2024",
-        "location": "Memphis, United States and Online",
-        "link": "https://dev.events/conferences/come-join-us-at-fat-tuesday-304098301",
-        "published": "Sun, 20 Oct 2024 05:00:05 GMT",
-        "category": "Game dev",
         "type": "meetup"
     },
     {
@@ -1683,15 +1764,6 @@
         "type": "conference"
     },
     {
-        "title": "Game Dev Work & Play",
-        "event_date": "November 3, 2024",
-        "location": "Nashville, United States",
-        "link": "https://dev.events/conferences/game-dev-work-and-play-303450099",
-        "published": "Mon, 14 Oct 2024 03:00:03 GMT",
-        "category": "Game dev",
-        "type": "meetup"
-    },
-    {
         "title": "In Person - Salem: Faster dev and testing with container-supported development",
         "event_date": "November 7, 2024",
         "location": "Salem, United States",
@@ -1877,15 +1949,6 @@
         "location": "Plano, United States",
         "link": "https://dev.events/conferences/weekly-project-meetup-303725360",
         "published": "Fri, 11 Oct 2024 20:00:07 GMT",
-        "category": "Game dev",
-        "type": "meetup"
-    },
-    {
-        "title": "Game Dev Tea Party + Pot Luck! \u2728",
-        "event_date": "November 3, 2024",
-        "location": "Carrollton, United States",
-        "link": "https://dev.events/conferences/game-dev-tea-party-pot-luck-303808227",
-        "published": "Fri, 11 Oct 2024 19:00:33 GMT",
         "category": "Game dev",
         "type": "meetup"
     },
@@ -3204,15 +3267,6 @@
         "type": "meetup"
     },
     {
-        "title": "Biweekly event - train for CKA (Certified Kubernetes Adminstrator) together",
-        "event_date": "November 3, 2024",
-        "location": "Orlando , United States",
-        "link": "https://dev.events/conferences/biweekly-event-train-for-cka-certified-kubernetes-adminstrator-together-zjghntygcpbfb",
-        "published": "Wed, 09 Oct 2024 06:38:35 GMT",
-        "category": "Docker / Kubernetes",
-        "type": "meetup"
-    },
-    {
         "title": "Boulder Linux Users Group (BLUG) Monthly Meeting",
         "event_date": "November 15, 2024",
         "location": "Boulder, United States",
@@ -3978,15 +4032,6 @@
         "type": "meetup"
     },
     {
-        "title": "Vue.js Project Day",
-        "event_date": "November 3, 2024",
-        "location": "Indianapolis, United States",
-        "link": "https://dev.events/conferences/vue-js-project-day-zkfbltygcpbfb",
-        "published": "Wed, 09 Oct 2024 06:36:54 GMT",
-        "category": "Vue",
-        "type": "meetup"
-    },
-    {
         "title": "Dev & Donuts #15",
         "event_date": "November 28, 2024",
         "location": "Mannheim, United States",
@@ -4537,15 +4582,6 @@
     },
     {
         "title": "Strawberry Jam",
-        "event_date": "November 3, 2024",
-        "location": "Los Angeles, United States",
-        "link": "https://dev.events/conferences/strawberry-jam-spdbgtygcpbfb",
-        "published": "Wed, 09 Oct 2024 06:28:04 GMT",
-        "category": "Game dev",
-        "type": "meetup"
-    },
-    {
-        "title": "Strawberry Jam",
         "event_date": "November 17, 2024",
         "location": "Los Angeles, United States",
         "link": "https://dev.events/conferences/strawberry-jam-spdbgtygcpbwb",
@@ -4586,15 +4622,6 @@
         "location": "Santa Ana, United States",
         "link": "https://dev.events/conferences/oc-indies-monthly-nbqbmtyhccbmc",
         "published": "Wed, 09 Oct 2024 06:28:04 GMT",
-        "category": "Game dev",
-        "type": "meetup"
-    },
-    {
-        "title": "Game Creators Meetup (IN-PERSON)",
-        "event_date": "November 3, 2024",
-        "location": "Louisville, United States",
-        "link": "https://dev.events/conferences/game-creators-meetup-in-person-jdfpctygcpbfb",
-        "published": "Wed, 09 Oct 2024 06:28:02 GMT",
         "category": "Game dev",
         "type": "meetup"
     },
