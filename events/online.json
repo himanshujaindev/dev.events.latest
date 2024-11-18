@@ -1,5 +1,158 @@
 [
     {
+        "title": "Site Reliability Engineering 2025",
+        "event_date": "April 17, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/site-reliability-engineering-2025-vou237bj",
+        "published": "Sun, 17 Nov 2024 12:51:12 GMT",
+        "category": "SRE",
+        "type": "conference"
+    },
+    {
+        "title": "Platform Engineering 2025",
+        "event_date": "September 4, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/platform-engineering-2025-jqma8ucs",
+        "published": "Sun, 17 Nov 2024 12:50:11 GMT",
+        "category": "Software architecture",
+        "type": "conference"
+    },
+    {
+        "title": "FOSSASIA Summit 2025",
+        "event_date": "March 13, 2025",
+        "location": "Bangkok, Thailand and Online",
+        "link": "https://dev.events/conferences/fossasia-summit-2025-pmhutuwe",
+        "published": "Sun, 17 Nov 2024 12:49:35 GMT",
+        "category": "AI / ML",
+        "type": "conference"
+    },
+    {
+        "title": "Observability 2025",
+        "event_date": "June 5, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/observability-2025-g3-xmizh",
+        "published": "Sun, 17 Nov 2024 12:48:02 GMT",
+        "category": "SRE",
+        "type": "conference"
+    },
+    {
+        "title": "Golang 2025",
+        "event_date": "April 3, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/golang-2025-crpd0u6n",
+        "published": "Sun, 17 Nov 2024 12:47:44 GMT",
+        "category": "Golang",
+        "type": "conference"
+    },
+    {
+        "title": "Machine Learning 2025",
+        "event_date": "May 8, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/machine-learning-2025-ba7-pftp",
+        "published": "Sun, 17 Nov 2024 12:44:25 GMT",
+        "category": "AI / ML",
+        "type": "conference"
+    },
+    {
+        "title": "Quantum Computing 2025",
+        "event_date": "June 19, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/quantum-computing-2025-dtbdf6fc",
+        "published": "Sun, 17 Nov 2024 12:42:27 GMT",
+        "category": "Hardware / IoT",
+        "type": "conference"
+    },
+    {
+        "title": "MLOps 2025",
+        "event_date": "September 18, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/ml-ops-2025-xfuo974e",
+        "published": "Sun, 17 Nov 2024 12:42:00 GMT",
+        "category": "AI / ML",
+        "type": "conference"
+    },
+    {
+        "title": "Incident Management 2025",
+        "event_date": "October 2, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/incident-management-2025-8ldpnj04",
+        "published": "Sun, 17 Nov 2024 12:41:42 GMT",
+        "category": "SRE",
+        "type": "conference"
+    },
+    {
+        "title": "Kube Native 2025",
+        "event_date": "October 16, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/kube-native-2025-sthd4az0",
+        "published": "Sun, 17 Nov 2024 12:40:44 GMT",
+        "category": "Docker / Kubernetes",
+        "type": "conference"
+    },
+    {
+        "title": "Update Conference Prague 2025",
+        "event_date": "November 13, 2025",
+        "location": "Prague, Czech Republic and Online",
+        "link": "https://dev.events/conferences/update-conference-prague-2025-vqttc-l6",
+        "published": "Sun, 17 Nov 2024 12:40:24 GMT",
+        "category": ".NET",
+        "type": "conference"
+    },
+    {
+        "title": "Prompt Engineering 2025",
+        "event_date": "November 6, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/prompt-engineering-2025-byujrzc5",
+        "published": "Sun, 17 Nov 2024 12:38:47 GMT",
+        "category": "AI / ML",
+        "type": "conference"
+    },
+    {
+        "title": "Robotics 2025",
+        "event_date": "November 20, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/robotics-2025-2ktqflkx",
+        "published": "Sun, 17 Nov 2024 12:38:22 GMT",
+        "category": "Hardware / IoT",
+        "type": "conference"
+    },
+    {
+        "title": "DevSecOps 2025",
+        "event_date": "December 4, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/dev-sec-ops-2025-lt9mx0at",
+        "published": "Sun, 17 Nov 2024 12:37:24 GMT",
+        "category": "DevOps",
+        "type": "conference"
+    },
+    {
+        "title": "Conf42: JavaScript 2025",
+        "event_date": "October 30, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/conf42-java-script-2025-rtni67uw",
+        "published": "Sun, 17 Nov 2024 12:36:13 GMT",
+        "category": "JavaScript",
+        "type": "conference"
+    },
+    {
+        "title": "Rustlang 2025",
+        "event_date": "August 21, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/rustlang-2025-nbza3cmp",
+        "published": "Sun, 17 Nov 2024 12:35:08 GMT",
+        "category": "Rust",
+        "type": "conference"
+    },
+    {
+        "title": "Internet of Things 2025",
+        "event_date": "December 18, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/internet-of-things-2025-zgucogsn",
+        "published": "Sun, 17 Nov 2024 12:33:23 GMT",
+        "category": "Hardware / IoT",
+        "type": "conference"
+    },
+    {
         "title": "Usetech FronTalk #3: Bun",
         "event_date": "November 21, 2024",
         "location": "Online",
@@ -873,30 +1026,12 @@
         "type": "meetup"
     },
     {
-        "title": "Halifax Indie Devs Virtual Play and Tell",
-        "event_date": "November 17, 2024",
-        "location": "Online",
-        "link": "https://dev.events/conferences/halifax-indie-devs-virtual-play-and-tell-304161721",
-        "published": "Wed, 23 Oct 2024 19:00:31 GMT",
-        "category": "Game dev",
-        "type": "meetup"
-    },
-    {
         "title": "Free Webinar: From Bias to Trust: The Path to Responsible AI",
         "event_date": "November 29, 2024",
         "location": "Online",
         "link": "https://dev.events/conferences/free-webinar-from-bias-to-trust-the-path-to-responsible-ai-304160165",
         "published": "Wed, 23 Oct 2024 18:00:51 GMT",
         "category": "AI / ML",
-        "type": "meetup"
-    },
-    {
-        "title": "COGG Let's Play (Online)",
-        "event_date": "November 17, 2024",
-        "location": "Online",
-        "link": "https://dev.events/conferences/cogg-let-s-play-online-304018498",
-        "published": "Wed, 23 Oct 2024 16:00:28 GMT",
-        "category": "Game dev",
         "type": "meetup"
     },
     {
@@ -4140,15 +4275,6 @@
         "type": "meetup"
     },
     {
-        "title": "Indie Video Game Developer Meetup - NW Burbs Location ZOOM",
-        "event_date": "November 17, 2024",
-        "location": "Online",
-        "link": "https://dev.events/conferences/indie-video-game-developer-meetup-nw-burbs-location-zoom-dnzbwsygcpbwb",
-        "published": "Wed, 09 Oct 2024 06:28:04 GMT",
-        "category": "Game dev",
-        "type": "meetup"
-    },
-    {
         "title": "[ONLINE] Bi-Monthly Meeting",
         "event_date": "November 21, 2024",
         "location": "Online",
@@ -4497,15 +4623,6 @@
         "link": "https://dev.events/conferences/virtual-open-space-global-domain-driven-day-2024-303878436",
         "published": "Mon, 07 Oct 2024 10:01:09 GMT",
         "category": "DDD",
-        "type": "meetup"
-    },
-    {
-        "title": "Pittsburgh Unreal Group November 2024 Online Meeting",
-        "event_date": "November 17, 2024",
-        "location": "Online",
-        "link": "https://dev.events/conferences/pittsburgh-unreal-group-november-2024-online-meeting-303855580",
-        "published": "Sun, 06 Oct 2024 04:00:33 GMT",
-        "category": "Game dev",
         "type": "meetup"
     },
     {
@@ -5154,15 +5271,6 @@
         "link": "https://dev.events/conferences/trino-summit-2024-4jzcqmzy",
         "published": "Thu, 11 Jul 2024 12:02:05 GMT",
         "category": "SQL",
-        "type": "conference"
-    },
-    {
-        "title": "DENOG16",
-        "event_date": "November 17, 2024",
-        "location": "Berlin, Germany and Online",
-        "link": "https://dev.events/conferences/denog-16-mrmp5mom",
-        "published": "Sun, 07 Jul 2024 07:49:08 GMT",
-        "category": "Telecom / 5G",
         "type": "conference"
     },
     {
