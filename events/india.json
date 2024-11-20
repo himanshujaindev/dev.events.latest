@@ -1,5 +1,122 @@
 [
     {
+        "title": "Cloud @ Devfest Kolkata 2024",
+        "event_date": "December 22, 2024",
+        "location": "Kolkata, India",
+        "link": "https://dev.events/conferences/cloud-devfest-kolkata-2024-sneraiku",
+        "published": "Tue, 19 Nov 2024 09:01:59 GMT",
+        "category": "Cloud",
+        "type": "conference"
+    },
+    {
+        "title": "AWS UG Pune -AI Boot Camp Nov 2024",
+        "event_date": "November 23, 2024",
+        "location": "Pune, India",
+        "link": "https://dev.events/conferences/aws-ug-pune-ai-boot-camp-nov-2024-304633357",
+        "published": "Tue, 19 Nov 2024 06:58:35 GMT",
+        "category": "AWS",
+        "type": "meetup"
+    },
+    {
+        "title": "Implementing Amazon WorkSpaces for High-Security Environments",
+        "event_date": "November 23, 2024",
+        "location": "Pune, India",
+        "link": "https://dev.events/conferences/implementing-amazon-work-spaces-for-high-security-environments-304412745",
+        "published": "Tue, 19 Nov 2024 06:57:58 GMT",
+        "category": "Cybersecurity / InfoSec",
+        "type": "meetup"
+    },
+    {
+        "title": "#54: November Kubernetes Pune meetup",
+        "event_date": "November 23, 2024",
+        "location": "Pune, India",
+        "link": "https://dev.events/conferences/54-november-kubernetes-pune-meetup-304471344",
+        "published": "Tue, 19 Nov 2024 06:56:28 GMT",
+        "category": "Docker / Kubernetes",
+        "type": "meetup"
+    },
+    {
+        "title": "GitTogether Bengaluru November 2024",
+        "event_date": "November 23, 2024",
+        "location": "Bengaluru, India",
+        "link": "https://dev.events/conferences/git-together-bengaluru-november-2024-304273112",
+        "published": "Tue, 19 Nov 2024 06:56:11 GMT",
+        "category": "Tech",
+        "type": "meetup"
+    },
+    {
+        "title": "AWS Amplify workshop and Nov meet-up",
+        "event_date": "November 23, 2024",
+        "location": "Bangalore, India",
+        "link": "https://dev.events/conferences/aws-amplify-workshop-and-nov-meet-up-304630249",
+        "published": "Tue, 19 Nov 2024 06:56:07 GMT",
+        "category": "AWS",
+        "type": "meetup"
+    },
+    {
+        "title": "DataNyx - Telangana\u2019s first 24hr Datathon",
+        "event_date": "November 23, 2024",
+        "location": "Hyderabad, India",
+        "link": "https://dev.events/conferences/data-nyx-telangana-s-first-24hr-datathon-304258409",
+        "published": "Tue, 19 Nov 2024 06:55:39 GMT",
+        "category": "AWS",
+        "type": "meetup"
+    },
+    {
+        "title": "Exam Slam SDP (Members Only)",
+        "event_date": "December 4, 2024",
+        "location": "Hyderabad, India",
+        "link": "https://dev.events/conferences/exam-slam-sdp-members-only-304361708",
+        "published": "Tue, 19 Nov 2024 06:55:39 GMT",
+        "category": "AWS",
+        "type": "meetup"
+    },
+    {
+        "title": "#53 Large Scale Production Engineering (LSPE) meet up",
+        "event_date": "December 14, 2024",
+        "location": "Bangalore, India",
+        "link": "https://dev.events/conferences/53-large-scale-production-engineering-lspe-meet-up-298771549",
+        "published": "Tue, 19 Nov 2024 06:55:36 GMT",
+        "category": "SRE",
+        "type": "meetup"
+    },
+    {
+        "title": "Understanding S.O.L.I.D Principles and Mastering Clean Code",
+        "event_date": "November 23, 2024",
+        "location": "Pune, India",
+        "link": "https://dev.events/conferences/understanding-s-o-l-i-d-principles-and-mastering-clean-code-304283265",
+        "published": "Tue, 19 Nov 2024 06:54:25 GMT",
+        "category": "Tech",
+        "type": "meetup"
+    },
+    {
+        "title": "Reliability Engineering Meetup (In-Person, Bengaluru), November 23rd, 2024",
+        "event_date": "November 23, 2024",
+        "location": "Bengaluru, India",
+        "link": "https://dev.events/conferences/reliability-engineering-meetup-in-person-bengaluru-november-23rd-2024-304323059",
+        "published": "Tue, 19 Nov 2024 06:54:02 GMT",
+        "category": "SRE",
+        "type": "meetup"
+    },
+    {
+        "title": "React Delhi Meetup #7",
+        "event_date": "November 30, 2024",
+        "location": "NOIDA, India",
+        "link": "https://dev.events/conferences/react-delhi-meetup-7-304291537",
+        "published": "Tue, 19 Nov 2024 06:52:21 GMT",
+        "category": "React",
+        "type": "meetup"
+    },
+    {
+        "title": "JSLovers Pune x CityJS November Meetup",
+        "event_date": "November 21, 2024",
+        "location": "Pune, India",
+        "link": "https://dev.events/conferences/js-lovers-pune-x-city-js-november-meetup-304484377",
+        "published": "Tue, 19 Nov 2024 06:52:19 GMT",
+        "category": "JavaScript",
+        "type": "meetup"
+    },
+    {
         "title": "KubeCon + CloudNativeCon India 2025",
         "event_date": "August 6, 2025",
         "location": "Hyderabad, India",
@@ -180,6 +297,15 @@
         "type": "meetup"
     },
     {
+        "title": ".NET Conf 2024 Recap - Mumbai",
+        "event_date": "January 11, 2025",
+        "location": "Mumbai, India",
+        "link": "https://dev.events/conferences/net-conf-2024-recap-mumbai-303879655",
+        "published": "Mon, 14 Oct 2024 12:05:19 GMT",
+        "category": ".NET",
+        "type": "meetup"
+    },
+    {
         "title": ".NET Conf 2024 @ Chennai",
         "event_date": "December 14, 2024",
         "location": "Chennai, India",
@@ -195,6 +321,15 @@
         "link": "https://dev.events/conferences/microsoft-season-of-ai-copilots-303877974",
         "published": "Wed, 09 Oct 2024 06:41:03 GMT",
         "category": "Microsoft",
+        "type": "meetup"
+    },
+    {
+        "title": "WomenWhoHack November 2024",
+        "event_date": "November 23, 2024",
+        "location": "Hyderabad, India",
+        "link": "https://dev.events/conferences/women-who-hack-november-2024-298929336",
+        "published": "Wed, 09 Oct 2024 06:40:17 GMT",
+        "category": "Open Source",
         "type": "meetup"
     },
     {
@@ -261,7 +396,7 @@
         "type": "conference"
     },
     {
-        "title": "Devon's DevOps meet-up(In-Person)",
+        "title": "Devon's DevOps meet-up (In-Person)",
         "event_date": "December 7, 2024",
         "location": "Bengaluru, India",
         "link": "https://dev.events/conferences/devon-s-dev-ops-meet-up-in-person-303482065",
@@ -313,6 +448,15 @@
         "published": "Tue, 10 Sep 2024 12:47:54 GMT",
         "category": "WordPress",
         "type": "conference"
+    },
+    {
+        "title": ".NET Conf 2024 - KMUG - Kochi",
+        "event_date": "November 23, 2024",
+        "location": "Kochi , India",
+        "link": "https://dev.events/conferences/net-conf-2024-kmug-kochi-303267725",
+        "published": "Fri, 06 Sep 2024 05:43:56 GMT",
+        "category": ".NET",
+        "type": "meetup"
     },
     {
         "title": "WordCamp Kolkata 2025",
