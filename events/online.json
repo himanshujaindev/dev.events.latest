@@ -1,5 +1,221 @@
 [
     {
+        "title": "C++ meetup",
+        "event_date": "November 28, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/c-meetup-rr1ww036",
+        "published": "Sun, 24 Nov 2024 11:04:33 GMT",
+        "category": "C/C++",
+        "type": "meetup"
+    },
+    {
+        "title": "NGENIX Icebreaker",
+        "event_date": "December 4, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/ngenix-icebreaker-2v-bqebx",
+        "published": "Sun, 24 Nov 2024 11:00:18 GMT",
+        "category": "Cybersecurity / InfoSec",
+        "type": "conference"
+    },
+    {
+        "title": "PlayButton 01/12",
+        "event_date": "December 1, 2024",
+        "location": "St. Petersburg, Russia and Online",
+        "link": "https://dev.events/conferences/play-button-01-12-qjmb67t7",
+        "published": "Sun, 24 Nov 2024 10:59:57 GMT",
+        "category": "Tech",
+        "type": "conference"
+    },
+    {
+        "title": "OS DevConf",
+        "event_date": "December 5, 2024",
+        "location": "Moscow, Russia and Online",
+        "link": "https://dev.events/conferences/os-dev-conf-5lma3cor",
+        "published": "Sun, 24 Nov 2024 10:59:32 GMT",
+        "category": "Linux / OS",
+        "type": "conference"
+    },
+    {
+        "title": "Selectel GameDev Meetup",
+        "event_date": "December 11, 2024",
+        "location": "St. Petersburg, Russia and Online",
+        "link": "https://dev.events/conferences/selectel-game-dev-meetup-5uchjjwu",
+        "published": "Sun, 24 Nov 2024 10:57:11 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "TeamLead Conf",
+        "event_date": "November 27, 2024",
+        "location": "Moscow, Russia and Online",
+        "link": "https://dev.events/conferences/team-lead-conf-ntka54ry",
+        "published": "Sun, 24 Nov 2024 10:54:45 GMT",
+        "category": "Tech leadership",
+        "type": "conference"
+    },
+    {
+        "title": "Functional Conf",
+        "event_date": "January 24, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/functional-conf-7rog7otg",
+        "published": "Sun, 24 Nov 2024 10:50:05 GMT",
+        "category": "Functional programming",
+        "type": "conference"
+    },
+    {
+        "title": "sysconf 2025",
+        "event_date": "March 22, 2025",
+        "location": "Moscow, Russia and Online",
+        "link": "https://dev.events/conferences/sysconf-2025-z-dvq8h",
+        "published": "Sun, 24 Nov 2024 10:39:58 GMT",
+        "category": "Rust",
+        "type": "conference"
+    },
+    {
+        "title": "Heisenbug 2025 Spring",
+        "event_date": "April 5, 2025",
+        "location": "Moscow, Russia and Online",
+        "link": "https://dev.events/conferences/heisenbug-2025-spring-p-a3p9np",
+        "published": "Sun, 24 Nov 2024 10:36:23 GMT",
+        "category": "Testing / QA",
+        "type": "conference"
+    },
+    {
+        "title": "Cybersecurity & Ransomware Live! VirtCon",
+        "event_date": "May 13, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/cybersecurity-and-ransomware-live-virt-con-mxlnkibe",
+        "published": "Sun, 24 Nov 2024 10:28:47 GMT",
+        "category": "Cybersecurity / InfoSec",
+        "type": "conference"
+    },
+    {
+        "title": "webinale 2025",
+        "event_date": "June 2, 2025",
+        "location": "Berlin, Germany and Online",
+        "link": "https://dev.events/conferences/webinale-2025-gv3ixi9t",
+        "published": "Sun, 24 Nov 2024 10:22:10 GMT",
+        "category": "Web / Frontend",
+        "type": "conference"
+    },
+    {
+        "title": "Ask a Kanban Trainer (Po Polsku) - December 2024",
+        "event_date": "December 11, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/ask-a-kanban-trainer-po-polsku-december-2024-304725751",
+        "published": "Sun, 24 Nov 2024 03:08:59 GMT",
+        "category": "Agile",
+        "type": "meetup"
+    },
+    {
+        "title": "Accelerating your development process with Amazon Q Developer",
+        "event_date": "December 9, 2024",
+        "location": "Nurnberg, Germany and Online",
+        "link": "https://dev.events/conferences/accelerating-your-development-process-with-amazon-q-developer-304666944",
+        "published": "Sun, 24 Nov 2024 03:08:05 GMT",
+        "category": "AWS",
+        "type": "meetup"
+    },
+    {
+        "title": "Transforming Data into Compelling Narratives with Power BI",
+        "event_date": "November 27, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/transforming-data-into-compelling-narratives-with-power-bi-304244872",
+        "published": "Sun, 24 Nov 2024 03:07:14 GMT",
+        "category": "Data / Database",
+        "type": "meetup"
+    },
+    {
+        "title": "Remote: Lunch CoffeeOps",
+        "event_date": "January 28, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/remote-lunch-coffee-ops-kckbftyhccblc",
+        "published": "Sun, 24 Nov 2024 03:06:26 GMT",
+        "category": "DevOps",
+        "type": "meetup"
+    },
+    {
+        "title": "AWS Bulgaria #52 - AWS re:Invent 2024 reCap",
+        "event_date": "December 12, 2024",
+        "location": "\u0421\u043e\u0444\u0438\u044f, Bulgaria and Online",
+        "link": "https://dev.events/conferences/aws-bulgaria-52-aws-re-invent-2024-re-cap-304689482",
+        "published": "Sun, 24 Nov 2024 03:05:22 GMT",
+        "category": "AWS",
+        "type": "meetup"
+    },
+    {
+        "title": "Let's Code Together!",
+        "event_date": "January 18, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/let-s-code-together-dpbnlsyhccbxb",
+        "published": "Sun, 24 Nov 2024 03:03:03 GMT",
+        "category": "Tech",
+        "type": "meetup"
+    },
+    {
+        "title": "Dev Hangout + Dev Tips",
+        "event_date": "January 19, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/dev-hangout-dev-tips-mxvqktyhccbxb",
+        "published": "Sun, 24 Nov 2024 03:02:39 GMT",
+        "category": "Tech",
+        "type": "meetup"
+    },
+    {
+        "title": "Friday's open meetup",
+        "event_date": "December 20, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/friday-s-open-meetup-ktgxbtygcqbbc",
+        "published": "Sun, 24 Nov 2024 03:00:39 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "Seabug Study Hall on Discord",
+        "event_date": "November 29, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/seabug-study-hall-on-discord-304469002",
+        "published": "Sun, 24 Nov 2024 03:00:37 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "Prototype, Play, and Build Workshops (Online)",
+        "event_date": "January 10, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/prototype-play-and-build-workshops-online-rnwlntyhccbnb",
+        "published": "Sun, 24 Nov 2024 03:00:37 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "[Online] Intro to Unity 6",
+        "event_date": "March 20, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/online-intro-to-unity-6-304423071",
+        "published": "Sun, 24 Nov 2024 03:00:37 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "Boston Indies Friday Coffee Hour (weekly zoom @ #events on Boston GameDev Slack)",
+        "event_date": "January 3, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/boston-indies-friday-coffee-hour-weekly-zoom-events-on-boston-game-dev-slack-303947303",
+        "published": "Sun, 24 Nov 2024 03:00:30 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "HTML5 Game Development Monthly Meetup",
+        "event_date": "March 20, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/html-5-game-development-monthly-meetup-qntppsyhcfbbc",
+        "published": "Sun, 24 Nov 2024 03:00:07 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
         "title": "JPoint 2025",
         "event_date": "April 3, 2025",
         "location": "Moscow, Russia and Online",
@@ -942,15 +1158,6 @@
         "link": "https://dev.events/conferences/masterclass-summit-3-construire-des-infrastructures-de-donnees-resilientes-304668206",
         "published": "Thu, 21 Nov 2024 03:08:59 GMT",
         "category": "CTO",
-        "type": "meetup"
-    },
-    {
-        "title": "Azure DevOps Artifacts Explained",
-        "event_date": "November 24, 2024",
-        "location": "Online",
-        "link": "https://dev.events/conferences/azure-dev-ops-artifacts-explained-304244817",
-        "published": "Thu, 21 Nov 2024 03:08:07 GMT",
-        "category": "Azure",
         "type": "meetup"
     },
     {
@@ -2994,15 +3201,6 @@
         "link": "https://dev.events/conferences/azure-compute-102-getting-started-with-cloud-compute-304374866",
         "published": "Tue, 19 Nov 2024 06:54:18 GMT",
         "category": "Azure",
-        "type": "meetup"
-    },
-    {
-        "title": "Data Science/AI Career Talk",
-        "event_date": "November 24, 2024",
-        "location": "Online",
-        "link": "https://dev.events/conferences/data-science-ai-career-talk-303530985",
-        "published": "Tue, 19 Nov 2024 06:54:16 GMT",
-        "category": "Data / Database",
         "type": "meetup"
     },
     {
@@ -7245,15 +7443,6 @@
         "type": "meetup"
     },
     {
-        "title": "Virtual Sundays Hosted by Guillermo",
-        "event_date": "November 24, 2024",
-        "location": "Online",
-        "link": "https://dev.events/conferences/virtual-sundays-hosted-by-guillermo-rkbqssygcpbgc",
-        "published": "Wed, 09 Oct 2024 06:37:18 GMT",
-        "category": "Tech",
-        "type": "meetup"
-    },
-    {
         "title": "Monthly Get Together",
         "event_date": "January 9, 2025",
         "location": "Online",
@@ -7350,15 +7539,6 @@
         "link": "https://dev.events/conferences/mac-tech-group-meetup-cggmntyhcdbhb",
         "published": "Wed, 09 Oct 2024 06:37:12 GMT",
         "category": "iOS / Swift",
-        "type": "meetup"
-    },
-    {
-        "title": "Dev Hangout + Dev Tips",
-        "event_date": "November 24, 2024",
-        "location": "Online",
-        "link": "https://dev.events/conferences/dev-hangout-dev-tips-mxvqktygcpbfc",
-        "published": "Wed, 09 Oct 2024 06:37:07 GMT",
-        "category": "Tech",
         "type": "meetup"
     },
     {
