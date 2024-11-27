@@ -1,5 +1,167 @@
 [
     {
+        "title": "Infobip Shift Miami",
+        "event_date": "May 5, 2025",
+        "location": "Miami, United States",
+        "link": "https://dev.events/conferences/infobip-shift-miami-ldqhvnyc",
+        "published": "Tue, 26 Nov 2024 13:16:30 GMT",
+        "category": "AI / ML",
+        "type": "conference"
+    },
+    {
+        "title": "DEF CON 33",
+        "event_date": "August 7, 2025",
+        "location": "Las Vegas, United States",
+        "link": "https://dev.events/conferences/def-con-33-vl8-cxpt",
+        "published": "Tue, 26 Nov 2024 12:54:12 GMT",
+        "category": "Cybersecurity / InfoSec",
+        "type": "conference"
+    },
+    {
+        "title": "St. Louis dev up Holiday Party and AI Discussion",
+        "event_date": "December 17, 2024",
+        "location": "Chesterfield , United States",
+        "link": "https://dev.events/conferences/st-louis-dev-up-holiday-party-and-ai-discussion-304768347",
+        "published": "Tue, 26 Nov 2024 03:08:22 GMT",
+        "category": "AI / ML",
+        "type": "meetup"
+    },
+    {
+        "title": "Monthly luncheon: meet, eat, talk tech!",
+        "event_date": "January 23, 2025",
+        "location": "Key West, United States",
+        "link": "https://dev.events/conferences/monthly-luncheon-meet-eat-talk-tech-grmzktyhccbfc",
+        "published": "Tue, 26 Nov 2024 03:05:50 GMT",
+        "category": "Tech",
+        "type": "meetup"
+    },
+    {
+        "title": "Monthly evening eat, drink and chat",
+        "event_date": "February 11, 2025",
+        "location": "Key West, United States",
+        "link": "https://dev.events/conferences/monthly-evening-eat-drink-and-chat-jwqzktyhcdbpb",
+        "published": "Tue, 26 Nov 2024 03:05:50 GMT",
+        "category": "Tech",
+        "type": "meetup"
+    },
+    {
+        "title": "Monthly luncheon: meet, eat, talk tech!",
+        "event_date": "February 27, 2025",
+        "location": "Key West, United States",
+        "link": "https://dev.events/conferences/monthly-luncheon-meet-eat-talk-tech-grmzktyhcdbkc",
+        "published": "Tue, 26 Nov 2024 03:05:50 GMT",
+        "category": "Tech",
+        "type": "meetup"
+    },
+    {
+        "title": "DevMemphis",
+        "event_date": "December 5, 2024",
+        "location": "Memphis, United States",
+        "link": "https://dev.events/conferences/dev-memphis-298922120",
+        "published": "Tue, 26 Nov 2024 03:03:12 GMT",
+        "category": "Tech",
+        "type": "meetup"
+    },
+    {
+        "title": "Memphis Tech Lunch",
+        "event_date": "December 5, 2024",
+        "location": "Memphis, United States",
+        "link": "https://dev.events/conferences/memphis-tech-lunch-303588907",
+        "published": "Tue, 26 Nov 2024 03:03:12 GMT",
+        "category": "Tech",
+        "type": "meetup"
+    },
+    {
+        "title": "Saint Augustine Cowork and Coffee [Parlor Doughnuts]",
+        "event_date": "November 28, 2024",
+        "location": "St. Augustine, United States",
+        "link": "https://dev.events/conferences/saint-augustine-cowork-and-coffee-parlor-doughnuts-304454955",
+        "published": "Tue, 26 Nov 2024 03:03:10 GMT",
+        "category": "Tech",
+        "type": "meetup"
+    },
+    {
+        "title": "Low-Pressure Social Get-Together",
+        "event_date": "December 20, 2024",
+        "location": "Asheville, United States",
+        "link": "https://dev.events/conferences/low-pressure-social-get-together-ksmdptygcqbzb",
+        "published": "Tue, 26 Nov 2024 03:02:58 GMT",
+        "category": "Tech",
+        "type": "meetup"
+    },
+    {
+        "title": "Low-Pressure Social Get-Together",
+        "event_date": "December 26, 2024",
+        "location": "Asheville, United States",
+        "link": "https://dev.events/conferences/low-pressure-social-get-together-jzkpwsygcqbhc",
+        "published": "Tue, 26 Nov 2024 03:02:58 GMT",
+        "category": "Tech",
+        "type": "meetup"
+    },
+    {
+        "title": "Holiday Party & Cookie Exchange - Modern Web x AtlantaJS x ReactATL x VueATL",
+        "event_date": "December 10, 2024",
+        "location": "Alpharetta, United States",
+        "link": "https://dev.events/conferences/holiday-party-and-cookie-exchange-modern-web-x-atlanta-js-x-react-atl-x-vue-atl-304759245",
+        "published": "Tue, 26 Nov 2024 03:02:46 GMT",
+        "category": "React",
+        "type": "meetup"
+    },
+    {
+        "title": "Flutter Silicon Valley, Holiday Fun Edition: Dec 17, 2024",
+        "event_date": "December 18, 2024",
+        "location": "Sunnyvale, United States",
+        "link": "https://dev.events/conferences/flutter-silicon-valley-holiday-fun-edition-dec-17-2024-304752869",
+        "published": "Tue, 26 Nov 2024 03:02:05 GMT",
+        "category": "Flutter",
+        "type": "meetup"
+    },
+    {
+        "title": "Holiday Creative Chaos: Improv Fun in LA",
+        "event_date": "December 1, 2024",
+        "location": "Los Angeles, United States",
+        "link": "https://dev.events/conferences/holiday-creative-chaos-improv-fun-in-la-304762765",
+        "published": "Tue, 26 Nov 2024 03:00:59 GMT",
+        "category": "AR / VR / XR",
+        "type": "meetup"
+    },
+    {
+        "title": "Write It Out: Creative Writing Journal Club",
+        "event_date": "December 7, 2024",
+        "location": "Inglewood, United States",
+        "link": "https://dev.events/conferences/write-it-out-creative-writing-journal-club-304768363",
+        "published": "Tue, 26 Nov 2024 03:00:59 GMT",
+        "category": "AR / VR / XR",
+        "type": "meetup"
+    },
+    {
+        "title": "C++ Optimizations Part3 - How and why modern C++ runs fast.",
+        "event_date": "April 1, 2025",
+        "location": "Austin, United States",
+        "link": "https://dev.events/conferences/c-optimizations-part3-how-and-why-modern-c-runs-fast-wcbnntyhcgbcb",
+        "published": "Tue, 26 Nov 2024 03:00:44 GMT",
+        "category": "C/C++",
+        "type": "meetup"
+    },
+    {
+        "title": "Seattle Blender User Group",
+        "event_date": "December 7, 2024",
+        "location": "Seattle, United States",
+        "link": "https://dev.events/conferences/seattle-blender-user-group-304441636",
+        "published": "Tue, 26 Nov 2024 03:00:35 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "Holiday Party with Tulsa Game Devs meetup Andolini's Pizzeria Sliced",
+        "event_date": "December 13, 2024",
+        "location": "Tulsa, United States",
+        "link": "https://dev.events/conferences/holiday-party-with-tulsa-game-devs-meetup-andolini-s-pizzeria-sliced-304758189",
+        "published": "Tue, 26 Nov 2024 03:00:19 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
         "title": "Python Office Hours!",
         "event_date": "January 19, 2025",
         "location": "Irvine, United States",
@@ -738,15 +900,6 @@
         "type": "meetup"
     },
     {
-        "title": "Code and Coffee Evenings (Open Hax)",
-        "event_date": "November 26, 2024",
-        "location": "Jacksonville, United States",
-        "link": "https://dev.events/conferences/code-and-coffee-evenings-open-hax-304425131",
-        "published": "Thu, 21 Nov 2024 03:03:43 GMT",
-        "category": "Tech",
-        "type": "meetup"
-    },
-    {
         "title": "Virtual Weekly Hack Night",
         "event_date": "December 18, 2024",
         "location": "Boston, United States",
@@ -909,15 +1062,6 @@
         "type": "meetup"
     },
     {
-        "title": "Baymeadows Code and Coffee",
-        "event_date": "November 26, 2024",
-        "location": "Jacksonville , United States",
-        "link": "https://dev.events/conferences/baymeadows-code-and-coffee-304413611",
-        "published": "Wed, 20 Nov 2024 03:03:20 GMT",
-        "category": "Tech",
-        "type": "meetup"
-    },
-    {
         "title": "Open Hax",
         "event_date": "December 17, 2024",
         "location": "Jacksonville, United States",
@@ -1059,15 +1203,6 @@
         "link": "https://dev.events/conferences/baton-rouge-net-sql-server-and-power-bi-user-groups-meeting-rbwcktyhcfbqb",
         "published": "Tue, 19 Nov 2024 07:00:42 GMT",
         "category": "SQL",
-        "type": "meetup"
-    },
-    {
-        "title": "Data Time Travel with SQL Server Temporal Tables",
-        "event_date": "November 26, 2024",
-        "location": "Reston, United States",
-        "link": "https://dev.events/conferences/data-time-travel-with-sql-server-temporal-tables-304541887",
-        "published": "Tue, 19 Nov 2024 07:00:38 GMT",
-        "category": "Data / Database",
         "type": "meetup"
     },
     {
@@ -1602,15 +1737,6 @@
         "type": "meetup"
     },
     {
-        "title": "Tuesday Coffee Caravan and chat every Tuesday morning @ 10am",
-        "event_date": "November 26, 2024",
-        "location": "Fredericksburg, United States",
-        "link": "https://dev.events/conferences/tuesday-coffee-caravan-and-chat-every-tuesday-morning-10am-304285853",
-        "published": "Tue, 19 Nov 2024 06:55:29 GMT",
-        "category": "Tech",
-        "type": "meetup"
-    },
-    {
         "title": "GoStdlib: The `os` package",
         "event_date": "March 5, 2025",
         "location": "Lehi, United States",
@@ -1838,7 +1964,7 @@
     {
         "title": "Low-Pressure Social Get-Together",
         "event_date": "December 6, 2024",
-        "location": "Woodfin, United States",
+        "location": "Asheville, United States",
         "link": "https://dev.events/conferences/low-pressure-social-get-together-304590103",
         "published": "Tue, 19 Nov 2024 06:53:12 GMT",
         "category": "Tech",
@@ -2295,15 +2421,6 @@
         "type": "meetup"
     },
     {
-        "title": "In-Person Meetup!",
-        "event_date": "November 26, 2024",
-        "location": "Milwaukee, United States",
-        "link": "https://dev.events/conferences/in-person-meetup-304388719",
-        "published": "Tue, 19 Nov 2024 06:50:29 GMT",
-        "category": "Game dev",
-        "type": "meetup"
-    },
-    {
         "title": "Monthly Meetup at GigaParts!",
         "event_date": "March 8, 2025",
         "location": "Huntsville, United States",
@@ -2484,15 +2601,6 @@
         "type": "meetup"
     },
     {
-        "title": "Game Dev Coworking",
-        "event_date": "November 26, 2024",
-        "location": "Oakland, United States",
-        "link": "https://dev.events/conferences/game-dev-coworking-304423232",
-        "published": "Tue, 19 Nov 2024 06:50:00 GMT",
-        "category": "Game dev",
-        "type": "meetup"
-    },
-    {
         "title": "Weekly Project Meetup",
         "event_date": "November 29, 2024",
         "location": "Plano, United States",
@@ -2579,15 +2687,6 @@
         "location": "Nashville, United States",
         "link": "https://dev.events/conferences/game-dev-work-and-play-303984124",
         "published": "Tue, 19 Nov 2024 06:49:59 GMT",
-        "category": "Game dev",
-        "type": "meetup"
-    },
-    {
-        "title": "IGDA Ann Arbor : Larry Kuperman (Nightdive Studios)",
-        "event_date": "November 26, 2024",
-        "location": "Ann Arbor, United States",
-        "link": "https://dev.events/conferences/igda-ann-arbor-larry-kuperman-nightdive-studios-302440071",
-        "published": "Tue, 19 Nov 2024 06:49:57 GMT",
         "category": "Game dev",
         "type": "meetup"
     },
@@ -3015,15 +3114,6 @@
         "type": "meetup"
     },
     {
-        "title": "Pot Luck Dinner + Perry West leads a discussion on the Domestication of Machines",
-        "event_date": "November 26, 2024",
-        "location": "Redwood City, United States",
-        "link": "https://dev.events/conferences/pot-luck-dinner-perry-west-leads-a-discussion-on-the-domestication-of-machines-300708789",
-        "published": "Sat, 26 Oct 2024 00:06:48 GMT",
-        "category": "Agile",
-        "type": "meetup"
-    },
-    {
         "title": "Memphis .NET and Azure Developers Group - In Person Meetup",
         "event_date": "April 24, 2025",
         "location": "Memphis, United States",
@@ -3120,15 +3210,6 @@
         "link": "https://dev.events/conferences/venkat-subramaniam-304166326",
         "published": "Wed, 23 Oct 2024 22:01:52 GMT",
         "category": "Java",
-        "type": "meetup"
-    },
-    {
-        "title": "Open Hax",
-        "event_date": "November 26, 2024",
-        "location": "Jacksonville, United States",
-        "link": "https://dev.events/conferences/open-hax-llklbtygcpbjc",
-        "published": "Wed, 23 Oct 2024 17:03:13 GMT",
-        "category": "Ruby",
         "type": "meetup"
     },
     {
@@ -4686,15 +4767,6 @@
         "link": "https://dev.events/conferences/columbus-containers-and-friends-meetup-at-improving-6-30-pm-rctvltyhcmbfc",
         "published": "Wed, 09 Oct 2024 06:38:26 GMT",
         "category": "Docker / Kubernetes",
-        "type": "meetup"
-    },
-    {
-        "title": "Further Topics of Mesos",
-        "event_date": "November 26, 2024",
-        "location": "Plano, United States",
-        "link": "https://dev.events/conferences/further-topics-of-mesos-mtngjlygcpbhc",
-        "published": "Wed, 09 Oct 2024 06:38:04 GMT",
-        "category": "DevOps",
         "type": "meetup"
     },
     {
