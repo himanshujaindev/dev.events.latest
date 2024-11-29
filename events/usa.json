@@ -1,5 +1,221 @@
 [
     {
+        "title": "DevOpsCon New York",
+        "event_date": "September 29, 2025",
+        "location": "New York, United States and Online",
+        "link": "https://dev.events/conferences/dev-ops-con-new-york-5bwlwv99",
+        "published": "Thu, 28 Nov 2024 12:53:47 GMT",
+        "category": "DevOps",
+        "type": "conference"
+    },
+    {
+        "title": "Agile Meetup for Entrepreneurs & Professionals",
+        "event_date": "March 26, 2025",
+        "location": "FREMONT, United States",
+        "link": "https://dev.events/conferences/agile-meetup-for-entrepreneurs-and-professionals-vgmzdsyhcfbhc",
+        "published": "Thu, 28 Nov 2024 03:10:13 GMT",
+        "category": "Agile",
+        "type": "meetup"
+    },
+    {
+        "title": "Portland Geek Dinner - Beaverton!",
+        "event_date": "January 8, 2025",
+        "location": "Beaverton, United States",
+        "link": "https://dev.events/conferences/portland-geek-dinner-beaverton-zffcltyhccbkb",
+        "published": "Thu, 28 Nov 2024 03:09:27 GMT",
+        "category": ".NET",
+        "type": "meetup"
+    },
+    {
+        "title": "December Meetup",
+        "event_date": "December 13, 2024",
+        "location": "Redmond, United States",
+        "link": "https://dev.events/conferences/december-meetup-304806455",
+        "published": "Thu, 28 Nov 2024 03:08:08 GMT",
+        "category": "Rust",
+        "type": "meetup"
+    },
+    {
+        "title": "Rust Lunch - Fareground",
+        "event_date": "March 26, 2025",
+        "location": "Austin, United States",
+        "link": "https://dev.events/conferences/rust-lunch-fareground-xvkdgtyhcfbjc",
+        "published": "Thu, 28 Nov 2024 03:08:06 GMT",
+        "category": "Rust",
+        "type": "meetup"
+    },
+    {
+        "title": "Monthly Roundtable:SRE, Performance and Scalability in the age of the Cloud",
+        "event_date": "March 26, 2025",
+        "location": "Brighton, United States",
+        "link": "https://dev.events/conferences/monthly-roundtable-sre-performance-and-scalability-in-the-age-of-the-cloud-wxzpftyhcfbjc",
+        "published": "Thu, 28 Nov 2024 03:07:08 GMT",
+        "category": "SRE",
+        "type": "meetup"
+    },
+    {
+        "title": "GenAI and LLMs Meetup (December) - San Francisco",
+        "event_date": "December 11, 2024",
+        "location": "San Francisco, United States",
+        "link": "https://dev.events/conferences/gen-ai-and-ll-ms-meetup-december-san-francisco-304789246",
+        "published": "Thu, 28 Nov 2024 03:06:42 GMT",
+        "category": "AI / ML",
+        "type": "meetup"
+    },
+    {
+        "title": "Further Topics of Mesos",
+        "event_date": "March 25, 2025",
+        "location": "Plano, United States",
+        "link": "https://dev.events/conferences/further-topics-of-mesos-mtngjlyhcfbgc",
+        "published": "Thu, 28 Nov 2024 03:04:48 GMT",
+        "category": "DevOps",
+        "type": "meetup"
+    },
+    {
+        "title": "2024 End of the Year Holiday Party",
+        "event_date": "December 18, 2024",
+        "location": "McHenry, United States",
+        "link": "https://dev.events/conferences/2024-end-of-the-year-holiday-party-304795153",
+        "published": "Thu, 28 Nov 2024 03:03:58 GMT",
+        "category": "Tech",
+        "type": "meetup"
+    },
+    {
+        "title": "Code and Coffee",
+        "event_date": "January 8, 2025",
+        "location": "Kalamazoo, United States",
+        "link": "https://dev.events/conferences/code-and-coffee-301597210",
+        "published": "Thu, 28 Nov 2024 03:03:51 GMT",
+        "category": "Tech",
+        "type": "meetup"
+    },
+    {
+        "title": "Code and Coffee Evenings (Open Hax)",
+        "event_date": "December 3, 2024",
+        "location": "Jacksonville, United States",
+        "link": "https://dev.events/conferences/code-and-coffee-evenings-open-hax-304550545",
+        "published": "Thu, 28 Nov 2024 03:03:50 GMT",
+        "category": "Tech",
+        "type": "meetup"
+    },
+    {
+        "title": "NSCoder Night",
+        "event_date": "January 29, 2025",
+        "location": "Lewis Center, United States",
+        "link": "https://dev.events/conferences/ns-coder-night-vbzjvsyhccblc",
+        "published": "Thu, 28 Nov 2024 03:03:22 GMT",
+        "category": "iOS / Swift",
+        "type": "meetup"
+    },
+    {
+        "title": "Meet New People!!  Sunday  Night Networking",
+        "event_date": "December 2, 2024",
+        "location": "Santa Clara, United States",
+        "link": "https://dev.events/conferences/meet-new-people-sunday-night-networking-304518836",
+        "published": "Thu, 28 Nov 2024 03:01:33 GMT",
+        "category": "AR / VR / XR",
+        "type": "meetup"
+    },
+    {
+        "title": "Venice Beach Photo Walk",
+        "event_date": "December 14, 2024",
+        "location": "Los Angeles, United States",
+        "link": "https://dev.events/conferences/venice-beach-photo-walk-304772223",
+        "published": "Thu, 28 Nov 2024 03:01:33 GMT",
+        "category": "AR / VR / XR",
+        "type": "meetup"
+    },
+    {
+        "title": "Playtest and Design Night",
+        "event_date": "December 25, 2024",
+        "location": "Knoxville, United States",
+        "link": "https://dev.events/conferences/playtest-and-design-night-dnhnbtygcqbhc",
+        "published": "Thu, 28 Nov 2024 03:01:01 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "Art Tech & Game Coffee Meetup",
+        "event_date": "December 11, 2024",
+        "location": "Eugene, United States",
+        "link": "https://dev.events/conferences/art-tech-and-game-coffee-meetup-304691289",
+        "published": "Thu, 28 Nov 2024 03:00:56 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "Coffee, co-working, & collab",
+        "event_date": "December 11, 2024",
+        "location": "Mesa, United States",
+        "link": "https://dev.events/conferences/coffee-co-working-and-collab-wbmfltygcqbpb",
+        "published": "Thu, 28 Nov 2024 03:00:52 GMT",
+        "category": "Tech",
+        "type": "meetup"
+    },
+    {
+        "title": "Beer.js: post-coworking social time",
+        "event_date": "December 11, 2024",
+        "location": "Mesa, United States",
+        "link": "https://dev.events/conferences/beer-js-post-coworking-social-time-qflbhtygcqbpb",
+        "published": "Thu, 28 Nov 2024 03:00:52 GMT",
+        "category": "Tech",
+        "type": "meetup"
+    },
+    {
+        "title": "IVGDA Chicago - Game Developers' Meetup",
+        "event_date": "November 30, 2024",
+        "location": "Chicago, United States",
+        "link": "https://dev.events/conferences/ivgda-chicago-game-developers-meetup-304805526",
+        "published": "Thu, 28 Nov 2024 03:00:46 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "January GameDev DrinkUp!",
+        "event_date": "January 10, 2025",
+        "location": "Ballwin, United States",
+        "link": "https://dev.events/conferences/january-game-dev-drink-up-304797880",
+        "published": "Thu, 28 Nov 2024 03:00:30 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "Global Game Jam 2025",
+        "event_date": "January 24, 2025",
+        "location": "St. Louis, United States",
+        "link": "https://dev.events/conferences/global-game-jam-2025-297210316",
+        "published": "Thu, 28 Nov 2024 03:00:30 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "February GameDev DrinkUp!",
+        "event_date": "February 14, 2025",
+        "location": "Ballwin, United States",
+        "link": "https://dev.events/conferences/february-game-dev-drink-up-304799158",
+        "published": "Thu, 28 Nov 2024 03:00:30 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "Hype o'clock Game Dev & Tea Time",
+        "event_date": "December 21, 2024",
+        "location": "Oakland, United States",
+        "link": "https://dev.events/conferences/hype-o-clock-game-dev-and-tea-time-dgccjtygcqbcc",
+        "published": "Thu, 28 Nov 2024 03:00:12 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "IGDA Ann Arbor : Game Development (meeting details coming soon)",
+        "event_date": "April 24, 2025",
+        "location": "Ann Arbor, United States",
+        "link": "https://dev.events/conferences/igda-ann-arbor-game-development-meeting-details-coming-soon-302440081",
+        "published": "Thu, 28 Nov 2024 03:00:04 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
         "title": "KYPHPUG Beers with Ron",
         "event_date": "December 11, 2024",
         "location": "Lexington, United States",
@@ -194,15 +410,6 @@
         "location": "Memphis, United States",
         "link": "https://dev.events/conferences/memphis-tech-lunch-303588907",
         "published": "Tue, 26 Nov 2024 03:03:12 GMT",
-        "category": "Tech",
-        "type": "meetup"
-    },
-    {
-        "title": "Saint Augustine Cowork and Coffee [Parlor Doughnuts]",
-        "event_date": "November 28, 2024",
-        "location": "St. Augustine, United States",
-        "link": "https://dev.events/conferences/saint-augustine-cowork-and-coffee-parlor-doughnuts-304454955",
-        "published": "Tue, 26 Nov 2024 03:03:10 GMT",
         "category": "Tech",
         "type": "meetup"
     },
@@ -834,15 +1041,6 @@
         "link": "https://dev.events/conferences/monthly-java-script-meetup-hgccdtyhcfbjc",
         "published": "Fri, 22 Nov 2024 03:02:19 GMT",
         "category": "JavaScript",
-        "type": "meetup"
-    },
-    {
-        "title": "How to Pitch to Investors and Get the Deal in a COVID-19 World",
-        "event_date": "November 28, 2024",
-        "location": "Palo Alto, United States",
-        "link": "https://dev.events/conferences/how-to-pitch-to-investors-and-get-the-deal-in-a-covid-19-world-304665772",
-        "published": "Fri, 22 Nov 2024 03:01:08 GMT",
-        "category": "Startup",
         "type": "meetup"
     },
     {
@@ -2022,15 +2220,6 @@
         "link": "https://dev.events/conferences/palo-alto-106-miles-at-the-patio-pngrqsyhcdbpb",
         "published": "Tue, 19 Nov 2024 06:53:14 GMT",
         "category": "Startup",
-        "type": "meetup"
-    },
-    {
-        "title": "Low-Pressure Social Get-Together",
-        "event_date": "November 28, 2024",
-        "location": "Asheville, United States",
-        "link": "https://dev.events/conferences/low-pressure-social-get-together-304447539",
-        "published": "Tue, 19 Nov 2024 06:53:12 GMT",
-        "category": "Tech",
         "type": "meetup"
     },
     {
@@ -4473,15 +4662,6 @@
         "type": "meetup"
     },
     {
-        "title": "Monthly luncheon: meet, eat, talk tech!",
-        "event_date": "November 28, 2024",
-        "location": "Key West, United States",
-        "link": "https://dev.events/conferences/monthly-luncheon-meet-eat-talk-tech-grmzktygcpblc",
-        "published": "Wed, 09 Oct 2024 06:39:23 GMT",
-        "category": "Tech",
-        "type": "meetup"
-    },
-    {
         "title": "Monthly evening eat, drink and chat",
         "event_date": "December 10, 2024",
         "location": "Key West, United States",
@@ -5040,15 +5220,6 @@
         "type": "meetup"
     },
     {
-        "title": "Dev & Donuts #15",
-        "event_date": "November 28, 2024",
-        "location": "Mannheim, United States",
-        "link": "https://dev.events/conferences/dev-and-donuts-15-300715846",
-        "published": "Wed, 09 Oct 2024 06:36:53 GMT",
-        "category": "Tech",
-        "type": "meetup"
-    },
-    {
         "title": "Twelve Essential Practices to be Effective in Continuous Delivery",
         "event_date": "December 4, 2024",
         "location": "Tampa, United States",
@@ -5100,15 +5271,6 @@
         "link": "https://dev.events/conferences/react-js-kfcqjtyhccblc",
         "published": "Wed, 09 Oct 2024 06:36:50 GMT",
         "category": "React",
-        "type": "meetup"
-    },
-    {
-        "title": "JavaScript Meetup",
-        "event_date": "November 28, 2024",
-        "location": "Colorado Springs, United States",
-        "link": "https://dev.events/conferences/java-script-meetup-298962133",
-        "published": "Wed, 09 Oct 2024 06:36:45 GMT",
-        "category": "JavaScript",
         "type": "meetup"
     },
     {
@@ -5472,15 +5634,6 @@
         "type": "meetup"
     },
     {
-        "title": "OC Indies Monthly",
-        "event_date": "November 28, 2024",
-        "location": "Santa Ana, United States",
-        "link": "https://dev.events/conferences/oc-indies-monthly-302221271",
-        "published": "Wed, 09 Oct 2024 06:28:04 GMT",
-        "category": "Game dev",
-        "type": "meetup"
-    },
-    {
         "title": "Strawberry Jam",
         "event_date": "December 1, 2024",
         "location": "Los Angeles, United States",
@@ -5558,15 +5711,6 @@
         "location": "Orlando, United States",
         "link": "https://dev.events/conferences/game-day-first-saturday-of-every-month-296495815",
         "published": "Wed, 09 Oct 2024 06:00:03 GMT",
-        "category": "Game dev",
-        "type": "meetup"
-    },
-    {
-        "title": "IGDA Ann Arbor : Game Development (meeting details coming soon)",
-        "event_date": "November 28, 2024",
-        "location": "Ann Arbor, United States",
-        "link": "https://dev.events/conferences/igda-ann-arbor-game-development-meeting-details-coming-soon-302440071",
-        "published": "Wed, 09 Oct 2024 06:00:02 GMT",
         "category": "Game dev",
         "type": "meetup"
     },
@@ -5794,15 +5938,6 @@
         "published": "Sun, 01 Sep 2024 13:55:52 GMT",
         "category": "AI / ML",
         "type": "conference"
-    },
-    {
-        "title": "Hands-on workshop - GoLang",
-        "event_date": "November 28, 2024",
-        "location": "Orlando , United States",
-        "link": "https://dev.events/conferences/hands-on-workshop-go-lang-302103647",
-        "published": "Sat, 31 Aug 2024 15:02:58 GMT",
-        "category": "Golang",
-        "type": "meetup"
     },
     {
         "title": "SQL Saturday Houston",
