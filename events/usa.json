@@ -1,5 +1,59 @@
 [
     {
+        "title": "Overture Member Summit",
+        "event_date": "April 9, 2025",
+        "location": "Charleston, United States",
+        "link": "https://dev.events/conferences/overture-member-summit-rwhbnwbu",
+        "published": "Sun, 01 Dec 2024 07:30:19 GMT",
+        "category": "Tech leadership",
+        "type": "conference"
+    },
+    {
+        "title": "Utah WiA Networking",
+        "event_date": "March 28, 2025",
+        "location": "Salt Lake City, United States",
+        "link": "https://dev.events/conferences/utah-wi-a-networking-gqwdgtyhcfbkc",
+        "published": "Sun, 01 Dec 2024 03:11:10 GMT",
+        "category": "Agile",
+        "type": "meetup"
+    },
+    {
+        "title": "Book Club - Chindi by Jack McDevvit - finishing book",
+        "event_date": "December 5, 2024",
+        "location": "Lexington, United States",
+        "link": "https://dev.events/conferences/book-club-chindi-by-jack-mc-devvit-finishing-book-304849608",
+        "published": "Sun, 01 Dec 2024 03:08:37 GMT",
+        "category": "Tech",
+        "type": "meetup"
+    },
+    {
+        "title": "Second Wednesday Game Dev Dinner",
+        "event_date": "December 12, 2024",
+        "location": "Eugene, United States",
+        "link": "https://dev.events/conferences/second-wednesday-game-dev-dinner-304702842",
+        "published": "Sun, 01 Dec 2024 03:00:46 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "In-Person Game Development Meetup",
+        "event_date": "December 28, 2024",
+        "location": "Pittsburgh, United States",
+        "link": "https://dev.events/conferences/in-person-game-development-meetup-zftnktygcqblc",
+        "published": "Sun, 01 Dec 2024 03:00:43 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "Weekly Project Meetup",
+        "event_date": "December 27, 2024",
+        "location": "Plano, United States",
+        "link": "https://dev.events/conferences/weekly-project-meetup-cwssbtygcqbjc",
+        "published": "Sun, 01 Dec 2024 03:00:08 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
         "title": "Winter Social & Code Camp 2025 Announcement",
         "event_date": "December 11, 2024",
         "location": "Boise, United States",
@@ -564,15 +618,6 @@
         "link": "https://dev.events/conferences/flutter-silicon-valley-holiday-fun-edition-dec-17-2024-304752869",
         "published": "Tue, 26 Nov 2024 03:02:05 GMT",
         "category": "Flutter",
-        "type": "meetup"
-    },
-    {
-        "title": "Holiday Creative Chaos: Improv Fun in LA",
-        "event_date": "December 1, 2024",
-        "location": "Los Angeles, United States",
-        "link": "https://dev.events/conferences/holiday-creative-chaos-improv-fun-in-la-304762765",
-        "published": "Tue, 26 Nov 2024 03:00:59 GMT",
-        "category": "AR / VR / XR",
         "type": "meetup"
     },
     {
@@ -1158,15 +1203,6 @@
         "link": "https://dev.events/conferences/xr-dojo-s-reality-mixer-where-the-future-of-ar-vr-mr-and-ai-comes-alive-304550446",
         "published": "Fri, 22 Nov 2024 03:00:27 GMT",
         "category": "AR / VR / XR",
-        "type": "meetup"
-    },
-    {
-        "title": "Boulder Saturday Work and Chill",
-        "event_date": "December 1, 2024",
-        "location": "Boulder, United States",
-        "link": "https://dev.events/conferences/boulder-saturday-work-and-chill-304490879",
-        "published": "Fri, 22 Nov 2024 03:00:13 GMT",
-        "category": "Game dev",
         "type": "meetup"
     },
     {
@@ -2422,15 +2458,6 @@
     },
     {
         "title": "Vue.js Project Day",
-        "event_date": "December 1, 2024",
-        "location": "Indianapolis, United States",
-        "link": "https://dev.events/conferences/vue-js-project-day-304514000",
-        "published": "Tue, 19 Nov 2024 06:52:21 GMT",
-        "category": "Vue",
-        "type": "meetup"
-    },
-    {
-        "title": "Vue.js Project Day",
         "event_date": "December 8, 2024",
         "location": "Indianapolis, United States",
         "link": "https://dev.events/conferences/vue-js-project-day-304640194",
@@ -2930,15 +2957,6 @@
         "location": "Fayetteville, United States",
         "link": "https://dev.events/conferences/coffee-and-game-dev-sundays-at-six-twelve-tprxhtyhccbhb",
         "published": "Tue, 19 Nov 2024 06:50:00 GMT",
-        "category": "Game dev",
-        "type": "meetup"
-    },
-    {
-        "title": "Game Dev Work & Play",
-        "event_date": "December 1, 2024",
-        "location": "Nashville, United States",
-        "link": "https://dev.events/conferences/game-dev-work-and-play-303984123",
-        "published": "Tue, 19 Nov 2024 06:49:59 GMT",
         "category": "Game dev",
         "type": "meetup"
     },
@@ -3642,15 +3660,6 @@
         "link": "https://dev.events/conferences/frederick-tech-open-workshop-3rd-saturday-bvwqntyhcdbtb",
         "published": "Sun, 20 Oct 2024 18:04:29 GMT",
         "category": "AWS",
-        "type": "meetup"
-    },
-    {
-        "title": "Game Creators Meetup (IN-PERSON)",
-        "event_date": "December 1, 2024",
-        "location": "Louisville, United States",
-        "link": "https://dev.events/conferences/game-creators-meetup-in-person-jdfpctygcqbcb",
-        "published": "Sun, 20 Oct 2024 17:00:20 GMT",
-        "category": "Game dev",
         "type": "meetup"
     },
     {
@@ -5657,15 +5666,6 @@
         "location": "Colorado Springs, United States",
         "link": "https://dev.events/conferences/let-s-discuss-video-game-development-czqsktyhccbpb",
         "published": "Wed, 09 Oct 2024 06:28:05 GMT",
-        "category": "Game dev",
-        "type": "meetup"
-    },
-    {
-        "title": "Strawberry Jam",
-        "event_date": "December 1, 2024",
-        "location": "Los Angeles, United States",
-        "link": "https://dev.events/conferences/strawberry-jam-spdbgtygcqbcb",
-        "published": "Wed, 09 Oct 2024 06:28:04 GMT",
         "category": "Game dev",
         "type": "meetup"
     },
