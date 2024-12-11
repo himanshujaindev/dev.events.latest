@@ -1,11 +1,137 @@
 [
     {
-        "title": "Lansing in-person for Michigan!/usr/group - QR Codes and grep",
-        "event_date": "December 10, 2024",
-        "location": "Lansing, United States",
-        "link": "https://dev.events/conferences/lansing-in-person-for-michigan-usr-group-qr-codes-and-grep-304993140",
-        "published": "Mon, 09 Dec 2024 03:06:27 GMT",
-        "category": "DevOps",
+        "title": "DevFest Philly",
+        "event_date": "January 18, 2025",
+        "location": "Philadelphia, United States",
+        "link": "https://dev.events/conferences/dev-fest-philly-ujag3hox",
+        "published": "Tue, 10 Dec 2024 12:24:03 GMT",
+        "category": "Google",
+        "type": "conference"
+    },
+    {
+        "title": "WWHF @ Mile High 2025 Pre-Conference Training",
+        "event_date": "February 4, 2025",
+        "location": "Denver, United States",
+        "link": "https://dev.events/conferences/wwhf-mile-high-2025-pre-conference-training-uo1d7tsn",
+        "published": "Tue, 10 Dec 2024 12:22:41 GMT",
+        "category": "Cybersecurity / InfoSec",
+        "type": "masterclass"
+    },
+    {
+        "title": "WTM San Francisco: January Event",
+        "event_date": "January 21, 2025",
+        "location": "San Francisco, United States",
+        "link": "https://dev.events/conferences/wtm-san-francisco-january-event-bd60yduw",
+        "published": "Tue, 10 Dec 2024 12:21:37 GMT",
+        "category": "Tech",
+        "type": "meetup"
+    },
+    {
+        "title": "OpenSSF Policy Summit DC",
+        "event_date": "March 4, 2025",
+        "location": "Washington, United States",
+        "link": "https://dev.events/conferences/open-ssf-policy-summit-dc-tborhbi3",
+        "published": "Tue, 10 Dec 2024 12:14:56 GMT",
+        "category": "Cybersecurity / InfoSec",
+        "type": "conference"
+    },
+    {
+        "title": "Cloud Foundry Day North America",
+        "event_date": "May 14, 2025",
+        "location": "Palo Alto, United States",
+        "link": "https://dev.events/conferences/cloud-foundry-day-north-america-cnama3qc",
+        "published": "Tue, 10 Dec 2024 11:45:56 GMT",
+        "category": "Cloud",
+        "type": "conference"
+    },
+    {
+        "title": "Cyber Civil Defense Summit 2025",
+        "event_date": "June 11, 2025",
+        "location": "Washington, United States",
+        "link": "https://dev.events/conferences/cyber-civil-defense-summit-2025-vudnre9",
+        "published": "Tue, 10 Dec 2024 11:44:11 GMT",
+        "category": "Cybersecurity / InfoSec",
+        "type": "conference"
+    },
+    {
+        "title": "The Commit Your Code Conference 2025",
+        "event_date": "November 13, 2025",
+        "location": "Dallas, United States",
+        "link": "https://dev.events/conferences/the-commit-your-code-conference-2025-mku7pytg",
+        "published": "Tue, 10 Dec 2024 11:30:04 GMT",
+        "category": "Full-stack",
+        "type": "conference"
+    },
+    {
+        "title": "2024 Retrospective potluck",
+        "event_date": "December 17, 2024",
+        "location": "Richmond, United States",
+        "link": "https://dev.events/conferences/2024-retrospective-potluck-302389879",
+        "published": "Tue, 10 Dec 2024 03:04:13 GMT",
+        "category": "Python",
+        "type": "meetup"
+    },
+    {
+        "title": "Saint Augustine Cowork and Coffee [Parlor Doughnuts]",
+        "event_date": "December 12, 2024",
+        "location": "St. Augustine, United States",
+        "link": "https://dev.events/conferences/saint-augustine-cowork-and-coffee-parlor-doughnuts-304560540",
+        "published": "Tue, 10 Dec 2024 03:02:56 GMT",
+        "category": "Tech",
+        "type": "meetup"
+    },
+    {
+        "title": "Orange County Ruby Users Group (OCRuby) Meetup",
+        "event_date": "January 31, 2025",
+        "location": "Dana Point, United States",
+        "link": "https://dev.events/conferences/orange-county-ruby-users-group-oc-ruby-meetup-pbgwwqyhccbnc",
+        "published": "Tue, 10 Dec 2024 03:02:48 GMT",
+        "category": "Ruby",
+        "type": "meetup"
+    },
+    {
+        "title": "(New Location) IGDA Silicon Valley Monthly Meetup",
+        "event_date": "December 18, 2024",
+        "location": "Mountain View, United States",
+        "link": "https://dev.events/conferences/new-location-igda-silicon-valley-monthly-meetup-304996266",
+        "published": "Tue, 10 Dec 2024 03:00:41 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "Seattle Indies Board Game Meetup",
+        "event_date": "December 15, 2024",
+        "location": "Seattle, United States",
+        "link": "https://dev.events/conferences/seattle-indies-board-game-meetup-304601502",
+        "published": "Tue, 10 Dec 2024 03:00:32 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "Southside Social (Burien) Ugly Sweater Edition",
+        "event_date": "December 17, 2024",
+        "location": "Burien, United States",
+        "link": "https://dev.events/conferences/southside-social-burien-ugly-sweater-edition-304787613",
+        "published": "Tue, 10 Dec 2024 03:00:32 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "Coffee and Game Dev Sundays at Six Twelve",
+        "event_date": "February 2, 2025",
+        "location": "Fayetteville, United States",
+        "link": "https://dev.events/conferences/coffee-and-game-dev-sundays-at-six-twelve-tprxhtyhcdbdb",
+        "published": "Tue, 10 Dec 2024 03:00:11 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "Holiday Party",
+        "event_date": "December 22, 2024",
+        "location": "Nolensville, United States",
+        "link": "https://dev.events/conferences/holiday-party-305005892",
+        "published": "Tue, 10 Dec 2024 03:00:09 GMT",
+        "category": "Game dev",
         "type": "meetup"
     },
     {
@@ -270,15 +396,6 @@
         "type": "meetup"
     },
     {
-        "title": "Rust NYC Monthly Meetup",
-        "event_date": "December 10, 2024",
-        "location": "New York, United States",
-        "link": "https://dev.events/conferences/rust-nyc-monthly-meetup-304949548",
-        "published": "Sat, 07 Dec 2024 03:08:25 GMT",
-        "category": "Rust",
-        "type": "meetup"
-    },
-    {
         "title": "Seaport Rust Lunch, Dec 14",
         "event_date": "December 14, 2024",
         "location": "Boston, United States",
@@ -522,15 +639,6 @@
         "type": "meetup"
     },
     {
-        "title": "Generative AI: Agents with Azure AI and Semantic Kernel (part 3)",
-        "event_date": "December 10, 2024",
-        "location": "Brentwood, United States",
-        "link": "https://dev.events/conferences/generative-ai-agents-with-azure-ai-and-semantic-kernel-part-3-302423860",
-        "published": "Fri, 06 Dec 2024 03:08:40 GMT",
-        "category": "AI / ML",
-        "type": "meetup"
-    },
-    {
         "title": "Holistic Software Architecture",
         "event_date": "January 10, 2025",
         "location": "St. Louis, United States and Online",
@@ -729,33 +837,6 @@
         "type": "meetup"
     },
     {
-        "title": "Memphis Data Professionals",
-        "event_date": "December 10, 2024",
-        "location": "Memphis, United States",
-        "link": "https://dev.events/conferences/memphis-data-professionals-303389913",
-        "published": "Thu, 05 Dec 2024 03:04:03 GMT",
-        "category": "Data / Database",
-        "type": "meetup"
-    },
-    {
-        "title": "Baymeadows Code and Coffee",
-        "event_date": "December 10, 2024",
-        "location": "Jacksonville , United States",
-        "link": "https://dev.events/conferences/baymeadows-code-and-coffee-304666557",
-        "published": "Thu, 05 Dec 2024 03:03:59 GMT",
-        "category": "Tech",
-        "type": "meetup"
-    },
-    {
-        "title": "Code and Coffee Evenings (Open Hax)",
-        "event_date": "December 10, 2024",
-        "location": "Jacksonville, United States",
-        "link": "https://dev.events/conferences/code-and-coffee-evenings-open-hax-304677040",
-        "published": "Thu, 05 Dec 2024 03:03:59 GMT",
-        "category": "Tech",
-        "type": "meetup"
-    },
-    {
         "title": "Virtual Weekly Hack Night",
         "event_date": "January 15, 2025",
         "location": "Boston, United States",
@@ -807,15 +888,6 @@
         "link": "https://dev.events/conferences/flutter-in-production-extended-silicon-valley-dec-17-2024-304752869",
         "published": "Thu, 05 Dec 2024 03:02:41 GMT",
         "category": "Flutter",
-        "type": "meetup"
-    },
-    {
-        "title": "San Francisco AI Investors & Networking",
-        "event_date": "December 10, 2024",
-        "location": "San Francisco, United States",
-        "link": "https://dev.events/conferences/san-francisco-ai-investors-and-networking-304903822",
-        "published": "Thu, 05 Dec 2024 03:01:51 GMT",
-        "category": "AI / ML",
         "type": "meetup"
     },
     {
@@ -1629,15 +1701,6 @@
         "type": "meetup"
     },
     {
-        "title": "Holiday Party & Cookie Exchange - Modern Web x AtlantaJS x ReactATL x VueATL",
-        "event_date": "December 10, 2024",
-        "location": "Alpharetta, United States",
-        "link": "https://dev.events/conferences/holiday-party-and-cookie-exchange-modern-web-x-atlanta-js-x-react-atl-x-vue-atl-304759245",
-        "published": "Tue, 26 Nov 2024 03:02:46 GMT",
-        "category": "React",
-        "type": "meetup"
-    },
-    {
         "title": "Flutter Silicon Valley, Holiday Fun Edition: Dec 17, 2024",
         "event_date": "December 18, 2024",
         "location": "Sunnyvale, United States",
@@ -1890,15 +1953,6 @@
         "type": "meetup"
     },
     {
-        "title": "Join the Holiday Mixer: Hosted by Tech Loft in Partnership with GDG Toledo!",
-        "event_date": "December 10, 2024",
-        "location": "Toledo, United States",
-        "link": "https://dev.events/conferences/join-the-holiday-mixer-hosted-by-tech-loft-in-partnership-with-gdg-toledo-304705856",
-        "published": "Sun, 24 Nov 2024 03:02:32 GMT",
-        "category": "Google",
-        "type": "meetup"
-    },
-    {
         "title": "ReactJS",
         "event_date": "January 29, 2025",
         "location": "Austin, United States",
@@ -1986,15 +2040,6 @@
         "link": "https://dev.events/conferences/upcoming-topic-to-be-announced-300443784",
         "published": "Sat, 23 Nov 2024 03:05:49 GMT",
         "category": "Docker / Kubernetes",
-        "type": "meetup"
-    },
-    {
-        "title": "AI Meetup (December): Generative AI, LLMs and ML",
-        "event_date": "December 10, 2024",
-        "location": "Chicago, United States",
-        "link": "https://dev.events/conferences/ai-meetup-december-generative-ai-ll-ms-and-ml-304697921",
-        "published": "Sat, 23 Nov 2024 03:05:43 GMT",
-        "category": "AI / ML",
         "type": "meetup"
     },
     {
@@ -2754,15 +2799,6 @@
         "type": "meetup"
     },
     {
-        "title": "Discussion: Doing AI & DevOps Better. Hosted by AI Realities and DataMotion",
-        "event_date": "December 10, 2024",
-        "location": "Morristown, United States",
-        "link": "https://dev.events/conferences/discussion-doing-ai-and-dev-ops-better-hosted-by-ai-realities-and-data-motion-304510508",
-        "published": "Tue, 19 Nov 2024 06:57:39 GMT",
-        "category": "AI / ML",
-        "type": "meetup"
-    },
-    {
         "title": "PLUG North - Discussion and informative talks.",
         "event_date": "January 15, 2025",
         "location": "Bluebell, United States",
@@ -2952,15 +2988,6 @@
         "type": "meetup"
     },
     {
-        "title": "RSVP to explore OpenSource AI with InstructLab and Podman Desktop by Red Hat",
-        "event_date": "December 10, 2024",
-        "location": "Centennial, United States",
-        "link": "https://dev.events/conferences/rsvp-to-explore-open-source-ai-with-instruct-lab-and-podman-desktop-by-red-hat-304381278",
-        "published": "Tue, 19 Nov 2024 06:53:53 GMT",
-        "category": "AI / ML",
-        "type": "meetup"
-    },
-    {
         "title": "Eastside Software Craft Lunch",
         "event_date": "December 18, 2024",
         "location": "Bellevue, United States",
@@ -3012,15 +3039,6 @@
         "link": "https://dev.events/conferences/developer-group-ski-day-at-northstar-304117048",
         "published": "Tue, 19 Nov 2024 06:53:26 GMT",
         "category": "Tech",
-        "type": "meetup"
-    },
-    {
-        "title": "Open Hax",
-        "event_date": "December 10, 2024",
-        "location": "Jacksonville, United States",
-        "link": "https://dev.events/conferences/open-hax-llklbtygcqbnb",
-        "published": "Tue, 19 Nov 2024 06:53:25 GMT",
-        "category": "Ruby",
         "type": "meetup"
     },
     {
@@ -3165,15 +3183,6 @@
         "link": "https://dev.events/conferences/vue-js-project-day-zkfbltygcqbtb",
         "published": "Tue, 19 Nov 2024 06:52:21 GMT",
         "category": "Vue",
-        "type": "meetup"
-    },
-    {
-        "title": "Nx for Small Angular Projects",
-        "event_date": "December 10, 2024",
-        "location": "Chicago, United States and Online",
-        "link": "https://dev.events/conferences/nx-for-small-angular-projects-304378148",
-        "published": "Tue, 19 Nov 2024 06:52:16 GMT",
-        "category": "Angular",
         "type": "meetup"
     },
     {
@@ -3479,15 +3488,6 @@
         "location": "Wayne, United States",
         "link": "https://dev.events/conferences/game-developer-pop-up-lounge-304630822",
         "published": "Tue, 19 Nov 2024 06:50:04 GMT",
-        "category": "Game dev",
-        "type": "meetup"
-    },
-    {
-        "title": "Game Dev Coworking",
-        "event_date": "December 10, 2024",
-        "location": "Oakland, United States",
-        "link": "https://dev.events/conferences/game-dev-coworking-qdvfktygcqbnb",
-        "published": "Tue, 19 Nov 2024 06:50:00 GMT",
         "category": "Game dev",
         "type": "meetup"
     },
@@ -3951,15 +3951,6 @@
         "type": "meetup"
     },
     {
-        "title": "DevOps & Platform Engineering Happy Hour",
-        "event_date": "December 10, 2024",
-        "location": "Austin, United States",
-        "link": "https://dev.events/conferences/dev-ops-and-platform-engineering-happy-hour-304181275",
-        "published": "Thu, 24 Oct 2024 19:04:25 GMT",
-        "category": "DevOps",
-        "type": "meetup"
-    },
-    {
         "title": "San Francisco 106 Miles at Mars Bar",
         "event_date": "January 23, 2025",
         "location": "San Francisco, United States",
@@ -4402,15 +4393,6 @@
     },
     {
         "title": "TriDev Software Developer Meeting",
-        "event_date": "December 10, 2024",
-        "location": "Johnson City, United States",
-        "link": "https://dev.events/conferences/tri-dev-software-developer-meeting-smprntygcqbnb",
-        "published": "Tue, 15 Oct 2024 20:09:23 GMT",
-        "category": ".NET",
-        "type": "meetup"
-    },
-    {
-        "title": "TriDev Software Developer Meeting",
         "event_date": "January 14, 2025",
         "location": "Johnson City, United States",
         "link": "https://dev.events/conferences/tri-dev-software-developer-meeting-303931029",
@@ -4689,15 +4671,6 @@
         "type": "meetup"
     },
     {
-        "title": "Rust Community Meetup - Ann Arbor",
-        "event_date": "December 10, 2024",
-        "location": "Ann Arbor, United States",
-        "link": "https://dev.events/conferences/rust-community-meetup-ann-arbor-cvdcntygcqbnb",
-        "published": "Wed, 09 Oct 2024 21:06:06 GMT",
-        "category": "Rust",
-        "type": "meetup"
-    },
-    {
         "title": "PLUG North - Discussion and informative talks.",
         "event_date": "December 11, 2024",
         "location": "Bluebell, United States",
@@ -4830,15 +4803,6 @@
         "link": "https://dev.events/conferences/baton-rouge-net-sql-server-and-power-bi-user-groups-meeting-302530736",
         "published": "Wed, 09 Oct 2024 06:41:21 GMT",
         "category": "SQL",
-        "type": "meetup"
-    },
-    {
-        "title": "Reverse Engineering Knights of the Old Republic's Game Engine w/James Goad",
-        "event_date": "December 10, 2024",
-        "location": "Johnson City, United States",
-        "link": "https://dev.events/conferences/reverse-engineering-knights-of-the-old-republic-s-game-engine-w-james-goad-rftmntygcqbnb",
-        "published": "Wed, 09 Oct 2024 06:41:20 GMT",
-        "category": ".NET",
         "type": "meetup"
     },
     {
@@ -5109,15 +5073,6 @@
         "link": "https://dev.events/conferences/casual-discussion-doing-dev-and-dev-ops-better-hosted-by-emtec-and-data-motion-lncmltyhcdbqb",
         "published": "Wed, 09 Oct 2024 06:39:42 GMT",
         "category": "DevOps",
-        "type": "meetup"
-    },
-    {
-        "title": "Monthly evening eat, drink and chat",
-        "event_date": "December 10, 2024",
-        "location": "Key West, United States",
-        "link": "https://dev.events/conferences/monthly-evening-eat-drink-and-chat-jwqzktygcqbnb",
-        "published": "Wed, 09 Oct 2024 06:39:23 GMT",
-        "category": "Tech",
         "type": "meetup"
     },
     {
@@ -5490,15 +5445,6 @@
         "type": "meetup"
     },
     {
-        "title": "Tech Tuesday",
-        "event_date": "December 10, 2024",
-        "location": "Savannah, United States",
-        "link": "https://dev.events/conferences/tech-tuesday-czcfxsygcqbnb",
-        "published": "Wed, 09 Oct 2024 06:37:18 GMT",
-        "category": "Tech",
-        "type": "meetup"
-    },
-    {
         "title": "Cocktails + Code",
         "event_date": "December 19, 2024",
         "location": "Portland, United States",
@@ -5607,15 +5553,6 @@
         "type": "meetup"
     },
     {
-        "title": "Writing Tests Using GitHub Copilot w/ Gleb Bahmutov!",
-        "event_date": "December 10, 2024",
-        "location": "Portland, United States",
-        "link": "https://dev.events/conferences/writing-tests-using-git-hub-copilot-w-gleb-bahmutov-302838764",
-        "published": "Wed, 09 Oct 2024 06:37:03 GMT",
-        "category": "Open Source",
-        "type": "meetup"
-    },
-    {
         "title": "JavaScript Lightning Talks!",
         "event_date": "January 14, 2025",
         "location": "Portland, United States",
@@ -5649,15 +5586,6 @@
         "link": "https://dev.events/conferences/relational-databases-and-data-warehouses-a-practical-overview-302146772",
         "published": "Wed, 09 Oct 2024 06:36:53 GMT",
         "category": "Data / Database",
-        "type": "meetup"
-    },
-    {
-        "title": "December ChicagoJS Meetup",
-        "event_date": "December 10, 2024",
-        "location": "Chicago, United States",
-        "link": "https://dev.events/conferences/december-chicago-js-meetup-297887113",
-        "published": "Wed, 09 Oct 2024 06:36:50 GMT",
-        "category": "JavaScript",
         "type": "meetup"
     },
     {
@@ -5712,15 +5640,6 @@
         "link": "https://dev.events/conferences/presentation-to-be-announced-soon-szjphryhcdbgb",
         "published": "Wed, 09 Oct 2024 06:36:45 GMT",
         "category": "JavaScript",
-        "type": "meetup"
-    },
-    {
-        "title": "#FrontEndParty",
-        "event_date": "December 10, 2024",
-        "location": "New Orleans, United States",
-        "link": "https://dev.events/conferences/front-end-party-301824548",
-        "published": "Wed, 09 Oct 2024 06:36:44 GMT",
-        "category": "Web / Frontend",
         "type": "meetup"
     },
     {
@@ -6090,15 +6009,6 @@
         "link": "https://dev.events/conferences/founded-in-fo-co-2025-bo15ail1",
         "published": "Fri, 20 Sep 2024 13:06:12 GMT",
         "category": "Startup",
-        "type": "conference"
-    },
-    {
-        "title": "Lattice Developers Conference",
-        "event_date": "December 10, 2024",
-        "location": "San Jose, United States and Online",
-        "link": "https://dev.events/conferences/lattice-developers-conference-dcad6chl",
-        "published": "Fri, 20 Sep 2024 13:02:53 GMT",
-        "category": "Hardware / IoT",
         "type": "conference"
     },
     {
@@ -6657,15 +6567,6 @@
         "link": "https://dev.events/conferences/half-stack-phoenix-19myr-hz",
         "published": "Thu, 18 Apr 2024 15:59:36 GMT",
         "category": "Web / Frontend",
-        "type": "conference"
-    },
-    {
-        "title": "NextGen Payments & RegTech Forum",
-        "event_date": "December 10, 2024",
-        "location": "Austin, United States",
-        "link": "https://dev.events/conferences/next-gen-payments-and-reg-tech-forum-austin-11-2024",
-        "published": "Wed, 27 Dec 2023 14:27:20 GMT",
-        "category": "Fintech",
         "type": "conference"
     }
 ]
