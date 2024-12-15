@@ -1,5 +1,50 @@
 [
     {
+        "title": "KubeCon + CloudNativeCon India",
+        "event_date": "August 6, 2025",
+        "location": "Hyderabad, India",
+        "link": "https://dev.events/conferences/kube-con-cloud-native-con-india-wazfyuoj",
+        "published": "Sat, 14 Dec 2024 19:37:17 GMT",
+        "category": "Docker / Kubernetes",
+        "type": "conference"
+    },
+    {
+        "title": "WordCamp Pune 2025",
+        "event_date": "February 2, 2025",
+        "location": "Pune, India",
+        "link": "https://dev.events/conferences/word-camp-pune-2025-mmfg-shu",
+        "published": "Sat, 14 Dec 2024 17:37:40 GMT",
+        "category": "WordPress",
+        "type": "conference"
+    },
+    {
+        "title": "BSides Noida 0x02",
+        "event_date": "December 22, 2024",
+        "location": "Noida, India",
+        "link": "https://dev.events/conferences/b-sides-noida-0x02-t-jt3usp",
+        "published": "Sat, 14 Dec 2024 17:27:45 GMT",
+        "category": "Cybersecurity / InfoSec",
+        "type": "conference"
+    },
+    {
+        "title": "Docker x CNCG Pune December year end meetup",
+        "event_date": "December 21, 2024",
+        "location": "Pune, India",
+        "link": "https://dev.events/conferences/docker-x-cncg-pune-december-year-end-meetup-305062067",
+        "published": "Sat, 14 Dec 2024 03:04:36 GMT",
+        "category": "Docker / Kubernetes",
+        "type": "meetup"
+    },
+    {
+        "title": "FlutterInProduction Extended....",
+        "event_date": "December 28, 2024",
+        "location": "Hyderabad, India",
+        "link": "https://dev.events/conferences/flutter-in-production-extended-304862073",
+        "published": "Sat, 14 Dec 2024 03:01:22 GMT",
+        "category": "Flutter",
+        "type": "meetup"
+    },
+    {
         "title": "AWS User Group Pune Re:Invent Recap",
         "event_date": "January 11, 2025",
         "location": "Pune, India",
@@ -15,15 +60,6 @@
         "link": "https://dev.events/conferences/cii-connect-2024-305049201",
         "published": "Fri, 13 Dec 2024 03:06:50 GMT",
         "category": "Azure",
-        "type": "meetup"
-    },
-    {
-        "title": "BrowserStack Bug Bash - Bangalore Edition",
-        "event_date": "December 14, 2024",
-        "location": "Bangalore , India",
-        "link": "https://dev.events/conferences/browser-stack-bug-bash-bangalore-edition-304625834",
-        "published": "Thu, 12 Dec 2024 03:07:51 GMT",
-        "category": "Agile",
         "type": "meetup"
     },
     {
@@ -144,39 +180,12 @@
         "type": "meetup"
     },
     {
-        "title": "React-n-Roll 5.0 {Meetup for Front-end and OSS Developers}",
-        "event_date": "December 14, 2024",
-        "location": "Bengaluru, India",
-        "link": "https://dev.events/conferences/react-n-roll-5-0-meetup-for-front-end-and-oss-developers-304950924",
-        "published": "Sat, 07 Dec 2024 03:08:03 GMT",
-        "category": "React",
-        "type": "meetup"
-    },
-    {
         "title": "GitTogether Delhi NCR December Meetup",
         "event_date": "December 21, 2024",
         "location": "Noida, India",
         "link": "https://dev.events/conferences/git-together-delhi-ncr-december-meetup-304705869",
         "published": "Sat, 07 Dec 2024 03:06:04 GMT",
         "category": "Tech",
-        "type": "meetup"
-    },
-    {
-        "title": "react meetup #84",
-        "event_date": "December 14, 2024",
-        "location": "Bengaluru, India",
-        "link": "https://dev.events/conferences/react-meetup-84-304826571",
-        "published": "Sat, 07 Dec 2024 03:03:05 GMT",
-        "category": "React",
-        "type": "meetup"
-    },
-    {
-        "title": "Wrapping Up the Year with FinOps & AWS: Pune AWS and FinOps Community meetup",
-        "event_date": "December 14, 2024",
-        "location": "Pune, India",
-        "link": "https://dev.events/conferences/wrapping-up-the-year-with-fin-ops-and-aws-pune-aws-and-fin-ops-community-meetup-304935575",
-        "published": "Fri, 06 Dec 2024 03:07:14 GMT",
-        "category": "AWS",
         "type": "meetup"
     },
     {
@@ -204,15 +213,6 @@
         "link": "https://dev.events/conferences/jan-25-mumtechup-php-304790327",
         "published": "Thu, 05 Dec 2024 03:08:45 GMT",
         "category": "PHP",
-        "type": "meetup"
-    },
-    {
-        "title": "AI Geeks | Dec Meetup | Tech Talks on AI",
-        "event_date": "December 14, 2024",
-        "location": "Chennai, India",
-        "link": "https://dev.events/conferences/ai-geeks-dec-meetup-tech-talks-on-ai-304874834",
-        "published": "Tue, 03 Dec 2024 03:09:07 GMT",
-        "category": "AI / ML",
         "type": "meetup"
     },
     {
@@ -270,42 +270,6 @@
         "type": "conference"
     },
     {
-        "title": "Pune DevCon 2024",
-        "event_date": "December 14, 2024",
-        "location": "Pune, India",
-        "link": "https://dev.events/conferences/pune-dev-con-2024-bp8tn4m",
-        "published": "Thu, 28 Nov 2024 12:54:25 GMT",
-        "category": "Microsoft",
-        "type": "conference"
-    },
-    {
-        "title": "AWS December Meetup - INSIGHTS  FROM EXPERTS",
-        "event_date": "December 14, 2024",
-        "location": "Bengaluru, India",
-        "link": "https://dev.events/conferences/aws-december-meetup-insights-from-experts-304760422",
-        "published": "Thu, 28 Nov 2024 03:05:51 GMT",
-        "category": "AWS",
-        "type": "meetup"
-    },
-    {
-        "title": "ReactJS + Ruby : December 2024 Meetup",
-        "event_date": "December 14, 2024",
-        "location": "Pune, India",
-        "link": "https://dev.events/conferences/react-js-ruby-december-2024-meetup-304755202",
-        "published": "Wed, 27 Nov 2024 03:03:09 GMT",
-        "category": "React",
-        "type": "meetup"
-    },
-    {
-        "title": "December 2024 Meetup with ReactJS & Friends",
-        "event_date": "December 14, 2024",
-        "location": "Pune, India",
-        "link": "https://dev.events/conferences/december-2024-meetup-with-react-js-and-friends-304756374",
-        "published": "Tue, 26 Nov 2024 03:03:10 GMT",
-        "category": "React",
-        "type": "meetup"
-    },
-    {
         "title": "Current Bengaluru 2025",
         "event_date": "March 19, 2025",
         "location": "Bangalore, India",
@@ -357,15 +321,6 @@
         "link": "https://dev.events/conferences/exam-slam-sdp-members-only-304361708",
         "published": "Tue, 19 Nov 2024 06:55:39 GMT",
         "category": "AWS",
-        "type": "meetup"
-    },
-    {
-        "title": "#53 Large Scale Production Engineering (LSPE) meet up",
-        "event_date": "December 14, 2024",
-        "location": "Bengaluru, India",
-        "link": "https://dev.events/conferences/53-large-scale-production-engineering-lspe-meet-up-298771549",
-        "published": "Tue, 19 Nov 2024 06:55:36 GMT",
-        "category": "SRE",
         "type": "meetup"
     },
     {
@@ -432,29 +387,11 @@
         "type": "meetup"
     },
     {
-        "title": "Pune DevCon 2024",
-        "event_date": "December 14, 2024",
-        "location": "Pune, India",
-        "link": "https://dev.events/conferences/pune-dev-con-2024-304001184",
-        "published": "Mon, 14 Oct 2024 18:03:54 GMT",
-        "category": ".NET",
-        "type": "meetup"
-    },
-    {
         "title": ".NET Conf 2024 Recap - Mumbai",
         "event_date": "January 11, 2025",
         "location": "Mumbai, India",
         "link": "https://dev.events/conferences/net-conf-2024-recap-mumbai-303879655",
         "published": "Mon, 14 Oct 2024 12:05:19 GMT",
-        "category": ".NET",
-        "type": "meetup"
-    },
-    {
-        "title": ".NET Conf 2024 @ Chennai",
-        "event_date": "December 14, 2024",
-        "location": "Chennai, India",
-        "link": "https://dev.events/conferences/net-conf-2024-chennai-303501029",
-        "published": "Wed, 09 Oct 2024 06:41:03 GMT",
         "category": ".NET",
         "type": "meetup"
     },
@@ -520,15 +457,6 @@
         "published": "Sat, 14 Sep 2024 10:51:49 GMT",
         "category": "WordPress",
         "type": "conference"
-    },
-    {
-        "title": "Quarterly Large Scale Production Engineering (LSPE) meet up",
-        "event_date": "December 14, 2024",
-        "location": "Bangalore, India",
-        "link": "https://dev.events/conferences/quarterly-large-scale-production-engineering-lspe-meet-up-298771549",
-        "published": "Sat, 14 Sep 2024 05:22:04 GMT",
-        "category": "SRE",
-        "type": "meetup"
     },
     {
         "title": "WordCamp Kolkata 2025",
