@@ -1,5 +1,59 @@
 [
     {
+        "title": "SAP CodeJam",
+        "event_date": "January 9, 2025",
+        "location": "Bangalore, India",
+        "link": "https://dev.events/conferences/sap-code-jam-besbotlo",
+        "published": "Sun, 15 Dec 2024 15:06:22 GMT",
+        "category": "SAP",
+        "type": "conference"
+    },
+    {
+        "title": "DevFest Raipur 2024",
+        "event_date": "December 22, 2024",
+        "location": "Raipur, India",
+        "link": "https://dev.events/conferences/dev-fest-raipur-2024-it3w14z",
+        "published": "Sun, 15 Dec 2024 14:49:25 GMT",
+        "category": "Google",
+        "type": "conference"
+    },
+    {
+        "title": "GitTogether Bengaluru",
+        "event_date": "December 21, 2024",
+        "location": "Bengaluru, India",
+        "link": "https://dev.events/conferences/git-together-bengaluru-304774748",
+        "published": "Sun, 15 Dec 2024 03:05:20 GMT",
+        "category": "Tech",
+        "type": "meetup"
+    },
+    {
+        "title": "GitTogether Delhi NCR",
+        "event_date": "December 21, 2024",
+        "location": "Noida, India",
+        "link": "https://dev.events/conferences/git-together-delhi-ncr-304705869",
+        "published": "Sun, 15 Dec 2024 03:05:12 GMT",
+        "category": "Tech",
+        "type": "meetup"
+    },
+    {
+        "title": "Quarterly Large Scale Production Engineering (LSPE) meet up",
+        "event_date": "December 13, 2025",
+        "location": "Bangalore, India",
+        "link": "https://dev.events/conferences/quarterly-large-scale-production-engineering-lspe-meet-up-qvgqgdyhcqbrb",
+        "published": "Sun, 15 Dec 2024 03:04:51 GMT",
+        "category": "SRE",
+        "type": "meetup"
+    },
+    {
+        "title": "JS Meetup #95: Mastering web applications - large scale data,  shared workers",
+        "event_date": "January 4, 2025",
+        "location": "Bengaluru, India",
+        "link": "https://dev.events/conferences/js-meetup-95-mastering-web-applications-large-scale-data-shared-workers-305080451",
+        "published": "Sun, 15 Dec 2024 03:02:17 GMT",
+        "category": "JavaScript",
+        "type": "meetup"
+    },
+    {
         "title": "KubeCon + CloudNativeCon India",
         "event_date": "August 6, 2025",
         "location": "Hyderabad, India",
@@ -333,15 +387,6 @@
         "type": "conference"
     },
     {
-        "title": "DevFest Chandigarh 2024",
-        "event_date": "December 15, 2024",
-        "location": "Chandigarh, India",
-        "link": "https://dev.events/conferences/dev-fest-chandigarh-2024-entmivir",
-        "published": "Thu, 14 Nov 2024 07:54:50 GMT",
-        "category": "Google",
-        "type": "conference"
-    },
-    {
         "title": "Agile India 2025",
         "event_date": "March 25, 2025",
         "location": "Bangalore, India",
@@ -376,15 +421,6 @@
         "published": "Wed, 06 Nov 2024 14:30:54 GMT",
         "category": "WordPress",
         "type": "conference"
-    },
-    {
-        "title": "WomenWhoHack December 2024",
-        "event_date": "December 15, 2024",
-        "location": "Hyderabad, India",
-        "link": "https://dev.events/conferences/women-who-hack-december-2024-298929358",
-        "published": "Sun, 20 Oct 2024 09:04:51 GMT",
-        "category": "Open Source",
-        "type": "meetup"
     },
     {
         "title": ".NET Conf 2024 Recap - Mumbai",

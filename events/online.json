@@ -1,5 +1,212 @@
 [
     {
+        "title": "Intro to MongoDB",
+        "event_date": "February 5, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/intro-to-mongo-db-mwr6fck",
+        "published": "Sun, 15 Dec 2024 15:50:46 GMT",
+        "category": "MongoDB",
+        "type": "meetup"
+    },
+    {
+        "title": "MongoDB Observability: Diagnostics and Debugging",
+        "event_date": "January 7, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/mongo-db-observability-diagnostics-and-debugging-6fqfs57t",
+        "published": "Sun, 15 Dec 2024 15:49:25 GMT",
+        "category": "MongoDB",
+        "type": "meetup"
+    },
+    {
+        "title": "YeurDreamin\u2019 2025",
+        "event_date": "March 21, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/yeur-dreamin-2025-yz19wyls",
+        "published": "Sun, 15 Dec 2024 15:28:36 GMT",
+        "category": "Salesforce",
+        "type": "conference"
+    },
+    {
+        "title": "SAP TechEd",
+        "event_date": "November 4, 2025",
+        "location": "Berlin, Germany and Online",
+        "link": "https://dev.events/conferences/sap-tech-ed-3dg6hoai",
+        "published": "Sun, 15 Dec 2024 15:15:43 GMT",
+        "category": "SAP",
+        "type": "conference"
+    },
+    {
+        "title": "Tech Tactics in Education: Thriving in the Age of AI",
+        "event_date": "May 7, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/tech-tactics-in-education-thriving-in-the-age-of-ai-u0st2mtx",
+        "published": "Sun, 15 Dec 2024 15:03:12 GMT",
+        "category": "AI / ML",
+        "type": "conference"
+    },
+    {
+        "title": "RSHB QA Meetup: AI in testing",
+        "event_date": "December 18, 2024",
+        "location": "Moscow, Russia and Online",
+        "link": "https://dev.events/conferences/rshb-qa-meetup-ai-in-testing-1yddfxl",
+        "published": "Sun, 15 Dec 2024 14:49:03 GMT",
+        "category": "Testing / QA",
+        "type": "conference"
+    },
+    {
+        "title": "Mobile Meetup",
+        "event_date": "December 18, 2024",
+        "location": "Moscow, Russia and Online",
+        "link": "https://dev.events/conferences/mobile-meetup-hlyjtkoo",
+        "published": "Sun, 15 Dec 2024 14:48:30 GMT",
+        "category": "Mobile",
+        "type": "meetup"
+    },
+    {
+        "title": "XMAS HACK",
+        "event_date": "December 20, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/xmas-hack-zfapm-c",
+        "published": "Sun, 15 Dec 2024 14:47:43 GMT",
+        "category": "Tech",
+        "type": "hackathon"
+    },
+    {
+        "title": "Getting to know each other",
+        "event_date": "April 12, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/getting-to-know-each-other-nkbrnsyhcgbqb",
+        "published": "Sun, 15 Dec 2024 03:09:09 GMT",
+        "category": "Agile",
+        "type": "meetup"
+    },
+    {
+        "title": "Pass your coding interview with GPT",
+        "event_date": "January 2, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/pass-your-coding-interview-with-gpt-305070363",
+        "published": "Sun, 15 Dec 2024 03:08:39 GMT",
+        "category": ".NET",
+        "type": "meetup"
+    },
+    {
+        "title": "Kubernetes Project for Beginners",
+        "event_date": "December 18, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/kubernetes-project-for-beginners-305028470",
+        "published": "Sun, 15 Dec 2024 03:07:09 GMT",
+        "category": "Docker / Kubernetes",
+        "type": "meetup"
+    },
+    {
+        "title": "Learn by Hands on Labs with AJ - Run LLAMA Model on EKS",
+        "event_date": "December 30, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/learn-by-hands-on-labs-with-aj-run-llama-model-on-eks-305079475",
+        "published": "Sun, 15 Dec 2024 03:07:07 GMT",
+        "category": "Data / Database",
+        "type": "meetup"
+    },
+    {
+        "title": "Weekly B2B Tech Networking - Online Event",
+        "event_date": "January 14, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/weekly-b2-b-tech-networking-online-event-qmwtmtyhccbsb",
+        "published": "Sun, 15 Dec 2024 03:06:59 GMT",
+        "category": "Tech",
+        "type": "meetup"
+    },
+    {
+        "title": "Weekly B2B Tech Networking - Online Event",
+        "event_date": "January 21, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/weekly-b2-b-tech-networking-online-event-qmwtmtyhccbcc",
+        "published": "Sun, 15 Dec 2024 03:06:59 GMT",
+        "category": "Tech",
+        "type": "meetup"
+    },
+    {
+        "title": "Machine Learning Essentials: An Interactive Hands-On Workshop",
+        "event_date": "December 20, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/machine-learning-essentials-an-interactive-hands-on-workshop-305082067",
+        "published": "Sun, 15 Dec 2024 03:06:48 GMT",
+        "category": "AI / ML",
+        "type": "meetup"
+    },
+    {
+        "title": "AWS AI Practitioner Challenge",
+        "event_date": "January 10, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/aws-ai-practitioner-challenge-mmzvntyhccbnb",
+        "published": "Sun, 15 Dec 2024 03:05:34 GMT",
+        "category": "AWS",
+        "type": "meetup"
+    },
+    {
+        "title": "Powerful Devs Conference 2025",
+        "event_date": "February 12, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/powerful-devs-conference-2025-305085088",
+        "published": "Sun, 15 Dec 2024 03:04:58 GMT",
+        "category": "Microsoft",
+        "type": "meetup"
+    },
+    {
+        "title": "Der EU AI Act ist da & mit ihm kommt die Pflicht zur Mitarbeiterschulung",
+        "event_date": "December 19, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/der-eu-ai-act-ist-da-and-mit-ihm-kommt-die-pflicht-zur-mitarbeiterschulung-305063455",
+        "published": "Sun, 15 Dec 2024 03:04:21 GMT",
+        "category": "AI / ML",
+        "type": "meetup"
+    },
+    {
+        "title": "ARC Kampala Chapter Mini workshop",
+        "event_date": "January 25, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/arc-kampala-chapter-mini-workshop-304339817",
+        "published": "Sun, 15 Dec 2024 03:03:03 GMT",
+        "category": "Ruby",
+        "type": "meetup"
+    },
+    {
+        "title": "Event Modeling AMA",
+        "event_date": "April 11, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/event-modeling-ama-xnkbzsyhcgbpb",
+        "published": "Sun, 15 Dec 2024 03:01:33 GMT",
+        "category": "Software architecture",
+        "type": "meetup"
+    },
+    {
+        "title": "Game Dev Happy Hour: Quaranstream",
+        "event_date": "December 27, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/game-dev-happy-hour-quaranstream-304965054",
+        "published": "Sun, 15 Dec 2024 03:00:32 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "Friday's open meetup",
+        "event_date": "January 10, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/friday-s-open-meetup-ktgxbtyhccbnb",
+        "published": "Sun, 15 Dec 2024 03:00:27 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "Omaha Game Developers Meetup",
+        "event_date": "April 11, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/omaha-game-developers-meetup-nvvxftyhcgbnb",
+        "published": "Sun, 15 Dec 2024 03:00:10 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
         "title": "MLcon London 2025",
         "event_date": "May 12, 2025",
         "location": "London, United Kingdom and Online",
@@ -801,15 +1008,6 @@
         "type": "meetup"
     },
     {
-        "title": "CISSP Mastery Unleashed",
-        "event_date": "December 15, 2024",
-        "location": "Online",
-        "link": "https://dev.events/conferences/cissp-mastery-unleashed-305028445",
-        "published": "Thu, 12 Dec 2024 03:06:19 GMT",
-        "category": "Tech",
-        "type": "meetup"
-    },
-    {
         "title": "Copilot\u00a0for Developers",
         "event_date": "December 16, 2024",
         "location": "Online",
@@ -950,15 +1148,6 @@
         "location": "Online",
         "link": "https://dev.events/conferences/december-2024-agile-practice-discussion-305015787",
         "published": "Wed, 11 Dec 2024 03:09:58 GMT",
-        "category": "Agile",
-        "type": "meetup"
-    },
-    {
-        "title": "\u4ece\u4ea7\u54c1\u654f\u6377\u5f00\u53d1\u5347\u534e\u5230\u4f01\u4e1a\u8f6c\u578b\u7b56\u7565 | 2024\u5e7412\u670815\u65e5",
-        "event_date": "December 15, 2024",
-        "location": "Online",
-        "link": "https://dev.events/conferences/2024-12-15-304995633",
-        "published": "Wed, 11 Dec 2024 03:09:55 GMT",
         "category": "Agile",
         "type": "meetup"
     },
@@ -5175,15 +5364,6 @@
         "type": "meetup"
     },
     {
-        "title": "COGG Let's Play (Online) - TENTATIVE due to the Holidays",
-        "event_date": "December 15, 2024",
-        "location": "Online",
-        "link": "https://dev.events/conferences/cogg-let-s-play-online-tentative-due-to-the-holidays-304565133",
-        "published": "Tue, 19 Nov 2024 06:50:26 GMT",
-        "category": "Game dev",
-        "type": "meetup"
-    },
-    {
         "title": "[Online] Intro to Unity 6",
         "event_date": "December 20, 2024",
         "location": "Online",
@@ -5910,15 +6090,6 @@
         "link": "https://dev.events/conferences/online-monthly-meeting-tkrmltyhcfbzb",
         "published": "Tue, 22 Oct 2024 05:02:50 GMT",
         "category": "Ruby",
-        "type": "meetup"
-    },
-    {
-        "title": "Indie Video Game Developer Meetup - NW Burbs Location ZOOM",
-        "event_date": "December 15, 2024",
-        "location": "Online",
-        "link": "https://dev.events/conferences/indie-video-game-developer-meetup-nw-burbs-location-zoom-dnzbwsygcqbtb",
-        "published": "Mon, 21 Oct 2024 22:00:29 GMT",
-        "category": "Game dev",
         "type": "meetup"
     },
     {
@@ -8115,15 +8286,6 @@
         "link": "https://dev.events/conferences/clean-architecture-online-4-2023",
         "published": "Mon, 06 Feb 2023 15:06:47 GMT",
         "category": "Java",
-        "type": "masterclass"
-    },
-    {
-        "title": "The Principal Dev \u2013 Masterclass for Tech Leads",
-        "event_date": "December 15, 2024",
-        "location": "Online",
-        "link": "https://dev.events/conferences/principal-developer-online-5-2022",
-        "published": "Wed, 23 Mar 2022 08:34:00 GMT",
-        "category": "Tech leadership",
         "type": "masterclass"
     }
 ]
