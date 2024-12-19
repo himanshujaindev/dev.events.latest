@@ -1,5 +1,329 @@
 [
     {
+        "title": "Monthly Online South Florida Linux Users Meetup - FLUX",
+        "event_date": "April 15, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/monthly-online-south-florida-linux-users-meetup-flux-glktltyhcgbtb",
+        "published": "Wed, 18 Dec 2024 03:08:43 GMT",
+        "category": "Linux / OS",
+        "type": "meetup"
+    },
+    {
+        "title": "Agile PM Roundtable: Applying Agile to Domains Beyond Software Development (2)",
+        "event_date": "January 9, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/agile-pm-roundtable-applying-agile-to-domains-beyond-software-development-2-302716238",
+        "published": "Wed, 18 Dec 2024 03:08:39 GMT",
+        "category": "Agile",
+        "type": "meetup"
+    },
+    {
+        "title": "Let's talk About How Former Scrum Masters Make Excellent People Managers",
+        "event_date": "January 7, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/let-s-talk-about-how-former-scrum-masters-make-excellent-people-managers-305134832",
+        "published": "Wed, 18 Dec 2024 03:08:25 GMT",
+        "category": "Scrum",
+        "type": "meetup"
+    },
+    {
+        "title": "Finding the \"agile\" in Agile - lessons from Hurricane Helene",
+        "event_date": "February 4, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/finding-the-agile-in-agile-lessons-from-hurricane-helene-305114165",
+        "published": "Wed, 18 Dec 2024 03:08:25 GMT",
+        "category": "Agile",
+        "type": "meetup"
+    },
+    {
+        "title": "AWS UG Nuremberg - re:Invent re:Cap 2024",
+        "event_date": "January 27, 2025",
+        "location": "Nurnberg, Germany and Online",
+        "link": "https://dev.events/conferences/aws-ug-nuremberg-re-invent-re-cap-2024-304265367",
+        "published": "Wed, 18 Dec 2024 03:07:37 GMT",
+        "category": "AWS",
+        "type": "meetup"
+    },
+    {
+        "title": "Making Sense of AWS Serverless Operations (AWS UG Nuremberg 02/2025)",
+        "event_date": "February 11, 2025",
+        "location": "Nurnberg, Germany and Online",
+        "link": "https://dev.events/conferences/making-sense-of-aws-serverless-operations-aws-ug-nuremberg-02-2025-304894932",
+        "published": "Wed, 18 Dec 2024 03:07:37 GMT",
+        "category": "AWS",
+        "type": "meetup"
+    },
+    {
+        "title": "MergePHP: Bug Squashing with TDD",
+        "event_date": "January 10, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/merge-php-bug-squashing-with-tdd-305131214",
+        "published": "Wed, 18 Dec 2024 03:07:12 GMT",
+        "category": "PHP",
+        "type": "meetup"
+    },
+    {
+        "title": "The Weekly Function",
+        "event_date": "January 14, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/the-weekly-function-xgqfjtyhccbrb",
+        "published": "Wed, 18 Dec 2024 03:06:59 GMT",
+        "category": "Functional programming",
+        "type": "meetup"
+    },
+    {
+        "title": "The Weekly Function",
+        "event_date": "January 21, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/the-weekly-function-xgqfjtyhccbbc",
+        "published": "Wed, 18 Dec 2024 03:06:59 GMT",
+        "category": "Functional programming",
+        "type": "meetup"
+    },
+    {
+        "title": "Mid-month Rustful",
+        "event_date": "April 15, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/mid-month-rustful-rdhhptyhcgbtb",
+        "published": "Wed, 18 Dec 2024 03:06:55 GMT",
+        "category": "Rust",
+        "type": "meetup"
+    },
+    {
+        "title": "Desenvolvendo Functions App Seguros com Identidade Gerenciada e Service Connecto",
+        "event_date": "December 19, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/desenvolvendo-functions-app-seguros-com-identidade-gerenciada-e-service-connecto-304509754",
+        "published": "Wed, 18 Dec 2024 03:06:47 GMT",
+        "category": "Microsoft",
+        "type": "meetup"
+    },
+    {
+        "title": "Adapting to Microsoft Exchange Online Understanding Azure's Email Service Option",
+        "event_date": "December 19, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/adapting-to-microsoft-exchange-online-understanding-azure-s-email-service-option-304909702",
+        "published": "Wed, 18 Dec 2024 03:06:47 GMT",
+        "category": "Microsoft",
+        "type": "meetup"
+    },
+    {
+        "title": "Novidades do SQL Server, Fabric, AI e IoT anunciadas no Ignite 2024",
+        "event_date": "January 8, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/novidades-do-sql-server-fabric-ai-e-io-t-anunciadas-no-ignite-2024-304899359",
+        "published": "Wed, 18 Dec 2024 03:06:47 GMT",
+        "category": "SQL",
+        "type": "meetup"
+    },
+    {
+        "title": "La base de la IA generativa en Azure",
+        "event_date": "January 9, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/la-base-de-la-ia-generativa-en-azure-304454648",
+        "published": "Wed, 18 Dec 2024 03:06:47 GMT",
+        "category": "Azure",
+        "type": "meetup"
+    },
+    {
+        "title": "An introduction to WASM in Rust with M\u00e1rk Tolm\u00e1cs (Virtual, English)",
+        "event_date": "January 14, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/an-introduction-to-wasm-in-rust-with-mark-tolmacs-virtual-english-305064546",
+        "published": "Wed, 18 Dec 2024 03:06:47 GMT",
+        "category": "Web / Frontend",
+        "type": "meetup"
+    },
+    {
+        "title": "Weekly B2B Tech Networking - Online Event",
+        "event_date": "January 28, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/weekly-b2-b-tech-networking-online-event-qmwtmtyhccblc",
+        "published": "Wed, 18 Dec 2024 03:06:39 GMT",
+        "category": "Tech",
+        "type": "meetup"
+    },
+    {
+        "title": "Silicon Valley Business Networking (Online)",
+        "event_date": "December 25, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/silicon-valley-business-networking-online-rlbhgtygcqbhc",
+        "published": "Wed, 18 Dec 2024 03:06:20 GMT",
+        "category": "Startup",
+        "type": "meetup"
+    },
+    {
+        "title": "Making Generative AI and Enterprise Agents Work: Strategies for Success",
+        "event_date": "January 15, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/making-generative-ai-and-enterprise-agents-work-strategies-for-success-305135078",
+        "published": "Wed, 18 Dec 2024 03:05:02 GMT",
+        "category": "AI / ML",
+        "type": "meetup"
+    },
+    {
+        "title": "Getting Start with Azure Open AI",
+        "event_date": "January 22, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/getting-start-with-azure-open-ai-305029610",
+        "published": "Wed, 18 Dec 2024 03:04:45 GMT",
+        "category": "Azure",
+        "type": "meetup"
+    },
+    {
+        "title": "Crear un chatbot y evaluar el rendimiento con diferentes LLMs usando Bedrock",
+        "event_date": "December 23, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/crear-un-chatbot-y-evaluar-el-rendimiento-con-diferentes-ll-ms-usando-bedrock-305134863",
+        "published": "Wed, 18 Dec 2024 03:04:39 GMT",
+        "category": "AI / ML",
+        "type": "meetup"
+    },
+    {
+        "title": "GitLab Community Pairing",
+        "event_date": "December 31, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/git-lab-community-pairing-305029705",
+        "published": "Wed, 18 Dec 2024 03:04:38 GMT",
+        "category": "DevOps",
+        "type": "meetup"
+    },
+    {
+        "title": "Microsoft Azure AI Fundamentals: Generative AI\u00a0pt 1\u00a0- Fundamentals of Generative",
+        "event_date": "January 16, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/microsoft-azure-ai-fundamentals-generative-ai-pt-1-fundamentals-of-generative-304931524",
+        "published": "Wed, 18 Dec 2024 03:04:34 GMT",
+        "category": "Microsoft",
+        "type": "meetup"
+    },
+    {
+        "title": "Research Automation Project using Multi-Agent LangGraph",
+        "event_date": "December 19, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/research-automation-project-using-multi-agent-lang-graph-305140370",
+        "published": "Wed, 18 Dec 2024 03:03:48 GMT",
+        "category": "AI / ML",
+        "type": "meetup"
+    },
+    {
+        "title": "Friday Morning Code + Commiserate",
+        "event_date": "January 10, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/friday-morning-code-commiserate-305129829",
+        "published": "Wed, 18 Dec 2024 03:02:22 GMT",
+        "category": "Web / Frontend",
+        "type": "meetup"
+    },
+    {
+        "title": "Friday Morning Code + Commiserate",
+        "event_date": "January 24, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/friday-morning-code-commiserate-305129831",
+        "published": "Wed, 18 Dec 2024 03:02:22 GMT",
+        "category": "Web / Frontend",
+        "type": "meetup"
+    },
+    {
+        "title": "Friday Morning Code + Commiserate",
+        "event_date": "February 14, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/friday-morning-code-commiserate-305129836",
+        "published": "Wed, 18 Dec 2024 03:02:22 GMT",
+        "category": "Web / Frontend",
+        "type": "meetup"
+    },
+    {
+        "title": "Friday Morning Code + Commiserate",
+        "event_date": "February 28, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/friday-morning-code-commiserate-305129838",
+        "published": "Wed, 18 Dec 2024 03:02:22 GMT",
+        "category": "Web / Frontend",
+        "type": "meetup"
+    },
+    {
+        "title": "Coimbatore JavaScript Group - Online Meetup (December 2024)",
+        "event_date": "December 21, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/coimbatore-java-script-group-online-meetup-december-2024-305127992",
+        "published": "Wed, 18 Dec 2024 03:02:11 GMT",
+        "category": "JavaScript",
+        "type": "meetup"
+    },
+    {
+        "title": "Architecture Coaching",
+        "event_date": "January 13, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/architecture-coaching-304422976",
+        "published": "Wed, 18 Dec 2024 03:01:37 GMT",
+        "category": "Software architecture",
+        "type": "meetup"
+    },
+    {
+        "title": "FREE!  Pitch Practice: How to Pitch to Investors and Get the Deal",
+        "event_date": "December 19, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/free-pitch-practice-how-to-pitch-to-investors-and-get-the-deal-304823635",
+        "published": "Wed, 18 Dec 2024 03:01:04 GMT",
+        "category": "AR / VR / XR",
+        "type": "meetup"
+    },
+    {
+        "title": "Virtual Beer and Pixels - Monthly 2024",
+        "event_date": "April 15, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/virtual-beer-and-pixels-monthly-2024-cnmcmtyhcgbtb",
+        "published": "Wed, 18 Dec 2024 03:00:40 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": ".NET @NOON: If a property is absent, should we treat it as null?",
+        "event_date": "December 19, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/net-noon-if-a-property-is-absent-should-we-treat-it-as-null-305125874",
+        "published": "Wed, 18 Dec 2024 03:00:38 GMT",
+        "category": ".NET",
+        "type": "meetup"
+    },
+    {
+        "title": "IGDA NYC Monday Afternoon Co-Working on Discord",
+        "event_date": "January 13, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/igda-nyc-monday-afternoon-co-working-on-discord-tqjjwryhccbrb",
+        "published": "Wed, 18 Dec 2024 03:00:36 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "Seabug Study Hall on Discord",
+        "event_date": "December 20, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/seabug-study-hall-on-discord-304841497",
+        "published": "Wed, 18 Dec 2024 03:00:34 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "Spel\u00f6l!",
+        "event_date": "February 11, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/speloel-nrqggtyhcdbpb",
+        "published": "Wed, 18 Dec 2024 03:00:30 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "Weekly Dev Chat",
+        "event_date": "December 24, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/weekly-dev-chat-304920666",
+        "published": "Wed, 18 Dec 2024 03:00:22 GMT",
+        "category": "Tech",
+        "type": "meetup"
+    },
+    {
         "title": "\u201c\u5168\u7403\u91d1\u724c\u654f\u6377\u8bfe\u7a0b\u201d - CSM\u8ba4\u8bc1\uff08\u5468\u672b\u73ed\uff092024\u5e7412\u670828-29\u65e5",
         "event_date": "December 28, 2024",
         "location": "Online",
@@ -45,30 +369,12 @@
         "type": "meetup"
     },
     {
-        "title": "[ Online] Container-based development for C# developers with Tobias Fenster",
-        "event_date": "December 18, 2024",
-        "location": "Online",
-        "link": "https://dev.events/conferences/online-container-based-development-for-c-developers-with-tobias-fenster-305111310",
-        "published": "Tue, 17 Dec 2024 03:09:02 GMT",
-        "category": ".NET",
-        "type": "meetup"
-    },
-    {
         "title": "AI & Data Insights Hour: Learn, Create, and Win!",
         "event_date": "December 27, 2024",
         "location": "Online",
         "link": "https://dev.events/conferences/ai-and-data-insights-hour-learn-create-and-win-305103814",
         "published": "Tue, 17 Dec 2024 03:08:51 GMT",
         "category": "AI / ML",
-        "type": "meetup"
-    },
-    {
-        "title": "BAM Skilling: Copilot for M365",
-        "event_date": "December 18, 2024",
-        "location": "Online",
-        "link": "https://dev.events/conferences/bam-skilling-copilot-for-m365-304081204",
-        "published": "Tue, 17 Dec 2024 03:07:38 GMT",
-        "category": "Business Analysis",
         "type": "meetup"
     },
     {
@@ -96,15 +402,6 @@
         "link": "https://dev.events/conferences/det-stora-julstoeket-2024-snacka-kubernetes-med-conoa-305117603",
         "published": "Tue, 17 Dec 2024 03:06:24 GMT",
         "category": "Docker / Kubernetes",
-        "type": "meetup"
-    },
-    {
-        "title": "Semana 6 Challenge AWS Cloud Practitioner",
-        "event_date": "December 18, 2024",
-        "location": "Online",
-        "link": "https://dev.events/conferences/semana-6-challenge-aws-cloud-practitioner-305125139",
-        "published": "Tue, 17 Dec 2024 03:05:32 GMT",
-        "category": "AWS",
         "type": "meetup"
     },
     {
@@ -315,24 +612,6 @@
         "type": "conference"
     },
     {
-        "title": "RSHB QA Meetup: AI in testing",
-        "event_date": "December 18, 2024",
-        "location": "Moscow, Russia and Online",
-        "link": "https://dev.events/conferences/rshb-qa-meetup-ai-in-testing-1yddfxl",
-        "published": "Sun, 15 Dec 2024 14:49:03 GMT",
-        "category": "Testing / QA",
-        "type": "conference"
-    },
-    {
-        "title": "Mobile Meetup",
-        "event_date": "December 18, 2024",
-        "location": "Moscow, Russia and Online",
-        "link": "https://dev.events/conferences/mobile-meetup-hlyjtkoo",
-        "published": "Sun, 15 Dec 2024 14:48:30 GMT",
-        "category": "Mobile",
-        "type": "meetup"
-    },
-    {
         "title": "XMAS HACK",
         "event_date": "December 20, 2024",
         "location": "Online",
@@ -357,15 +636,6 @@
         "link": "https://dev.events/conferences/pass-your-coding-interview-with-gpt-305070363",
         "published": "Sun, 15 Dec 2024 03:08:39 GMT",
         "category": ".NET",
-        "type": "meetup"
-    },
-    {
-        "title": "Kubernetes Project for Beginners",
-        "event_date": "December 18, 2024",
-        "location": "Online",
-        "link": "https://dev.events/conferences/kubernetes-project-for-beginners-305028470",
-        "published": "Sun, 15 Dec 2024 03:07:09 GMT",
-        "category": "Docker / Kubernetes",
         "type": "meetup"
     },
     {
@@ -585,15 +855,6 @@
         "type": "meetup"
     },
     {
-        "title": "FinOps",
-        "event_date": "December 18, 2024",
-        "location": "Online",
-        "link": "https://dev.events/conferences/fin-ops-305065803",
-        "published": "Sat, 14 Dec 2024 03:04:53 GMT",
-        "category": "DevOps",
-        "type": "meetup"
-    },
-    {
         "title": "Succeed in Tech New members Meet and greet",
         "event_date": "January 10, 2025",
         "location": "Online",
@@ -747,15 +1008,6 @@
         "type": "meetup"
     },
     {
-        "title": "Les \u201cInner Development Goals\u201d : des comp\u00e9tences pour l\u2019agilit\u00e9 ?",
-        "event_date": "January 22, 2025",
-        "location": "Online",
-        "link": "https://dev.events/conferences/les-inner-development-goals-des-competences-pour-l-agilite-305049310",
-        "published": "Fri, 13 Dec 2024 03:08:51 GMT",
-        "category": "Agile",
-        "type": "meetup"
-    },
-    {
         "title": "Avoiding \"FRAGMENTED Agility\": Business Agility as a part of Org Agility",
         "event_date": "January 23, 2025",
         "location": "Online",
@@ -789,15 +1041,6 @@
         "link": "https://dev.events/conferences/rust-study-hack-hang-out-znhhptyhcgbvb",
         "published": "Fri, 13 Dec 2024 03:07:15 GMT",
         "category": "Rust",
-        "type": "meetup"
-    },
-    {
-        "title": "Conecta y Colabora: Potencia la Comunicaci\u00f3n en M365 con Teams y SharePoint",
-        "event_date": "December 18, 2024",
-        "location": "Online",
-        "link": "https://dev.events/conferences/conecta-y-colabora-potencia-la-comunicacion-en-m365-con-teams-y-share-point-304398312",
-        "published": "Fri, 13 Dec 2024 03:07:07 GMT",
-        "category": "Microsoft",
         "type": "meetup"
     },
     {
@@ -900,15 +1143,6 @@
         "type": "meetup"
     },
     {
-        "title": "How code scanning in GitHub Advanced Security burns down security debt",
-        "event_date": "December 18, 2024",
-        "location": "Online",
-        "link": "https://dev.events/conferences/how-code-scanning-in-git-hub-advanced-security-burns-down-security-debt-304786163",
-        "published": "Fri, 13 Dec 2024 03:04:58 GMT",
-        "category": "Open Source",
-        "type": "meetup"
-    },
-    {
         "title": "Adapting to Microsoft Exchange Online: Understanding Azure's Email Service Optio",
         "event_date": "December 19, 2024",
         "location": "Online",
@@ -960,15 +1194,6 @@
         "link": "https://dev.events/conferences/omaha-azure-user-group-meeting-december-2024-305045235",
         "published": "Fri, 13 Dec 2024 03:04:44 GMT",
         "category": "Azure",
-        "type": "meetup"
-    },
-    {
-        "title": "Bottlerocket Community Meeting - Dec 2024",
-        "event_date": "December 18, 2024",
-        "location": "Online",
-        "link": "https://dev.events/conferences/bottlerocket-community-meeting-dec-2024-305035644",
-        "published": "Fri, 13 Dec 2024 03:04:17 GMT",
-        "category": "Linux / OS",
         "type": "meetup"
     },
     {
@@ -1098,24 +1323,6 @@
         "type": "meetup"
     },
     {
-        "title": "FREE WEBINAR:  How to Outsource Development of Your App",
-        "event_date": "December 18, 2024",
-        "location": "Online",
-        "link": "https://dev.events/conferences/free-webinar-how-to-outsource-development-of-your-app-304813276",
-        "published": "Fri, 13 Dec 2024 03:00:35 GMT",
-        "category": "Startup",
-        "type": "meetup"
-    },
-    {
-        "title": "Silicon Valley Business Networking (Online)",
-        "event_date": "December 18, 2024",
-        "location": "Online",
-        "link": "https://dev.events/conferences/silicon-valley-business-networking-online-304815035",
-        "published": "Fri, 13 Dec 2024 03:00:35 GMT",
-        "category": "Startup",
-        "type": "meetup"
-    },
-    {
         "title": "Unity Toastmasters",
         "event_date": "January 9, 2025",
         "location": "Online",
@@ -1167,15 +1374,6 @@
         "link": "https://dev.events/conferences/last-tuesday-fkmcntyhcdbhc",
         "published": "Thu, 12 Dec 2024 03:06:21 GMT",
         "category": "Rust",
-        "type": "meetup"
-    },
-    {
-        "title": "Enhancing Active Directory governance, risk, and compliance (GRC) with ADMP",
-        "event_date": "December 18, 2024",
-        "location": "Online",
-        "link": "https://dev.events/conferences/enhancing-active-directory-governance-risk-and-compliance-grc-with-admp-305033601",
-        "published": "Thu, 12 Dec 2024 03:06:15 GMT",
-        "category": "IT service management",
         "type": "meetup"
     },
     {
@@ -1323,24 +1521,6 @@
         "type": "meetup"
     },
     {
-        "title": "Level Up on Functional Programming by Rebuilding LINQ - Cameron Presley",
-        "event_date": "December 18, 2024",
-        "location": "Online",
-        "link": "https://dev.events/conferences/level-up-on-functional-programming-by-rebuilding-linq-cameron-presley-305017375",
-        "published": "Wed, 11 Dec 2024 03:09:13 GMT",
-        "category": "Functional programming",
-        "type": "meetup"
-    },
-    {
-        "title": "2024 Weihnachtsspecial Teil 1: The New Outlook for Windows",
-        "event_date": "December 18, 2024",
-        "location": "Online",
-        "link": "https://dev.events/conferences/2024-weihnachtsspecial-teil-1-the-new-outlook-for-windows-305021658",
-        "published": "Wed, 11 Dec 2024 03:09:05 GMT",
-        "category": ".NET",
-        "type": "meetup"
-    },
-    {
         "title": "2024 Weihnachtsspecial Teil 2:  The New Outlook for Mac",
         "event_date": "December 19, 2024",
         "location": "Online",
@@ -1482,15 +1662,6 @@
         "link": "https://dev.events/conferences/online-coding-dojo-tdd-with-ensemble-paired-programming-zjrbzsyhcgbsb",
         "published": "Wed, 11 Dec 2024 03:03:33 GMT",
         "category": "Tech",
-        "type": "meetup"
-    },
-    {
-        "title": "The 12 days of Generative AI",
-        "event_date": "December 18, 2024",
-        "location": "Online",
-        "link": "https://dev.events/conferences/the-12-days-of-generative-ai-305023470",
-        "published": "Wed, 11 Dec 2024 03:03:27 GMT",
-        "category": "AI / ML",
         "type": "meetup"
     },
     {
@@ -1656,15 +1827,6 @@
         "type": "meetup"
     },
     {
-        "title": "Platform Engineering: Best Practices for Securing and Managing Secrets",
-        "event_date": "December 18, 2024",
-        "location": "Online",
-        "link": "https://dev.events/conferences/platform-engineering-best-practices-for-securing-and-managing-secrets-305001333",
-        "published": "Tue, 10 Dec 2024 03:04:34 GMT",
-        "category": "DevOps",
-        "type": "meetup"
-    },
-    {
         "title": "Migrating from Console Deployments to Infrastructure as Code",
         "event_date": "January 15, 2025",
         "location": "Online",
@@ -1689,15 +1851,6 @@
         "link": "https://dev.events/conferences/startup-funding-ama-and-founder-institute-info-session-w-jonathan-greechan-ceo-304983414",
         "published": "Tue, 10 Dec 2024 03:03:55 GMT",
         "category": "Startup",
-        "type": "meetup"
-    },
-    {
-        "title": "Azure Networking 103: Getting Started with Cloud Networking",
-        "event_date": "December 18, 2024",
-        "location": "Online",
-        "link": "https://dev.events/conferences/azure-networking-103-getting-started-with-cloud-networking-304993880",
-        "published": "Tue, 10 Dec 2024 03:03:33 GMT",
-        "category": "Azure",
         "type": "meetup"
     },
     {
@@ -1953,15 +2106,6 @@
         "type": "meetup"
     },
     {
-        "title": "Preparat\u00f3rio DP-900 E DP-203 - online gratuito + vouchers de certifica\u00e7\u00f5es",
-        "event_date": "December 18, 2024",
-        "location": "Online",
-        "link": "https://dev.events/conferences/preparatorio-dp-900-e-dp-203-online-gratuito-vouchers-de-certificacoes-304953662",
-        "published": "Sat, 07 Dec 2024 03:05:30 GMT",
-        "category": "Azure",
-        "type": "meetup"
-    },
-    {
         "title": "PNW CoffeeOps",
         "event_date": "January 3, 2025",
         "location": "Online",
@@ -1995,15 +2139,6 @@
         "link": "https://dev.events/conferences/microsoft-fabric-and-azure-dev-ops-the-story-so-far-as-we-end-2024-304954812",
         "published": "Sat, 07 Dec 2024 03:05:13 GMT",
         "category": "Microsoft",
-        "type": "meetup"
-    },
-    {
-        "title": "Founder Showcase: Startup Pitch & Networking Event",
-        "event_date": "December 18, 2024",
-        "location": "Online",
-        "link": "https://dev.events/conferences/founder-showcase-startup-pitch-and-networking-event-304952570",
-        "published": "Sat, 07 Dec 2024 03:05:05 GMT",
-        "category": "Startup",
         "type": "meetup"
     },
     {
@@ -2151,15 +2286,6 @@
         "type": "meetup"
     },
     {
-        "title": "Design Patterns Course",
-        "event_date": "December 18, 2024",
-        "location": "Online",
-        "link": "https://dev.events/conferences/design-patterns-course-304161000",
-        "published": "Fri, 06 Dec 2024 03:04:31 GMT",
-        "category": "Tech",
-        "type": "meetup"
-    },
-    {
         "title": "Blockchain Opportunity & Investment",
         "event_date": "January 1, 2025",
         "location": "Online",
@@ -2259,15 +2385,6 @@
         "type": "meetup"
     },
     {
-        "title": "AWS Notes: Leading with The Coud",
-        "event_date": "December 18, 2024",
-        "location": "Online",
-        "link": "https://dev.events/conferences/aws-notes-leading-with-the-coud-g6jkhqbf",
-        "published": "Thu, 05 Dec 2024 13:18:15 GMT",
-        "category": "AWS",
-        "type": "conference"
-    },
-    {
         "title": "MLcon New York 2025",
         "event_date": "September 29, 2025",
         "location": "New York, United States and Online",
@@ -2319,24 +2436,6 @@
         "link": "https://dev.events/conferences/coffee-meetup-virtual-gxmvjtyhcdblb",
         "published": "Thu, 05 Dec 2024 03:09:17 GMT",
         "category": "Linux / OS",
-        "type": "meetup"
-    },
-    {
-        "title": "regular NixOS Meetup @internet",
-        "event_date": "December 18, 2024",
-        "location": "Online",
-        "link": "https://dev.events/conferences/regular-nix-os-meetup-internet-304815100",
-        "published": "Thu, 05 Dec 2024 03:08:27 GMT",
-        "category": "Linux / OS",
-        "type": "meetup"
-    },
-    {
-        "title": "Testing AI Applications: A Whole New Ballgame",
-        "event_date": "December 18, 2024",
-        "location": "Las Vegas, United States and Online",
-        "link": "https://dev.events/conferences/testing-ai-applications-a-whole-new-ballgame-304569349",
-        "published": "Thu, 05 Dec 2024 03:08:13 GMT",
-        "category": "Testing / QA",
         "type": "meetup"
     },
     {
@@ -2520,15 +2619,6 @@
         "type": "meetup"
     },
     {
-        "title": "Under the Radar: How we found 0-days in the build pipeline of OSS Packages",
-        "event_date": "December 18, 2024",
-        "location": "Online",
-        "link": "https://dev.events/conferences/under-the-radar-how-we-found-0-days-in-the-build-pipeline-of-oss-packages-304648289",
-        "published": "Wed, 04 Dec 2024 03:06:44 GMT",
-        "category": "Open Source",
-        "type": "meetup"
-    },
-    {
         "title": "Oracle AI Meets Construction and Engineering: Innovate Together",
         "event_date": "January 15, 2025",
         "location": "Greater London, EC2M 2RB, United Kingdom and Online",
@@ -2624,15 +2714,6 @@
         "location": "Online",
         "link": "https://dev.events/conferences/the-value-gap-bridging-impact-and-accountability-in-agile-jon-spruce-304633219",
         "published": "Tue, 03 Dec 2024 03:10:53 GMT",
-        "category": "Agile",
-        "type": "meetup"
-    },
-    {
-        "title": "Agile Speakeasy - An Open Conversation",
-        "event_date": "December 18, 2024",
-        "location": "Online",
-        "link": "https://dev.events/conferences/agile-speakeasy-an-open-conversation-304882583",
-        "published": "Tue, 03 Dec 2024 03:10:31 GMT",
         "category": "Agile",
         "type": "meetup"
     },
@@ -3249,15 +3330,6 @@
         "type": "conference"
     },
     {
-        "title": "Planifica tu fiesta de fin de a\u00f1o con IA",
-        "event_date": "December 18, 2024",
-        "location": "Online",
-        "link": "https://dev.events/conferences/planifica-tu-fiesta-de-fin-de-ano-con-ia-304767683",
-        "published": "Tue, 26 Nov 2024 03:09:09 GMT",
-        "category": "Tech",
-        "type": "meetup"
-    },
-    {
         "title": "Virtual \"2nd Fridays\" Lean Coffee Orlando",
         "event_date": "January 10, 2025",
         "location": "Online",
@@ -3363,15 +3435,6 @@
         "link": "https://dev.events/conferences/net-8-aspire-place-holder-304750920",
         "published": "Mon, 25 Nov 2024 03:10:11 GMT",
         "category": ".NET",
-        "type": "meetup"
-    },
-    {
-        "title": "Enterprise Crypto Investing, Trading, Strategies, and Tools",
-        "event_date": "December 18, 2024",
-        "location": "Online",
-        "link": "https://dev.events/conferences/enterprise-crypto-investing-trading-strategies-and-tools-304749828",
-        "published": "Mon, 25 Nov 2024 03:04:15 GMT",
-        "category": "Crypto / Blockchain",
         "type": "meetup"
     },
     {
@@ -3708,15 +3771,6 @@
         "type": "meetup"
     },
     {
-        "title": "Announcing LocalStack 4.0 General Availability!",
-        "event_date": "December 18, 2024",
-        "location": "Online",
-        "link": "https://dev.events/conferences/announcing-local-stack-4-0-general-availability-304686300",
-        "published": "Sat, 23 Nov 2024 03:07:52 GMT",
-        "category": "Cloud",
-        "type": "meetup"
-    },
-    {
         "title": "AWS AI Practitioner Challenge",
         "event_date": "December 20, 2024",
         "location": "Online",
@@ -3732,15 +3786,6 @@
         "link": "https://dev.events/conferences/succeed-in-tech-new-members-meet-and-greet-303708232",
         "published": "Sat, 23 Nov 2024 03:05:59 GMT",
         "category": "Tech",
-        "type": "meetup"
-    },
-    {
-        "title": "NEWLINUX ~ New Linux Users Group for beginners",
-        "event_date": "December 18, 2024",
-        "location": "Online",
-        "link": "https://dev.events/conferences/newlinux-new-linux-users-group-for-beginners-302501646",
-        "published": "Sat, 23 Nov 2024 03:05:52 GMT",
-        "category": "Linux / OS",
         "type": "meetup"
     },
     {
@@ -3897,15 +3942,6 @@
         "type": "meetup"
     },
     {
-        "title": "Dec 18 - Workshop: Developing Data-Centric AI Apps with FiftyOne Plugins",
-        "event_date": "December 18, 2024",
-        "location": "Online",
-        "link": "https://dev.events/conferences/dec-18-workshop-developing-data-centric-ai-apps-with-fifty-one-plugins-302425322",
-        "published": "Fri, 22 Nov 2024 03:03:32 GMT",
-        "category": "Data / Database",
-        "type": "meetup"
-    },
-    {
         "title": "Monthly Meetup",
         "event_date": "March 19, 2025",
         "location": "Online",
@@ -4023,24 +4059,6 @@
         "type": "meetup"
     },
     {
-        "title": "Book Club _ Bring your own book",
-        "event_date": "December 18, 2024",
-        "location": "Online",
-        "link": "https://dev.events/conferences/book-club-bring-your-own-book-mjrxktygcqbxb",
-        "published": "Thu, 21 Nov 2024 03:05:27 GMT",
-        "category": "Tech",
-        "type": "meetup"
-    },
-    {
-        "title": "Blockchain Opportunity & Investment",
-        "event_date": "December 18, 2024",
-        "location": "Online",
-        "link": "https://dev.events/conferences/blockchain-opportunity-and-investment-hsrmdtygcqbxb",
-        "published": "Thu, 21 Nov 2024 03:04:31 GMT",
-        "category": "Crypto / Blockchain",
-        "type": "meetup"
-    },
-    {
         "title": "Zero knowledge design patterns for Hyperledger Fabric",
         "event_date": "January 16, 2025",
         "location": "Online",
@@ -4077,15 +4095,6 @@
         "type": "meetup"
     },
     {
-        "title": "Code Katas [Virtual] with Seattle JS Hackers",
-        "event_date": "December 18, 2024",
-        "location": "Online",
-        "link": "https://dev.events/conferences/code-katas-virtual-with-seattle-js-hackers-tjjddtygcqbwb",
-        "published": "Thu, 21 Nov 2024 03:02:34 GMT",
-        "category": "JavaScript",
-        "type": "meetup"
-    },
-    {
         "title": "Building and Using Virtual Reality in Education",
         "event_date": "March 19, 2025",
         "location": "Online",
@@ -4110,15 +4119,6 @@
         "link": "https://dev.events/conferences/monthly-online-south-florida-linux-users-meetup-flux-glktltyhcfbxb",
         "published": "Wed, 20 Nov 2024 03:09:25 GMT",
         "category": "Linux / OS",
-        "type": "meetup"
-    },
-    {
-        "title": "December Virtual Event",
-        "event_date": "December 18, 2024",
-        "location": "Online",
-        "link": "https://dev.events/conferences/december-virtual-event-304648289",
-        "published": "Wed, 20 Nov 2024 03:06:59 GMT",
-        "category": "DevOps",
         "type": "meetup"
     },
     {
@@ -4348,7 +4348,7 @@
     },
     {
         "title": "Automating dependency management with Renovate in Azure DevOps",
-        "event_date": "December 18, 2024",
+        "event_date": "December 27, 2024",
         "location": "Online",
         "link": "https://dev.events/conferences/automating-dependency-management-with-renovate-in-azure-dev-ops-304413531",
         "published": "Tue, 19 Nov 2024 07:00:20 GMT",
@@ -4734,15 +4734,6 @@
         "type": "meetup"
     },
     {
-        "title": "Blockchain & Financial Enterprises Webinar",
-        "event_date": "December 18, 2024",
-        "location": "Online",
-        "link": "https://dev.events/conferences/blockchain-and-financial-enterprises-webinar-304581329",
-        "published": "Tue, 19 Nov 2024 06:53:50 GMT",
-        "category": "Crypto / Blockchain",
-        "type": "meetup"
-    },
-    {
         "title": "Del Mar Business Agility Clinic",
         "event_date": "January 1, 2025",
         "location": "Online",
@@ -4991,15 +4982,6 @@
         "location": "Online",
         "link": "https://dev.events/conferences/denver-boulder-unreal-engine-via-zoom-srltktyhcfbqb",
         "published": "Tue, 19 Nov 2024 06:50:50 GMT",
-        "category": "Game dev",
-        "type": "meetup"
-    },
-    {
-        "title": "Community Night",
-        "event_date": "December 18, 2024",
-        "location": "Online",
-        "link": "https://dev.events/conferences/community-night-jqwpntygcqbxb",
-        "published": "Tue, 19 Nov 2024 06:50:32 GMT",
         "category": "Game dev",
         "type": "meetup"
     },
@@ -5621,15 +5603,6 @@
         "location": "Online",
         "link": "https://dev.events/conferences/heart-of-agile-monthly-coffee-corner-qzjhzsyhcdbjc",
         "published": "Thu, 24 Oct 2024 14:06:35 GMT",
-        "category": "Agile",
-        "type": "meetup"
-    },
-    {
-        "title": "Del Mar Business Agility Clinic",
-        "event_date": "December 18, 2024",
-        "location": "Online",
-        "link": "https://dev.events/conferences/del-mar-business-agility-clinic-jxdgmtygcqbxb",
-        "published": "Thu, 24 Oct 2024 12:02:40 GMT",
         "category": "Agile",
         "type": "meetup"
     },
@@ -6274,15 +6247,6 @@
     },
     {
         "title": "Monthly Online South Florida Linux Users Meetup - FLUX",
-        "event_date": "December 18, 2024",
-        "location": "Online",
-        "link": "https://dev.events/conferences/monthly-online-south-florida-linux-users-meetup-flux-303490895",
-        "published": "Wed, 09 Oct 2024 06:41:55 GMT",
-        "category": "Linux / OS",
-        "type": "meetup"
-    },
-    {
-        "title": "Monthly Online South Florida Linux Users Meetup - FLUX",
         "event_date": "January 22, 2025",
         "location": "Online",
         "link": "https://dev.events/conferences/monthly-online-south-florida-linux-users-meetup-flux-glktltyhccbcc",
@@ -6480,21 +6444,21 @@
         "type": "meetup"
     },
     {
-        "title": "[ Online] Container-based development for C# developers with Tobias Fenster",
-        "event_date": "December 18, 2024",
-        "location": "Online",
-        "link": "https://dev.events/conferences/online-container-based-development-for-c-developers-with-tobias-fenster-303387223",
-        "published": "Wed, 09 Oct 2024 06:41:12 GMT",
-        "category": ".NET",
-        "type": "meetup"
-    },
-    {
         "title": ".NET 8 Aspire - Place holder",
         "event_date": "December 27, 2024",
         "location": "Online",
         "link": "https://dev.events/conferences/net-8-aspire-place-holder-302915015",
         "published": "Wed, 09 Oct 2024 06:41:04 GMT",
         "category": ".NET",
+        "type": "meetup"
+    },
+    {
+        "title": "Microsoft Season of AI - Copilots",
+        "event_date": "January 4, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/microsoft-season-of-ai-copilots-303877974",
+        "published": "Wed, 09 Oct 2024 06:41:03 GMT",
+        "category": "Microsoft",
         "type": "meetup"
     },
     {
@@ -6531,15 +6495,6 @@
         "link": "https://dev.events/conferences/monthly-meetup-303358168",
         "published": "Wed, 09 Oct 2024 06:40:50 GMT",
         "category": "Elixir",
-        "type": "meetup"
-    },
-    {
-        "title": "Munich Gophers \u2013   Lightning Talks",
-        "event_date": "December 18, 2024",
-        "location": "Online",
-        "link": "https://dev.events/conferences/munich-gophers-lightning-talks-299115381",
-        "published": "Wed, 09 Oct 2024 06:40:47 GMT",
-        "category": "Golang",
         "type": "meetup"
     },
     {
@@ -6633,15 +6588,6 @@
         "type": "meetup"
     },
     {
-        "title": "Mid-month Rustful",
-        "event_date": "December 18, 2024",
-        "location": "Online",
-        "link": "https://dev.events/conferences/mid-month-rustful-299346972",
-        "published": "Wed, 09 Oct 2024 06:40:25 GMT",
-        "category": "Rust",
-        "type": "meetup"
-    },
-    {
         "title": "Rust Study/Hack/Hang-out",
         "event_date": "December 19, 2024",
         "location": "Online",
@@ -6684,15 +6630,6 @@
         "link": "https://dev.events/conferences/scrum-mastery-with-chat-gpt-students-group-learning-through-collaboration-302661117",
         "published": "Wed, 09 Oct 2024 06:39:49 GMT",
         "category": "Scrum",
-        "type": "meetup"
-    },
-    {
-        "title": "Monthly Meetup @ Corporate Coworking",
-        "event_date": "December 18, 2024",
-        "location": "Las Vegas, United States and Online",
-        "link": "https://dev.events/conferences/monthly-meetup-corporate-coworking-qfvmntygcqbwb",
-        "published": "Wed, 09 Oct 2024 06:39:47 GMT",
-        "category": "Tech",
         "type": "meetup"
     },
     {
@@ -6867,15 +6804,6 @@
         "type": "meetup"
     },
     {
-        "title": "Online: Monthly Meeting",
-        "event_date": "December 18, 2024",
-        "location": "Online",
-        "link": "https://dev.events/conferences/online-monthly-meeting-301223496",
-        "published": "Wed, 09 Oct 2024 06:37:29 GMT",
-        "category": "Ruby",
-        "type": "meetup"
-    },
-    {
         "title": "NYC.rb Event",
         "event_date": "January 8, 2025",
         "location": "Online",
@@ -6899,15 +6827,6 @@
         "location": "Online",
         "link": "https://dev.events/conferences/nyc-rb-event-hkbsltyhcdbqb",
         "published": "Wed, 09 Oct 2024 06:37:29 GMT",
-        "category": "Ruby",
-        "type": "meetup"
-    },
-    {
-        "title": "Monthly Meetup",
-        "event_date": "December 18, 2024",
-        "location": "Online",
-        "link": "https://dev.events/conferences/monthly-meetup-rvvzzrygcqbxb",
-        "published": "Wed, 09 Oct 2024 06:37:28 GMT",
         "category": "Ruby",
         "type": "meetup"
     },
@@ -7075,7 +6994,7 @@
     },
     {
         "title": "React & React Native MTL Monthly Meetup",
-        "event_date": "January 8, 2025",
+        "event_date": "January 15, 2025",
         "location": "Online",
         "link": "https://dev.events/conferences/react-and-react-native-mtl-monthly-meetup-303901467",
         "published": "Wed, 09 Oct 2024 06:36:49 GMT",
@@ -7179,15 +7098,6 @@
         "link": "https://dev.events/conferences/monthly-product-owner-and-ba-meetup-303542459",
         "published": "Wed, 09 Oct 2024 06:28:31 GMT",
         "category": "Product management",
-        "type": "meetup"
-    },
-    {
-        "title": "Building and Using Virtual Reality in Education",
-        "event_date": "December 18, 2024",
-        "location": "Online",
-        "link": "https://dev.events/conferences/building-and-using-virtual-reality-in-education-302962064",
-        "published": "Wed, 09 Oct 2024 06:28:26 GMT",
-        "category": "AR / VR / XR",
         "type": "meetup"
     },
     {
@@ -7531,6 +7441,15 @@
         "published": "Mon, 16 Sep 2024 11:17:38 GMT",
         "category": "JavaScript",
         "type": "conference"
+    },
+    {
+        "title": "Modern Software Development with TDD",
+        "event_date": "May 8, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/modern-software-development-with-tdd-mrqb8zy",
+        "published": "Thu, 12 Sep 2024 14:26:18 GMT",
+        "category": ".NET",
+        "type": "masterclass"
     },
     {
         "title": "Frontend Olympics from HTML ACADEMY",
