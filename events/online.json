@@ -1,5 +1,230 @@
 [
     {
+        "title": "INFOSTART TEAMLEAD & CIO EVENT",
+        "event_date": "February 24, 2025",
+        "location": "Moscow, Russia and Online",
+        "link": "https://dev.events/conferences/infostart-teamlead-and-cio-event-5ifmokos",
+        "published": "Sun, 22 Dec 2024 09:59:52 GMT",
+        "category": "Tech leadership",
+        "type": "conference"
+    },
+    {
+        "title": "mtpcon London 2025",
+        "event_date": "January 10, 2025",
+        "location": "London, United Kingdom and Online",
+        "link": "https://dev.events/conferences/mtpcon-london-2025-nczqeai",
+        "published": "Sun, 22 Dec 2024 09:59:12 GMT",
+        "category": "Product management",
+        "type": "conference"
+    },
+    {
+        "title": "Windows on Snapdragon AI Hackathon",
+        "event_date": "January 13, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/windows-on-snapdragon-ai-hackathon-nqr5rlfc",
+        "published": "Sun, 22 Dec 2024 09:52:34 GMT",
+        "category": "AI / ML",
+        "type": "hackathon"
+    },
+    {
+        "title": "TecStorm",
+        "event_date": "January 6, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/tec-storm-5h0nnmb2",
+        "published": "Sun, 22 Dec 2024 09:52:11 GMT",
+        "category": "Hardware / IoT",
+        "type": "hackathon"
+    },
+    {
+        "title": "MEGA Hackathon 2025",
+        "event_date": "March 15, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/mega-hackathon-2025-lgeuhyh5",
+        "published": "Sun, 22 Dec 2024 09:51:56 GMT",
+        "category": "Tech",
+        "type": "hackathon"
+    },
+    {
+        "title": "KOTLIN BACKEND MEETUP 2025",
+        "event_date": "January 30, 2025",
+        "location": "St. Petersburg, Russia and Online",
+        "link": "https://dev.events/conferences/kotlin-backend-meetup-2025-6wts-g4",
+        "published": "Sun, 22 Dec 2024 09:50:21 GMT",
+        "category": "Kotlin",
+        "type": "meetup"
+    },
+    {
+        "title": "I love Frontend 2025",
+        "event_date": "February 15, 2025",
+        "location": "Moscow, Russia and Online",
+        "link": "https://dev.events/conferences/i-love-frontend-2025-ijnr543",
+        "published": "Sun, 22 Dec 2024 09:46:35 GMT",
+        "category": "Web / Frontend",
+        "type": "meetup"
+    },
+    {
+        "title": "CYBERSECURITY & RANSOMWARE LIVE! VIRTCON",
+        "event_date": "May 13, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/cybersecurity-and-ransomware-live-virtcon-hwc7pjlp",
+        "published": "Sun, 22 Dec 2024 09:45:42 GMT",
+        "category": "Cybersecurity / InfoSec",
+        "type": "conference"
+    },
+    {
+        "title": "Real-Time Analytics Summit 2025",
+        "event_date": "May 14, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/real-time-analytics-summit-2025-x-e2fq-s",
+        "published": "Sun, 22 Dec 2024 09:43:40 GMT",
+        "category": "Business Analysis",
+        "type": "conference"
+    },
+    {
+        "title": "Agile Softwareentwicklung im Unternehmen",
+        "event_date": "March 27, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/agile-softwareentwicklung-im-unternehmen-vkqvirk",
+        "published": "Sun, 22 Dec 2024 09:40:23 GMT",
+        "category": "Agile",
+        "type": "conference"
+    },
+    {
+        "title": "betterCode() Spring",
+        "event_date": "June 3, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/better-code-spring-dg2hrwtu",
+        "published": "Sun, 22 Dec 2024 09:38:22 GMT",
+        "category": "Java",
+        "type": "conference"
+    },
+    {
+        "title": "jChampions",
+        "event_date": "January 23, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/j-champions-osytdcrf",
+        "published": "Sun, 22 Dec 2024 09:34:01 GMT",
+        "category": "Java",
+        "type": "conference"
+    },
+    {
+        "title": "TeamsCommunityDay 2025 GameDay!",
+        "event_date": "January 29, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/teams-community-day-2025-game-day-305201376",
+        "published": "Sun, 22 Dec 2024 03:07:19 GMT",
+        "category": ".NET",
+        "type": "meetup"
+    },
+    {
+        "title": ".NET Conf 2024",
+        "event_date": "January 14, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/net-conf-2024-305197819",
+        "published": "Sun, 22 Dec 2024 03:07:14 GMT",
+        "category": ".NET",
+        "type": "meetup"
+    },
+    {
+        "title": "Don't fear the Storm (by Juan Monetta)",
+        "event_date": "January 28, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/don-t-fear-the-storm-by-juan-monetta-305198588",
+        "published": "Sun, 22 Dec 2024 03:06:26 GMT",
+        "category": "Clojure",
+        "type": "meetup"
+    },
+    {
+        "title": "SFS Gathering Online",
+        "event_date": "January 4, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/sfs-gathering-online-305205148",
+        "published": "Sun, 22 Dec 2024 03:06:06 GMT",
+        "category": "Open Source",
+        "type": "meetup"
+    },
+    {
+        "title": "AWS AI Practitioner Challenge",
+        "event_date": "January 17, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/aws-ai-practitioner-challenge-mmzvntyhccbwb",
+        "published": "Sun, 22 Dec 2024 03:04:56 GMT",
+        "category": "AWS",
+        "type": "meetup"
+    },
+    {
+        "title": "Decoding Search: Keyword, Semantic, Vector & Hybrid, Ben Greenberg, Couchbase",
+        "event_date": "January 8, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/decoding-search-keyword-semantic-vector-and-hybrid-ben-greenberg-couchbase-305198576",
+        "published": "Sun, 22 Dec 2024 03:04:34 GMT",
+        "category": "DevOps",
+        "type": "meetup"
+    },
+    {
+        "title": "Securing ArgoCD in a Multi-Tenant Environment - Regina Voloshin, Octopus Deploy",
+        "event_date": "January 14, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/securing-argo-cd-in-a-multi-tenant-environment-regina-voloshin-octopus-deploy-305198666",
+        "published": "Sun, 22 Dec 2024 03:04:34 GMT",
+        "category": "DevOps",
+        "type": "meetup"
+    },
+    {
+        "title": "Metrics For Your Platform Success- Jennifer Riggins",
+        "event_date": "January 21, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/metrics-for-your-platform-success-jennifer-riggins-305199072",
+        "published": "Sun, 22 Dec 2024 03:04:34 GMT",
+        "category": "DevOps",
+        "type": "meetup"
+    },
+    {
+        "title": "Securely Access Your Kubernetes Control Plane - Ofir Cohen, Wiz",
+        "event_date": "January 28, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/securely-access-your-kubernetes-control-plane-ofir-cohen-wiz-305201112",
+        "published": "Sun, 22 Dec 2024 03:04:34 GMT",
+        "category": "Docker / Kubernetes",
+        "type": "meetup"
+    },
+    {
+        "title": "Let's Code Together!",
+        "event_date": "February 15, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/let-s-code-together-dpbnlsyhcdbtb",
+        "published": "Sun, 22 Dec 2024 03:02:42 GMT",
+        "category": "Tech",
+        "type": "meetup"
+    },
+    {
+        "title": "Seabug Study Hall on Discord",
+        "event_date": "January 3, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/seabug-study-hall-on-discord-305078384",
+        "published": "Sun, 22 Dec 2024 03:00:28 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "[Online] Prep for Global Game Jam 2025",
+        "event_date": "January 17, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/online-prep-for-global-game-jam-2025-304423067",
+        "published": "Sun, 22 Dec 2024 03:00:28 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "Friday's open meetup",
+        "event_date": "January 17, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/friday-s-open-meetup-ktgxbtyhccbwb",
+        "published": "Sun, 22 Dec 2024 03:00:28 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
         "title": "ACE LA Monthly Lean Coffee",
         "event_date": "April 17, 2025",
         "location": "Online",
@@ -222,15 +447,6 @@
         "link": "https://dev.events/conferences/game-development-discord-mixer-kzpldtyhccbvb",
         "published": "Sat, 21 Dec 2024 03:00:20 GMT",
         "category": "Game dev",
-        "type": "meetup"
-    },
-    {
-        "title": "[Online] Jornada do Arquiteto Azure: o exame AZ-305 em detalhes! | 34a ed",
-        "event_date": "December 23, 2024",
-        "location": "Online",
-        "link": "https://dev.events/conferences/online-jornada-do-arquiteto-azure-o-exame-az-305-em-detalhes-34a-ed-305180410",
-        "published": "Sat, 21 Dec 2024 03:00:14 GMT",
-        "category": "Azure",
         "type": "meetup"
     },
     {
@@ -1707,15 +1923,6 @@
         "link": "https://dev.events/conferences/accelerating-ai-success-leveraging-scalable-and-cost-efficient-ll-ms-with-azure-305048157",
         "published": "Fri, 13 Dec 2024 03:04:00 GMT",
         "category": "AI / ML",
-        "type": "meetup"
-    },
-    {
-        "title": "Data Science/AI Career Talk",
-        "event_date": "December 22, 2024",
-        "location": "Online",
-        "link": "https://dev.events/conferences/data-science-ai-career-talk-304768301",
-        "published": "Fri, 13 Dec 2024 03:03:55 GMT",
-        "category": "Data / Database",
         "type": "meetup"
     },
     {
@@ -4959,15 +5166,6 @@
         "type": "meetup"
     },
     {
-        "title": "Virtual Sundays Hosted by Guillermo",
-        "event_date": "December 22, 2024",
-        "location": "Online",
-        "link": "https://dev.events/conferences/virtual-sundays-hosted-by-guillermo-rkbqssygcqbdc",
-        "published": "Tue, 19 Nov 2024 06:53:05 GMT",
-        "category": "Tech",
-        "type": "meetup"
-    },
-    {
         "title": "Monthly Get Together",
         "event_date": "March 13, 2025",
         "location": "Online",
@@ -5010,15 +5208,6 @@
         "link": "https://dev.events/conferences/online-fundamental-js-bspkntyhcdbjc",
         "published": "Tue, 19 Nov 2024 06:52:46 GMT",
         "category": "JavaScript",
-        "type": "meetup"
-    },
-    {
-        "title": "Dev Hangout + Dev Tips",
-        "event_date": "December 22, 2024",
-        "location": "Online",
-        "link": "https://dev.events/conferences/dev-hangout-dev-tips-mxvqktygcqbcc",
-        "published": "Tue, 19 Nov 2024 06:52:43 GMT",
-        "category": "Tech",
         "type": "meetup"
     },
     {
