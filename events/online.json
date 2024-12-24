@@ -1,5 +1,86 @@
 [
     {
+        "title": "Global Games Jam",
+        "event_date": "January 20, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/global-games-jam-89vzi9ks",
+        "published": "Mon, 23 Dec 2024 10:44:04 GMT",
+        "category": "Game dev",
+        "type": "conference"
+    },
+    {
+        "title": "#AI102 - Build a Conversational Language Understanding Model with Azure AI",
+        "event_date": "January 28, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/ai-102-build-a-conversational-language-understanding-model-with-azure-ai-305178631",
+        "published": "Mon, 23 Dec 2024 03:04:59 GMT",
+        "category": "Azure",
+        "type": "meetup"
+    },
+    {
+        "title": "Data Science/AI Career Talk",
+        "event_date": "January 5, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/data-science-ai-career-talk-304824693",
+        "published": "Mon, 23 Dec 2024 03:03:45 GMT",
+        "category": "Data / Database",
+        "type": "meetup"
+    },
+    {
+        "title": "Virtual Sundays Hosted by Guillermo",
+        "event_date": "February 23, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/virtual-sundays-hosted-by-guillermo-rkbqssyhcdbfc",
+        "published": "Mon, 23 Dec 2024 03:02:51 GMT",
+        "category": "Tech",
+        "type": "meetup"
+    },
+    {
+        "title": "Dev Hangout + Dev Tips",
+        "event_date": "February 16, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/dev-hangout-dev-tips-305206504",
+        "published": "Mon, 23 Dec 2024 03:02:38 GMT",
+        "category": "Tech",
+        "type": "meetup"
+    },
+    {
+        "title": "FC Game Development and Unity SIG",
+        "event_date": "April 27, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/fc-game-development-and-unity-sig-ppfgtsyhcgbkc",
+        "published": "Mon, 23 Dec 2024 03:00:36 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "Worldwide: C++ Online Interactive Q&A and Code Reviews, CppMSG.com, Gratis",
+        "event_date": "January 18, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/worldwide-c-online-interactive-q-and-a-and-code-reviews-cpp-msg-com-gratis-mcbnntyhccbwb",
+        "published": "Mon, 23 Dec 2024 03:00:28 GMT",
+        "category": "C/C++",
+        "type": "meetup"
+    },
+    {
+        "title": "Weekly Dev Chat",
+        "event_date": "December 31, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/weekly-dev-chat-305036232",
+        "published": "Mon, 23 Dec 2024 03:00:22 GMT",
+        "category": "Tech",
+        "type": "meetup"
+    },
+    {
+        "title": "Game Project Therapy (Virtual)",
+        "event_date": "April 19, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/game-project-therapy-virtual-304421181",
+        "published": "Mon, 23 Dec 2024 03:00:15 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
         "title": "INFOSTART TEAMLEAD & CIO EVENT",
         "event_date": "February 24, 2025",
         "location": "Moscow, Russia and Online",
@@ -303,15 +384,6 @@
         "link": "https://dev.events/conferences/newlinux-new-linux-users-group-for-beginners-304517757",
         "published": "Sat, 21 Dec 2024 03:04:23 GMT",
         "category": "Linux / OS",
-        "type": "meetup"
-    },
-    {
-        "title": "Org Meetup: Run a better DevStaff!",
-        "event_date": "December 23, 2024",
-        "location": "Online",
-        "link": "https://dev.events/conferences/org-meetup-run-a-better-dev-staff-305180070",
-        "published": "Sat, 21 Dec 2024 03:04:15 GMT",
-        "category": "Tech",
         "type": "meetup"
     },
     {
@@ -639,15 +711,6 @@
         "type": "meetup"
     },
     {
-        "title": "Planning for 2025",
-        "event_date": "December 23, 2024",
-        "location": "Online",
-        "link": "https://dev.events/conferences/planning-for-2025-305162979",
-        "published": "Fri, 20 Dec 2024 03:02:21 GMT",
-        "category": "JavaScript",
-        "type": "meetup"
-    },
-    {
         "title": "Angular Lunch Session",
         "event_date": "April 24, 2025",
         "location": "Online",
@@ -861,15 +924,6 @@
         "link": "https://dev.events/conferences/book-club-bring-your-own-book-mjrxktyhccbmc",
         "published": "Thu, 19 Dec 2024 03:04:38 GMT",
         "category": "Tech",
-        "type": "meetup"
-    },
-    {
-        "title": "Simplificando flujos de trabajo ETL con AWS Glue: Ideas de un proyecto pr\u00e1ctico",
-        "event_date": "December 23, 2024",
-        "location": "Online",
-        "link": "https://dev.events/conferences/simplificando-flujos-de-trabajo-etl-con-aws-glue-ideas-de-un-proyecto-practico-305145489",
-        "published": "Thu, 19 Dec 2024 03:04:29 GMT",
-        "category": "AWS",
         "type": "meetup"
     },
     {
@@ -1107,15 +1161,6 @@
         "type": "meetup"
     },
     {
-        "title": "Crear un chatbot y evaluar el rendimiento con diferentes LLMs usando Bedrock",
-        "event_date": "December 23, 2024",
-        "location": "Online",
-        "link": "https://dev.events/conferences/crear-un-chatbot-y-evaluar-el-rendimiento-con-diferentes-ll-ms-usando-bedrock-305134863",
-        "published": "Wed, 18 Dec 2024 03:04:39 GMT",
-        "category": "AI / ML",
-        "type": "meetup"
-    },
-    {
         "title": "GitLab Community Pairing",
         "event_date": "December 31, 2024",
         "location": "Online",
@@ -1311,15 +1356,6 @@
         "link": "https://dev.events/conferences/frontendistim-december-meetup-online-discord-305111086",
         "published": "Tue, 17 Dec 2024 03:02:07 GMT",
         "category": "Web / Frontend",
-        "type": "meetup"
-    },
-    {
-        "title": "Silicon Valley Business Networking (Online)",
-        "event_date": "December 23, 2024",
-        "location": "Online",
-        "link": "https://dev.events/conferences/silicon-valley-business-networking-online-vlpjhtygcqbgc",
-        "published": "Tue, 17 Dec 2024 03:01:06 GMT",
-        "category": "Startup",
         "type": "meetup"
     },
     {
@@ -3726,30 +3762,12 @@
         "type": "meetup"
     },
     {
-        "title": "Architecture Coaching",
-        "event_date": "December 23, 2024",
-        "location": "Online",
-        "link": "https://dev.events/conferences/architecture-coaching-304422973",
-        "published": "Wed, 27 Nov 2024 03:01:57 GMT",
-        "category": "Software architecture",
-        "type": "meetup"
-    },
-    {
         "title": "Vision Pro Dev Collaboration",
         "event_date": "January 7, 2025",
         "location": "Online",
         "link": "https://dev.events/conferences/vision-pro-dev-collaboration-vnkrntyhccbjb",
         "published": "Wed, 27 Nov 2024 03:01:24 GMT",
         "category": "AR / VR / XR",
-        "type": "meetup"
-    },
-    {
-        "title": "IGDA NYC Monday Afternoon Co-Working on Discord",
-        "event_date": "December 23, 2024",
-        "location": "Online",
-        "link": "https://dev.events/conferences/igda-nyc-monday-afternoon-co-working-on-discord-tqjjwrygcqbfc",
-        "published": "Wed, 27 Nov 2024 03:00:42 GMT",
-        "category": "Game dev",
         "type": "meetup"
     },
     {
@@ -4618,15 +4636,6 @@
     },
     {
         "title": "Online Lean Beer",
-        "event_date": "December 23, 2024",
-        "location": "Online",
-        "link": "https://dev.events/conferences/online-lean-beer-303931058",
-        "published": "Tue, 19 Nov 2024 07:01:08 GMT",
-        "category": "Agile",
-        "type": "meetup"
-    },
-    {
-        "title": "Online Lean Beer",
         "event_date": "January 6, 2025",
         "location": "Online",
         "link": "https://dev.events/conferences/online-lean-beer-303931059",
@@ -5144,15 +5153,6 @@
         "location": "Online",
         "link": "https://dev.events/conferences/virtual-the-atlanta-ruby-meetup-group-monthly-meetup-tczcxryhcfbqb",
         "published": "Tue, 19 Nov 2024 06:53:17 GMT",
-        "category": "Ruby",
-        "type": "meetup"
-    },
-    {
-        "title": "Ruby Science",
-        "event_date": "December 23, 2024",
-        "location": "Online",
-        "link": "https://dev.events/conferences/ruby-science-sdczltygcqbfc",
-        "published": "Tue, 19 Nov 2024 06:53:16 GMT",
         "category": "Ruby",
         "type": "meetup"
     },
@@ -7322,15 +7322,6 @@
         "location": "Online",
         "link": "https://dev.events/conferences/denver-boulder-unreal-engine-via-zoom-srltktyhccblb",
         "published": "Wed, 09 Oct 2024 06:28:19 GMT",
-        "category": "Game dev",
-        "type": "meetup"
-    },
-    {
-        "title": "FC Game Development and Unity SIG",
-        "event_date": "December 23, 2024",
-        "location": "Online",
-        "link": "https://dev.events/conferences/fc-game-development-and-unity-sig-ppfgtsygcqbdc",
-        "published": "Wed, 09 Oct 2024 06:28:08 GMT",
         "category": "Game dev",
         "type": "meetup"
     },

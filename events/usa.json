@@ -1,5 +1,68 @@
 [
     {
+        "title": "Memphis Tech Lunch",
+        "event_date": "January 8, 2025",
+        "location": "Memphis, United States",
+        "link": "https://dev.events/conferences/memphis-tech-lunch-305203303",
+        "published": "Mon, 23 Dec 2024 03:03:11 GMT",
+        "category": "Tech",
+        "type": "meetup"
+    },
+    {
+        "title": "St. Louis Code and Coffee",
+        "event_date": "February 16, 2025",
+        "location": "University City, United States",
+        "link": "https://dev.events/conferences/st-louis-code-and-coffee-304977090",
+        "published": "Mon, 23 Dec 2024 03:02:40 GMT",
+        "category": "Tech",
+        "type": "meetup"
+    },
+    {
+        "title": "San Diego Accessibility & Inclusive Design January Meetup",
+        "event_date": "January 17, 2025",
+        "location": "San Diego, United States",
+        "link": "https://dev.events/conferences/san-diego-accessibility-and-inclusive-design-january-meetup-305215628",
+        "published": "Mon, 23 Dec 2024 03:02:36 GMT",
+        "category": "Web / Frontend",
+        "type": "meetup"
+    },
+    {
+        "title": "Vue.js Project Day",
+        "event_date": "January 19, 2025",
+        "location": "Indianapolis, United States",
+        "link": "https://dev.events/conferences/vue-js-project-day-zkfbltyhccbzb",
+        "published": "Mon, 23 Dec 2024 03:02:24 GMT",
+        "category": "Vue",
+        "type": "meetup"
+    },
+    {
+        "title": "Seattle Blender User Group",
+        "event_date": "January 4, 2025",
+        "location": "Seattle, United States",
+        "link": "https://dev.events/conferences/seattle-blender-user-group-304967770",
+        "published": "Mon, 23 Dec 2024 03:00:32 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "Game Dev Coworking",
+        "event_date": "January 14, 2025",
+        "location": "Oakland, United States",
+        "link": "https://dev.events/conferences/game-dev-coworking-qdvfktyhccbsb",
+        "published": "Mon, 23 Dec 2024 03:00:09 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "Coffee and Game Dev Sundays at Six Twelve",
+        "event_date": "February 16, 2025",
+        "location": "Fayetteville, United States",
+        "link": "https://dev.events/conferences/coffee-and-game-dev-sundays-at-six-twelve-tprxhtyhcdbvb",
+        "published": "Mon, 23 Dec 2024 03:00:09 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
         "title": "CES 2025",
         "event_date": "January 7, 2025",
         "location": "Las Vegas, United States",
@@ -684,15 +747,6 @@
         "type": "meetup"
     },
     {
-        "title": "Meet New People!!  Sunday  Night Networking",
-        "event_date": "December 23, 2024",
-        "location": "Santa Clara, United States",
-        "link": "https://dev.events/conferences/meet-new-people-sunday-night-networking-304892622",
-        "published": "Thu, 19 Dec 2024 03:00:55 GMT",
-        "category": "AR / VR / XR",
-        "type": "meetup"
-    },
-    {
         "title": "Coffee, co-working, & collab",
         "event_date": "January 8, 2025",
         "location": "Mesa, United States",
@@ -807,15 +861,6 @@
         "link": "https://dev.events/conferences/py-rva-monthly-meeting-hpmfmtyhcgbtb",
         "published": "Wed, 18 Dec 2024 03:04:32 GMT",
         "category": "Python",
-        "type": "meetup"
-    },
-    {
-        "title": "C&C at [RoundBird]",
-        "event_date": "December 23, 2024",
-        "location": "Jacksonville Beach, United States",
-        "link": "https://dev.events/conferences/c-and-c-at-round-bird-304896546",
-        "published": "Wed, 18 Dec 2024 03:03:16 GMT",
-        "category": "Tech",
         "type": "meetup"
     },
     {
@@ -2664,15 +2709,6 @@
         "type": "meetup"
     },
     {
-        "title": "GameDev Coworking",
-        "event_date": "December 23, 2024",
-        "location": "Cary, United States",
-        "link": "https://dev.events/conferences/game-dev-coworking-rrxmktygcqbfc",
-        "published": "Wed, 27 Nov 2024 03:00:23 GMT",
-        "category": "Game dev",
-        "type": "meetup"
-    },
-    {
         "title": "Infobip Shift Miami",
         "event_date": "May 5, 2025",
         "location": "Miami, United States",
@@ -3371,15 +3407,6 @@
         "location": "Nashville, United States",
         "link": "https://dev.events/conferences/rust-game-development-series-2-basics-of-game-development-304333047",
         "published": "Tue, 19 Nov 2024 06:58:48 GMT",
-        "category": "Rust",
-        "type": "meetup"
-    },
-    {
-        "title": "Rust Community Meetup - Ferndale",
-        "event_date": "December 23, 2024",
-        "location": "Ferndale, United States",
-        "link": "https://dev.events/conferences/rust-community-meetup-ferndale-dmgjntygcqbfc",
-        "published": "Tue, 19 Nov 2024 06:58:39 GMT",
         "category": "Rust",
         "type": "meetup"
     },
