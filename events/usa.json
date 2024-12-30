@@ -1,5 +1,113 @@
 [
     {
+        "title": "DeveloperWeek Leadership Summit 2025",
+        "event_date": "May 29, 2025",
+        "location": "San Francisco, United States",
+        "link": "https://dev.events/conferences/developer-week-leadership-summit-2025-sc3c9s9",
+        "published": "Sun, 29 Dec 2024 08:26:35 GMT",
+        "category": "Tech leadership",
+        "type": "conference"
+    },
+    {
+        "title": "AI DevSummit 2025",
+        "event_date": "May 28, 2025",
+        "location": "San Francisco, United States",
+        "link": "https://dev.events/conferences/ai-dev-summit-2025-jjmyjnca",
+        "published": "Sun, 29 Dec 2024 08:25:29 GMT",
+        "category": "AI / ML",
+        "type": "conference"
+    },
+    {
+        "title": "SREday Redmond 2025 Q2",
+        "event_date": "April 14, 2025",
+        "location": "Redmond, United States",
+        "link": "https://dev.events/conferences/sr-eday-redmond-2025-q2-kl-f3-jt",
+        "published": "Sun, 29 Dec 2024 08:24:49 GMT",
+        "category": "SRE",
+        "type": "conference"
+    },
+    {
+        "title": "WordCamp Montclair",
+        "event_date": "June 28, 2025",
+        "location": "Montclair, United States",
+        "link": "https://dev.events/conferences/word-camp-montclair-uek12xmr",
+        "published": "Sun, 29 Dec 2024 08:17:29 GMT",
+        "category": "WordPress",
+        "type": "conference"
+    },
+    {
+        "title": "LambdaConf 2025",
+        "event_date": "May 10, 2025",
+        "location": "Estes Park, United States",
+        "link": "https://dev.events/conferences/lambda-conf-2025-mi6hv5ra",
+        "published": "Sun, 29 Dec 2024 08:14:43 GMT",
+        "category": "Functional programming",
+        "type": "conference"
+    },
+    {
+        "title": "AI Night @ GitHub ~ w/ Jam.dev",
+        "event_date": "January 8, 2025",
+        "location": "San Francisco, United States",
+        "link": "https://dev.events/conferences/ai-night-git-hub-w-jam-dev-gqb6krd",
+        "published": "Sun, 29 Dec 2024 07:51:56 GMT",
+        "category": "AI / ML",
+        "type": "meetup"
+    },
+    {
+        "title": "Monthly Meeting: Product-Technology Schisms",
+        "event_date": "January 16, 2025",
+        "location": "Austin, United States",
+        "link": "https://dev.events/conferences/monthly-meeting-product-technology-schisms-305212497",
+        "published": "Sun, 29 Dec 2024 03:08:12 GMT",
+        "category": "CTO",
+        "type": "meetup"
+    },
+    {
+        "title": "MEMSEC - DEFCON901 - Memphis InfoSec social #16",
+        "event_date": "January 3, 2025",
+        "location": "Memphis, United States",
+        "link": "https://dev.events/conferences/memsec-defcon-901-memphis-info-sec-social-16-305302888",
+        "published": "Sun, 29 Dec 2024 03:03:10 GMT",
+        "category": "Cybersecurity / InfoSec",
+        "type": "meetup"
+    },
+    {
+        "title": "San Francisco AI Investors & Networking",
+        "event_date": "January 9, 2025",
+        "location": "San Francisco, United States",
+        "link": "https://dev.events/conferences/san-francisco-ai-investors-and-networking-305284955",
+        "published": "Sun, 29 Dec 2024 03:01:08 GMT",
+        "category": "AI / ML",
+        "type": "meetup"
+    },
+    {
+        "title": "Second Wednesday Game Dev Dinner",
+        "event_date": "January 9, 2025",
+        "location": "Eugene, United States",
+        "link": "https://dev.events/conferences/second-wednesday-game-dev-dinner-305176986",
+        "published": "Sun, 29 Dec 2024 03:00:35 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "In-Person Game Development Meetup",
+        "event_date": "January 25, 2025",
+        "location": "Pittsburgh, United States",
+        "link": "https://dev.events/conferences/in-person-game-development-meetup-zftnktyhccbhc",
+        "published": "Sun, 29 Dec 2024 03:00:34 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "Saturday Work and Chill",
+        "event_date": "January 11, 2025",
+        "location": "Denver, United States",
+        "link": "https://dev.events/conferences/saturday-work-and-chill-305213818",
+        "published": "Sun, 29 Dec 2024 03:00:12 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
         "title": "MadPy Social: Mickey's Tavern",
         "event_date": "January 10, 2025",
         "location": "Madison, United States",
@@ -891,15 +999,6 @@
         "type": "meetup"
     },
     {
-        "title": "Boulder Sunday Work and Chill",
-        "event_date": "December 29, 2024",
-        "location": "Boulder, United States",
-        "link": "https://dev.events/conferences/boulder-sunday-work-and-chill-305002998",
-        "published": "Fri, 20 Dec 2024 03:00:12 GMT",
-        "category": "Game dev",
-        "type": "meetup"
-    },
-    {
         "title": "Make Talk Play Game and Demo Night - January 2025",
         "event_date": "January 5, 2025",
         "location": "Hadley, United States",
@@ -1275,15 +1374,6 @@
         "link": "https://dev.events/conferences/the-next-evolution-january-2025-social-meetup-305121869",
         "published": "Tue, 17 Dec 2024 03:01:06 GMT",
         "category": "AR / VR / XR",
-        "type": "meetup"
-    },
-    {
-        "title": "AI and XR New Years 2025 Brunch Celebration!",
-        "event_date": "December 29, 2024",
-        "location": "Honolulu , United States",
-        "link": "https://dev.events/conferences/ai-and-xr-new-years-2025-brunch-celebration-305105487",
-        "published": "Tue, 17 Dec 2024 03:01:04 GMT",
-        "category": "AI / ML",
         "type": "meetup"
     },
     {
@@ -2538,15 +2628,6 @@
         "type": "meetup"
     },
     {
-        "title": "Game Dev Work & Play",
-        "event_date": "December 29, 2024",
-        "location": "Nashville, United States",
-        "link": "https://dev.events/conferences/game-dev-work-and-play-ksdlmtygcqbmc",
-        "published": "Wed, 04 Dec 2024 03:00:08 GMT",
-        "category": "Game dev",
-        "type": "meetup"
-    },
-    {
         "title": "icu4x - resource-constrained internationalization (i18n)",
         "event_date": "April 3, 2025",
         "location": "St. Louis, United States",
@@ -2571,15 +2652,6 @@
         "link": "https://dev.events/conferences/official-cybersecurity-summit-january-24-304881425",
         "published": "Tue, 03 Dec 2024 03:05:13 GMT",
         "category": "DevOps",
-        "type": "meetup"
-    },
-    {
-        "title": "Vue.js Project Day",
-        "event_date": "December 29, 2024",
-        "location": "Indianapolis, United States",
-        "link": "https://dev.events/conferences/vue-js-project-day-zkfbltygcqbmc",
-        "published": "Tue, 03 Dec 2024 03:02:56 GMT",
-        "category": "Vue",
         "type": "meetup"
     },
     {
@@ -3992,15 +4064,6 @@
         "location": "Colorado Springs, United States",
         "link": "https://dev.events/conferences/let-s-discuss-video-game-development-czqsktyhcfblb",
         "published": "Tue, 19 Nov 2024 06:50:26 GMT",
-        "category": "Game dev",
-        "type": "meetup"
-    },
-    {
-        "title": "Strawberry Jam",
-        "event_date": "December 29, 2024",
-        "location": "Los Angeles, United States",
-        "link": "https://dev.events/conferences/strawberry-jam-spdbgtygcqbmc",
-        "published": "Tue, 19 Nov 2024 06:50:24 GMT",
         "category": "Game dev",
         "type": "meetup"
     },

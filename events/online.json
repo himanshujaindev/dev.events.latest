@@ -1,5 +1,149 @@
 [
     {
+        "title": "GPT-4o-mini Hackathon",
+        "event_date": "January 20, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/gpt-4o-mini-hackathon-lmhgr4ke",
+        "published": "Sun, 29 Dec 2024 07:54:57 GMT",
+        "category": "AI / ML",
+        "type": "hackathon"
+    },
+    {
+        "title": "International FOSS Hackathon",
+        "event_date": "February 21, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/international-foss-hackathon-ve5zsmpw",
+        "published": "Sun, 29 Dec 2024 07:54:14 GMT",
+        "category": "Open Source",
+        "type": "hackathon"
+    },
+    {
+        "title": "Keeping Retrospectives Relevant In a Changing World",
+        "event_date": "January 14, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/keeping-retrospectives-relevant-in-a-changing-world-305295172",
+        "published": "Sun, 29 Dec 2024 03:09:13 GMT",
+        "category": "Agile",
+        "type": "meetup"
+    },
+    {
+        "title": ".NET 8 Aspire - Local development with Docker, and Podman",
+        "event_date": "January 5, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/net-8-aspire-local-development-with-docker-and-podman-302915015",
+        "published": "Sun, 29 Dec 2024 03:08:35 GMT",
+        "category": ".NET",
+        "type": "meetup"
+    },
+    {
+        "title": "Buffalo Rust User Group",
+        "event_date": "February 5, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/buffalo-rust-user-group-305304216",
+        "published": "Sun, 29 Dec 2024 03:07:24 GMT",
+        "category": "Rust",
+        "type": "meetup"
+    },
+    {
+        "title": "Buffalo Rust User Group",
+        "event_date": "April 1, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/buffalo-rust-user-group-305304228",
+        "published": "Sun, 29 Dec 2024 03:07:24 GMT",
+        "category": "Rust",
+        "type": "meetup"
+    },
+    {
+        "title": "Buffalo Rust User Group",
+        "event_date": "September 2, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/buffalo-rust-user-group-305304234",
+        "published": "Sun, 29 Dec 2024 03:07:24 GMT",
+        "category": "Rust",
+        "type": "meetup"
+    },
+    {
+        "title": "Buffalo Rust User Group",
+        "event_date": "November 6, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/buffalo-rust-user-group-305304242",
+        "published": "Sun, 29 Dec 2024 03:07:24 GMT",
+        "category": "Rust",
+        "type": "meetup"
+    },
+    {
+        "title": "AWS AI Practitioner Challenge",
+        "event_date": "January 24, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/aws-ai-practitioner-challenge-mmzvntyhccbgc",
+        "published": "Sun, 29 Dec 2024 03:05:36 GMT",
+        "category": "AWS",
+        "type": "meetup"
+    },
+    {
+        "title": "GenAI Study Groups (Virtual): 5-Day Challenge for AI Agent",
+        "event_date": "January 1, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/gen-ai-study-groups-virtual-5-day-challenge-for-ai-agent-305302372",
+        "published": "Sun, 29 Dec 2024 03:04:52 GMT",
+        "category": "AI / ML",
+        "type": "meetup"
+    },
+    {
+        "title": "AI Study Groups (Virtual) - GenAI, LLMs, RAG and Agent",
+        "event_date": "January 1, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/ai-study-groups-virtual-gen-ai-ll-ms-rag-and-agent-305302539",
+        "published": "Sun, 29 Dec 2024 03:04:49 GMT",
+        "category": "AI / ML",
+        "type": "meetup"
+    },
+    {
+        "title": "Project Excellence: Data science Tips you need to know",
+        "event_date": "January 5, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/project-excellence-data-science-tips-you-need-to-know-305295883",
+        "published": "Sun, 29 Dec 2024 03:03:52 GMT",
+        "category": "Data / Database",
+        "type": "meetup"
+    },
+    {
+        "title": "ARC Kampala Chapter Mini workshop",
+        "event_date": "February 8, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/arc-kampala-chapter-mini-workshop-304339818",
+        "published": "Sun, 29 Dec 2024 03:02:51 GMT",
+        "category": "Ruby",
+        "type": "meetup"
+    },
+    {
+        "title": "How to Get Non-Dilutive Funding!",
+        "event_date": "December 30, 2024",
+        "location": "Online",
+        "link": "https://dev.events/conferences/how-to-get-non-dilutive-funding-305306233",
+        "published": "Sun, 29 Dec 2024 03:00:34 GMT",
+        "category": "Startup",
+        "type": "meetup"
+    },
+    {
+        "title": "Friday's open meetup",
+        "event_date": "January 24, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/friday-s-open-meetup-ktgxbtyhccbgc",
+        "published": "Sun, 29 Dec 2024 03:00:30 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "Prototype, Play, and Build Workshops (Online)",
+        "event_date": "February 14, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/prototype-play-and-build-workshops-online-rnwlntyhcdbsb",
+        "published": "Sun, 29 Dec 2024 03:00:29 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
         "title": "Clein: Bringing a bit of leiningen to deps.edn (by Noah Bogart)",
         "event_date": "January 21, 2025",
         "location": "Online",
@@ -141,15 +285,6 @@
         "link": "https://dev.events/conferences/heart-of-agile-monthly-coffee-corner-qzjhzsyhcgbfc",
         "published": "Fri, 27 Dec 2024 03:08:53 GMT",
         "category": "Agile",
-        "type": "meetup"
-    },
-    {
-        "title": "New Gen AI Tools for Video | Open Graphic Design Demos",
-        "event_date": "December 29, 2024",
-        "location": "Online",
-        "link": "https://dev.events/conferences/new-gen-ai-tools-for-video-open-graphic-design-demos-305212433",
-        "published": "Fri, 27 Dec 2024 03:08:20 GMT",
-        "category": "AI / ML",
         "type": "meetup"
     },
     {
@@ -432,15 +567,6 @@
         "type": "meetup"
     },
     {
-        "title": "New Gen AI Tools for \"3D\" Video | Amazon Nova FMs | Open Graphic Design Demos",
-        "event_date": "December 29, 2024",
-        "location": "Online",
-        "link": "https://dev.events/conferences/new-gen-ai-tools-for-3-d-video-amazon-nova-f-ms-open-graphic-design-demos-305212433",
-        "published": "Tue, 24 Dec 2024 03:07:06 GMT",
-        "category": "AI / ML",
-        "type": "meetup"
-    },
-    {
         "title": "AI Design Sprint\u2122 Experience Session",
         "event_date": "January 14, 2025",
         "location": "Online",
@@ -618,15 +744,6 @@
         "link": "https://dev.events/conferences/game-project-therapy-virtual-304421181",
         "published": "Mon, 23 Dec 2024 03:00:15 GMT",
         "category": "Game dev",
-        "type": "meetup"
-    },
-    {
-        "title": "[Online] Jornada do Arquiteto Azure: o exame AZ-305 em detalhes! | 35a ed",
-        "event_date": "January 2, 2025",
-        "location": "Online",
-        "link": "https://dev.events/conferences/online-jornada-do-arquiteto-azure-o-exame-az-305-em-detalhes-35a-ed-305218352",
-        "published": "Mon, 23 Dec 2024 03:00:12 GMT",
-        "category": "Azure",
         "type": "meetup"
     },
     {
@@ -6665,15 +6782,6 @@
         "location": "Online",
         "link": "https://dev.events/conferences/scalable-real-time-streaming-with-akka-net-and-kafka-302976839",
         "published": "Wed, 09 Oct 2024 06:41:14 GMT",
-        "category": ".NET",
-        "type": "meetup"
-    },
-    {
-        "title": ".NET 8 Aspire - Place holder",
-        "event_date": "December 29, 2024",
-        "location": "Online",
-        "link": "https://dev.events/conferences/net-8-aspire-place-holder-302915015",
-        "published": "Wed, 09 Oct 2024 06:41:04 GMT",
         "category": ".NET",
         "type": "meetup"
     },
