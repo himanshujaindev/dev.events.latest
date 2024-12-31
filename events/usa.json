@@ -1,5 +1,50 @@
 [
     {
+        "title": "Vue.js Project Day",
+        "event_date": "January 26, 2025",
+        "location": "Indianapolis, United States",
+        "link": "https://dev.events/conferences/vue-js-project-day-zkfbltyhccbjc",
+        "published": "Mon, 30 Dec 2024 03:01:51 GMT",
+        "category": "Vue",
+        "type": "meetup"
+    },
+    {
+        "title": "VR Double Feature!  BANJAX & UNDERDOGS",
+        "event_date": "January 10, 2025",
+        "location": "Los Angeles, United States",
+        "link": "https://dev.events/conferences/vr-double-feature-banjax-and-underdogs-305318815",
+        "published": "Mon, 30 Dec 2024 03:00:56 GMT",
+        "category": "AR / VR / XR",
+        "type": "meetup"
+    },
+    {
+        "title": "C++ Optimizations Part3 - How and why modern C++ runs fast.",
+        "event_date": "May 6, 2025",
+        "location": "Austin, United States",
+        "link": "https://dev.events/conferences/c-optimizations-part3-how-and-why-modern-c-runs-fast-wcbnntyhchbjb",
+        "published": "Mon, 30 Dec 2024 03:00:36 GMT",
+        "category": "C/C++",
+        "type": "meetup"
+    },
+    {
+        "title": "In-Person Writer's Group at Hugo House",
+        "event_date": "January 9, 2025",
+        "location": "Seattle, United States",
+        "link": "https://dev.events/conferences/in-person-writer-s-group-at-hugo-house-305176282",
+        "published": "Mon, 30 Dec 2024 03:00:27 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "Boulder Sunday Work and Chill",
+        "event_date": "January 12, 2025",
+        "location": "Boulder, United States",
+        "link": "https://dev.events/conferences/boulder-sunday-work-and-chill-305229189",
+        "published": "Mon, 30 Dec 2024 03:00:11 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
         "title": "DeveloperWeek Leadership Summit 2025",
         "event_date": "May 29, 2025",
         "location": "San Francisco, United States",
@@ -195,15 +240,6 @@
         "link": "https://dev.events/conferences/how-to-pitch-to-investors-and-get-the-deal-in-a-covid-19-world-xrjhzryhccbdb",
         "published": "Fri, 27 Dec 2024 03:01:16 GMT",
         "category": "Startup",
-        "type": "meetup"
-    },
-    {
-        "title": "Meet New People!!  Sunday  Night Networking",
-        "event_date": "December 30, 2024",
-        "location": "Santa Clara, United States",
-        "link": "https://dev.events/conferences/meet-new-people-sunday-night-networking-305011410",
-        "published": "Fri, 27 Dec 2024 03:01:06 GMT",
-        "category": "AR / VR / XR",
         "type": "meetup"
     },
     {
@@ -927,15 +963,6 @@
         "type": "meetup"
     },
     {
-        "title": "C&C at  [Spring Park Coffee]",
-        "event_date": "December 30, 2024",
-        "location": "Green Cove Spgs, United States",
-        "link": "https://dev.events/conferences/c-and-c-at-spring-park-coffee-305014674",
-        "published": "Fri, 20 Dec 2024 03:03:19 GMT",
-        "category": "Tech",
-        "type": "meetup"
-    },
-    {
         "title": "Cocktails + Code",
         "event_date": "April 17, 2025",
         "location": "Portland, United States",
@@ -1602,15 +1629,6 @@
         "type": "conference"
     },
     {
-        "title": "Tech & Business Networking San Francisco",
-        "event_date": "December 30, 2024",
-        "location": "San Francisco, United States",
-        "link": "https://dev.events/conferences/tech-and-business-networking-san-francisco-t3nbjssa",
-        "published": "Sat, 14 Dec 2024 19:27:44 GMT",
-        "category": "Tech",
-        "type": "meetup"
-    },
-    {
         "title": "Agile2025",
         "event_date": "July 28, 2025",
         "location": "Denver, United States",
@@ -1618,15 +1636,6 @@
         "published": "Sat, 14 Dec 2024 19:19:18 GMT",
         "category": "Agile",
         "type": "conference"
-    },
-    {
-        "title": "Tech & Business Networking NYC Manhattan",
-        "event_date": "December 30, 2024",
-        "location": "New York, United States",
-        "link": "https://dev.events/conferences/tech-and-business-networking-nyc-manhattan-erw0s3fj",
-        "published": "Sat, 14 Dec 2024 17:31:22 GMT",
-        "category": "Tech",
-        "type": "meetup"
     },
     {
         "title": "Ai4",
@@ -2295,15 +2304,6 @@
         "type": "meetup"
     },
     {
-        "title": "Boston University Rust Lunch, Dec 30",
-        "event_date": "December 30, 2024",
-        "location": "Boston, United States",
-        "link": "https://dev.events/conferences/boston-university-rust-lunch-dec-30-304951461",
-        "published": "Sat, 07 Dec 2024 03:08:25 GMT",
-        "category": "Rust",
-        "type": "meetup"
-    },
-    {
         "title": "Lechmere Rust Lunch, Jan 10",
         "event_date": "January 10, 2025",
         "location": "Cambridge, United States",
@@ -2589,15 +2589,6 @@
         "link": "https://dev.events/conferences/dev-ops-in-action-talk-networking-304922871",
         "published": "Thu, 05 Dec 2024 03:03:09 GMT",
         "category": "DevOps",
-        "type": "meetup"
-    },
-    {
-        "title": "GameDev Coworking",
-        "event_date": "December 30, 2024",
-        "location": "Cary, United States",
-        "link": "https://dev.events/conferences/game-dev-coworking-rrxmktygcqbnc",
-        "published": "Thu, 05 Dec 2024 03:00:38 GMT",
-        "category": "Game dev",
         "type": "meetup"
     },
     {
