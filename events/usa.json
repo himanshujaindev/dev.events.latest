@@ -1,5 +1,122 @@
 [
     {
+        "title": "TechLeader Summit",
+        "event_date": "December 3, 2025",
+        "location": "Clearwater, United States",
+        "link": "https://dev.events/conferences/tech-leader-summit-2ovk0ztn",
+        "published": "Wed, 01 Jan 2025 09:13:38 GMT",
+        "category": "Tech leadership",
+        "type": "conference"
+    },
+    {
+        "title": "ArchConf",
+        "event_date": "December 8, 2025",
+        "location": "Clearwater, United States",
+        "link": "https://dev.events/conferences/arch-conf-4ylqd7wk",
+        "published": "Wed, 01 Jan 2025 09:11:44 GMT",
+        "category": "Software architecture",
+        "type": "conference"
+    },
+    {
+        "title": "STL TechWeek",
+        "event_date": "March 31, 2025",
+        "location": "St. Louis, United States",
+        "link": "https://dev.events/conferences/stl-tech-week-qdejd-m",
+        "published": "Wed, 01 Jan 2025 09:11:14 GMT",
+        "category": "Tech",
+        "type": "conference"
+    },
+    {
+        "title": "In Person: Code and Coffee on January 18th from 10am-1pm ET",
+        "event_date": "January 18, 2025",
+        "location": "Roanoke, United States",
+        "link": "https://dev.events/conferences/in-person-code-and-coffee-on-january-18th-from-10am-1pm-et-305351946",
+        "published": "Wed, 01 Jan 2025 03:07:45 GMT",
+        "category": ".NET",
+        "type": "meetup"
+    },
+    {
+        "title": "IIT: Kotlin Coroutine Mechanisms Workshop & Tech Industry Night",
+        "event_date": "January 31, 2025",
+        "location": "Chicago, United States and Online",
+        "link": "https://dev.events/conferences/iit-kotlin-coroutine-mechanisms-workshop-and-tech-industry-night-304049425",
+        "published": "Wed, 01 Jan 2025 03:07:16 GMT",
+        "category": "Kotlin",
+        "type": "meetup"
+    },
+    {
+        "title": "IIT: Kotlin Coroutine Mechanisms Workshop & Tech Industry Night at Turtle's",
+        "event_date": "January 31, 2025",
+        "location": "Chicago, United States and Online",
+        "link": "https://dev.events/conferences/iit-kotlin-coroutine-mechanisms-workshop-and-tech-industry-night-at-turtle-s-305265920",
+        "published": "Wed, 01 Jan 2025 03:06:50 GMT",
+        "category": "Kotlin",
+        "type": "meetup"
+    },
+    {
+        "title": "Containerize your Development Environment",
+        "event_date": "January 23, 2025",
+        "location": "Urbandale, United States",
+        "link": "https://dev.events/conferences/containerize-your-development-environment-305334543",
+        "published": "Wed, 01 Jan 2025 03:04:07 GMT",
+        "category": "DevOps",
+        "type": "meetup"
+    },
+    {
+        "title": "Baymeadows Code and Coffee",
+        "event_date": "January 7, 2025",
+        "location": "Jacksonville , United States",
+        "link": "https://dev.events/conferences/baymeadows-code-and-coffee-305144998",
+        "published": "Wed, 01 Jan 2025 03:02:57 GMT",
+        "category": "Tech",
+        "type": "meetup"
+    },
+    {
+        "title": "Code and Coffee Evenings (Open Hax)",
+        "event_date": "January 7, 2025",
+        "location": "Jacksonville, United States",
+        "link": "https://dev.events/conferences/code-and-coffee-evenings-open-hax-305155012",
+        "published": "Wed, 01 Jan 2025 03:02:57 GMT",
+        "category": "Tech",
+        "type": "meetup"
+    },
+    {
+        "title": "Reno Developer Lightning Talks",
+        "event_date": "January 10, 2025",
+        "location": "Reno, United States",
+        "link": "https://dev.events/conferences/reno-developer-lightning-talks-304117682",
+        "published": "Wed, 01 Jan 2025 03:02:57 GMT",
+        "category": "Tech",
+        "type": "meetup"
+    },
+    {
+        "title": "Open Hax",
+        "event_date": "January 28, 2025",
+        "location": "Jacksonville, United States",
+        "link": "https://dev.events/conferences/open-hax-llklbtyhccblc",
+        "published": "Wed, 01 Jan 2025 03:02:56 GMT",
+        "category": "Ruby",
+        "type": "meetup"
+    },
+    {
+        "title": "Utah JS: Lehi Meetup - React 19",
+        "event_date": "January 10, 2025",
+        "location": "Lehi, United States",
+        "link": "https://dev.events/conferences/utah-js-lehi-meetup-react-19-304580923",
+        "published": "Wed, 01 Jan 2025 03:02:32 GMT",
+        "category": "JavaScript",
+        "type": "meetup"
+    },
+    {
+        "title": "Game Dev Coworking",
+        "event_date": "January 21, 2025",
+        "location": "Oakland, United States",
+        "link": "https://dev.events/conferences/game-dev-coworking-qdvfktyhccbcc",
+        "published": "Wed, 01 Jan 2025 03:00:06 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
         "title": "2024 re:Invent recap",
         "event_date": "January 17, 2025",
         "location": "Fort Collins, United States",
@@ -1112,15 +1229,6 @@
         "location": "Knoxville, United States",
         "link": "https://dev.events/conferences/playtest-and-design-night-pdtqbtyhccbtb",
         "published": "Fri, 20 Dec 2024 03:00:41 GMT",
-        "category": "Game dev",
-        "type": "meetup"
-    },
-    {
-        "title": "Art Tech & Game Coffee Meetup",
-        "event_date": "January 1, 2025",
-        "location": "Eugene, United States",
-        "link": "https://dev.events/conferences/art-tech-and-game-coffee-meetup-305051216",
-        "published": "Fri, 20 Dec 2024 03:00:36 GMT",
         "category": "Game dev",
         "type": "meetup"
     },
@@ -2481,15 +2589,6 @@
         "link": "https://dev.events/conferences/lunch-informal-qt-get-together-in-costa-mesa-mcbfptyhccbwb",
         "published": "Sat, 07 Dec 2024 03:01:56 GMT",
         "category": "C/C++",
-        "type": "meetup"
-    },
-    {
-        "title": "Playtest and Design Night",
-        "event_date": "January 1, 2025",
-        "location": "Knoxville, United States",
-        "link": "https://dev.events/conferences/playtest-and-design-night-pdtqbtyhccbcb",
-        "published": "Sat, 07 Dec 2024 03:00:49 GMT",
-        "category": "Game dev",
         "type": "meetup"
     },
     {
