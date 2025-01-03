@@ -1,5 +1,77 @@
 [
     {
+        "title": "LeadingEng New York 2025",
+        "event_date": "September 5, 2025",
+        "location": "New York, United States",
+        "link": "https://dev.events/conferences/leading-eng-new-york-2025-sjatd-4l",
+        "published": "Thu, 02 Jan 2025 12:45:34 GMT",
+        "category": "CTO",
+        "type": "conference"
+    },
+    {
+        "title": "StaffPlus New York 2025",
+        "event_date": "September 3, 2025",
+        "location": "New York, United States",
+        "link": "https://dev.events/conferences/staff-plus-new-york-2025-vs-jiuu3",
+        "published": "Thu, 02 Jan 2025 12:44:36 GMT",
+        "category": "Tech leadership",
+        "type": "conference"
+    },
+    {
+        "title": "LeadDev New York 2025",
+        "event_date": "September 3, 2025",
+        "location": "New York, United States",
+        "link": "https://dev.events/conferences/lead-dev-new-york-2025-fl3rzh8z",
+        "published": "Thu, 02 Jan 2025 12:42:01 GMT",
+        "category": "Tech leadership",
+        "type": "conference"
+    },
+    {
+        "title": "Chaos Monkeys, Open Telemetry, and .NET Aspire: Taming Complexity in Modern Apps",
+        "event_date": "January 21, 2025",
+        "location": "Loudoun, United States",
+        "link": "https://dev.events/conferences/chaos-monkeys-open-telemetry-and-net-aspire-taming-complexity-in-modern-apps-305360775",
+        "published": "Thu, 02 Jan 2025 03:10:41 GMT",
+        "category": ".NET",
+        "type": "meetup"
+    },
+    {
+        "title": "Utah JS: Lehi Meetup - The State of React 19",
+        "event_date": "January 10, 2025",
+        "location": "Lehi, United States",
+        "link": "https://dev.events/conferences/utah-js-lehi-meetup-the-state-of-react-19-304580923",
+        "published": "Thu, 02 Jan 2025 03:03:17 GMT",
+        "category": "JavaScript",
+        "type": "meetup"
+    },
+    {
+        "title": "Meet New People!!  Sunday  Night Networking",
+        "event_date": "January 6, 2025",
+        "location": "Santa Clara, United States",
+        "link": "https://dev.events/conferences/meet-new-people-sunday-night-networking-305125477",
+        "published": "Thu, 02 Jan 2025 03:01:12 GMT",
+        "category": "AR / VR / XR",
+        "type": "meetup"
+    },
+    {
+        "title": "In-Person Game Development Meetup",
+        "event_date": "February 1, 2025",
+        "location": "Pittsburgh, United States",
+        "link": "https://dev.events/conferences/in-person-game-development-meetup-zftnktyhcdbcb",
+        "published": "Thu, 02 Jan 2025 03:00:42 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "GameDev Coworking",
+        "event_date": "January 27, 2025",
+        "location": "Cary, United States",
+        "link": "https://dev.events/conferences/game-dev-coworking-rrxmktyhccbkc",
+        "published": "Thu, 02 Jan 2025 03:00:19 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
         "title": "TechLeader Summit",
         "event_date": "December 3, 2025",
         "location": "Clearwater, United States",
@@ -441,15 +513,6 @@
         "type": "meetup"
     },
     {
-        "title": "Saint Augustine Cowork and Coffee [DOS Coffee]",
-        "event_date": "January 2, 2025",
-        "location": "St Augustine, United States",
-        "link": "https://dev.events/conferences/saint-augustine-cowork-and-coffee-dos-coffee-304560531",
-        "published": "Fri, 27 Dec 2024 03:03:18 GMT",
-        "category": "Tech",
-        "type": "meetup"
-    },
-    {
         "title": "UtahJS SLC Meetup",
         "event_date": "January 22, 2025",
         "location": "Salt Lake City, United States",
@@ -465,15 +528,6 @@
         "link": "https://dev.events/conferences/flutter-in-production-extended-architecting-flutter-apps-305021995",
         "published": "Fri, 27 Dec 2024 03:02:12 GMT",
         "category": "Flutter",
-        "type": "meetup"
-    },
-    {
-        "title": "How to Pitch to Investors and Get the Deal in a COVID-19 World",
-        "event_date": "January 2, 2025",
-        "location": "Palo Alto, United States",
-        "link": "https://dev.events/conferences/how-to-pitch-to-investors-and-get-the-deal-in-a-covid-19-world-xrjhzryhccbdb",
-        "published": "Fri, 27 Dec 2024 03:01:16 GMT",
-        "category": "Startup",
         "type": "meetup"
     },
     {
@@ -1563,15 +1617,6 @@
         "link": "https://dev.events/conferences/rsvp-to-the-next-jacksonville-rhug-305117642",
         "published": "Tue, 17 Dec 2024 03:06:13 GMT",
         "category": "Cloud",
-        "type": "meetup"
-    },
-    {
-        "title": "Debug the Future - Michael Johnsey - DevMemphis",
-        "event_date": "January 2, 2025",
-        "location": "Memphis, United States",
-        "link": "https://dev.events/conferences/debug-the-future-michael-johnsey-dev-memphis-303646599",
-        "published": "Tue, 17 Dec 2024 03:03:05 GMT",
-        "category": "Tech",
         "type": "meetup"
     },
     {
@@ -3420,15 +3465,6 @@
         "type": "meetup"
     },
     {
-        "title": "CD Tech Thursday",
-        "event_date": "January 2, 2025",
-        "location": "Chattanooga, United States",
-        "link": "https://dev.events/conferences/cd-tech-thursday-304440002",
-        "published": "Sat, 23 Nov 2024 03:03:27 GMT",
-        "category": "Tech",
-        "type": "meetup"
-    },
-    {
         "title": "Cocktails + Code",
         "event_date": "March 20, 2025",
         "location": "Portland, United States",
@@ -3516,15 +3552,6 @@
         "link": "https://dev.events/conferences/monthly-java-script-meetup-hgccdtyhcfbjc",
         "published": "Fri, 22 Nov 2024 03:02:19 GMT",
         "category": "JavaScript",
-        "type": "meetup"
-    },
-    {
-        "title": "Bytes & Brews with the Bluegrass Developers Guild",
-        "event_date": "January 2, 2025",
-        "location": "Lexington, United States",
-        "link": "https://dev.events/conferences/bytes-and-brews-with-the-bluegrass-developers-guild-pwtxmtyhccbdb",
-        "published": "Thu, 21 Nov 2024 03:08:00 GMT",
-        "category": "Tech",
         "type": "meetup"
     },
     {
