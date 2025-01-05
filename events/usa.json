@@ -1,5 +1,149 @@
 [
     {
+        "title": "AWS re:Invent 2024 - Recap",
+        "event_date": "January 13, 2025",
+        "location": "Douglas, United States",
+        "link": "https://dev.events/conferences/aws-re-invent-2024-recap-305403922",
+        "published": "Sat, 04 Jan 2025 03:06:00 GMT",
+        "category": "AWS",
+        "type": "meetup"
+    },
+    {
+        "title": "AI & Automation with Elastic: January Meetup",
+        "event_date": "January 16, 2025",
+        "location": "New York, United States",
+        "link": "https://dev.events/conferences/ai-and-automation-with-elastic-january-meetup-304923368",
+        "published": "Sat, 04 Jan 2025 03:05:49 GMT",
+        "category": "AI / ML",
+        "type": "meetup"
+    },
+    {
+        "title": "EVSec CitySec Meet-up: Security & Beer",
+        "event_date": "May 2, 2025",
+        "location": "Mesa, United States",
+        "link": "https://dev.events/conferences/ev-sec-city-sec-meet-up-security-and-beer-304683243",
+        "published": "Sat, 04 Jan 2025 03:05:47 GMT",
+        "category": "Cybersecurity / InfoSec",
+        "type": "meetup"
+    },
+    {
+        "title": "AI meetup (AWS SF): GenAI, LLMs and ML",
+        "event_date": "January 21, 2025",
+        "location": "San Francisco, United States",
+        "link": "https://dev.events/conferences/ai-meetup-aws-sf-gen-ai-ll-ms-and-ml-305395416",
+        "published": "Sat, 04 Jan 2025 03:05:16 GMT",
+        "category": "AI / ML",
+        "type": "meetup"
+    },
+    {
+        "title": "AWS re:Invent 2024 re:Cap",
+        "event_date": "January 16, 2025",
+        "location": "Houston, United States",
+        "link": "https://dev.events/conferences/aws-re-invent-2024-re-cap-305404823",
+        "published": "Sat, 04 Jan 2025 03:04:15 GMT",
+        "category": "AWS",
+        "type": "meetup"
+    },
+    {
+        "title": "DevMemphis - A meetup for software developers",
+        "event_date": "January 9, 2025",
+        "location": "Memphis, United States",
+        "link": "https://dev.events/conferences/dev-memphis-a-meetup-for-software-developers-303646599",
+        "published": "Sat, 04 Jan 2025 03:02:55 GMT",
+        "category": "Tech",
+        "type": "meetup"
+    },
+    {
+        "title": "Lightning Talks!",
+        "event_date": "January 14, 2025",
+        "location": "Richmond, United States",
+        "link": "https://dev.events/conferences/lightning-talks-304581138",
+        "published": "Sat, 04 Jan 2025 03:02:04 GMT",
+        "category": "JavaScript",
+        "type": "meetup"
+    },
+    {
+        "title": "Lunch informal Qt get-together in Costa Mesa",
+        "event_date": "January 24, 2025",
+        "location": "Costa Mesa, United States",
+        "link": "https://dev.events/conferences/lunch-informal-qt-get-together-in-costa-mesa-pkwmptyhccbgc",
+        "published": "Sat, 04 Jan 2025 03:01:27 GMT",
+        "category": "C/C++",
+        "type": "meetup"
+    },
+    {
+        "title": "Lunch informal Qt get-together in Costa Mesa",
+        "event_date": "February 7, 2025",
+        "location": "Costa Mesa, United States",
+        "link": "https://dev.events/conferences/lunch-informal-qt-get-together-in-costa-mesa-pkwmptyhcdbkb",
+        "published": "Sat, 04 Jan 2025 03:01:27 GMT",
+        "category": "C/C++",
+        "type": "meetup"
+    },
+    {
+        "title": "Lunch informal Qt get-together in Costa Mesa",
+        "event_date": "February 21, 2025",
+        "location": "Costa Mesa, United States",
+        "link": "https://dev.events/conferences/lunch-informal-qt-get-together-in-costa-mesa-pkwmptyhcdbcc",
+        "published": "Sat, 04 Jan 2025 03:01:27 GMT",
+        "category": "C/C++",
+        "type": "meetup"
+    },
+    {
+        "title": "SVVR Meetup #90 (Eventbrite ticket required)",
+        "event_date": "January 17, 2025",
+        "location": "Santa Clara, United States",
+        "link": "https://dev.events/conferences/svvr-meetup-90-eventbrite-ticket-required-305409357",
+        "published": "Sat, 04 Jan 2025 03:00:56 GMT",
+        "category": "AR / VR / XR",
+        "type": "meetup"
+    },
+    {
+        "title": "Northside Social",
+        "event_date": "January 10, 2025",
+        "location": "Seattle, United States",
+        "link": "https://dev.events/conferences/northside-social-305190141",
+        "published": "Sat, 04 Jan 2025 03:00:32 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "Cleveland Game Developers - Global Game Jam 2025",
+        "event_date": "January 24, 2025",
+        "location": "Cleveland, United States",
+        "link": "https://dev.events/conferences/cleveland-game-developers-global-game-jam-2025-304971077",
+        "published": "Sat, 04 Jan 2025 03:00:30 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "Weekly Project Meetup",
+        "event_date": "January 31, 2025",
+        "location": "Plano, United States",
+        "link": "https://dev.events/conferences/weekly-project-meetup-cwssbtyhccbnc",
+        "published": "Sat, 04 Jan 2025 03:00:08 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "Game Dev Adventure Day",
+        "event_date": "February 1, 2025",
+        "location": "Orlando, United States",
+        "link": "https://dev.events/conferences/game-dev-adventure-day-305399182",
+        "published": "Sat, 04 Jan 2025 03:00:07 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "Game Dev Adventure Day",
+        "event_date": "March 1, 2025",
+        "location": "Orlando, United States",
+        "link": "https://dev.events/conferences/game-dev-adventure-day-305399210",
+        "published": "Sat, 04 Jan 2025 03:00:07 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
         "title": "Palmetto Cyber Conference",
         "event_date": "March 17, 2025",
         "location": "Columbia, United States",
@@ -792,15 +936,6 @@
         "type": "meetup"
     },
     {
-        "title": "Indie Co-working Support Group (ISG - IRL)",
-        "event_date": "January 4, 2025",
-        "location": "Seattle, United States",
-        "link": "https://dev.events/conferences/indie-co-working-support-group-isg-irl-305102064",
-        "published": "Tue, 24 Dec 2024 03:00:30 GMT",
-        "category": "Game dev",
-        "type": "meetup"
-    },
-    {
         "title": "GameDev Coworking",
         "event_date": "January 20, 2025",
         "location": "Cary, United States",
@@ -856,7 +991,7 @@
     },
     {
         "title": "St. Louis Code and Coffee",
-        "event_date": "February 16, 2025",
+        "event_date": "February 23, 2025",
         "location": "University City, United States",
         "link": "https://dev.events/conferences/st-louis-code-and-coffee-304977090",
         "published": "Mon, 23 Dec 2024 03:02:40 GMT",
@@ -879,15 +1014,6 @@
         "link": "https://dev.events/conferences/vue-js-project-day-zkfbltyhccbzb",
         "published": "Mon, 23 Dec 2024 03:02:24 GMT",
         "category": "Vue",
-        "type": "meetup"
-    },
-    {
-        "title": "Seattle Blender User Group",
-        "event_date": "January 4, 2025",
-        "location": "Seattle, United States",
-        "link": "https://dev.events/conferences/seattle-blender-user-group-304967770",
-        "published": "Mon, 23 Dec 2024 03:00:32 GMT",
-        "category": "Game dev",
         "type": "meetup"
     },
     {
@@ -990,15 +1116,6 @@
         "type": "meetup"
     },
     {
-        "title": "8th Annual Coffee Chill Out",
-        "event_date": "January 4, 2025",
-        "location": "Frederick, United States",
-        "link": "https://dev.events/conferences/8th-annual-coffee-chill-out-305203249",
-        "published": "Sun, 22 Dec 2024 03:04:32 GMT",
-        "category": "Open Source",
-        "type": "meetup"
-    },
-    {
         "title": "Developer Group Ski Day At Palisades",
         "event_date": "February 8, 2025",
         "location": "Olympic Valley, United States",
@@ -1049,15 +1166,6 @@
         "location": "Memphis, United States",
         "link": "https://dev.events/conferences/global-game-jam-2025-305205862",
         "published": "Sun, 22 Dec 2024 03:00:28 GMT",
-        "category": "Game dev",
-        "type": "meetup"
-    },
-    {
-        "title": "Saturday Work and Chill",
-        "event_date": "January 4, 2025",
-        "location": "Denver, United States",
-        "link": "https://dev.events/conferences/saturday-work-and-chill-305098060",
-        "published": "Sun, 22 Dec 2024 03:00:12 GMT",
         "category": "Game dev",
         "type": "meetup"
     },
@@ -1158,15 +1266,6 @@
         "link": "https://dev.events/conferences/chicago-js-meetup-march-2025-305185313",
         "published": "Sat, 21 Dec 2024 03:02:19 GMT",
         "category": "JavaScript",
-        "type": "meetup"
-    },
-    {
-        "title": "Nooga Code & Coffee",
-        "event_date": "January 4, 2025",
-        "location": "Chattanooga, United States",
-        "link": "https://dev.events/conferences/nooga-code-and-coffee-305165332",
-        "published": "Sat, 21 Dec 2024 03:00:42 GMT",
-        "category": "Tech",
         "type": "meetup"
     },
     {
@@ -1908,15 +2007,6 @@
         "type": "meetup"
     },
     {
-        "title": "LA Tech Meetup",
-        "event_date": "January 4, 2025",
-        "location": "Santa Monica, United States",
-        "link": "https://dev.events/conferences/la-tech-meetup-305084717",
-        "published": "Sun, 15 Dec 2024 03:05:09 GMT",
-        "category": "Tech",
-        "type": "meetup"
-    },
-    {
         "title": "DevOps Boulder Monthly!",
         "event_date": "April 22, 2025",
         "location": "Boulder, United States",
@@ -2494,7 +2584,7 @@
     },
     {
         "title": "St. Louis Code and Coffee",
-        "event_date": "February 2, 2025",
+        "event_date": "February 9, 2025",
         "location": "University City, United States",
         "link": "https://dev.events/conferences/st-louis-code-and-coffee-304977088",
         "published": "Mon, 09 Dec 2024 03:03:04 GMT",
@@ -2557,7 +2647,7 @@
     },
     {
         "title": "St. Louis Code and Coffee",
-        "event_date": "January 5, 2025",
+        "event_date": "January 12, 2025",
         "location": "University City, United States",
         "link": "https://dev.events/conferences/st-louis-code-and-coffee-304977075",
         "published": "Sun, 08 Dec 2024 03:02:30 GMT",
@@ -2566,20 +2656,11 @@
     },
     {
         "title": "St. Louis Code and Coffee",
-        "event_date": "January 19, 2025",
+        "event_date": "January 26, 2025",
         "location": "University City, United States",
         "link": "https://dev.events/conferences/st-louis-code-and-coffee-304977083",
         "published": "Sun, 08 Dec 2024 03:02:30 GMT",
         "category": "Tech",
-        "type": "meetup"
-    },
-    {
-        "title": "In-Person Game Development Meetup",
-        "event_date": "January 4, 2025",
-        "location": "Pittsburgh, United States",
-        "link": "https://dev.events/conferences/in-person-game-development-meetup-zftnktyhccbgb",
-        "published": "Sun, 08 Dec 2024 03:00:35 GMT",
-        "category": "Game dev",
         "type": "meetup"
     },
     {
@@ -2733,15 +2814,6 @@
         "link": "https://dev.events/conferences/lunch-informal-qt-get-together-in-costa-mesa-mcbfptyhccbwb",
         "published": "Sat, 07 Dec 2024 03:01:56 GMT",
         "category": "C/C++",
-        "type": "meetup"
-    },
-    {
-        "title": "Friday Night Showcase @ The MADE",
-        "event_date": "January 4, 2025",
-        "location": "Oakland, United States",
-        "link": "https://dev.events/conferences/friday-night-showcase-the-made-304964332",
-        "published": "Sat, 07 Dec 2024 03:00:26 GMT",
-        "category": "Game dev",
         "type": "meetup"
     },
     {
@@ -3844,7 +3916,7 @@
     },
     {
         "title": "Hands on: Maven 4",
-        "event_date": "February 14, 2025",
+        "event_date": "February 21, 2025",
         "location": "St. Louis, United States and Online",
         "link": "https://dev.events/conferences/hands-on-maven-4-304320380",
         "published": "Tue, 19 Nov 2024 06:59:10 GMT",
@@ -4343,15 +4415,6 @@
         "location": "Los Angeles, United States",
         "link": "https://dev.events/conferences/strawberry-jam-spdbgtyhccbqb",
         "published": "Tue, 19 Nov 2024 06:50:24 GMT",
-        "category": "Game dev",
-        "type": "meetup"
-    },
-    {
-        "title": "Excuse To Create",
-        "event_date": "January 4, 2025",
-        "location": "Cleveland, United States",
-        "link": "https://dev.events/conferences/excuse-to-create-301974387",
-        "published": "Tue, 19 Nov 2024 06:50:23 GMT",
         "category": "Game dev",
         "type": "meetup"
     },
@@ -5982,15 +6045,6 @@
         "link": "https://dev.events/conferences/c-optimizations-part3-how-and-why-modern-c-runs-fast-wcbnntyhcdbgb",
         "published": "Wed, 09 Oct 2024 06:28:11 GMT",
         "category": "C/C++",
-        "type": "meetup"
-    },
-    {
-        "title": "Monthly Meetup at GigaParts!",
-        "event_date": "January 4, 2025",
-        "location": "Huntsville, United States",
-        "link": "https://dev.events/conferences/monthly-meetup-at-giga-parts-pdvtktyhccbfb",
-        "published": "Wed, 09 Oct 2024 06:28:06 GMT",
-        "category": "Game dev",
         "type": "meetup"
     },
     {
