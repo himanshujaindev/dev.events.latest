@@ -1,5 +1,104 @@
 [
     {
+        "title": "JuliaCon 2025",
+        "event_date": "July 21, 2025",
+        "location": "Pittsburgh, United States",
+        "link": "https://dev.events/conferences/julia-con-2025-5uf6bmts",
+        "published": "Mon, 06 Jan 2025 09:17:28 GMT",
+        "category": "Tech",
+        "type": "conference"
+    },
+    {
+        "title": "Beer City Code 2025",
+        "event_date": "August 8, 2025",
+        "location": "Grand Rapids, United States",
+        "link": "https://dev.events/conferences/beer-city-code-2025-twhjjdgp",
+        "published": "Mon, 06 Jan 2025 09:15:48 GMT",
+        "category": "Full-stack",
+        "type": "conference"
+    },
+    {
+        "title": "Python Office Hours!",
+        "event_date": "March 2, 2025",
+        "location": "Irvine, United States",
+        "link": "https://dev.events/conferences/python-office-hours-smnqntyhcfbdb",
+        "published": "Mon, 06 Jan 2025 03:08:09 GMT",
+        "category": "Python",
+        "type": "meetup"
+    },
+    {
+        "title": "Apache Flink: Unlocking the Power of Real-Time Data Processing",
+        "event_date": "February 13, 2025",
+        "location": "Burlington, United States",
+        "link": "https://dev.events/conferences/apache-flink-unlocking-the-power-of-real-time-data-processing-305434861",
+        "published": "Mon, 06 Jan 2025 03:06:32 GMT",
+        "category": "Data / Database",
+        "type": "meetup"
+    },
+    {
+        "title": "Jakarta EE 11 - Performance and Developer Productivity",
+        "event_date": "February 27, 2025",
+        "location": "Burlington, United States",
+        "link": "https://dev.events/conferences/jakarta-ee-11-performance-and-developer-productivity-305434893",
+        "published": "Mon, 06 Jan 2025 03:06:32 GMT",
+        "category": "Java",
+        "type": "meetup"
+    },
+    {
+        "title": "LA Tech Meetup",
+        "event_date": "January 18, 2025",
+        "location": "Santa Monica, United States",
+        "link": "https://dev.events/conferences/la-tech-meetup-305431657",
+        "published": "Mon, 06 Jan 2025 03:04:35 GMT",
+        "category": "Tech",
+        "type": "meetup"
+    },
+    {
+        "title": "Code and Tea at Panera",
+        "event_date": "February 2, 2025",
+        "location": "Indianapolis, United States",
+        "link": "https://dev.events/conferences/code-and-tea-at-panera-skgnptyhcdbdb",
+        "published": "Mon, 06 Jan 2025 03:02:15 GMT",
+        "category": "Vue",
+        "type": "meetup"
+    },
+    {
+        "title": "Monthly Meetup at GigaParts!",
+        "event_date": "May 2, 2025",
+        "location": "Huntsville, United States",
+        "link": "https://dev.events/conferences/monthly-meetup-at-giga-parts-pdvtktyhchbdb",
+        "published": "Mon, 06 Jan 2025 03:00:32 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "Playtesting Night! Come play free local indie games! (Family Friendly)",
+        "event_date": "February 22, 2025",
+        "location": "Louisville, United States",
+        "link": "https://dev.events/conferences/playtesting-night-come-play-free-local-indie-games-family-friendly-302901055",
+        "published": "Mon, 06 Jan 2025 03:00:25 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "Social @ Sorry Not Sorry Bar in West LA | Wed, January 15th @ 730PM",
+        "event_date": "January 16, 2025",
+        "location": "Los Angeles, United States",
+        "link": "https://dev.events/conferences/social-sorry-not-sorry-bar-in-west-la-wed-january-15th-730-pm-305441144",
+        "published": "Mon, 06 Jan 2025 03:00:22 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "Game Audio Colorado Meetup",
+        "event_date": "January 16, 2025",
+        "location": "Denver, United States",
+        "link": "https://dev.events/conferences/game-audio-colorado-meetup-305275057",
+        "published": "Mon, 06 Jan 2025 03:00:11 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
         "title": "AstriCon25",
         "event_date": "February 11, 2025",
         "location": "Fort Lauderdale, United States",
@@ -477,15 +576,6 @@
         "type": "meetup"
     },
     {
-        "title": "Meet New People!!  Sunday  Night Networking",
-        "event_date": "January 6, 2025",
-        "location": "Santa Clara, United States",
-        "link": "https://dev.events/conferences/meet-new-people-sunday-night-networking-305125477",
-        "published": "Thu, 02 Jan 2025 03:01:12 GMT",
-        "category": "AR / VR / XR",
-        "type": "meetup"
-    },
-    {
         "title": "In-Person Game Development Meetup",
         "event_date": "February 1, 2025",
         "location": "Pittsburgh, United States",
@@ -672,15 +762,6 @@
         "link": "https://dev.events/conferences/aws-re-invent-re-cap-key-insights-and-innovations-unveiled-305328713",
         "published": "Tue, 31 Dec 2024 03:03:42 GMT",
         "category": "AWS",
-        "type": "meetup"
-    },
-    {
-        "title": "C&C at [RoundBird]",
-        "event_date": "January 6, 2025",
-        "location": "Jacksonville Beach, United States",
-        "link": "https://dev.events/conferences/c-and-c-at-round-bird-305129109",
-        "published": "Tue, 31 Dec 2024 03:03:27 GMT",
-        "category": "Tech",
         "type": "meetup"
     },
     {
@@ -2628,15 +2709,6 @@
         "type": "meetup"
     },
     {
-        "title": "GameDev Coworking",
-        "event_date": "January 6, 2025",
-        "location": "Cary, United States",
-        "link": "https://dev.events/conferences/game-dev-coworking-rrxmktyhccbjb",
-        "published": "Wed, 11 Dec 2024 03:00:22 GMT",
-        "category": "Game dev",
-        "type": "meetup"
-    },
-    {
         "title": "DevFest Philly",
         "event_date": "January 18, 2025",
         "location": "Philadelphia, United States",
@@ -2733,15 +2805,6 @@
         "link": "https://dev.events/conferences/fishing-for-ai-powered-insights-data-lake-technologies-304210306",
         "published": "Mon, 09 Dec 2024 03:02:41 GMT",
         "category": "AI / ML",
-        "type": "meetup"
-    },
-    {
-        "title": "Akron Game Developers Social Meetup",
-        "event_date": "January 6, 2025",
-        "location": "Stow, United States",
-        "link": "https://dev.events/conferences/akron-game-developers-social-meetup-304974258",
-        "published": "Mon, 09 Dec 2024 03:00:39 GMT",
-        "category": "Game dev",
         "type": "meetup"
     },
     {
