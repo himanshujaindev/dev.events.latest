@@ -1,5 +1,95 @@
 [
     {
+        "title": "Update Days",
+        "event_date": "February 4, 2025",
+        "location": "Prague, Czech Republic and Online",
+        "link": "https://dev.events/conferences/update-days-iklvohq",
+        "published": "Mon, 13 Jan 2025 18:12:13 GMT",
+        "category": ".NET",
+        "type": "conference"
+    },
+    {
+        "title": "Handycon 2025",
+        "event_date": "March 5, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/handycon-2025-6jciy1z3",
+        "published": "Mon, 13 Jan 2025 18:02:14 GMT",
+        "category": "Web3",
+        "type": "conference"
+    },
+    {
+        "title": "Update Days: Power Platform",
+        "event_date": "February 4, 2025",
+        "location": "Prague, Czech Republic and Online",
+        "link": "https://dev.events/conferences/update-days-power-platform-6ogw72b8",
+        "published": "Mon, 13 Jan 2025 18:01:14 GMT",
+        "category": "Microsoft",
+        "type": "conference"
+    },
+    {
+        "title": "Agile PM Online Roundtable",
+        "event_date": "February 13, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/agile-pm-online-roundtable-304160120",
+        "published": "Mon, 13 Jan 2025 03:08:38 GMT",
+        "category": "Agile",
+        "type": "meetup"
+    },
+    {
+        "title": "TeamsCommunityDay 2025 - Ein Abend mit Teams Mesh",
+        "event_date": "January 29, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/teams-community-day-2025-ein-abend-mit-teams-mesh-305576327",
+        "published": "Mon, 13 Jan 2025 03:07:53 GMT",
+        "category": ".NET",
+        "type": "meetup"
+    },
+    {
+        "title": "K8SUG UK ( K8s+AI ) #9th Meetup @Microsoft - 13th February 2025",
+        "event_date": "February 13, 2025",
+        "location": "W2 6BD, United Kingdom and Online",
+        "link": "https://dev.events/conferences/k8-sug-uk-k8s-ai-9th-meetup-microsoft-13th-february-2025-305552552",
+        "published": "Mon, 13 Jan 2025 03:06:28 GMT",
+        "category": "Docker / Kubernetes",
+        "type": "meetup"
+    },
+    {
+        "title": "Hamburg PowerShell User Group #40 - AI",
+        "event_date": "January 22, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/hamburg-power-shell-user-group-40-ai-305569024",
+        "published": "Mon, 13 Jan 2025 03:05:51 GMT",
+        "category": "AI / ML",
+        "type": "meetup"
+    },
+    {
+        "title": "Challenge AWS AI Practitioner",
+        "event_date": "January 22, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/challenge-aws-ai-practitioner-305571671",
+        "published": "Mon, 13 Jan 2025 03:05:07 GMT",
+        "category": "AWS",
+        "type": "meetup"
+    },
+    {
+        "title": "Melbourne AWS User Group #144 - January 2025 - re:Invent Roundtable",
+        "event_date": "January 29, 2025",
+        "location": "Melbourne, Australia and Online",
+        "link": "https://dev.events/conferences/melbourne-aws-user-group-144-january-2025-re-invent-roundtable-305578983",
+        "published": "Mon, 13 Jan 2025 03:04:50 GMT",
+        "category": "AWS",
+        "type": "meetup"
+    },
+    {
+        "title": "Game Development Discord Mixer!",
+        "event_date": "February 7, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/game-development-discord-mixer-kzpldtyhcdbjb",
+        "published": "Mon, 13 Jan 2025 03:00:18 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
         "title": "mtpcon London 2025",
         "event_date": "March 10, 2025",
         "location": "London, United Kingdom and Online",
@@ -132,6 +222,15 @@
         "link": "https://dev.events/conferences/game-development-discord-mixer-304820556",
         "published": "Sun, 12 Jan 2025 03:00:27 GMT",
         "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "[Online] Microsoft Ignite 2024: principais novidades | Gratuito",
+        "event_date": "January 16, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/online-microsoft-ignite-2024-principais-novidades-gratuito-305554775",
+        "published": "Sun, 12 Jan 2025 03:00:11 GMT",
+        "category": "Microsoft",
         "type": "meetup"
     },
     {
@@ -465,24 +564,6 @@
         "link": "https://dev.events/conferences/securing-productivity-landscape-prepare-for-microsoft-co-pilot-with-confidence-305516663",
         "published": "Fri, 10 Jan 2025 03:08:17 GMT",
         "category": "Microsoft",
-        "type": "meetup"
-    },
-    {
-        "title": "Master Machine Learning Projects with Google Cloud",
-        "event_date": "January 13, 2025",
-        "location": "Online",
-        "link": "https://dev.events/conferences/master-machine-learning-projects-with-google-cloud-305517036",
-        "published": "Fri, 10 Jan 2025 03:08:06 GMT",
-        "category": "AI / ML",
-        "type": "meetup"
-    },
-    {
-        "title": "DevOps Crash Course For Beginners",
-        "event_date": "January 13, 2025",
-        "location": "Online",
-        "link": "https://dev.events/conferences/dev-ops-crash-course-for-beginners-305514466",
-        "published": "Fri, 10 Jan 2025 03:08:06 GMT",
-        "category": "DevOps",
         "type": "meetup"
     },
     {
@@ -846,15 +927,6 @@
         "type": "meetup"
     },
     {
-        "title": "Tudo o que Voc\u00ea Precisa Saber sobre o Hashicorp Ambassador 2025!",
-        "event_date": "January 13, 2025",
-        "location": "Online",
-        "link": "https://dev.events/conferences/tudo-o-que-voce-precisa-saber-sobre-o-hashicorp-ambassador-2025-305503755",
-        "published": "Thu, 09 Jan 2025 03:07:11 GMT",
-        "category": "DevOps",
-        "type": "meetup"
-    },
-    {
         "title": "regular NixOS Meetup @internet",
         "event_date": "January 22, 2025",
         "location": "Online",
@@ -1139,15 +1211,6 @@
         "location": "Online",
         "link": "https://dev.events/conferences/online-lean-beer-rqqcktyhcfbfb",
         "published": "Wed, 08 Jan 2025 03:09:54 GMT",
-        "category": "Agile",
-        "type": "meetup"
-    },
-    {
-        "title": "RPM Caf\u00e9",
-        "event_date": "January 13, 2025",
-        "location": "Online",
-        "link": "https://dev.events/conferences/rpm-cafe-305459797",
-        "published": "Wed, 08 Jan 2025 03:09:43 GMT",
         "category": "Agile",
         "type": "meetup"
     },
@@ -1554,15 +1617,6 @@
         "link": "https://dev.events/conferences/abstractions-as-bridges-with-hazel-weakly-304652313",
         "published": "Wed, 08 Jan 2025 03:01:35 GMT",
         "category": "DDD",
-        "type": "meetup"
-    },
-    {
-        "title": "Silicon Valley Business Networking (Online)",
-        "event_date": "January 13, 2025",
-        "location": "Online",
-        "link": "https://dev.events/conferences/silicon-valley-business-networking-online-305243944",
-        "published": "Wed, 08 Jan 2025 03:00:44 GMT",
-        "category": "Startup",
         "type": "meetup"
     },
     {
@@ -2844,15 +2898,6 @@
         "type": "meetup"
     },
     {
-        "title": "Github Copilot for Azure and Azure AI",
-        "event_date": "January 13, 2025",
-        "location": "Online",
-        "link": "https://dev.events/conferences/github-copilot-for-azure-and-azure-ai-301703405",
-        "published": "Thu, 26 Dec 2024 03:03:48 GMT",
-        "category": "Open Source",
-        "type": "meetup"
-    },
-    {
         "title": "Regular Monthly Meetup",
         "event_date": "January 16, 2025",
         "location": "Online",
@@ -2958,15 +3003,6 @@
         "link": "https://dev.events/conferences/ai-design-sprint-experience-session-305211704",
         "published": "Tue, 24 Dec 2024 03:06:27 GMT",
         "category": "AI / ML",
-        "type": "meetup"
-    },
-    {
-        "title": "Startup to Scale-Up: Mastering Sales & Branding with Mark Kosoglow",
-        "event_date": "January 13, 2025",
-        "location": "Online",
-        "link": "https://dev.events/conferences/startup-to-scale-up-mastering-sales-and-branding-with-mark-kosoglow-305230225",
-        "published": "Tue, 24 Dec 2024 03:04:04 GMT",
-        "category": "Startup",
         "type": "meetup"
     },
     {
@@ -3076,15 +3112,6 @@
         "published": "Sun, 22 Dec 2024 09:59:52 GMT",
         "category": "Tech leadership",
         "type": "conference"
-    },
-    {
-        "title": "Windows on Snapdragon AI Hackathon",
-        "event_date": "January 13, 2025",
-        "location": "Online",
-        "link": "https://dev.events/conferences/windows-on-snapdragon-ai-hackathon-nqr5rlfc",
-        "published": "Sun, 22 Dec 2024 09:52:34 GMT",
-        "category": "AI / ML",
-        "type": "hackathon"
     },
     {
         "title": "MEGA Hackathon 2025",
@@ -3618,24 +3645,6 @@
         "type": "meetup"
     },
     {
-        "title": "Caminhos para uma Carreira em Cloud para Mulheres",
-        "event_date": "January 13, 2025",
-        "location": "Online",
-        "link": "https://dev.events/conferences/caminhos-para-uma-carreira-em-cloud-para-mulheres-304256759",
-        "published": "Thu, 19 Dec 2024 03:07:12 GMT",
-        "category": "Cloud",
-        "type": "meetup"
-    },
-    {
-        "title": "RAGChat: The RAG solution for Azure",
-        "event_date": "January 13, 2025",
-        "location": "Online",
-        "link": "https://dev.events/conferences/rag-chat-the-rag-solution-for-azure-305133932",
-        "published": "Thu, 19 Dec 2024 03:07:12 GMT",
-        "category": "Azure",
-        "type": "meetup"
-    },
-    {
         "title": "NGINX Meetup: January 2025 Community Evening",
         "event_date": "January 30, 2025",
         "location": "Cork, Ireland and Online",
@@ -3879,29 +3888,11 @@
         "type": "meetup"
     },
     {
-        "title": "Architecture Coaching",
-        "event_date": "January 13, 2025",
-        "location": "Online",
-        "link": "https://dev.events/conferences/architecture-coaching-304422976",
-        "published": "Wed, 18 Dec 2024 03:01:37 GMT",
-        "category": "Software architecture",
-        "type": "meetup"
-    },
-    {
         "title": "Virtual Beer and Pixels - Monthly 2024",
         "event_date": "April 15, 2025",
         "location": "Online",
         "link": "https://dev.events/conferences/virtual-beer-and-pixels-monthly-2024-cnmcmtyhcgbtb",
         "published": "Wed, 18 Dec 2024 03:00:40 GMT",
-        "category": "Game dev",
-        "type": "meetup"
-    },
-    {
-        "title": "IGDA NYC Monday Afternoon Co-Working on Discord",
-        "event_date": "January 13, 2025",
-        "location": "Online",
-        "link": "https://dev.events/conferences/igda-nyc-monday-afternoon-co-working-on-discord-tqjjwryhccbrb",
-        "published": "Wed, 18 Dec 2024 03:00:36 GMT",
         "category": "Game dev",
         "type": "meetup"
     },
@@ -5577,15 +5568,6 @@
         "link": "https://dev.events/conferences/mock-interviews-3ra-edicion-304576045",
         "published": "Tue, 26 Nov 2024 03:08:28 GMT",
         "category": ".NET",
-        "type": "meetup"
-    },
-    {
-        "title": "Semantic Kernel and Vector Databases: Powering AI with Contextual Intelligence",
-        "event_date": "January 13, 2025",
-        "location": "Online",
-        "link": "https://dev.events/conferences/semantic-kernel-and-vector-databases-powering-ai-with-contextual-intelligence-303668974",
-        "published": "Tue, 26 Nov 2024 03:08:22 GMT",
-        "category": "AI / ML",
         "type": "meetup"
     },
     {
@@ -7998,15 +7980,6 @@
         "link": "https://dev.events/conferences/come-discuss-topics-of-the-day-in-linux-open-source-and-information-technology-303816043",
         "published": "Wed, 09 Oct 2024 06:38:07 GMT",
         "category": "Linux / OS",
-        "type": "meetup"
-    },
-    {
-        "title": "ONLINE - Coding Dojo/TDD with Ensemble/Paired Programming",
-        "event_date": "January 13, 2025",
-        "location": "Online",
-        "link": "https://dev.events/conferences/online-coding-dojo-tdd-with-ensemble-paired-programming-303296994",
-        "published": "Wed, 09 Oct 2024 06:37:33 GMT",
-        "category": "Tech",
         "type": "meetup"
     },
     {
