@@ -1,29 +1,20 @@
 [
     {
+        "title": "KCD Chennai",
+        "event_date": "April 26, 2025",
+        "location": "Chennai, India",
+        "link": "https://dev.events/conferences/kcd-chennai-drbe2z6m",
+        "published": "Sat, 18 Jan 2025 16:52:59 GMT",
+        "category": "Docker / Kubernetes",
+        "type": "conference"
+    },
+    {
         "title": "#55: Kubernetes Pune meetup January 2025",
         "event_date": "January 25, 2025",
         "location": "Pune, India",
         "link": "https://dev.events/conferences/55-kubernetes-pune-meetup-january-2025-305612058",
         "published": "Thu, 16 Jan 2025 03:05:53 GMT",
         "category": "Docker / Kubernetes",
-        "type": "meetup"
-    },
-    {
-        "title": "GitTogether Delhi NCR - Welcome 2025",
-        "event_date": "January 18, 2025",
-        "location": "Noida, India",
-        "link": "https://dev.events/conferences/git-together-delhi-ncr-welcome-2025-305225667",
-        "published": "Wed, 15 Jan 2025 03:05:32 GMT",
-        "category": "Tech",
-        "type": "meetup"
-    },
-    {
-        "title": "Flutter In Production Extended Mumbai",
-        "event_date": "January 18, 2025",
-        "location": "Mumbai, India",
-        "link": "https://dev.events/conferences/flutter-in-production-extended-mumbai-305608153",
-        "published": "Wed, 15 Jan 2025 03:02:00 GMT",
-        "category": "Flutter",
         "type": "meetup"
     },
     {
@@ -72,15 +63,6 @@
         "type": "meetup"
     },
     {
-        "title": "Intel x AWS - CloudX'25",
-        "event_date": "January 18, 2025",
-        "location": "Hyderabad, India",
-        "link": "https://dev.events/conferences/intel-x-aws-cloud-x-25-305556419",
-        "published": "Sun, 12 Jan 2025 03:05:37 GMT",
-        "category": "AWS",
-        "type": "meetup"
-    },
-    {
         "title": "AWS UG Pune -AWS Re-invent Recap Part 2",
         "event_date": "February 1, 2025",
         "location": "Pune, India",
@@ -108,24 +90,6 @@
         "type": "meetup"
     },
     {
-        "title": "Elixir Delhi + PyDelhi Combined January Meetup",
-        "event_date": "January 18, 2025",
-        "location": "Uttar Pradesh, India",
-        "link": "https://dev.events/conferences/elixir-delhi-py-delhi-combined-january-meetup-305501762",
-        "published": "Fri, 10 Jan 2025 03:06:11 GMT",
-        "category": "Elixir",
-        "type": "meetup"
-    },
-    {
-        "title": "AWS UG CBE - 5th Anniversary Meetup - Reinvent Recap, IoT, & Observability",
-        "event_date": "January 18, 2025",
-        "location": "Coimbatore, India",
-        "link": "https://dev.events/conferences/aws-ug-cbe-5th-anniversary-meetup-reinvent-recap-io-t-and-observability-305490223",
-        "published": "Thu, 09 Jan 2025 03:07:13 GMT",
-        "category": "AWS",
-        "type": "meetup"
-    },
-    {
         "title": "Introduction to  Logging and Observability: Building Resilient Systems",
         "event_date": "January 25, 2025",
         "location": "Pune, India",
@@ -141,15 +105,6 @@
         "link": "https://dev.events/conferences/creating-a-container-runtime-from-scratch-305491847",
         "published": "Thu, 09 Jan 2025 03:01:13 GMT",
         "category": "Tech",
-        "type": "meetup"
-    },
-    {
-        "title": "DevTools Day Bengaluru Meetup: Neo4j and Nokia",
-        "event_date": "January 18, 2025",
-        "location": "Bengaluru, India",
-        "link": "https://dev.events/conferences/dev-tools-day-bengaluru-meetup-neo4j-and-nokia-304968647",
-        "published": "Wed, 08 Jan 2025 03:07:50 GMT",
-        "category": "DevOps",
         "type": "meetup"
     },
     {
@@ -171,15 +126,6 @@
         "type": "meetup"
     },
     {
-        "title": "Cloud Migration: Planning Your AWS Migration Journey",
-        "event_date": "January 18, 2025",
-        "location": "Pune, India",
-        "link": "https://dev.events/conferences/cloud-migration-planning-your-aws-migration-journey-305472205",
-        "published": "Wed, 08 Jan 2025 03:07:22 GMT",
-        "category": "Cloud",
-        "type": "meetup"
-    },
-    {
         "title": "Grafana & Friends Chennai January 2025 Meetup",
         "event_date": "January 25, 2025",
         "location": "Chennai, India",
@@ -189,30 +135,12 @@
         "type": "meetup"
     },
     {
-        "title": "Docker Pune January meetup",
-        "event_date": "January 18, 2025",
-        "location": "Pune, India",
-        "link": "https://dev.events/conferences/docker-pune-january-meetup-305472406",
-        "published": "Wed, 08 Jan 2025 03:06:09 GMT",
-        "category": "Docker / Kubernetes",
-        "type": "meetup"
-    },
-    {
         "title": "GitTogether Bengaluru January 2025",
         "event_date": "January 25, 2025",
         "location": "Bengaluru, India",
         "link": "https://dev.events/conferences/git-together-bengaluru-january-2025-305452504",
         "published": "Wed, 08 Jan 2025 03:05:56 GMT",
         "category": "Tech",
-        "type": "meetup"
-    },
-    {
-        "title": "Pune Copilot Summit 2025",
-        "event_date": "January 18, 2025",
-        "location": "Pune, India",
-        "link": "https://dev.events/conferences/pune-copilot-summit-2025-305432776",
-        "published": "Wed, 08 Jan 2025 03:04:17 GMT",
-        "category": ".NET",
         "type": "meetup"
     },
     {
@@ -252,15 +180,6 @@
         "type": "meetup"
     },
     {
-        "title": "[In person] AWS re:Invent 2024 recap",
-        "event_date": "January 18, 2025",
-        "location": "Mumbai, India",
-        "link": "https://dev.events/conferences/in-person-aws-re-invent-2024-recap-305414831",
-        "published": "Sun, 05 Jan 2025 03:05:34 GMT",
-        "category": "AWS",
-        "type": "meetup"
-    },
-    {
         "title": "Call for Papers: Grafana & Friends Chennai January 2025 Meetup",
         "event_date": "January 25, 2025",
         "location": "Chennai, India",
@@ -279,15 +198,6 @@
         "type": "meetup"
     },
     {
-        "title": "Engineering NXT 2025: The New ERA OF Engineering",
-        "event_date": "January 18, 2025",
-        "location": "Pune, Pimpri-Chinchwad, India",
-        "link": "https://dev.events/conferences/engineering-nxt-2025-the-new-era-of-engineering-305376925",
-        "published": "Sat, 04 Jan 2025 03:02:15 GMT",
-        "category": "Tech",
-        "type": "meetup"
-    },
-    {
         "title": "AWS re:Invent 2024 Recap Edition by AWS User Group Bengaluru",
         "event_date": "January 25, 2025",
         "location": "Bengaluru, India",
@@ -297,39 +207,12 @@
         "type": "meetup"
     },
     {
-        "title": "DevOops Pune Meetup #10",
-        "event_date": "January 18, 2025",
-        "location": "Pune, India",
-        "link": "https://dev.events/conferences/dev-oops-pune-meetup-10-305325280",
-        "published": "Tue, 31 Dec 2024 03:05:30 GMT",
-        "category": "DevOps",
-        "type": "meetup"
-    },
-    {
-        "title": "React & React Native Meetup - 18th Jan , 2025",
-        "event_date": "January 18, 2025",
-        "location": "Bengaluru, India",
-        "link": "https://dev.events/conferences/react-and-react-native-meetup-18th-jan-2025-305249939",
-        "published": "Sat, 28 Dec 2024 03:01:56 GMT",
-        "category": "React",
-        "type": "meetup"
-    },
-    {
         "title": "Generative AI in Quality Engineering \u2013 Use Cases & Best Practices",
         "event_date": "January 25, 2025",
         "location": "mumbai, India",
         "link": "https://dev.events/conferences/generative-ai-in-quality-engineering-use-cases-and-best-practices-305178998",
         "published": "Sat, 21 Dec 2024 03:06:26 GMT",
         "category": "AI / ML",
-        "type": "meetup"
-    },
-    {
-        "title": ".NET Conf 2024 @ Bengaluru",
-        "event_date": "January 18, 2025",
-        "location": "Bengaluru, India",
-        "link": "https://dev.events/conferences/net-conf-2024-bengaluru-305148413",
-        "published": "Thu, 19 Dec 2024 03:08:19 GMT",
-        "category": ".NET",
         "type": "meetup"
     },
     {
@@ -394,24 +277,6 @@
         "published": "Tue, 10 Dec 2024 11:49:01 GMT",
         "category": "Open Source",
         "type": "conference"
-    },
-    {
-        "title": "DevTools Day, Bengaluru",
-        "event_date": "January 18, 2025",
-        "location": "Bengaluru, India",
-        "link": "https://dev.events/conferences/dev-tools-day-bengaluru-304968647",
-        "published": "Mon, 09 Dec 2024 03:08:16 GMT",
-        "category": "DevOps",
-        "type": "meetup"
-    },
-    {
-        "title": "DevTools Day Bengaluru",
-        "event_date": "January 18, 2025",
-        "location": "Bengaluru, India",
-        "link": "https://dev.events/conferences/dev-tools-day-bengaluru-304968727",
-        "published": "Sun, 08 Dec 2024 03:05:57 GMT",
-        "category": "Docker / Kubernetes",
-        "type": "meetup"
     },
     {
         "title": "Cloud-Native DevTools Day",
@@ -546,15 +411,6 @@
         "link": "https://dev.events/conferences/pg-conf-india-6b-h7rhe",
         "published": "Sat, 05 Oct 2024 13:21:56 GMT",
         "category": "Postgres",
-        "type": "conference"
-    },
-    {
-        "title": "WordCamp Kolkata 2025",
-        "event_date": "January 18, 2025",
-        "location": "Kolkata, India",
-        "link": "https://dev.events/conferences/word-camp-kolkata-2025-mc1bcxq",
-        "published": "Wed, 31 Jul 2024 19:34:33 GMT",
-        "category": "WordPress",
         "type": "conference"
     },
     {
