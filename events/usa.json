@@ -1,5 +1,113 @@
 [
     {
+        "title": "Rust Happy Hour",
+        "event_date": "January 29, 2025",
+        "location": "Chicago, United States",
+        "link": "https://dev.events/conferences/rust-happy-hour-305690411",
+        "published": "Sun, 19 Jan 2025 03:06:10 GMT",
+        "category": "Rust",
+        "type": "meetup"
+    },
+    {
+        "title": "Frederick Tech Open Workshop - 3rd Saturday",
+        "event_date": "May 17, 2025",
+        "location": "Frederick , United States",
+        "link": "https://dev.events/conferences/frederick-tech-open-workshop-3rd-saturday-bvwqntyhchbwb",
+        "published": "Sun, 19 Jan 2025 03:04:38 GMT",
+        "category": "AWS",
+        "type": "meetup"
+    },
+    {
+        "title": "Find & Fix: Security and Compliance Hands-on Workshop",
+        "event_date": "January 24, 2025",
+        "location": "Irvine, United States",
+        "link": "https://dev.events/conferences/find-and-fix-security-and-compliance-hands-on-workshop-305680852",
+        "published": "Sun, 19 Jan 2025 03:03:07 GMT",
+        "category": "Cybersecurity / InfoSec",
+        "type": "meetup"
+    },
+    {
+        "title": "Find & Fix: Security and Compliance Hands-on Workshop",
+        "event_date": "January 30, 2025",
+        "location": "San Diego, United States",
+        "link": "https://dev.events/conferences/find-and-fix-security-and-compliance-hands-on-workshop-305680880",
+        "published": "Sun, 19 Jan 2025 03:03:07 GMT",
+        "category": "Cybersecurity / InfoSec",
+        "type": "meetup"
+    },
+    {
+        "title": "JavaScript Lightning Talks!",
+        "event_date": "March 11, 2025",
+        "location": "Portland, United States",
+        "link": "https://dev.events/conferences/java-script-lightning-talks-305666966",
+        "published": "Sun, 19 Jan 2025 03:02:21 GMT",
+        "category": "JavaScript",
+        "type": "meetup"
+    },
+    {
+        "title": "Game Development meetup",
+        "event_date": "February 5, 2025",
+        "location": "Wappingers Falls, United States",
+        "link": "https://dev.events/conferences/game-development-meetup-305673879",
+        "published": "Sun, 19 Jan 2025 03:02:15 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "Talks on AI in Industry & Education at Improving Enterprises",
+        "event_date": "February 18, 2025",
+        "location": "Alpharetta, United States",
+        "link": "https://dev.events/conferences/talks-on-ai-in-industry-and-education-at-improving-enterprises-305668551",
+        "published": "Sun, 19 Jan 2025 03:02:03 GMT",
+        "category": "AI / ML",
+        "type": "meetup"
+    },
+    {
+        "title": "In-Person Game Development Meetup",
+        "event_date": "February 15, 2025",
+        "location": "Pittsburgh, United States",
+        "link": "https://dev.events/conferences/in-person-game-development-meetup-zftnktyhcdbtb",
+        "published": "Sun, 19 Jan 2025 03:00:32 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "January Seattle Indies Social",
+        "event_date": "January 22, 2025",
+        "location": "Seattle, United States",
+        "link": "https://dev.events/conferences/january-seattle-indies-social-304517768",
+        "published": "Sun, 19 Jan 2025 03:00:28 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "March GameDev Social!",
+        "event_date": "March 14, 2025",
+        "location": "Ballwin, United States",
+        "link": "https://dev.events/conferences/march-game-dev-social-305690599",
+        "published": "Sun, 19 Jan 2025 03:00:16 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "Boulder Sunday Work and Chill",
+        "event_date": "January 26, 2025",
+        "location": "Boulder, United States",
+        "link": "https://dev.events/conferences/boulder-sunday-work-and-chill-305091925",
+        "published": "Sun, 19 Jan 2025 03:00:12 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "Work and Chill 2: Artistic Boogaloo",
+        "event_date": "January 26, 2025",
+        "location": "Denver, United States",
+        "link": "https://dev.events/conferences/work-and-chill-2-artistic-boogaloo-dvjpptyhccbjc",
+        "published": "Sun, 19 Jan 2025 03:00:12 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
         "title": "KCD SF Bay Area",
         "event_date": "May 8, 2025",
         "location": "San Francisco, United States",
@@ -522,15 +630,6 @@
         "type": "meetup"
     },
     {
-        "title": "Seattle Indies Board Game Meetup",
-        "event_date": "January 19, 2025",
-        "location": "Seattle, United States",
-        "link": "https://dev.events/conferences/seattle-indies-board-game-meetup-305339875",
-        "published": "Fri, 17 Jan 2025 03:00:29 GMT",
-        "category": "Game dev",
-        "type": "meetup"
-    },
-    {
         "title": "1/31 Chicago Unreal Engine meetup!",
         "event_date": "February 1, 2025",
         "location": "Chicago, United States",
@@ -554,15 +653,6 @@
         "location": "San Francisco, United States",
         "link": "https://dev.events/conferences/sf-game-development-featuring-a16-z-funded-founders-305647373",
         "published": "Fri, 17 Jan 2025 03:00:22 GMT",
-        "category": "Game dev",
-        "type": "meetup"
-    },
-    {
-        "title": "Work and Chill 2: Artistic Boogaloo",
-        "event_date": "January 19, 2025",
-        "location": "Denver, United States",
-        "link": "https://dev.events/conferences/work-and-chill-2-artistic-boogaloo-305597657",
-        "published": "Fri, 17 Jan 2025 03:00:12 GMT",
         "category": "Game dev",
         "type": "meetup"
     },
@@ -1089,15 +1179,6 @@
         "type": "meetup"
     },
     {
-        "title": "Monthly Game Creator Meetup (Jan)",
-        "event_date": "January 19, 2025",
-        "location": "Anchorage, United States",
-        "link": "https://dev.events/conferences/monthly-game-creator-meetup-jan-305503678",
-        "published": "Wed, 15 Jan 2025 03:00:07 GMT",
-        "category": "Tech",
-        "type": "meetup"
-    },
-    {
         "title": "Level Up on Functional Programming By Rebuilding LINQ - Cameron Presley",
         "event_date": "February 27, 2025",
         "location": "Dublin, United States and Online",
@@ -1350,15 +1431,6 @@
         "type": "meetup"
     },
     {
-        "title": "Boulder Sunday Work and Chill",
-        "event_date": "January 19, 2025",
-        "location": "Boulder, United States",
-        "link": "https://dev.events/conferences/boulder-sunday-work-and-chill-305333971",
-        "published": "Mon, 13 Jan 2025 03:00:14 GMT",
-        "category": "Game dev",
-        "type": "meetup"
-    },
-    {
         "title": "Global Game Jam 2025",
         "event_date": "January 25, 2025",
         "location": "Nashville, United States",
@@ -1504,7 +1576,7 @@
     },
     {
         "title": "AWS re:Invent 2024 Recap",
-        "event_date": "January 21, 2025",
+        "event_date": "January 28, 2025",
         "location": "Charleston, United States",
         "link": "https://dev.events/conferences/aws-re-invent-2024-recap-305541344",
         "published": "Sat, 11 Jan 2025 03:06:56 GMT",
@@ -1845,15 +1917,6 @@
         "type": "meetup"
     },
     {
-        "title": "Memphis Game Developers (ONLINE) Workshop",
-        "event_date": "January 19, 2025",
-        "location": "Memphis, United States",
-        "link": "https://dev.events/conferences/memphis-game-developers-online-workshop-305323375",
-        "published": "Thu, 09 Jan 2025 03:03:32 GMT",
-        "category": "Game dev",
-        "type": "meetup"
-    },
-    {
         "title": "Memphis Tech Lunch",
         "event_date": "January 22, 2025",
         "location": "Memphis, United States",
@@ -2004,15 +2067,6 @@
         "link": "https://dev.events/conferences/game-dev-coworking-305504097",
         "published": "Thu, 09 Jan 2025 03:00:08 GMT",
         "category": "Game dev",
-        "type": "meetup"
-    },
-    {
-        "title": "Monthly Game Creator Meetup (JAn)",
-        "event_date": "January 19, 2025",
-        "location": "Anchorage, United States",
-        "link": "https://dev.events/conferences/monthly-game-creator-meetup-j-an-305503678",
-        "published": "Thu, 09 Jan 2025 03:00:07 GMT",
-        "category": "Tech",
         "type": "meetup"
     },
     {
@@ -2196,24 +2250,6 @@
         "type": "meetup"
     },
     {
-        "title": "Feminism Is for Everybody - January Book Club",
-        "event_date": "January 19, 2025",
-        "location": "Inglewood, United States",
-        "link": "https://dev.events/conferences/feminism-is-for-everybody-january-book-club-305480557",
-        "published": "Wed, 08 Jan 2025 03:01:06 GMT",
-        "category": "AR / VR / XR",
-        "type": "meetup"
-    },
-    {
-        "title": "Wild Seed by Octavia E. Butler- Book Club",
-        "event_date": "January 19, 2025",
-        "location": "Inglewood, United States",
-        "link": "https://dev.events/conferences/wild-seed-by-octavia-e-butler-book-club-305480865",
-        "published": "Wed, 08 Jan 2025 03:01:06 GMT",
-        "category": "AR / VR / XR",
-        "type": "meetup"
-    },
-    {
         "title": "Santa Monica Golden Hour Photo Walk",
         "event_date": "January 26, 2025",
         "location": "Santa Monica, United States",
@@ -2255,15 +2291,6 @@
         "location": "Cary, United States",
         "link": "https://dev.events/conferences/game-dev-coworking-rrxmktyhcdbfb",
         "published": "Wed, 08 Jan 2025 03:00:23 GMT",
-        "category": "Game dev",
-        "type": "meetup"
-    },
-    {
-        "title": "Game Dev Work & Play",
-        "event_date": "January 19, 2025",
-        "location": "Nashville, United States",
-        "link": "https://dev.events/conferences/game-dev-work-and-play-305469557",
-        "published": "Wed, 08 Jan 2025 03:00:08 GMT",
         "category": "Game dev",
         "type": "meetup"
     },
@@ -2494,15 +2521,6 @@
     },
     {
         "title": "Code and Tea at Panera",
-        "event_date": "January 19, 2025",
-        "location": "Indianapolis, United States",
-        "link": "https://dev.events/conferences/code-and-tea-at-panera-305337928",
-        "published": "Sun, 05 Jan 2025 03:02:36 GMT",
-        "category": "Vue",
-        "type": "meetup"
-    },
-    {
-        "title": "Code and Tea at Panera",
         "event_date": "January 26, 2025",
         "location": "Indianapolis, United States",
         "link": "https://dev.events/conferences/code-and-tea-at-panera-305428428",
@@ -2526,15 +2544,6 @@
         "link": "https://dev.events/conferences/ccad-cogg-2025-global-game-jam-ccad-305422027",
         "published": "Sun, 05 Jan 2025 03:00:30 GMT",
         "category": "Game dev",
-        "type": "meetup"
-    },
-    {
-        "title": "Frederick Code & Coffee: Chilly January",
-        "event_date": "January 19, 2025",
-        "location": "Frederick, United States",
-        "link": "https://dev.events/conferences/frederick-code-and-coffee-chilly-january-305420766",
-        "published": "Sun, 05 Jan 2025 03:00:04 GMT",
-        "category": "Tech",
         "type": "meetup"
     },
     {
@@ -3114,15 +3123,6 @@
         "type": "meetup"
     },
     {
-        "title": "Vue.js Project Day",
-        "event_date": "January 19, 2025",
-        "location": "Indianapolis, United States",
-        "link": "https://dev.events/conferences/vue-js-project-day-zkfbltyhccbzb",
-        "published": "Mon, 23 Dec 2024 03:02:24 GMT",
-        "category": "Vue",
-        "type": "meetup"
-    },
-    {
         "title": "Coffee and Game Dev Sundays at Six Twelve",
         "event_date": "February 16, 2025",
         "location": "Fayetteville, United States",
@@ -3534,15 +3534,6 @@
         "link": "https://dev.events/conferences/ai-meetup-san-francisco-generative-ai-and-agents-unleashed-305154167",
         "published": "Thu, 19 Dec 2024 03:06:06 GMT",
         "category": "AI / ML",
-        "type": "meetup"
-    },
-    {
-        "title": "Chicago Code and Coffee January 19th 2025 Meetup @ Capital One Caf\u00e9 State St!",
-        "event_date": "January 19, 2025",
-        "location": "Chicago, United States",
-        "link": "https://dev.events/conferences/chicago-code-and-coffee-january-19th-2025-meetup-capital-one-cafe-state-st-305150703",
-        "published": "Thu, 19 Dec 2024 03:04:56 GMT",
-        "category": "Tech",
         "type": "meetup"
     },
     {
@@ -4554,15 +4545,6 @@
         "type": "meetup"
     },
     {
-        "title": "Game Creators Meetup",
-        "event_date": "January 19, 2025",
-        "location": "Louisville, United States",
-        "link": "https://dev.events/conferences/game-creators-meetup-shxsctyhccbzb",
-        "published": "Mon, 02 Dec 2024 03:00:25 GMT",
-        "category": "Game dev",
-        "type": "meetup"
-    },
-    {
         "title": "Overture Member Summit",
         "event_date": "April 9, 2025",
         "location": "Charleston, United States",
@@ -4797,30 +4779,12 @@
         "type": "meetup"
     },
     {
-        "title": "Python Office Hours!",
-        "event_date": "January 19, 2025",
-        "location": "Irvine, United States",
-        "link": "https://dev.events/conferences/python-office-hours-smnqntyhccbzb",
-        "published": "Mon, 25 Nov 2024 03:11:27 GMT",
-        "category": "Python",
-        "type": "meetup"
-    },
-    {
         "title": "Communication: It's Harder Than We Think!",
         "event_date": "January 23, 2025",
         "location": "Louisville, United States and Online",
         "link": "https://dev.events/conferences/communication-it-s-harder-than-we-think-304745550",
         "published": "Mon, 25 Nov 2024 03:10:37 GMT",
         "category": ".NET",
-        "type": "meetup"
-    },
-    {
-        "title": "Coffee and Game Dev Sundays at Six Twelve",
-        "event_date": "January 19, 2025",
-        "location": "Fayetteville, United States",
-        "link": "https://dev.events/conferences/coffee-and-game-dev-sundays-at-six-twelve-tprxhtyhccbzb",
-        "published": "Mon, 25 Nov 2024 03:00:12 GMT",
-        "category": "Game dev",
         "type": "meetup"
     },
     {
