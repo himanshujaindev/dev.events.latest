@@ -1,5 +1,158 @@
 [
     {
+        "title": "Hoya Hacks 2025",
+        "event_date": "January 24, 2025",
+        "location": "Washington, United States",
+        "link": "https://dev.events/conferences/hoya-hacks-2025-wcjnscvn",
+        "published": "Mon, 20 Jan 2025 13:44:07 GMT",
+        "category": "Tech",
+        "type": "hackathon"
+    },
+    {
+        "title": "DevOpsDays Austin",
+        "event_date": "May 1, 2025",
+        "location": "Austin, United States",
+        "link": "https://dev.events/conferences/dev-ops-days-austin-dsjettli",
+        "published": "Mon, 20 Jan 2025 08:41:45 GMT",
+        "category": "DevOps",
+        "type": "conference"
+    },
+    {
+        "title": "DevOpsDays Baltimore 2025",
+        "event_date": "May 20, 2025",
+        "location": "Baltimore, United States",
+        "link": "https://dev.events/conferences/dev-ops-days-baltimore-2025-ns3h6qd7",
+        "published": "Mon, 20 Jan 2025 08:41:12 GMT",
+        "category": "DevOps",
+        "type": "conference"
+    },
+    {
+        "title": "DevOpsDays KC 2025",
+        "event_date": "August 13, 2025",
+        "location": "Kansas City, United States",
+        "link": "https://dev.events/conferences/dev-ops-days-kc-2025-czbuvyec",
+        "published": "Mon, 20 Jan 2025 08:37:42 GMT",
+        "category": "DevOps",
+        "type": "conference"
+    },
+    {
+        "title": "try! Swift x AI San Jose",
+        "event_date": "January 30, 2025",
+        "location": "San Jose, United States",
+        "link": "https://dev.events/conferences/try-swift-x-ai-san-jose-kgh22ka0",
+        "published": "Mon, 20 Jan 2025 08:30:03 GMT",
+        "category": "iOS / Swift",
+        "type": "masterclass"
+    },
+    {
+        "title": "Microservices antipatterns",
+        "event_date": "April 10, 2025",
+        "location": "Burlington, United States",
+        "link": "https://dev.events/conferences/microservices-antipatterns-305705971",
+        "published": "Mon, 20 Jan 2025 03:09:15 GMT",
+        "category": "Java",
+        "type": "meetup"
+    },
+    {
+        "title": "BHM.NET 2025 Planning",
+        "event_date": "February 19, 2025",
+        "location": "Homewood, United States",
+        "link": "https://dev.events/conferences/bhm-net-2025-planning-304710093",
+        "published": "Mon, 20 Jan 2025 03:06:33 GMT",
+        "category": ".NET",
+        "type": "meetup"
+    },
+    {
+        "title": "LA Tech Meetup",
+        "event_date": "February 1, 2025",
+        "location": "Santa Monica, United States",
+        "link": "https://dev.events/conferences/la-tech-meetup-305707720",
+        "published": "Mon, 20 Jan 2025 03:06:21 GMT",
+        "category": "Tech",
+        "type": "meetup"
+    },
+    {
+        "title": "Annual PyTexas Conference",
+        "event_date": "April 11, 2025",
+        "location": "Austin, United States",
+        "link": "https://dev.events/conferences/annual-py-texas-conference-305694356",
+        "published": "Mon, 20 Jan 2025 03:06:14 GMT",
+        "category": "Python",
+        "type": "meetup"
+    },
+    {
+        "title": "San Francisco 106 Miles at Anina (Hayes Valley)",
+        "event_date": "January 23, 2025",
+        "location": "San Francisco, United States",
+        "link": "https://dev.events/conferences/san-francisco-106-miles-at-anina-hayes-valley-305120600",
+        "published": "Mon, 20 Jan 2025 03:03:50 GMT",
+        "category": "Startup",
+        "type": "meetup"
+    },
+    {
+        "title": "San Francisco 106 Miles at Anina (Hayes Valley)",
+        "event_date": "February 27, 2025",
+        "location": "San Francisco, United States",
+        "link": "https://dev.events/conferences/san-francisco-106-miles-at-anina-hayes-valley-305512192",
+        "published": "Mon, 20 Jan 2025 03:03:50 GMT",
+        "category": "Startup",
+        "type": "meetup"
+    },
+    {
+        "title": "UX Design: Portfolio Review Workshop \u2728",
+        "event_date": "February 1, 2025",
+        "location": "Rosslyn, United States",
+        "link": "https://dev.events/conferences/ux-design-portfolio-review-workshop-305637133",
+        "published": "Mon, 20 Jan 2025 03:03:23 GMT",
+        "category": "UI / UX",
+        "type": "meetup"
+    },
+    {
+        "title": "Code and Tea at Panera",
+        "event_date": "February 16, 2025",
+        "location": "Indianapolis, United States",
+        "link": "https://dev.events/conferences/code-and-tea-at-panera-skgnptyhcdbvb",
+        "published": "Mon, 20 Jan 2025 03:02:59 GMT",
+        "category": "Vue",
+        "type": "meetup"
+    },
+    {
+        "title": "Game Dev Coworking",
+        "event_date": "February 11, 2025",
+        "location": "Oakland, United States",
+        "link": "https://dev.events/conferences/game-dev-coworking-305707232",
+        "published": "Mon, 20 Jan 2025 03:00:10 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "Coffee and Game Dev Sundays at Six Twelve",
+        "event_date": "March 16, 2025",
+        "location": "Fayetteville, United States",
+        "link": "https://dev.events/conferences/coffee-and-game-dev-sundays-at-six-twelve-wtjrptyhcfbvb",
+        "published": "Mon, 20 Jan 2025 03:00:10 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "Game Dev Work & Play",
+        "event_date": "February 9, 2025",
+        "location": "Nashville, United States",
+        "link": "https://dev.events/conferences/game-dev-work-and-play-305630680",
+        "published": "Mon, 20 Jan 2025 03:00:09 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "Game Dev Work & Play",
+        "event_date": "February 16, 2025",
+        "location": "Nashville, United States",
+        "link": "https://dev.events/conferences/game-dev-work-and-play-305630682",
+        "published": "Mon, 20 Jan 2025 03:00:09 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
         "title": "Rust Happy Hour",
         "event_date": "January 29, 2025",
         "location": "Chicago, United States",
@@ -864,15 +1017,6 @@
         "type": "meetup"
     },
     {
-        "title": "Meet New People!!  Sunday  Night Networking",
-        "event_date": "January 20, 2025",
-        "location": "Santa Clara, United States",
-        "link": "https://dev.events/conferences/meet-new-people-sunday-night-networking-305342788",
-        "published": "Thu, 16 Jan 2025 03:01:07 GMT",
-        "category": "AR / VR / XR",
-        "type": "meetup"
-    },
-    {
         "title": "Global Game Jam 2025 @ LCC",
         "event_date": "January 24, 2025",
         "location": "Eugene, United States",
@@ -1041,15 +1185,6 @@
         "link": "https://dev.events/conferences/external-hirable-agents-bees-and-structured-output-305612920",
         "published": "Wed, 15 Jan 2025 03:03:59 GMT",
         "category": "IBM",
-        "type": "meetup"
-    },
-    {
-        "title": "C&C at [RoundBird]",
-        "event_date": "January 20, 2025",
-        "location": "Jacksonville Beach, United States",
-        "link": "https://dev.events/conferences/c-and-c-at-round-bird-305345584",
-        "published": "Wed, 15 Jan 2025 03:03:28 GMT",
-        "category": "Tech",
         "type": "meetup"
     },
     {
@@ -2107,7 +2242,7 @@
     },
     {
         "title": "Agile Octane: New Year, New Sprints",
-        "event_date": "January 22, 2025",
+        "event_date": "February 19, 2025",
         "location": "Atlanta, United States",
         "link": "https://dev.events/conferences/agile-octane-new-year-new-sprints-304953751",
         "published": "Wed, 08 Jan 2025 03:10:19 GMT",
@@ -3075,15 +3210,6 @@
         "link": "https://dev.events/conferences/monthly-java-script-meetup-hgccdtyhcgbnc",
         "published": "Tue, 24 Dec 2024 03:01:59 GMT",
         "category": "JavaScript",
-        "type": "meetup"
-    },
-    {
-        "title": "GameDev Coworking",
-        "event_date": "January 20, 2025",
-        "location": "Cary, United States",
-        "link": "https://dev.events/conferences/game-dev-coworking-rrxmktyhccbbc",
-        "published": "Tue, 24 Dec 2024 03:00:17 GMT",
-        "category": "Game dev",
         "type": "meetup"
     },
     {
