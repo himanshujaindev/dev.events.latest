@@ -1,5 +1,374 @@
 [
     {
+        "title": "GenAI & Agile",
+        "event_date": "April 30, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/gen-ai-and-agile-305900089",
+        "published": "Fri, 31 Jan 2025 03:13:12 GMT",
+        "category": "Agile",
+        "type": "meetup"
+    },
+    {
+        "title": "Introduction to AI for Developers by Sam Nasr",
+        "event_date": "February 20, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/introduction-to-ai-for-developers-by-sam-nasr-303526268",
+        "published": "Fri, 31 Jan 2025 03:12:35 GMT",
+        "category": "AI / ML",
+        "type": "meetup"
+    },
+    {
+        "title": "From Zero to LoRA: An absolute beginners guide to generating AI images locally",
+        "event_date": "February 6, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/from-zero-to-lo-ra-an-absolute-beginners-guide-to-generating-ai-images-locally-305911721",
+        "published": "Fri, 31 Jan 2025 03:12:34 GMT",
+        "category": "AI / ML",
+        "type": "meetup"
+    },
+    {
+        "title": "Yet another Kata!",
+        "event_date": "February 6, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/yet-another-kata-305896643",
+        "published": "Fri, 31 Jan 2025 03:11:43 GMT",
+        "category": "Kotlin",
+        "type": "meetup"
+    },
+    {
+        "title": "Rust Hack and Learn",
+        "event_date": "March 13, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/rust-hack-and-learn-300820296",
+        "published": "Fri, 31 Jan 2025 03:10:44 GMT",
+        "category": "Rust",
+        "type": "meetup"
+    },
+    {
+        "title": "RAGChat: Adding speech input and output",
+        "event_date": "February 3, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/rag-chat-adding-speech-input-and-output-305151142",
+        "published": "Fri, 31 Jan 2025 03:10:32 GMT",
+        "category": "Microsoft",
+        "type": "meetup"
+    },
+    {
+        "title": "Engenharia de prompt com o GitHub Copilot",
+        "event_date": "February 4, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/engenharia-de-prompt-com-o-git-hub-copilot-305019531",
+        "published": "Fri, 31 Jan 2025 03:10:32 GMT",
+        "category": "Open Source",
+        "type": "meetup"
+    },
+    {
+        "title": "Getting started with Generative AI in Azure",
+        "event_date": "February 4, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/getting-started-with-generative-ai-in-azure-305436378",
+        "published": "Fri, 31 Jan 2025 03:10:32 GMT",
+        "category": "AI / ML",
+        "type": "meetup"
+    },
+    {
+        "title": "Python async.io - From zero to hero with Eyal Balla (Virtual, English)",
+        "event_date": "February 12, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/python-async-io-from-zero-to-hero-with-eyal-balla-virtual-english-305479458",
+        "published": "Fri, 31 Jan 2025 03:10:32 GMT",
+        "category": "Python",
+        "type": "meetup"
+    },
+    {
+        "title": "Mes a mes, meta a meta: El arte de priorizar para lograr la agilidad",
+        "event_date": "February 14, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/mes-a-mes-meta-a-meta-el-arte-de-priorizar-para-lograr-la-agilidad-305879792",
+        "published": "Fri, 31 Jan 2025 03:10:15 GMT",
+        "category": "Agile",
+        "type": "meetup"
+    },
+    {
+        "title": "regular NixOS Meetup @internet",
+        "event_date": "February 12, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/regular-nix-os-meetup-internet-305777670",
+        "published": "Fri, 31 Jan 2025 03:10:01 GMT",
+        "category": "Linux / OS",
+        "type": "meetup"
+    },
+    {
+        "title": "How to Find Product Market Fit Quickly",
+        "event_date": "February 11, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/how-to-find-product-market-fit-quickly-sklzssyhcdbpb",
+        "published": "Fri, 31 Jan 2025 03:09:53 GMT",
+        "category": "Startup",
+        "type": "meetup"
+    },
+    {
+        "title": "Grafana & Friends Hyderabad: Meet & Greet",
+        "event_date": "February 8, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/grafana-and-friends-hyderabad-meet-and-greet-305878644",
+        "published": "Fri, 31 Jan 2025 03:08:15 GMT",
+        "category": "DevOps",
+        "type": "meetup"
+    },
+    {
+        "title": "Fluent Community Meeting - NA / EU",
+        "event_date": "March 27, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/fluent-community-meeting-na-eu-jcphptyhcfbkc",
+        "published": "Fri, 31 Jan 2025 03:08:08 GMT",
+        "category": "DevOps",
+        "type": "meetup"
+    },
+    {
+        "title": "Prompt Engineering with GitHub Copilot",
+        "event_date": "February 4, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/prompt-engineering-with-git-hub-copilot-305499881",
+        "published": "Fri, 31 Jan 2025 03:08:03 GMT",
+        "category": "Open Source",
+        "type": "meetup"
+    },
+    {
+        "title": "AI102 - Building Custom Text Classification Models with Azure AI Language",
+        "event_date": "February 4, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/ai-102-building-custom-text-classification-models-with-azure-ai-language-305749944",
+        "published": "Fri, 31 Jan 2025 03:07:30 GMT",
+        "category": "Azure",
+        "type": "meetup"
+    },
+    {
+        "title": "DP-700: Ingest and manage data in Fabric with data factory and notebooks (PST)",
+        "event_date": "February 5, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/dp-700-ingest-and-manage-data-in-fabric-with-data-factory-and-notebooks-pst-305409549",
+        "published": "Fri, 31 Jan 2025 03:07:30 GMT",
+        "category": "Microsoft",
+        "type": "meetup"
+    },
+    {
+        "title": "Prepare for exam day and open Q&A [DP-700] (PST/GMT)",
+        "event_date": "February 5, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/prepare-for-exam-day-and-open-q-and-a-dp-700-pst-gmt-305166828",
+        "published": "Fri, 31 Jan 2025 03:07:30 GMT",
+        "category": "Microsoft",
+        "type": "meetup"
+    },
+    {
+        "title": "GitLab Community Pairing",
+        "event_date": "February 11, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/git-lab-community-pairing-305752050",
+        "published": "Fri, 31 Jan 2025 03:07:21 GMT",
+        "category": "DevOps",
+        "type": "meetup"
+    },
+    {
+        "title": "GitLab Community Pairing",
+        "event_date": "February 13, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/git-lab-community-pairing-305799386",
+        "published": "Fri, 31 Jan 2025 03:07:21 GMT",
+        "category": "DevOps",
+        "type": "meetup"
+    },
+    {
+        "title": "Scaling Internal Platforms Successfully",
+        "event_date": "March 12, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/scaling-internal-platforms-successfully-305047046",
+        "published": "Fri, 31 Jan 2025 03:07:08 GMT",
+        "category": "Cloud",
+        "type": "meetup"
+    },
+    {
+        "title": "Flux Bug Scrub with Kingdon Barrett",
+        "event_date": "March 27, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/flux-bug-scrub-with-kingdon-barrett-msbljtyhcfbkc",
+        "published": "Fri, 31 Jan 2025 03:06:59 GMT",
+        "category": "Cloud",
+        "type": "meetup"
+    },
+    {
+        "title": "Coding Club Python : Data with Pandas - Session 3",
+        "event_date": "February 27, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/coding-club-python-data-with-pandas-session-3-305708050",
+        "published": "Fri, 31 Jan 2025 03:06:50 GMT",
+        "category": "Python",
+        "type": "meetup"
+    },
+    {
+        "title": "The Good, Bad, and the Ugly of AI",
+        "event_date": "March 11, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/the-good-bad-and-the-ugly-of-ai-305884273",
+        "published": "Fri, 31 Jan 2025 03:06:43 GMT",
+        "category": "AI / ML",
+        "type": "meetup"
+    },
+    {
+        "title": "Blockchain Opportunity & Investment",
+        "event_date": "February 26, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/blockchain-opportunity-and-investment-hsrmdtyhcdbjc",
+        "published": "Fri, 31 Jan 2025 03:05:41 GMT",
+        "category": "Crypto / Blockchain",
+        "type": "meetup"
+    },
+    {
+        "title": "Explore the New Hyperledger Fabric Course: Sneak Peek into Content & Insights",
+        "event_date": "February 18, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/explore-the-new-hyperledger-fabric-course-sneak-peek-into-content-and-insights-305182847",
+        "published": "Fri, 31 Jan 2025 03:05:15 GMT",
+        "category": "Crypto / Blockchain",
+        "type": "meetup"
+    },
+    {
+        "title": "Feb 20 - Virtual AI, ML and Computer Vision Meetup",
+        "event_date": "February 20, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/feb-20-virtual-ai-ml-and-computer-vision-meetup-305886384",
+        "published": "Fri, 31 Jan 2025 03:05:13 GMT",
+        "category": "AI / ML",
+        "type": "meetup"
+    },
+    {
+        "title": "Ted Young (JitterTed) - Refactoring Tests",
+        "event_date": "March 27, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/ted-young-jitter-ted-refactoring-tests-305780798",
+        "published": "Fri, 31 Jan 2025 03:04:56 GMT",
+        "category": "Tech",
+        "type": "meetup"
+    },
+    {
+        "title": "Neo4j Live: Bundesflow - AI for Legislative Transparancy",
+        "event_date": "February 6, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/neo4j-live-bundesflow-ai-for-legislative-transparancy-305896530",
+        "published": "Fri, 31 Jan 2025 03:04:50 GMT",
+        "category": "AI / ML",
+        "type": "meetup"
+    },
+    {
+        "title": "Neo4j Live: Neo4rs - A Native Rust Driver for Neo4j",
+        "event_date": "February 12, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/neo4j-live-neo4rs-a-native-rust-driver-for-neo4j-305896637",
+        "published": "Fri, 31 Jan 2025 03:04:50 GMT",
+        "category": "Rust",
+        "type": "meetup"
+    },
+    {
+        "title": "Ruby Science",
+        "event_date": "March 3, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/ruby-science-sdczltyhcfbfb",
+        "published": "Fri, 31 Jan 2025 03:04:29 GMT",
+        "category": "Ruby",
+        "type": "meetup"
+    },
+    {
+        "title": "Virtual Fishers Code and Coffee",
+        "event_date": "February 27, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/virtual-fishers-code-and-coffee-vkwkvryhcdbkc",
+        "published": "Fri, 31 Jan 2025 03:04:18 GMT",
+        "category": "Tech",
+        "type": "meetup"
+    },
+    {
+        "title": "Hexagonal Frontend Architecture (Marco Emrich & Sophia Cook)",
+        "event_date": "February 12, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/hexagonal-frontend-architecture-marco-emrich-and-sophia-cook-305905675",
+        "published": "Fri, 31 Jan 2025 03:04:14 GMT",
+        "category": "Web / Frontend",
+        "type": "meetup"
+    },
+    {
+        "title": "February Meetup - Instruments Redux",
+        "event_date": "February 18, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/february-meetup-instruments-redux-305908554",
+        "published": "Fri, 31 Jan 2025 03:04:06 GMT",
+        "category": "iOS / Swift",
+        "type": "meetup"
+    },
+    {
+        "title": "Creating Intelligent Apps with Flutter and Generative AI",
+        "event_date": "February 1, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/creating-intelligent-apps-with-flutter-and-generative-ai-305886197",
+        "published": "Fri, 31 Jan 2025 03:02:39 GMT",
+        "category": "Flutter",
+        "type": "meetup"
+    },
+    {
+        "title": "How Non-Techies Can Launch Successful Tech Startups",
+        "event_date": "February 5, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/how-non-techies-can-launch-successful-tech-startups-305656011",
+        "published": "Fri, 31 Jan 2025 03:01:54 GMT",
+        "category": "AR / VR / XR",
+        "type": "meetup"
+    },
+    {
+        "title": "TheGDG Game Jam 4.0",
+        "event_date": "March 16, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/the-gdg-game-jam-4-0-305900063",
+        "published": "Fri, 31 Jan 2025 03:01:00 GMT",
+        "category": "Google",
+        "type": "meetup"
+    },
+    {
+        "title": "How to Cut Product Development Costs by up to 50%!",
+        "event_date": "February 6, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/how-to-cut-product-development-costs-by-up-to-50-305668631",
+        "published": "Fri, 31 Jan 2025 03:00:53 GMT",
+        "category": "Product management",
+        "type": "meetup"
+    },
+    {
+        "title": "[ONLINE] Game Dev Meetup (Main Monthly Meetup) [Talk:Hierarchical Task Networks]",
+        "event_date": "February 1, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/online-game-dev-meetup-main-monthly-meetup-talk-hierarchical-task-networks-305423586",
+        "published": "Fri, 31 Jan 2025 03:00:22 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "Online - Unity project work and meet",
+        "event_date": "May 28, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/online-unity-project-work-and-meet-sgzdgtyhchbkc",
+        "published": "Fri, 31 Jan 2025 03:00:20 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "Virtual Game Dev & Gamer Hangout \u2013 Prepping for Our IRL Event!",
+        "event_date": "February 8, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/virtual-game-dev-and-gamer-hangout-prepping-for-our-irl-event-305902989",
+        "published": "Fri, 31 Jan 2025 03:00:18 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
         "title": "Online Hackathon B3",
         "event_date": "February 27, 2025",
         "location": "Online",
@@ -405,15 +774,6 @@
         "type": "meetup"
     },
     {
-        "title": "NextGen 2025: Explora\u00e7\u00e3o das Tend\u00eancias de IA \"from\" Microsoft Ignite",
-        "event_date": "January 31, 2025",
-        "location": "Online",
-        "link": "https://dev.events/conferences/next-gen-2025-exploracao-das-tendencias-de-ia-from-microsoft-ignite-305131172",
-        "published": "Wed, 29 Jan 2025 03:09:10 GMT",
-        "category": "Microsoft",
-        "type": "meetup"
-    },
-    {
         "title": "Hands-On with Deepseek R1 Model on AWS Bedrock",
         "event_date": "February 10, 2025",
         "location": "Online",
@@ -621,15 +981,6 @@
         "type": "meetup"
     },
     {
-        "title": "[Online] Infraestrutura como c\u00f3digo na \u00e1rea de Dados: ferramentas, automa\u00e7\u00e3o...",
-        "event_date": "January 31, 2025",
-        "location": "Online",
-        "link": "https://dev.events/conferences/online-infraestrutura-como-codigo-na-area-de-dados-ferramentas-automacao-305863134",
-        "published": "Wed, 29 Jan 2025 03:00:17 GMT",
-        "category": "Tech",
-        "type": "meetup"
-    },
-    {
         "title": "DataArt Winter IT Camp",
         "event_date": "February 10, 2025",
         "location": "Online",
@@ -637,15 +988,6 @@
         "published": "Tue, 28 Jan 2025 16:24:27 GMT",
         "category": "Data / Database",
         "type": "conference"
-    },
-    {
-        "title": "One Trillion Agents Hackathon",
-        "event_date": "January 31, 2025",
-        "location": "Online",
-        "link": "https://dev.events/conferences/one-trillion-agents-hackathon-9pvzlwsa",
-        "published": "Tue, 28 Jan 2025 15:58:05 GMT",
-        "category": "Fintech",
-        "type": "hackathon"
     },
     {
         "title": "DevOps fwdays'25 online conference",
@@ -690,15 +1032,6 @@
         "link": "https://dev.events/conferences/joint-online-meetup-with-rust-bristol-305833952",
         "published": "Tue, 28 Jan 2025 03:08:01 GMT",
         "category": "Rust",
-        "type": "meetup"
-    },
-    {
-        "title": "Transforming Data into Compelling Narratives with Power BI",
-        "event_date": "January 31, 2025",
-        "location": "Online",
-        "link": "https://dev.events/conferences/transforming-data-into-compelling-narratives-with-power-bi-305715274",
-        "published": "Tue, 28 Jan 2025 03:07:54 GMT",
-        "category": "Data / Database",
         "type": "meetup"
     },
     {
@@ -853,15 +1186,6 @@
         "published": "Tue, 28 Jan 2025 03:00:12 GMT",
         "category": "Docker / Kubernetes",
         "type": "meetup"
-    },
-    {
-        "title": "Rice Design-a-thon 2025",
-        "event_date": "January 31, 2025",
-        "location": "Online",
-        "link": "https://dev.events/conferences/rice-design-a-thon-2025-lqlse-2u",
-        "published": "Mon, 27 Jan 2025 14:03:37 GMT",
-        "category": "UI / UX",
-        "type": "hackathon"
     },
     {
         "title": "PGMeetup",
@@ -1053,15 +1377,6 @@
         "type": "meetup"
     },
     {
-        "title": "Introduction to OpenStack Dalmatian",
-        "event_date": "January 31, 2025",
-        "location": "Egaleo, Greece and Online",
-        "link": "https://dev.events/conferences/introduction-to-open-stack-dalmatian-305792899",
-        "published": "Sun, 26 Jan 2025 03:06:54 GMT",
-        "category": "DevOps",
-        "type": "meetup"
-    },
-    {
         "title": "Challenge AWS AI Practitioner - Semana 3",
         "event_date": "February 5, 2025",
         "location": "Online",
@@ -1130,24 +1445,6 @@
         "location": "Online",
         "link": "https://dev.events/conferences/friday-s-open-meetup-ktgxbtyhcdbcc",
         "published": "Sun, 26 Jan 2025 03:00:33 GMT",
-        "category": "Game dev",
-        "type": "meetup"
-    },
-    {
-        "title": "Writer's Room",
-        "event_date": "January 31, 2025",
-        "location": "Online",
-        "link": "https://dev.events/conferences/writer-s-room-305656445",
-        "published": "Sun, 26 Jan 2025 03:00:32 GMT",
-        "category": "Game dev",
-        "type": "meetup"
-    },
-    {
-        "title": "Seabug Study Hall on Discord",
-        "event_date": "January 31, 2025",
-        "location": "Online",
-        "link": "https://dev.events/conferences/seabug-study-hall-on-discord-305550710",
-        "published": "Sun, 26 Jan 2025 03:00:32 GMT",
         "category": "Game dev",
         "type": "meetup"
     },
@@ -1476,15 +1773,6 @@
         "type": "meetup"
     },
     {
-        "title": "Memphis Global AI Community (Hybrid)",
-        "event_date": "January 31, 2025",
-        "location": "Online",
-        "link": "https://dev.events/conferences/memphis-global-ai-community-hybrid-305499703",
-        "published": "Fri, 24 Jan 2025 03:03:54 GMT",
-        "category": "AI / ML",
-        "type": "meetup"
-    },
-    {
         "title": "Virtual Fishers Code and Coffee",
         "event_date": "February 20, 2025",
         "location": "Online",
@@ -1526,15 +1814,6 @@
         "location": "Online",
         "link": "https://dev.events/conferences/unreal-engine-meetup-rome-20-portfolio-unwrapped-305752116",
         "published": "Fri, 24 Jan 2025 03:00:58 GMT",
-        "category": "Game dev",
-        "type": "meetup"
-    },
-    {
-        "title": "Game Dev Happy Hour: Quaranstream",
-        "event_date": "January 31, 2025",
-        "location": "Online",
-        "link": "https://dev.events/conferences/game-dev-happy-hour-quaranstream-305549009",
-        "published": "Fri, 24 Jan 2025 03:00:44 GMT",
         "category": "Game dev",
         "type": "meetup"
     },
@@ -2331,15 +2610,6 @@
         "type": "conference"
     },
     {
-        "title": "Stockholm Atlassian Community - 2025 Event Content",
-        "event_date": "January 31, 2025",
-        "location": "Online",
-        "link": "https://dev.events/conferences/stockholm-atlassian-community-2025-event-content-305647236",
-        "published": "Sat, 18 Jan 2025 03:11:16 GMT",
-        "category": "Agile",
-        "type": "meetup"
-    },
-    {
         "title": "Agile Lean Coffee #60: Certifications!",
         "event_date": "February 28, 2025",
         "location": "Online",
@@ -2462,15 +2732,6 @@
         "location": "Online",
         "link": "https://dev.events/conferences/online-bi-monthly-meeting-njdcltyhcfbzb",
         "published": "Sat, 18 Jan 2025 03:00:42 GMT",
-        "category": "Game dev",
-        "type": "meetup"
-    },
-    {
-        "title": "Monthly Game Jam: Randomized Theme",
-        "event_date": "January 31, 2025",
-        "location": "Online",
-        "link": "https://dev.events/conferences/monthly-game-jam-randomized-theme-305561900",
-        "published": "Sat, 18 Jan 2025 03:00:36 GMT",
         "category": "Game dev",
         "type": "meetup"
     },
@@ -2678,15 +2939,6 @@
         "location": "Online",
         "link": "https://dev.events/conferences/la-clinique-agile-305640315",
         "published": "Thu, 16 Jan 2025 03:09:54 GMT",
-        "category": "Agile",
-        "type": "meetup"
-    },
-    {
-        "title": "Estructuras liberadoras para capacitaciones de Soft skills",
-        "event_date": "January 31, 2025",
-        "location": "Online",
-        "link": "https://dev.events/conferences/estructuras-liberadoras-para-capacitaciones-de-soft-skills-305622528",
-        "published": "Thu, 16 Jan 2025 03:09:35 GMT",
         "category": "Agile",
         "type": "meetup"
     },
@@ -2979,15 +3231,6 @@
         "type": "meetup"
     },
     {
-        "title": "Game Audio Boston with Kobe Anthony (MEMODEMO)",
-        "event_date": "January 31, 2025",
-        "location": "Online",
-        "link": "https://dev.events/conferences/game-audio-boston-with-kobe-anthony-memodemo-305616711",
-        "published": "Wed, 15 Jan 2025 03:00:27 GMT",
-        "category": "Game dev",
-        "type": "meetup"
-    },
-    {
         "title": "Godot Wisconsin Meetup",
         "event_date": "May 13, 2025",
         "location": "Online",
@@ -3249,15 +3492,6 @@
         "type": "meetup"
     },
     {
-        "title": "Game Development Discord Mixer!",
-        "event_date": "January 31, 2025",
-        "location": "Online",
-        "link": "https://dev.events/conferences/game-development-discord-mixer-304820556",
-        "published": "Sun, 12 Jan 2025 03:00:27 GMT",
-        "category": "Game dev",
-        "type": "meetup"
-    },
-    {
         "title": "Omaha Game Developers Meetup",
         "event_date": "May 9, 2025",
         "location": "Online",
@@ -3381,15 +3615,6 @@
         "link": "https://dev.events/conferences/friday-morning-code-commiserate-305129918",
         "published": "Sat, 11 Jan 2025 03:02:33 GMT",
         "category": "Web / Frontend",
-        "type": "meetup"
-    },
-    {
-        "title": "[Online Event] Flutter Focus Group",
-        "event_date": "January 31, 2025",
-        "location": "Online",
-        "link": "https://dev.events/conferences/online-event-flutter-focus-group-305546325",
-        "published": "Sat, 11 Jan 2025 03:02:08 GMT",
-        "category": "Flutter",
         "type": "meetup"
     },
     {
@@ -4068,24 +4293,6 @@
         "type": "meetup"
     },
     {
-        "title": "AWS AI Practitioner Challenge",
-        "event_date": "January 31, 2025",
-        "location": "Online",
-        "link": "https://dev.events/conferences/aws-ai-practitioner-challenge-mmzvntyhccbpc",
-        "published": "Sun, 05 Jan 2025 03:06:03 GMT",
-        "category": "AWS",
-        "type": "meetup"
-    },
-    {
-        "title": "PNW CoffeeOps",
-        "event_date": "January 31, 2025",
-        "location": "Online",
-        "link": "https://dev.events/conferences/pnw-coffee-ops-vcwxntyhccbpc",
-        "published": "Sun, 05 Jan 2025 03:05:05 GMT",
-        "category": "DevOps",
-        "type": "meetup"
-    },
-    {
         "title": "Let's Code Together!",
         "event_date": "March 1, 2025",
         "location": "Online",
@@ -4101,15 +4308,6 @@
         "link": "https://dev.events/conferences/dev-hangout-dev-tips-mxvqktyhcfbcb",
         "published": "Sun, 05 Jan 2025 03:02:53 GMT",
         "category": "Tech",
-        "type": "meetup"
-    },
-    {
-        "title": "Friday's open meetup",
-        "event_date": "January 31, 2025",
-        "location": "Online",
-        "link": "https://dev.events/conferences/friday-s-open-meetup-ktgxbtyhccbpc",
-        "published": "Sun, 05 Jan 2025 03:00:31 GMT",
-        "category": "Game dev",
         "type": "meetup"
     },
     {
@@ -4248,15 +4446,6 @@
         "type": "meetup"
     },
     {
-        "title": "Quantum Computers Can\u2019t Rust-Proof This!",
-        "event_date": "January 31, 2025",
-        "location": "Online",
-        "link": "https://dev.events/conferences/quantum-computers-can-t-rust-proof-this-305391474",
-        "published": "Fri, 03 Jan 2025 03:08:14 GMT",
-        "category": "Rust",
-        "type": "meetup"
-    },
-    {
         "title": "PLUG Central - Jitsi Meet: 7-9PM; Speaker from 7:30-8:30PM",
         "event_date": "March 6, 2025",
         "location": "Online",
@@ -4272,15 +4461,6 @@
         "link": "https://dev.events/conferences/flux-bug-scrub-with-kingdon-barrett-msbljtyhcdbkc",
         "published": "Fri, 03 Jan 2025 03:05:08 GMT",
         "category": "Cloud",
-        "type": "meetup"
-    },
-    {
-        "title": "Virtual Hack Night",
-        "event_date": "January 31, 2025",
-        "location": "Online",
-        "link": "https://dev.events/conferences/virtual-hack-night-rjpxtryhccbnc",
-        "published": "Fri, 03 Jan 2025 03:03:19 GMT",
-        "category": "Tech",
         "type": "meetup"
     },
     {
@@ -4309,15 +4489,6 @@
         "published": "Fri, 03 Jan 2025 03:00:07 GMT",
         "category": "Game dev",
         "type": "meetup"
-    },
-    {
-        "title": "PearAI Hackathon",
-        "event_date": "January 31, 2025",
-        "location": "Online",
-        "link": "https://dev.events/conferences/pear-ai-hackathon-dqgh1ome",
-        "published": "Thu, 02 Jan 2025 13:00:45 GMT",
-        "category": "AI / ML",
-        "type": "hackathon"
     },
     {
         "title": "#TrueScrumMaster 1:",
@@ -4407,24 +4578,6 @@
         "link": "https://dev.events/conferences/online-meeting-understanding-ll-ms-how-they-function-and-how-they-have-changed-305352000",
         "published": "Wed, 01 Jan 2025 03:07:45 GMT",
         "category": "AI / ML",
-        "type": "meetup"
-    },
-    {
-        "title": "IIT: Kotlin Coroutine Mechanisms Workshop & Tech Industry Night",
-        "event_date": "January 31, 2025",
-        "location": "Chicago, United States and Online",
-        "link": "https://dev.events/conferences/iit-kotlin-coroutine-mechanisms-workshop-and-tech-industry-night-304049425",
-        "published": "Wed, 01 Jan 2025 03:07:16 GMT",
-        "category": "Kotlin",
-        "type": "meetup"
-    },
-    {
-        "title": "IIT: Kotlin Coroutine Mechanisms Workshop & Tech Industry Night at Turtle's",
-        "event_date": "January 31, 2025",
-        "location": "Chicago, United States and Online",
-        "link": "https://dev.events/conferences/iit-kotlin-coroutine-mechanisms-workshop-and-tech-industry-night-at-turtle-s-305265920",
-        "published": "Wed, 01 Jan 2025 03:06:50 GMT",
-        "category": "Kotlin",
         "type": "meetup"
     },
     {
@@ -4632,15 +4785,6 @@
         "link": "https://dev.events/conferences/vision-pro-dev-collaboration-vnkrntyhcdbwb",
         "published": "Wed, 25 Dec 2024 03:01:03 GMT",
         "category": "AR / VR / XR",
-        "type": "meetup"
-    },
-    {
-        "title": "Virtual game developer hangout",
-        "event_date": "January 31, 2025",
-        "location": "Online",
-        "link": "https://dev.events/conferences/virtual-game-developer-hangout-305231921",
-        "published": "Tue, 24 Dec 2024 03:00:08 GMT",
-        "category": "Game dev",
         "type": "meetup"
     },
     {
