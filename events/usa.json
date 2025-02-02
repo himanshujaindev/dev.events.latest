@@ -1,5 +1,95 @@
 [
     {
+        "title": "February Meetup: Airflow Orchestration from zero to 100",
+        "event_date": "February 18, 2025",
+        "location": "Overland Park, United States",
+        "link": "https://dev.events/conferences/february-meetup-airflow-orchestration-from-zero-to-100-305926119",
+        "published": "Sat, 01 Feb 2025 03:07:08 GMT",
+        "category": "DevOps",
+        "type": "meetup"
+    },
+    {
+        "title": "Clickhouse / Voice Driven Computing with Talon Voice",
+        "event_date": "February 21, 2025",
+        "location": "Santa Monica, United States",
+        "link": "https://dev.events/conferences/clickhouse-voice-driven-computing-with-talon-voice-305880749",
+        "published": "Sat, 01 Feb 2025 03:06:51 GMT",
+        "category": "DevOps",
+        "type": "meetup"
+    },
+    {
+        "title": "A Tale of Two Developers - An Introduction to Cloud Development Environments",
+        "event_date": "March 20, 2025",
+        "location": "Plano, United States",
+        "link": "https://dev.events/conferences/a-tale-of-two-developers-an-introduction-to-cloud-development-environments-300443784",
+        "published": "Sat, 01 Feb 2025 03:05:11 GMT",
+        "category": "Cloud",
+        "type": "meetup"
+    },
+    {
+        "title": "CD Tech Thursday",
+        "event_date": "March 13, 2025",
+        "location": "Chattanooga, United States",
+        "link": "https://dev.events/conferences/cd-tech-thursday-hlttptyhcfbrb",
+        "published": "Sat, 01 Feb 2025 03:03:04 GMT",
+        "category": "Tech",
+        "type": "meetup"
+    },
+    {
+        "title": "ODevs Social at The Wellborn",
+        "event_date": "February 20, 2025",
+        "location": "Orlando, United States",
+        "link": "https://dev.events/conferences/o-devs-social-at-the-wellborn-305917352",
+        "published": "Sat, 01 Feb 2025 03:02:46 GMT",
+        "category": "Tech",
+        "type": "meetup"
+    },
+    {
+        "title": "PhxJS - Intro to Angular 2025",
+        "event_date": "March 20, 2025",
+        "location": "Mesa, United States",
+        "link": "https://dev.events/conferences/phx-js-intro-to-angular-2025-305919969",
+        "published": "Sat, 01 Feb 2025 03:02:42 GMT",
+        "category": "Angular",
+        "type": "meetup"
+    },
+    {
+        "title": "Pierce County Social",
+        "event_date": "February 4, 2025",
+        "location": "Tacoma, United States",
+        "link": "https://dev.events/conferences/pierce-county-social-305654908",
+        "published": "Sat, 01 Feb 2025 03:00:37 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "Eastside Meetup - Seattle Indies",
+        "event_date": "February 5, 2025",
+        "location": "Redmond, United States",
+        "link": "https://dev.events/conferences/eastside-meetup-seattle-indies-305392301",
+        "published": "Sat, 01 Feb 2025 03:00:37 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "OC Indies Monthly",
+        "event_date": "May 29, 2025",
+        "location": "Santa Ana, United States",
+        "link": "https://dev.events/conferences/oc-indies-monthly-nbqbmtyhchblc",
+        "published": "Sat, 01 Feb 2025 03:00:36 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "Weekly Project Meetup",
+        "event_date": "February 21, 2025",
+        "location": "Plano, United States",
+        "link": "https://dev.events/conferences/weekly-project-meetup-305931044",
+        "published": "Sat, 01 Feb 2025 03:00:10 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
         "title": "Agile Meetup for Entrepreneurs & Professionals",
         "event_date": "May 28, 2025",
         "location": "FREMONT, United States",
@@ -28,7 +118,7 @@
     },
     {
         "title": "Generative AI SLM (Small Language Model) Adoption with Open-Source",
-        "event_date": "February 12, 2025",
+        "event_date": "February 19, 2025",
         "location": "Franklin, United States",
         "link": "https://dev.events/conferences/generative-ai-slm-small-language-model-adoption-with-open-source-305907713",
         "published": "Fri, 31 Jan 2025 03:12:02 GMT",
@@ -771,24 +861,6 @@
         "link": "https://dev.events/conferences/c-optimizations-part3-how-and-why-modern-c-runs-fast-wcbnntyhcjbfb",
         "published": "Tue, 28 Jan 2025 03:00:45 GMT",
         "category": "C/C++",
-        "type": "meetup"
-    },
-    {
-        "title": "Seattle Blender User Group",
-        "event_date": "February 1, 2025",
-        "location": "Seattle, United States",
-        "link": "https://dev.events/conferences/seattle-blender-user-group-305575686",
-        "published": "Tue, 28 Jan 2025 03:00:35 GMT",
-        "category": "Game dev",
-        "type": "meetup"
-    },
-    {
-        "title": "Indie Co-working Support Group (ISG - IRL)",
-        "event_date": "February 1, 2025",
-        "location": "Seattle, United States",
-        "link": "https://dev.events/conferences/indie-co-working-support-group-isg-irl-305577371",
-        "published": "Tue, 28 Jan 2025 03:00:35 GMT",
-        "category": "Game dev",
         "type": "meetup"
     },
     {
@@ -1845,15 +1917,6 @@
         "type": "meetup"
     },
     {
-        "title": "Saturday Work and Chill",
-        "event_date": "February 1, 2025",
-        "location": "Denver, United States",
-        "link": "https://dev.events/conferences/saturday-work-and-chill-305573893",
-        "published": "Tue, 21 Jan 2025 03:00:12 GMT",
-        "category": "Game dev",
-        "type": "meetup"
-    },
-    {
         "title": "DevOpsDays Austin",
         "event_date": "May 1, 2025",
         "location": "Austin, United States",
@@ -1899,15 +1962,6 @@
         "type": "meetup"
     },
     {
-        "title": "LA Tech Meetup",
-        "event_date": "February 1, 2025",
-        "location": "Santa Monica, United States",
-        "link": "https://dev.events/conferences/la-tech-meetup-305707720",
-        "published": "Mon, 20 Jan 2025 03:06:21 GMT",
-        "category": "Tech",
-        "type": "meetup"
-    },
-    {
         "title": "Annual PyTexas Conference",
         "event_date": "April 11, 2025",
         "location": "Austin, United States",
@@ -1923,15 +1977,6 @@
         "link": "https://dev.events/conferences/san-francisco-106-miles-at-anina-hayes-valley-305512192",
         "published": "Mon, 20 Jan 2025 03:03:50 GMT",
         "category": "Startup",
-        "type": "meetup"
-    },
-    {
-        "title": "UX Design: Portfolio Review Workshop \u2728",
-        "event_date": "February 1, 2025",
-        "location": "Rosslyn, United States",
-        "link": "https://dev.events/conferences/ux-design-portfolio-review-workshop-305637133",
-        "published": "Mon, 20 Jan 2025 03:03:23 GMT",
-        "category": "UI / UX",
         "type": "meetup"
     },
     {
@@ -2412,15 +2457,6 @@
         "type": "meetup"
     },
     {
-        "title": "1/31 Chicago Unreal Engine meetup!",
-        "event_date": "February 1, 2025",
-        "location": "Chicago, United States",
-        "link": "https://dev.events/conferences/1-31-chicago-unreal-engine-meetup-305648449",
-        "published": "Fri, 17 Jan 2025 03:00:26 GMT",
-        "category": "Game dev",
-        "type": "meetup"
-    },
-    {
         "title": "SF Game Development Featuring: A16Z Funded Founders",
         "event_date": "February 19, 2025",
         "location": "San Francisco, United States",
@@ -2808,15 +2844,6 @@
         "type": "meetup"
     },
     {
-        "title": "Creative Writing Journal Club",
-        "event_date": "February 1, 2025",
-        "location": "Inglewood, United States",
-        "link": "https://dev.events/conferences/creative-writing-journal-club-305482456",
-        "published": "Tue, 14 Jan 2025 03:01:20 GMT",
-        "category": "AR / VR / XR",
-        "type": "meetup"
-    },
-    {
         "title": "Strawberry Jam",
         "event_date": "March 9, 2025",
         "location": "Los Angeles, United States",
@@ -2913,15 +2940,6 @@
         "link": "https://dev.events/conferences/what-is-git-305543896",
         "published": "Sun, 12 Jan 2025 03:10:32 GMT",
         "category": "Python",
-        "type": "meetup"
-    },
-    {
-        "title": "SFS Gathering in Longmont - Small is Beautiful - Open Source AI Workshop",
-        "event_date": "February 1, 2025",
-        "location": "Longmont, United States",
-        "link": "https://dev.events/conferences/sfs-gathering-in-longmont-small-is-beautiful-open-source-ai-workshop-305549989",
-        "published": "Sun, 12 Jan 2025 03:07:58 GMT",
-        "category": "Open Source",
         "type": "meetup"
     },
     {
@@ -3664,15 +3682,6 @@
     },
     {
         "title": "Game Dev Adventure Day",
-        "event_date": "February 1, 2025",
-        "location": "Orlando, United States",
-        "link": "https://dev.events/conferences/game-dev-adventure-day-305399182",
-        "published": "Sat, 04 Jan 2025 03:00:07 GMT",
-        "category": "Game dev",
-        "type": "meetup"
-    },
-    {
-        "title": "Game Dev Adventure Day",
         "event_date": "March 1, 2025",
         "location": "Orlando, United States",
         "link": "https://dev.events/conferences/game-dev-adventure-day-305399210",
@@ -3733,15 +3742,6 @@
         "published": "Thu, 02 Jan 2025 12:42:01 GMT",
         "category": "Tech leadership",
         "type": "conference"
-    },
-    {
-        "title": "In-Person Game Development Meetup",
-        "event_date": "February 1, 2025",
-        "location": "Pittsburgh, United States",
-        "link": "https://dev.events/conferences/in-person-game-development-meetup-zftnktyhcdbcb",
-        "published": "Thu, 02 Jan 2025 03:00:42 GMT",
-        "category": "Game dev",
-        "type": "meetup"
     },
     {
         "title": "TechLeader Summit",
@@ -4092,15 +4092,6 @@
         "link": "https://dev.events/conferences/chicago-js-meetup-march-2025-305185313",
         "published": "Sat, 21 Dec 2024 03:02:19 GMT",
         "category": "JavaScript",
-        "type": "meetup"
-    },
-    {
-        "title": "Nooga Code & Coffee",
-        "event_date": "February 1, 2025",
-        "location": "Chattanooga, United States",
-        "link": "https://dev.events/conferences/nooga-code-and-coffee-305165342",
-        "published": "Sat, 21 Dec 2024 03:00:42 GMT",
-        "category": "Tech",
         "type": "meetup"
     },
     {
@@ -4839,15 +4830,6 @@
         "link": "https://dev.events/conferences/monthly-get-together-304971231",
         "published": "Sun, 08 Dec 2024 03:02:41 GMT",
         "category": "Functional programming",
-        "type": "meetup"
-    },
-    {
-        "title": "Excuse To Create",
-        "event_date": "February 1, 2025",
-        "location": "Cleveland, United States",
-        "link": "https://dev.events/conferences/excuse-to-create-304953338",
-        "published": "Sun, 08 Dec 2024 03:00:27 GMT",
-        "category": "Game dev",
         "type": "meetup"
     },
     {
