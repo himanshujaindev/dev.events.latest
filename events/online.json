@@ -1,5 +1,77 @@
 [
     {
+        "title": "Winter Data Meetup 2025",
+        "event_date": "February 18, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/winter-data-meetup-2025-zhvkjp9f",
+        "published": "Mon, 03 Feb 2025 09:28:28 GMT",
+        "category": "Data / Database",
+        "type": "meetup"
+    },
+    {
+        "title": "Testing Stage LATAM",
+        "event_date": "October 24, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/testing-stage-latam-nd4f8ctu",
+        "published": "Mon, 03 Feb 2025 08:46:31 GMT",
+        "category": "Testing / QA",
+        "type": "conference"
+    },
+    {
+        "title": "Technology Leaders Conference Europe 2025",
+        "event_date": "November 12, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/technology-leaders-conference-europe-2025-xwwjnpuu",
+        "published": "Mon, 03 Feb 2025 08:40:39 GMT",
+        "category": "Tech leadership",
+        "type": "conference"
+    },
+    {
+        "title": "Barry O'Reilly - Residuality Theory",
+        "event_date": "April 29, 2025",
+        "location": "Melbourne, Australia and Online",
+        "link": "https://dev.events/conferences/barry-o-reilly-residuality-theory-305891873",
+        "published": "Mon, 03 Feb 2025 03:01:22 GMT",
+        "category": "DDD",
+        "type": "meetup"
+    },
+    {
+        "title": "Team Topologies workshop",
+        "event_date": "March 5, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/team-topologies-workshop-305950170",
+        "published": "Mon, 03 Feb 2025 03:01:21 GMT",
+        "category": "DDD",
+        "type": "meetup"
+    },
+    {
+        "title": "\u2728Build Your Own Hangman Game from Scratch  Feb 14th, 2025, 8.00 PM (EST)",
+        "event_date": "February 15, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/build-your-own-hangman-game-from-scratch-feb-14th-2025-8-00-pm-est-305690795",
+        "published": "Mon, 03 Feb 2025 03:00:46 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "Indie Video Game Developer Meetup - ZOOM",
+        "event_date": "April 6, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/indie-video-game-developer-meetup-zoom-nmzbwsyhcgbjb",
+        "published": "Mon, 03 Feb 2025 03:00:38 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "LOAD (League of Amazing Demos)",
+        "event_date": "February 13, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/load-league-of-amazing-demos-305361756",
+        "published": "Mon, 03 Feb 2025 03:00:18 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
         "title": "What the Corps Calls 'Leading Marines' We Call Agility",
         "event_date": "February 26, 2025",
         "location": "Online",
@@ -123,6 +195,15 @@
         "link": "https://dev.events/conferences/game-development-discord-mixer-kzpldtyhcdbkc",
         "published": "Sun, 02 Feb 2025 03:00:20 GMT",
         "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "[Online] Arquitetura de Solu\u00e7\u00f5es: ferramentas, boas pr\u00e1ticas, open source...",
+        "event_date": "February 5, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/online-arquitetura-de-solucoes-ferramentas-boas-praticas-open-source-305936136",
+        "published": "Sun, 02 Feb 2025 03:00:13 GMT",
+        "category": "Open Source",
         "type": "meetup"
     },
     {
@@ -366,15 +447,6 @@
         "link": "https://dev.events/conferences/rust-hack-and-learn-300820296",
         "published": "Fri, 31 Jan 2025 03:10:44 GMT",
         "category": "Rust",
-        "type": "meetup"
-    },
-    {
-        "title": "RAGChat: Adding speech input and output",
-        "event_date": "February 3, 2025",
-        "location": "Online",
-        "link": "https://dev.events/conferences/rag-chat-adding-speech-input-and-output-305151142",
-        "published": "Fri, 31 Jan 2025 03:10:32 GMT",
-        "category": "Microsoft",
         "type": "meetup"
     },
     {
@@ -792,15 +864,6 @@
         "type": "meetup"
     },
     {
-        "title": "SC-5001: Configurar opera\u00e7\u00f5es de seguran\u00e7a SIEM usando o Microsoft Sentinel - Pa",
-        "event_date": "February 3, 2025",
-        "location": "Online",
-        "link": "https://dev.events/conferences/sc-5001-configurar-operacoes-de-seguranca-siem-usando-o-microsoft-sentinel-pa-305478613",
-        "published": "Thu, 30 Jan 2025 03:08:19 GMT",
-        "category": "Microsoft",
-        "type": "meetup"
-    },
-    {
         "title": "Desarrollo de Prompts Efectivos con Microsoft 365 Copilot",
         "event_date": "February 4, 2025",
         "location": "Online",
@@ -816,15 +879,6 @@
         "link": "https://dev.events/conferences/k8-sug-canada-18th-meetup-aws-27th-feb-2025-305890208",
         "published": "Thu, 30 Jan 2025 03:07:54 GMT",
         "category": "AWS",
-        "type": "meetup"
-    },
-    {
-        "title": "PMI and Agile Alliance's Bold New Chapter",
-        "event_date": "February 3, 2025",
-        "location": "Online",
-        "link": "https://dev.events/conferences/pmi-and-agile-alliance-s-bold-new-chapter-305840518",
-        "published": "Thu, 30 Jan 2025 03:06:06 GMT",
-        "category": "Agile",
         "type": "meetup"
     },
     {
@@ -1143,15 +1197,6 @@
         "type": "meetup"
     },
     {
-        "title": "Fireside Chat with Pierre Le Manh, CEO of PMI",
-        "event_date": "February 3, 2025",
-        "location": "Online",
-        "link": "https://dev.events/conferences/fireside-chat-with-pierre-le-manh-ceo-of-pmi-305840518",
-        "published": "Wed, 29 Jan 2025 03:06:54 GMT",
-        "category": "Agile",
-        "type": "meetup"
-    },
-    {
         "title": "Gaining Trust to Increase Efficiency - Eloise Ann Friedman",
         "event_date": "March 19, 2025",
         "location": "Online",
@@ -1428,15 +1473,6 @@
         "link": "https://dev.events/conferences/architecture-coaching-305438274",
         "published": "Tue, 28 Jan 2025 03:01:37 GMT",
         "category": "Software architecture",
-        "type": "meetup"
-    },
-    {
-        "title": "Silicon Valley Business Networking (Online)",
-        "event_date": "February 3, 2025",
-        "location": "Online",
-        "link": "https://dev.events/conferences/silicon-valley-business-networking-online-vlpjhtyhcdbgb",
-        "published": "Tue, 28 Jan 2025 03:01:05 GMT",
-        "category": "Startup",
         "type": "meetup"
     },
     {
@@ -2601,15 +2637,6 @@
         "type": "meetup"
     },
     {
-        "title": "Revolutionizing Complex Applications with Amazon Bedrock Knowledgebase - Part 2",
-        "event_date": "February 3, 2025",
-        "location": "Online",
-        "link": "https://dev.events/conferences/revolutionizing-complex-applications-with-amazon-bedrock-knowledgebase-part-2-305698073",
-        "published": "Mon, 20 Jan 2025 03:08:44 GMT",
-        "category": "Data / Database",
-        "type": "meetup"
-    },
-    {
         "title": "PyTexas Monthly Meetup: Celery and its Challenges in Production - Dishant Sethi",
         "event_date": "February 5, 2025",
         "location": "Online",
@@ -3165,15 +3192,6 @@
         "link": "https://dev.events/conferences/second-tuesday-303522529",
         "published": "Thu, 16 Jan 2025 03:07:49 GMT",
         "category": "Rust",
-        "type": "meetup"
-    },
-    {
-        "title": "How to Make Your Backend Roar with Haki Benita",
-        "event_date": "February 3, 2025",
-        "location": "Online",
-        "link": "https://dev.events/conferences/how-to-make-your-backend-roar-with-haki-benita-305374633",
-        "published": "Thu, 16 Jan 2025 03:07:44 GMT",
-        "category": "Full-stack",
         "type": "meetup"
     },
     {
@@ -4159,15 +4177,6 @@
     },
     {
         "title": "RPM Caf\u00e9",
-        "event_date": "February 3, 2025",
-        "location": "Online",
-        "link": "https://dev.events/conferences/rpm-cafe-305459863",
-        "published": "Wed, 08 Jan 2025 03:09:43 GMT",
-        "category": "Agile",
-        "type": "meetup"
-    },
-    {
-        "title": "RPM Caf\u00e9",
         "event_date": "March 3, 2025",
         "location": "Online",
         "link": "https://dev.events/conferences/rpm-cafe-305459871",
@@ -4335,24 +4344,6 @@
         "link": "https://dev.events/conferences/ef-core-its-all-foreign-305365698",
         "published": "Wed, 08 Jan 2025 03:01:48 GMT",
         "category": ".NET",
-        "type": "meetup"
-    },
-    {
-        "title": "Architecture Coaching",
-        "event_date": "February 3, 2025",
-        "location": "Online",
-        "link": "https://dev.events/conferences/architecture-coaching-305438270",
-        "published": "Wed, 08 Jan 2025 03:01:39 GMT",
-        "category": "Software architecture",
-        "type": "meetup"
-    },
-    {
-        "title": "IGDA NYC Monday Afternoon Co-Working on Discord",
-        "event_date": "February 3, 2025",
-        "location": "Online",
-        "link": "https://dev.events/conferences/igda-nyc-monday-afternoon-co-working-on-discord-tqjjwryhcdbfb",
-        "published": "Wed, 08 Jan 2025 03:00:40 GMT",
-        "category": "Game dev",
         "type": "meetup"
     },
     {
@@ -4923,15 +4914,6 @@
         "type": "meetup"
     },
     {
-        "title": "Ruby Science",
-        "event_date": "February 3, 2025",
-        "location": "Online",
-        "link": "https://dev.events/conferences/ruby-science-sdczltyhcdbfb",
-        "published": "Wed, 25 Dec 2024 03:03:04 GMT",
-        "category": "Ruby",
-        "type": "meetup"
-    },
-    {
         "title": "LUNCH WITH PETER TOWERS - MEET THE BUSINESS ADVISORY EXPERT LIVE - MONTHLY EVENT",
         "event_date": "April 22, 2025",
         "location": "Online",
@@ -5163,15 +5145,6 @@
         "link": "https://dev.events/conferences/nginx-meetup-march-2025-community-evening-305162623",
         "published": "Fri, 20 Dec 2024 03:05:43 GMT",
         "category": "API",
-        "type": "meetup"
-    },
-    {
-        "title": "From Concept to Creation: A Guide to Building Intelligent Custom Agents",
-        "event_date": "February 3, 2025",
-        "location": "Online",
-        "link": "https://dev.events/conferences/from-concept-to-creation-a-guide-to-building-intelligent-custom-agents-305110859",
-        "published": "Fri, 20 Dec 2024 03:05:23 GMT",
-        "category": "Microsoft",
         "type": "meetup"
     },
     {
@@ -5945,15 +5918,6 @@
         "location": "Online",
         "link": "https://dev.events/conferences/morten-elvang-strategy-starts-with-how-304996890",
         "published": "Tue, 10 Dec 2024 03:07:46 GMT",
-        "category": "Agile",
-        "type": "meetup"
-    },
-    {
-        "title": "Online Lean Beer",
-        "event_date": "February 3, 2025",
-        "location": "Online",
-        "link": "https://dev.events/conferences/online-lean-beer-303931063",
-        "published": "Tue, 10 Dec 2024 03:07:39 GMT",
         "category": "Agile",
         "type": "meetup"
     },
@@ -7461,15 +7425,6 @@
         "type": "conference"
     },
     {
-        "title": "BlablaConf 2025",
-        "event_date": "February 3, 2025",
-        "location": "Online",
-        "link": "https://dev.events/conferences/blabla-conf-2025-c3oivhbe",
-        "published": "Tue, 12 Nov 2024 11:27:06 GMT",
-        "category": "Full-stack",
-        "type": "conference"
-    },
-    {
         "title": "ProductCon London 2025",
         "event_date": "February 19, 2025",
         "location": "London, United Kingdom and Online",
@@ -8196,15 +8151,6 @@
         "link": "https://dev.events/conferences/utah-sc-meeting-jrxmntyhcdbhb",
         "published": "Wed, 09 Oct 2024 06:41:40 GMT",
         "category": "Agile",
-        "type": "meetup"
-    },
-    {
-        "title": "Vienna Scrum Meetup",
-        "event_date": "February 3, 2025",
-        "location": "Online",
-        "link": "https://dev.events/conferences/vienna-scrum-meetup-301754506",
-        "published": "Wed, 09 Oct 2024 06:41:38 GMT",
-        "category": "Scrum",
         "type": "meetup"
     },
     {

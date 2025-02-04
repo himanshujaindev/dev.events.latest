@@ -1,5 +1,95 @@
 [
     {
+        "title": "ProductFest 2025",
+        "event_date": "June 4, 2025",
+        "location": "Richmond, United States",
+        "link": "https://dev.events/conferences/product-fest-2025-kmaopkaa",
+        "published": "Mon, 03 Feb 2025 09:11:15 GMT",
+        "category": "Product management",
+        "type": "conference"
+    },
+    {
+        "title": "SQL Saturday Baton Rouge 2025",
+        "event_date": "July 25, 2025",
+        "location": "Baton Rouge, United States",
+        "link": "https://dev.events/conferences/sql-saturday-baton-rouge-2025-j6hcgvf9",
+        "published": "Mon, 03 Feb 2025 09:06:12 GMT",
+        "category": "SQL",
+        "type": "conference"
+    },
+    {
+        "title": "SEI Secure Software by Design 2025",
+        "event_date": "August 19, 2025",
+        "location": "Arlington, United States",
+        "link": "https://dev.events/conferences/sei-secure-software-by-design-2025-pwghr37v",
+        "published": "Mon, 03 Feb 2025 09:04:54 GMT",
+        "category": "Cybersecurity / InfoSec",
+        "type": "conference"
+    },
+    {
+        "title": "RailsConf 2025",
+        "event_date": "July 8, 2025",
+        "location": "Philadelphia, United States",
+        "link": "https://dev.events/conferences/rails-conf-2025-uer0hhkj",
+        "published": "Mon, 03 Feb 2025 09:03:40 GMT",
+        "category": "Ruby on Rails",
+        "type": "conference"
+    },
+    {
+        "title": "2 Years of Nooga Code & Coffee",
+        "event_date": "April 5, 2025",
+        "location": "Chattanooga, United States",
+        "link": "https://dev.events/conferences/2-years-of-nooga-code-and-coffee-305165348",
+        "published": "Mon, 03 Feb 2025 03:00:49 GMT",
+        "category": "Tech",
+        "type": "meetup"
+    },
+    {
+        "title": "Indie Co-working Support Group (ISG - IRL)",
+        "event_date": "February 8, 2025",
+        "location": "Seattle, United States",
+        "link": "https://dev.events/conferences/indie-co-working-support-group-isg-irl-305708446",
+        "published": "Mon, 03 Feb 2025 03:00:39 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "Game Creators Meetup",
+        "event_date": "March 16, 2025",
+        "location": "Louisville, United States",
+        "link": "https://dev.events/conferences/game-creators-meetup-shxsctyhcfbvb",
+        "published": "Mon, 03 Feb 2025 03:00:35 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "Work and Chill 2: Artistic Boogaloo",
+        "event_date": "February 9, 2025",
+        "location": "Denver, United States",
+        "link": "https://dev.events/conferences/work-and-chill-2-artistic-boogaloo-305724906",
+        "published": "Mon, 03 Feb 2025 03:00:18 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "Coffee and Game Dev Sundays at Six Twelve",
+        "event_date": "March 30, 2025",
+        "location": "Fayetteville, United States",
+        "link": "https://dev.events/conferences/coffee-and-game-dev-sundays-at-six-twelve-wtjrptyhcfbnc",
+        "published": "Mon, 03 Feb 2025 03:00:12 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "Global Game Jam SHOWCASE 2025",
+        "event_date": "February 25, 2025",
+        "location": "Nashville, United States",
+        "link": "https://dev.events/conferences/global-game-jam-showcase-2025-305926141",
+        "published": "Mon, 03 Feb 2025 03:00:09 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
         "title": "SGVHAK Study Session",
         "event_date": "February 22, 2025",
         "location": "Arcadia, United States",
@@ -279,15 +369,6 @@
         "type": "meetup"
     },
     {
-        "title": "Advancing AWS Security",
-        "event_date": "February 3, 2025",
-        "location": "Douglas, United States",
-        "link": "https://dev.events/conferences/advancing-aws-security-305887748",
-        "published": "Fri, 31 Jan 2025 03:10:21 GMT",
-        "category": "AWS",
-        "type": "meetup"
-    },
-    {
         "title": "AWS Happy Hour and Networking",
         "event_date": "February 20, 2025",
         "location": "Greenville, United States",
@@ -410,15 +491,6 @@
         "location": "Tampa, United States",
         "link": "https://dev.events/conferences/xr-in-2025-and-beyond-charting-the-course-of-immersive-experiences-305908670",
         "published": "Fri, 31 Jan 2025 03:02:01 GMT",
-        "category": "AR / VR / XR",
-        "type": "meetup"
-    },
-    {
-        "title": "Meet New People!!  Sunday  Night Networking",
-        "event_date": "February 3, 2025",
-        "location": "Santa Clara, United States",
-        "link": "https://dev.events/conferences/meet-new-people-sunday-night-networking-305603524",
-        "published": "Fri, 31 Jan 2025 03:01:54 GMT",
         "category": "AR / VR / XR",
         "type": "meetup"
     },
@@ -797,15 +869,6 @@
         "location": "Memphis, United States",
         "link": "https://dev.events/conferences/memphis-tech-lunch-305203316",
         "published": "Wed, 29 Jan 2025 03:04:19 GMT",
-        "category": "Tech",
-        "type": "meetup"
-    },
-    {
-        "title": "C&C at [RoundBird]",
-        "event_date": "February 3, 2025",
-        "location": "Jacksonville Beach, United States",
-        "link": "https://dev.events/conferences/c-and-c-at-round-bird-305607189",
-        "published": "Wed, 29 Jan 2025 03:04:17 GMT",
         "category": "Tech",
         "type": "meetup"
     },
@@ -1320,15 +1383,6 @@
         "link": "https://dev.events/conferences/weekly-project-meetup-305804855",
         "published": "Sun, 26 Jan 2025 03:00:10 GMT",
         "category": "Game dev",
-        "type": "meetup"
-    },
-    {
-        "title": "Central Cambridge Rust Lunch, Feb 3",
-        "event_date": "February 3, 2025",
-        "location": "Cambridge, United States",
-        "link": "https://dev.events/conferences/central-cambridge-rust-lunch-feb-3-305804837",
-        "published": "Sat, 25 Jan 2025 03:07:21 GMT",
-        "category": "Rust",
         "type": "meetup"
     },
     {
@@ -2691,15 +2745,6 @@
         "type": "meetup"
     },
     {
-        "title": "BCC Talk | Automate Your Job Search with AI",
-        "event_date": "February 3, 2025",
-        "location": "Arlington, United States",
-        "link": "https://dev.events/conferences/bcc-talk-automate-your-job-search-with-ai-305630866",
-        "published": "Thu, 16 Jan 2025 03:00:43 GMT",
-        "category": "AI / ML",
-        "type": "meetup"
-    },
-    {
         "title": "TECH TALK: Software Engineer to Founder",
         "event_date": "February 13, 2025",
         "location": "Arlington, United States",
@@ -3552,15 +3597,6 @@
         "link": "https://dev.events/conferences/nyvr-april-2025-305477514",
         "published": "Wed, 08 Jan 2025 03:01:06 GMT",
         "category": "AR / VR / XR",
-        "type": "meetup"
-    },
-    {
-        "title": "GameDev Coworking",
-        "event_date": "February 3, 2025",
-        "location": "Cary, United States",
-        "link": "https://dev.events/conferences/game-dev-coworking-rrxmktyhcdbfb",
-        "published": "Wed, 08 Jan 2025 03:00:23 GMT",
-        "category": "Game dev",
         "type": "meetup"
     },
     {
@@ -7146,15 +7182,6 @@
         "type": "conference"
     },
     {
-        "title": "IntelliC0N",
-        "event_date": "February 3, 2025",
-        "location": "Austin, United States",
-        "link": "https://dev.events/conferences/intelli-c0-n-yzghsrrd",
-        "published": "Sun, 22 Sep 2024 17:12:27 GMT",
-        "category": "Cybersecurity / InfoSec",
-        "type": "conference"
-    },
-    {
         "title": "Deep Dish Swift",
         "event_date": "April 27, 2025",
         "location": "Chicago, United States",
@@ -7530,15 +7557,6 @@
         "link": "https://dev.events/conferences/explore-ddd-2025-8r6dozla",
         "published": "Mon, 01 Jul 2024 12:33:34 GMT",
         "category": "DDD",
-        "type": "conference"
-    },
-    {
-        "title": "DNN Summit 2025",
-        "event_date": "February 3, 2025",
-        "location": "Las Vegas, United States",
-        "link": "https://dev.events/conferences/dnn-summit-2025-dwnlz9f7",
-        "published": "Sun, 23 Jun 2024 09:35:27 GMT",
-        "category": "Tech",
         "type": "conference"
     },
     {
