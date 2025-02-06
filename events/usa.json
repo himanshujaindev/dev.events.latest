@@ -1,5 +1,194 @@
 [
     {
+        "title": "Improving Receipt Understanding @ Fetch",
+        "event_date": "March 13, 2025",
+        "location": "Madison, United States",
+        "link": "https://dev.events/conferences/improving-receipt-understanding-fetch-305982723",
+        "published": "Wed, 05 Feb 2025 03:11:04 GMT",
+        "category": "Python",
+        "type": "meetup"
+    },
+    {
+        "title": "In Person: Code and Coffee on February 15 from 10am-1pm ET",
+        "event_date": "February 15, 2025",
+        "location": "Roanoke, United States",
+        "link": "https://dev.events/conferences/in-person-code-and-coffee-on-february-15-from-10am-1pm-et-305996905",
+        "published": "Wed, 05 Feb 2025 03:10:12 GMT",
+        "category": ".NET",
+        "type": "meetup"
+    },
+    {
+        "title": "Chaos Monkeys, Open Telemetry, and .NET Aspire: Taming Complexity in Modern Apps",
+        "event_date": "March 11, 2025",
+        "location": "Virginia Beach, United States",
+        "link": "https://dev.events/conferences/chaos-monkeys-open-telemetry-and-net-aspire-taming-complexity-in-modern-apps-305972002",
+        "published": "Wed, 05 Feb 2025 03:10:12 GMT",
+        "category": ".NET",
+        "type": "meetup"
+    },
+    {
+        "title": "Hexagonal and Screaming Architecture in .NET",
+        "event_date": "May 13, 2025",
+        "location": "Virginia Beach, United States",
+        "link": "https://dev.events/conferences/hexagonal-and-screaming-architecture-in-net-305991366",
+        "published": "Wed, 05 Feb 2025 03:10:12 GMT",
+        "category": ".NET",
+        "type": "meetup"
+    },
+    {
+        "title": "Using the Magic of SemanticKernel to Build AI Enhanced Application - Tom Becker",
+        "event_date": "March 4, 2025",
+        "location": "Loudoun, United States",
+        "link": "https://dev.events/conferences/using-the-magic-of-semantic-kernel-to-build-ai-enhanced-application-tom-becker-305997380",
+        "published": "Wed, 05 Feb 2025 03:10:10 GMT",
+        "category": "AI / ML",
+        "type": "meetup"
+    },
+    {
+        "title": "Netty framework",
+        "event_date": "February 19, 2025",
+        "location": "Portland, United States",
+        "link": "https://dev.events/conferences/netty-framework-305985590",
+        "published": "Wed, 05 Feb 2025 03:08:51 GMT",
+        "category": "Java",
+        "type": "meetup"
+    },
+    {
+        "title": "Clojure Meetup",
+        "event_date": "April 15, 2025",
+        "location": "Austin, United States",
+        "link": "https://dev.events/conferences/clojure-meetup-305985798",
+        "published": "Wed, 05 Feb 2025 03:08:37 GMT",
+        "category": "Clojure",
+        "type": "meetup"
+    },
+    {
+        "title": "Clojure Meetup",
+        "event_date": "June 10, 2025",
+        "location": "Austin, United States",
+        "link": "https://dev.events/conferences/clojure-meetup-305985801",
+        "published": "Wed, 05 Feb 2025 03:08:37 GMT",
+        "category": "Clojure",
+        "type": "meetup"
+    },
+    {
+        "title": "Clojure Meetup",
+        "event_date": "August 12, 2025",
+        "location": "Austin, United States",
+        "link": "https://dev.events/conferences/clojure-meetup-305985803",
+        "published": "Wed, 05 Feb 2025 03:08:37 GMT",
+        "category": "Clojure",
+        "type": "meetup"
+    },
+    {
+        "title": "IN-PERSON! Crossover Meeting with Collin College Software Engineering Club",
+        "event_date": "February 8, 2025",
+        "location": "Plano, United States",
+        "link": "https://dev.events/conferences/in-person-crossover-meeting-with-collin-college-software-engineering-club-306001689",
+        "published": "Wed, 05 Feb 2025 03:08:24 GMT",
+        "category": "Rust",
+        "type": "meetup"
+    },
+    {
+        "title": "Command Wine with The Bluegrass Developers Guild",
+        "event_date": "February 18, 2025",
+        "location": "Lexington, United States",
+        "link": "https://dev.events/conferences/command-wine-with-the-bluegrass-developers-guild-303266085",
+        "published": "Wed, 05 Feb 2025 03:08:13 GMT",
+        "category": "Tech",
+        "type": "meetup"
+    },
+    {
+        "title": "Drinks with a Chance of Clouds March 2025 Edition",
+        "event_date": "March 18, 2025",
+        "location": "Austin, United States",
+        "link": "https://dev.events/conferences/drinks-with-a-chance-of-clouds-march-2025-edition-305148882",
+        "published": "Wed, 05 Feb 2025 03:05:55 GMT",
+        "category": "Cloud",
+        "type": "meetup"
+    },
+    {
+        "title": "Bellevue College - Quality Software Practices",
+        "event_date": "February 12, 2025",
+        "location": "Bellevue, United States",
+        "link": "https://dev.events/conferences/bellevue-college-quality-software-practices-305997213",
+        "published": "Wed, 05 Feb 2025 03:04:08 GMT",
+        "category": "Tech",
+        "type": "meetup"
+    },
+    {
+        "title": "C&C at  [Tetherball Coffee]",
+        "event_date": "February 10, 2025",
+        "location": "Jacksonville, United States",
+        "link": "https://dev.events/conferences/c-and-c-at-tetherball-coffee-305734672",
+        "published": "Wed, 05 Feb 2025 03:04:00 GMT",
+        "category": "Tech",
+        "type": "meetup"
+    },
+    {
+        "title": "Baymeadows Code and Coffee",
+        "event_date": "February 11, 2025",
+        "location": "Jacksonville , United States",
+        "link": "https://dev.events/conferences/baymeadows-code-and-coffee-305752363",
+        "published": "Wed, 05 Feb 2025 03:04:00 GMT",
+        "category": "Tech",
+        "type": "meetup"
+    },
+    {
+        "title": "Open Hax",
+        "event_date": "March 4, 2025",
+        "location": "Jacksonville, United States",
+        "link": "https://dev.events/conferences/open-hax-llklbtyhcfbgb",
+        "published": "Wed, 05 Feb 2025 03:03:58 GMT",
+        "category": "Ruby",
+        "type": "meetup"
+    },
+    {
+        "title": "SeattleJS presents: The Future of JavaScript with TC39",
+        "event_date": "February 21, 2025",
+        "location": "Seattle, United States",
+        "link": "https://dev.events/conferences/seattle-js-presents-the-future-of-java-script-with-tc-39-306001268",
+        "published": "Wed, 05 Feb 2025 03:03:03 GMT",
+        "category": "JavaScript",
+        "type": "meetup"
+    },
+    {
+        "title": "Presentation To Be Announced Soon!",
+        "event_date": "June 3, 2025",
+        "location": "Richmond, United States",
+        "link": "https://dev.events/conferences/presentation-to-be-announced-soon-szjphryhcjbfb",
+        "published": "Wed, 05 Feb 2025 03:02:57 GMT",
+        "category": "JavaScript",
+        "type": "meetup"
+    },
+    {
+        "title": "Dave Thomas!  Love, Infatuation, and Programming Languages",
+        "event_date": "February 21, 2025",
+        "location": "South Jordan, United States",
+        "link": "https://dev.events/conferences/dave-thomas-love-infatuation-and-programming-languages-303871115",
+        "published": "Wed, 05 Feb 2025 03:02:55 GMT",
+        "category": "Java",
+        "type": "meetup"
+    },
+    {
+        "title": "Remix Meetup February - Kent C. Dodds - Adding Passkey Support in Epic Stack",
+        "event_date": "February 7, 2025",
+        "location": "Lehi, United States",
+        "link": "https://dev.events/conferences/remix-meetup-february-kent-c-dodds-adding-passkey-support-in-epic-stack-305604861",
+        "published": "Wed, 05 Feb 2025 03:02:22 GMT",
+        "category": "React",
+        "type": "meetup"
+    },
+    {
+        "title": "GameDev Coworking",
+        "event_date": "March 3, 2025",
+        "location": "Cary, United States",
+        "link": "https://dev.events/conferences/game-dev-coworking-rrxmktyhcfbfb",
+        "published": "Wed, 05 Feb 2025 03:00:29 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
         "title": "Python Office Hours!",
         "event_date": "March 30, 2025",
         "location": "Irvine, United States",
@@ -46,7 +235,7 @@
     },
     {
         "title": "Clojure Meetup",
-        "event_date": "February 10, 2025",
+        "event_date": "February 11, 2025",
         "location": "Austin, United States",
         "link": "https://dev.events/conferences/clojure-meetup-305985739",
         "published": "Tue, 04 Feb 2025 03:12:05 GMT",
@@ -495,15 +684,6 @@
         "type": "meetup"
     },
     {
-        "title": "Eastside Meetup - Seattle Indies",
-        "event_date": "February 5, 2025",
-        "location": "Redmond, United States",
-        "link": "https://dev.events/conferences/eastside-meetup-seattle-indies-305392301",
-        "published": "Sat, 01 Feb 2025 03:00:37 GMT",
-        "category": "Game dev",
-        "type": "meetup"
-    },
-    {
         "title": "OC Indies Monthly",
         "event_date": "May 29, 2025",
         "location": "Santa Ana, United States",
@@ -600,15 +780,6 @@
         "link": "https://dev.events/conferences/dev-memphis-mapping-connectivity-exploring-ofg-s-open-data-initiative-303646601",
         "published": "Fri, 31 Jan 2025 03:04:50 GMT",
         "category": "Data / Database",
-        "type": "meetup"
-    },
-    {
-        "title": "Fruit Cove Code and Coffee",
-        "event_date": "February 5, 2025",
-        "location": "Jacksonville, United States",
-        "link": "https://dev.events/conferences/fruit-cove-code-and-coffee-304916390",
-        "published": "Fri, 31 Jan 2025 03:04:48 GMT",
-        "category": "Tech",
         "type": "meetup"
     },
     {
@@ -780,15 +951,6 @@
         "link": "https://dev.events/conferences/portland-geek-dinner-hillsboro-305458328",
         "published": "Thu, 30 Jan 2025 03:09:48 GMT",
         "category": ".NET",
-        "type": "meetup"
-    },
-    {
-        "title": "Book club - The Reactionary Mind (2nd edition) Chapters 2 and 3",
-        "event_date": "February 5, 2025",
-        "location": "Lexington, United States",
-        "link": "https://dev.events/conferences/book-club-the-reactionary-mind-2nd-edition-chapters-2-and-3-305891897",
-        "published": "Thu, 30 Jan 2025 03:08:04 GMT",
-        "category": "Tech",
         "type": "meetup"
     },
     {
@@ -1032,15 +1194,6 @@
         "link": "https://dev.events/conferences/dev-ops-boulder-monthly-305718539",
         "published": "Wed, 29 Jan 2025 03:06:05 GMT",
         "category": "DevOps",
-        "type": "meetup"
-    },
-    {
-        "title": "Memphis Tech Lunch",
-        "event_date": "February 5, 2025",
-        "location": "Memphis, United States",
-        "link": "https://dev.events/conferences/memphis-tech-lunch-305203316",
-        "published": "Wed, 29 Jan 2025 03:04:19 GMT",
-        "category": "Tech",
         "type": "meetup"
     },
     {
@@ -1503,15 +1656,6 @@
         "type": "meetup"
     },
     {
-        "title": "Art Tech & Game Coffee Meetup",
-        "event_date": "February 5, 2025",
-        "location": "Eugene, United States",
-        "link": "https://dev.events/conferences/art-tech-and-game-coffee-meetup-305650562",
-        "published": "Sun, 26 Jan 2025 03:00:40 GMT",
-        "category": "Game dev",
-        "type": "meetup"
-    },
-    {
         "title": "In-Person Game Development Meetup",
         "event_date": "February 22, 2025",
         "location": "Pittsburgh, United States",
@@ -1626,24 +1770,6 @@
         "link": "https://dev.events/conferences/memphis-net-and-azure-developers-group-in-person-meetup-303646562",
         "published": "Fri, 24 Jan 2025 03:10:06 GMT",
         "category": ".NET",
-        "type": "meetup"
-    },
-    {
-        "title": "Integrating AI into C# Applications with the .NET Semantic Kernel and Azure AI",
-        "event_date": "February 5, 2025",
-        "location": "Chesterfield , United States",
-        "link": "https://dev.events/conferences/integrating-ai-into-c-applications-with-the-net-semantic-kernel-and-azure-ai-305701602",
-        "published": "Fri, 24 Jan 2025 03:09:57 GMT",
-        "category": "AI / ML",
-        "type": "meetup"
-    },
-    {
-        "title": "February Data Happy Hour @ City Foundry STL",
-        "event_date": "February 5, 2025",
-        "location": "St. Louis, United States",
-        "link": "https://dev.events/conferences/february-data-happy-hour-city-foundry-stl-305754246",
-        "published": "Fri, 24 Jan 2025 03:06:07 GMT",
-        "category": "Data / Database",
         "type": "meetup"
     },
     {
@@ -1845,39 +1971,12 @@
         "type": "meetup"
     },
     {
-        "title": "Using Flutter for Embedded Systems",
-        "event_date": "February 5, 2025",
-        "location": "Waltham, United States",
-        "link": "https://dev.events/conferences/using-flutter-for-embedded-systems-305755336",
-        "published": "Thu, 23 Jan 2025 03:02:03 GMT",
-        "category": "Flutter",
-        "type": "meetup"
-    },
-    {
         "title": "PDXCPP - Monthly Meetup",
         "event_date": "May 21, 2025",
         "location": "Portland, United States",
         "link": "https://dev.events/conferences/pdxcpp-monthly-meetup-fvprbtyhchbbc",
         "published": "Thu, 23 Jan 2025 03:01:28 GMT",
         "category": "C/C++",
-        "type": "meetup"
-    },
-    {
-        "title": "Coffee, co-working, & collab",
-        "event_date": "February 5, 2025",
-        "location": "Mesa, United States",
-        "link": "https://dev.events/conferences/coffee-co-working-and-collab-wbmfltyhcdbhb",
-        "published": "Thu, 23 Jan 2025 03:00:34 GMT",
-        "category": "Tech",
-        "type": "meetup"
-    },
-    {
-        "title": "Beer.js: post-coworking social time",
-        "event_date": "February 5, 2025",
-        "location": "Mesa, United States",
-        "link": "https://dev.events/conferences/beer-js-post-coworking-social-time-qflbhtyhcdbhb",
-        "published": "Thu, 23 Jan 2025 03:00:34 GMT",
-        "category": "Tech",
         "type": "meetup"
     },
     {
@@ -2322,15 +2421,6 @@
         "type": "meetup"
     },
     {
-        "title": "Game Development meetup",
-        "event_date": "February 5, 2025",
-        "location": "Wappingers Falls, United States",
-        "link": "https://dev.events/conferences/game-development-meetup-305673879",
-        "published": "Sun, 19 Jan 2025 03:02:15 GMT",
-        "category": "Game dev",
-        "type": "meetup"
-    },
-    {
         "title": "Talks on AI in Industry & Education at Improving Enterprises",
         "event_date": "February 18, 2025",
         "location": "Alpharetta, United States",
@@ -2754,15 +2844,6 @@
         "type": "meetup"
     },
     {
-        "title": "Learning to L\u00f6ve game development - Designing games with Lua",
-        "event_date": "February 5, 2025",
-        "location": "Frederick, United States",
-        "link": "https://dev.events/conferences/learning-to-loeve-game-development-designing-games-with-lua-305603086",
-        "published": "Thu, 16 Jan 2025 03:05:28 GMT",
-        "category": "Game dev",
-        "type": "meetup"
-    },
-    {
         "title": "Upcoming topic to be announced!",
         "event_date": "May 15, 2025",
         "location": "Plano, United States",
@@ -3069,15 +3150,6 @@
         "type": "meetup"
     },
     {
-        "title": "The Next Evolution: How to Make Immersive Content",
-        "event_date": "February 5, 2025",
-        "location": "Chicago, United States",
-        "link": "https://dev.events/conferences/the-next-evolution-how-to-make-immersive-content-305599768",
-        "published": "Tue, 14 Jan 2025 03:01:32 GMT",
-        "category": "AR / VR / XR",
-        "type": "meetup"
-    },
-    {
         "title": "Strawberry Jam",
         "event_date": "March 9, 2025",
         "location": "Los Angeles, United States",
@@ -3267,15 +3339,6 @@
         "type": "meetup"
     },
     {
-        "title": "Hybrid Weekly Hack Night",
-        "event_date": "February 5, 2025",
-        "location": "Cambridge, United States",
-        "link": "https://dev.events/conferences/hybrid-weekly-hack-night-305543914",
-        "published": "Sat, 11 Jan 2025 03:03:36 GMT",
-        "category": "Tech",
-        "type": "meetup"
-    },
-    {
         "title": "Reno Developer Social Hour",
         "event_date": "March 7, 2025",
         "location": "Reno, United States",
@@ -3366,15 +3429,6 @@
         "type": "meetup"
     },
     {
-        "title": "Playtest and Design Night",
-        "event_date": "February 5, 2025",
-        "location": "Knoxville, United States",
-        "link": "https://dev.events/conferences/playtest-and-design-night-dnhnbtyhcdbhb",
-        "published": "Fri, 10 Jan 2025 03:00:55 GMT",
-        "category": "Game dev",
-        "type": "meetup"
-    },
-    {
         "title": "[IN-PERSON/ONLINE] Game Dev Meetup (Elkridge Branch!)",
         "event_date": "February 15, 2025",
         "location": "Elkridge, United States",
@@ -3429,15 +3483,6 @@
         "type": "meetup"
     },
     {
-        "title": "Portland Geek Dinner - Beaverton!",
-        "event_date": "February 5, 2025",
-        "location": "Beaverton, United States",
-        "link": "https://dev.events/conferences/portland-geek-dinner-beaverton-zffcltyhcdbgb",
-        "published": "Thu, 09 Jan 2025 03:08:50 GMT",
-        "category": ".NET",
-        "type": "meetup"
-    },
-    {
         "title": "AI in Action: RAG Chatbots & GenAI Infrastructure. co-hosted with Elastic",
         "event_date": "February 13, 2025",
         "location": "San Francisco, United States",
@@ -3452,15 +3497,6 @@
         "location": "St. Augustine, United States",
         "link": "https://dev.events/conferences/hang-out-and-talk-code-oddbirds-mkrvktyhcfbgb",
         "published": "Thu, 09 Jan 2025 03:06:58 GMT",
-        "category": "Tech",
-        "type": "meetup"
-    },
-    {
-        "title": "Virtual Weekly Hack Night",
-        "event_date": "February 5, 2025",
-        "location": "Boston, United States",
-        "link": "https://dev.events/conferences/virtual-weekly-hack-night-hdjgbtyhcdbgb",
-        "published": "Thu, 09 Jan 2025 03:03:31 GMT",
         "category": "Tech",
         "type": "meetup"
     },
@@ -3488,15 +3524,6 @@
         "location": "Fort Worth, United States",
         "link": "https://dev.events/conferences/dfw-code-and-coffee-13-at-utafw-305503775",
         "published": "Thu, 09 Jan 2025 03:03:20 GMT",
-        "category": "Tech",
-        "type": "meetup"
-    },
-    {
-        "title": "Low-Pressure Social Get-Together",
-        "event_date": "February 5, 2025",
-        "location": "Asheville, United States",
-        "link": "https://dev.events/conferences/low-pressure-social-get-together-nfhpptyhcdbhb",
-        "published": "Thu, 09 Jan 2025 03:03:18 GMT",
         "category": "Tech",
         "type": "meetup"
     },
@@ -3615,15 +3642,6 @@
         "link": "https://dev.events/conferences/multiplayer-collab-platform-w-trystero-serverless-web-rtc-and-seo-using-next-js-304402684",
         "published": "Wed, 08 Jan 2025 03:02:26 GMT",
         "category": "Serverless",
-        "type": "meetup"
-    },
-    {
-        "title": "EF Core: Its all Foreign!",
-        "event_date": "February 5, 2025",
-        "location": "Spokane, United States and Online",
-        "link": "https://dev.events/conferences/ef-core-its-all-foreign-305365698",
-        "published": "Wed, 08 Jan 2025 03:01:48 GMT",
-        "category": ".NET",
         "type": "meetup"
     },
     {
@@ -4419,15 +4437,6 @@
         "type": "meetup"
     },
     {
-        "title": "Code and Coffee",
-        "event_date": "February 5, 2025",
-        "location": "Kalamazoo, United States",
-        "link": "https://dev.events/conferences/code-and-coffee-304315820",
-        "published": "Thu, 19 Dec 2024 03:03:08 GMT",
-        "category": "Tech",
-        "type": "meetup"
-    },
-    {
         "title": "Seattle JS Monthly Meetup",
         "event_date": "February 13, 2025",
         "location": "Seattle, United States",
@@ -4623,15 +4632,6 @@
         "link": "https://dev.events/conferences/dev-ops-boulder-monthly-303476230",
         "published": "Sun, 15 Dec 2024 03:04:38 GMT",
         "category": "DevOps",
-        "type": "meetup"
-    },
-    {
-        "title": "RIoT XCV - State of The Region 2025",
-        "event_date": "February 5, 2025",
-        "location": "Raleigh, United States",
-        "link": "https://dev.events/conferences/r-io-t-xcv-state-of-the-region-2025-305064861",
-        "published": "Sun, 15 Dec 2024 03:03:32 GMT",
-        "category": "Hardware / IoT",
         "type": "meetup"
     },
     {
@@ -4869,15 +4869,6 @@
         "type": "meetup"
     },
     {
-        "title": "Hang out and talk code [Oddbirds]",
-        "event_date": "February 5, 2025",
-        "location": "St. Augustine, United States",
-        "link": "https://dev.events/conferences/hang-out-and-talk-code-oddbirds-mkrvktyhcdbgb",
-        "published": "Wed, 11 Dec 2024 03:07:11 GMT",
-        "category": "Tech",
-        "type": "meetup"
-    },
-    {
         "title": "BayLISA Monthly General Meeting",
         "event_date": "April 18, 2025",
         "location": "Santa Clara, United States",
@@ -5073,15 +5064,6 @@
         "link": "https://dev.events/conferences/deschutes-tech-guild-march-meetup-304938731",
         "published": "Fri, 06 Dec 2024 03:04:47 GMT",
         "category": "Tech",
-        "type": "meetup"
-    },
-    {
-        "title": "CocoaHeads SLC",
-        "event_date": "February 5, 2025",
-        "location": "Midvale, United States",
-        "link": "https://dev.events/conferences/cocoa-heads-slc-ghztktyhcdbgb",
-        "published": "Fri, 06 Dec 2024 03:02:55 GMT",
-        "category": "iOS / Swift",
         "type": "meetup"
     },
     {
@@ -5326,15 +5308,6 @@
         "published": "Tue, 26 Nov 2024 03:00:44 GMT",
         "category": "C/C++",
         "type": "meetup"
-    },
-    {
-        "title": "Wild West Hackin\u2019 Fest @ Mile High 2025",
-        "event_date": "February 5, 2025",
-        "location": "Denver, United States",
-        "link": "https://dev.events/conferences/wild-west-hackin-fest-mile-high-2025-chbgup0u",
-        "published": "Sun, 24 Nov 2024 10:48:00 GMT",
-        "category": "Cybersecurity / InfoSec",
-        "type": "conference"
     },
     {
         "title": "ChiBrrCon V",
@@ -5730,15 +5703,6 @@
         "link": "https://dev.events/conferences/monthly-meeting-kdchzsyhcfbrb",
         "published": "Tue, 19 Nov 2024 07:00:38 GMT",
         "category": ".NET",
-        "type": "meetup"
-    },
-    {
-        "title": "Capture the Flag! Gamifying hunting application security holes!",
-        "event_date": "February 5, 2025",
-        "location": "Indianapolis, United States and Online",
-        "link": "https://dev.events/conferences/capture-the-flag-gamifying-hunting-application-security-holes-304434337",
-        "published": "Tue, 19 Nov 2024 07:00:36 GMT",
-        "category": "Cybersecurity / InfoSec",
         "type": "meetup"
     },
     {
@@ -7065,15 +7029,6 @@
         "type": "meetup"
     },
     {
-        "title": "GoStdlib: The `os` package",
-        "event_date": "February 5, 2025",
-        "location": "Lehi, United States",
-        "link": "https://dev.events/conferences/go-stdlib-the-os-package-303790193",
-        "published": "Wed, 09 Oct 2024 06:38:29 GMT",
-        "category": "Golang",
-        "type": "meetup"
-    },
-    {
         "title": "Columbus Containers and Friends Meetup at Improving 6:30 pm!",
         "event_date": "August 26, 2025",
         "location": "Columbus, United States",
@@ -7110,15 +7065,6 @@
         "type": "meetup"
     },
     {
-        "title": "Intro to Data Engineering: A Primer",
-        "event_date": "February 5, 2025",
-        "location": "Tampa, United States",
-        "link": "https://dev.events/conferences/intro-to-data-engineering-a-primer-302145600",
-        "published": "Wed, 09 Oct 2024 06:36:53 GMT",
-        "category": "Data / Database",
-        "type": "meetup"
-    },
-    {
         "title": "Relational Databases and Data Warehouses: A Practical Overview",
         "event_date": "March 5, 2025",
         "location": "Tampa, United States",
@@ -7143,15 +7089,6 @@
         "link": "https://dev.events/conferences/sdbug-meeting-xhhnntyhcdbjb",
         "published": "Wed, 09 Oct 2024 06:28:38 GMT",
         "category": "BSD / OS",
-        "type": "meetup"
-    },
-    {
-        "title": "C++ Optimizations Part3 - How and why modern C++ runs fast.",
-        "event_date": "February 5, 2025",
-        "location": "Austin, United States",
-        "link": "https://dev.events/conferences/c-optimizations-part3-how-and-why-modern-c-runs-fast-wcbnntyhcdbgb",
-        "published": "Wed, 09 Oct 2024 06:28:11 GMT",
-        "category": "C/C++",
         "type": "meetup"
     },
     {
