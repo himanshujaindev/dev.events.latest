@@ -1,5 +1,86 @@
 [
     {
+        "title": "QCon San Francisco",
+        "event_date": "November 17, 2025",
+        "location": "San Francisco, United States",
+        "link": "https://dev.events/conferences/q-con-san-francisco-mrfce-kk",
+        "published": "Thu, 06 Feb 2025 08:16:17 GMT",
+        "category": "Software architecture",
+        "type": "conference"
+    },
+    {
+        "title": "AI By The Bay",
+        "event_date": "November 17, 2025",
+        "location": "Oakland, United States",
+        "link": "https://dev.events/conferences/ai-by-the-bay-fhv4atv3",
+        "published": "Thu, 06 Feb 2025 08:15:34 GMT",
+        "category": "AI / ML",
+        "type": "conference"
+    },
+    {
+        "title": "Nooga Code & Coffee ft. Leveraging OCR data to build an overnight App",
+        "event_date": "March 1, 2025",
+        "location": "Chattanooga, United States",
+        "link": "https://dev.events/conferences/nooga-code-and-coffee-ft-leveraging-ocr-data-to-build-an-overnight-app-305165345",
+        "published": "Thu, 06 Feb 2025 03:00:44 GMT",
+        "category": "Tech",
+        "type": "meetup"
+    },
+    {
+        "title": "Coffee, co-working, & collab",
+        "event_date": "February 19, 2025",
+        "location": "Mesa, United States",
+        "link": "https://dev.events/conferences/coffee-co-working-and-collab-wbmfltyhcdbzb",
+        "published": "Thu, 06 Feb 2025 03:00:40 GMT",
+        "category": "Tech",
+        "type": "meetup"
+    },
+    {
+        "title": "Beer.js: post-coworking social time",
+        "event_date": "February 19, 2025",
+        "location": "Mesa, United States",
+        "link": "https://dev.events/conferences/beer-js-post-coworking-social-time-305908489",
+        "published": "Thu, 06 Feb 2025 03:00:40 GMT",
+        "category": "Tech",
+        "type": "meetup"
+    },
+    {
+        "title": "Painting to Playable: Creating Game Worlds with Houdini",
+        "event_date": "February 21, 2025",
+        "location": "Austin, United States",
+        "link": "https://dev.events/conferences/painting-to-playable-creating-game-worlds-with-houdini-306008586",
+        "published": "Thu, 06 Feb 2025 03:00:24 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "[IN-PERSON/ONLINE] Game Dev Meetup (East Columbia Branch)",
+        "event_date": "March 15, 2025",
+        "location": "Columbia, United States",
+        "link": "https://dev.events/conferences/in-person-online-game-dev-meetup-east-columbia-branch-305996752",
+        "published": "Thu, 06 Feb 2025 03:00:15 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "Game Dev Coworking",
+        "event_date": "February 25, 2025",
+        "location": "Oakland, United States",
+        "link": "https://dev.events/conferences/game-dev-coworking-306016704",
+        "published": "Thu, 06 Feb 2025 03:00:08 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "Weekly Project Meetup",
+        "event_date": "February 28, 2025",
+        "location": "Plano, United States",
+        "link": "https://dev.events/conferences/weekly-project-meetup-cwssbtyhcdbkc",
+        "published": "Thu, 06 Feb 2025 03:00:08 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
         "title": "Improving Receipt Understanding @ Fetch",
         "event_date": "March 13, 2025",
         "location": "Madison, United States",
@@ -303,15 +384,6 @@
         "link": "https://dev.events/conferences/memsec-defcon-901-memphis-info-sec-social-17-305961692",
         "published": "Tue, 04 Feb 2025 03:05:26 GMT",
         "category": "Cybersecurity / InfoSec",
-        "type": "meetup"
-    },
-    {
-        "title": "Saint Augustine Cowork and Coffee [Address Coffee]",
-        "event_date": "February 6, 2025",
-        "location": "Saint Augustine, United States",
-        "link": "https://dev.events/conferences/saint-augustine-cowork-and-coffee-address-coffee-305667302",
-        "published": "Tue, 04 Feb 2025 03:05:21 GMT",
-        "category": "Tech",
         "type": "meetup"
     },
     {
@@ -684,6 +756,15 @@
         "type": "meetup"
     },
     {
+        "title": "Pierce County Social",
+        "event_date": "February 11, 2025",
+        "location": "Tacoma, United States",
+        "link": "https://dev.events/conferences/pierce-county-social-305654908",
+        "published": "Sat, 01 Feb 2025 03:00:37 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
         "title": "OC Indies Monthly",
         "event_date": "May 29, 2025",
         "location": "Santa Ana, United States",
@@ -774,15 +855,6 @@
         "type": "meetup"
     },
     {
-        "title": "DevMemphis - Mapping Connectivity: Exploring OFG\u2019s Open Data Initiative",
-        "event_date": "February 6, 2025",
-        "location": "Memphis, United States",
-        "link": "https://dev.events/conferences/dev-memphis-mapping-connectivity-exploring-ofg-s-open-data-initiative-303646601",
-        "published": "Fri, 31 Jan 2025 03:04:50 GMT",
-        "category": "Data / Database",
-        "type": "meetup"
-    },
-    {
         "title": "Ruby @ Tegus by AlphaSense",
         "event_date": "April 2, 2025",
         "location": "Chicago, United States",
@@ -834,15 +906,6 @@
         "link": "https://dev.events/conferences/monthly-meetup-dbblgtyhchbrb",
         "published": "Fri, 31 Jan 2025 03:02:27 GMT",
         "category": "JavaScript",
-        "type": "meetup"
-    },
-    {
-        "title": "How to Pitch to Investors and Get the Deal in a COVID-19 World",
-        "event_date": "February 6, 2025",
-        "location": "Palo Alto, United States",
-        "link": "https://dev.events/conferences/how-to-pitch-to-investors-and-get-the-deal-in-a-covid-19-world-xrjhzryhcdbjb",
-        "published": "Fri, 31 Jan 2025 03:02:10 GMT",
-        "category": "Startup",
         "type": "meetup"
     },
     {
@@ -1131,15 +1194,6 @@
         "link": "https://dev.events/conferences/data-frame-a-swiss-army-knife-of-java-data-processing-305854381",
         "published": "Wed, 29 Jan 2025 03:09:31 GMT",
         "category": "Java",
-        "type": "meetup"
-    },
-    {
-        "title": "AWS User Group Meetup re:Invent re:Cap!",
-        "event_date": "February 6, 2025",
-        "location": "Austin, United States",
-        "link": "https://dev.events/conferences/aws-user-group-meetup-re-invent-re-cap-305864178",
-        "published": "Wed, 29 Jan 2025 03:08:47 GMT",
-        "category": "AWS",
         "type": "meetup"
     },
     {
@@ -1818,15 +1872,6 @@
         "type": "meetup"
     },
     {
-        "title": "XR DOJO's \"Reality Mixer\" \u2013 Practical AI Techniques for Business and Personal",
-        "event_date": "February 6, 2025",
-        "location": "Marietta, United States",
-        "link": "https://dev.events/conferences/xr-dojo-s-reality-mixer-practical-ai-techniques-for-business-and-personal-305780804",
-        "published": "Fri, 24 Jan 2025 03:00:31 GMT",
-        "category": "AR / VR / XR",
-        "type": "meetup"
-    },
-    {
         "title": "Share & Play Q1 2025",
         "event_date": "March 1, 2025",
         "location": "St. Louis, United States",
@@ -2277,15 +2322,6 @@
         "type": "meetup"
     },
     {
-        "title": "VR Double Feature!  BANJAX & UNDERDOGS",
-        "event_date": "February 6, 2025",
-        "location": "Los Angeles, United States",
-        "link": "https://dev.events/conferences/vr-double-feature-banjax-and-underdogs-305709797",
-        "published": "Tue, 21 Jan 2025 03:01:08 GMT",
-        "category": "AR / VR / XR",
-        "type": "meetup"
-    },
-    {
         "title": "Excuse To Create",
         "event_date": "March 1, 2025",
         "location": "Cleveland, United States",
@@ -2592,15 +2628,6 @@
         "type": "meetup"
     },
     {
-        "title": "Lean Coffee Dynamic Discussion",
-        "event_date": "February 6, 2025",
-        "location": "Independence, United States",
-        "link": "https://dev.events/conferences/lean-coffee-dynamic-discussion-305639044",
-        "published": "Sat, 18 Jan 2025 03:04:16 GMT",
-        "category": "DevOps",
-        "type": "meetup"
-    },
-    {
         "title": "Cocktails + Code",
         "event_date": "May 22, 2025",
         "location": "Portland, United States",
@@ -2620,15 +2647,6 @@
     },
     {
         "title": "Remix Austin",
-        "event_date": "February 6, 2025",
-        "location": "Austin, United States",
-        "link": "https://dev.events/conferences/remix-austin-305673923",
-        "published": "Sat, 18 Jan 2025 03:03:44 GMT",
-        "category": "React",
-        "type": "meetup"
-    },
-    {
-        "title": "Remix Austin",
         "event_date": "March 6, 2025",
         "location": "Austin, United States",
         "link": "https://dev.events/conferences/remix-austin-305679403",
@@ -2642,15 +2660,6 @@
         "location": "Seattle, United States",
         "link": "https://dev.events/conferences/ai-tools-for-business-analysts-305676149",
         "published": "Sat, 18 Jan 2025 03:02:05 GMT",
-        "category": "AI / ML",
-        "type": "meetup"
-    },
-    {
-        "title": "San Francisco AI Investors & Networking",
-        "event_date": "February 6, 2025",
-        "location": "San Francisco, United States",
-        "link": "https://dev.events/conferences/san-francisco-ai-investors-and-networking-305644121",
-        "published": "Sat, 18 Jan 2025 03:01:56 GMT",
         "category": "AI / ML",
         "type": "meetup"
     },
@@ -3600,15 +3609,6 @@
         "type": "meetup"
     },
     {
-        "title": "Driving Productivity Gains With AI",
-        "event_date": "February 6, 2025",
-        "location": "Minneapolis, United States",
-        "link": "https://dev.events/conferences/driving-productivity-gains-with-ai-305476965",
-        "published": "Wed, 08 Jan 2025 03:09:04 GMT",
-        "category": "AI / ML",
-        "type": "meetup"
-    },
-    {
         "title": "Clojure Talk",
         "event_date": "May 15, 2025",
         "location": "Austin, United States",
@@ -3814,15 +3814,6 @@
         "published": "Sun, 05 Jan 2025 08:35:28 GMT",
         "category": "Python",
         "type": "conference"
-    },
-    {
-        "title": "Bytes & Brews with the Bluegrass Developers Guild",
-        "event_date": "February 6, 2025",
-        "location": "Lexington, United States",
-        "link": "https://dev.events/conferences/bytes-and-brews-with-the-bluegrass-developers-guild-pwtxmtyhcdbjb",
-        "published": "Sun, 05 Jan 2025 03:07:36 GMT",
-        "category": "Tech",
-        "type": "meetup"
     },
     {
         "title": "Frederick Tech Open Workshop - 3rd Saturday",
@@ -7278,15 +7269,6 @@
         "link": "https://dev.events/conferences/mac-admins-conference-2024-kosidshr",
         "published": "Mon, 26 Aug 2024 11:56:47 GMT",
         "category": "Apple",
-        "type": "conference"
-    },
-    {
-        "title": "CyberConVA 2025",
-        "event_date": "February 6, 2025",
-        "location": "Richmond, United States",
-        "link": "https://dev.events/conferences/cyber-con-va-2025-o-0zdwy",
-        "published": "Sun, 25 Aug 2024 07:41:19 GMT",
-        "category": "Cybersecurity / InfoSec",
         "type": "conference"
     },
     {
