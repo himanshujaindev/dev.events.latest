@@ -1,5 +1,149 @@
 [
     {
+        "title": "OpenStreetMap w/Andrew Belt",
+        "event_date": "February 11, 2025",
+        "location": "Johnson City, United States",
+        "link": "https://dev.events/conferences/open-street-map-w-andrew-belt-303931035",
+        "published": "Sun, 09 Feb 2025 03:09:32 GMT",
+        "category": ".NET",
+        "type": "meetup"
+    },
+    {
+        "title": "EVSec CitySec Meet-up: Security & Beer",
+        "event_date": "June 6, 2025",
+        "location": "Mesa, United States",
+        "link": "https://dev.events/conferences/ev-sec-city-sec-meet-up-security-and-beer-304957161",
+        "published": "Sun, 09 Feb 2025 03:07:27 GMT",
+        "category": "Cybersecurity / InfoSec",
+        "type": "meetup"
+    },
+    {
+        "title": "February Social",
+        "event_date": "February 20, 2025",
+        "location": "Schenectady, United States",
+        "link": "https://dev.events/conferences/february-social-305626846",
+        "published": "Sun, 09 Feb 2025 03:05:58 GMT",
+        "category": "AWS",
+        "type": "meetup"
+    },
+    {
+        "title": "The Art of Storytelling in Tech: Communicating Ideas That Stick",
+        "event_date": "February 21, 2025",
+        "location": "Plano, United States",
+        "link": "https://dev.events/conferences/the-art-of-storytelling-in-tech-communicating-ideas-that-stick-306055633",
+        "published": "Sun, 09 Feb 2025 03:05:28 GMT",
+        "category": "Agile",
+        "type": "meetup"
+    },
+    {
+        "title": "Uncover the Power of Azure AI Search: Navigating Data Made Easy",
+        "event_date": "April 8, 2025",
+        "location": "Virginia Beach, United States",
+        "link": "https://dev.events/conferences/uncover-the-power-of-azure-ai-search-navigating-data-made-easy-306048077",
+        "published": "Sun, 09 Feb 2025 03:05:08 GMT",
+        "category": "Azure",
+        "type": "meetup"
+    },
+    {
+        "title": "March Tech Fest",
+        "event_date": "March 5, 2025",
+        "location": "Tampa, United States",
+        "link": "https://dev.events/conferences/march-tech-fest-306061735",
+        "published": "Sun, 09 Feb 2025 03:03:43 GMT",
+        "category": "Tech",
+        "type": "meetup"
+    },
+    {
+        "title": "Lunch informal Qt get-together in Costa Mesa",
+        "event_date": "April 4, 2025",
+        "location": "Costa Mesa, United States",
+        "link": "https://dev.events/conferences/lunch-informal-qt-get-together-in-costa-mesa-pkwmptyhcgbgb",
+        "published": "Sun, 09 Feb 2025 03:02:10 GMT",
+        "category": "C/C++",
+        "type": "meetup"
+    },
+    {
+        "title": "Meshtastic: Stay Connected Anywhere with Meshtastic, ESP32 & LoRa",
+        "event_date": "February 12, 2025",
+        "location": "Boise, United States",
+        "link": "https://dev.events/conferences/meshtastic-stay-connected-anywhere-with-meshtastic-esp-32-and-lo-ra-306060047",
+        "published": "Sun, 09 Feb 2025 03:01:56 GMT",
+        "category": "Tech",
+        "type": "meetup"
+    },
+    {
+        "title": "Tech Talk & Tastes: AI & XR Brunch Social",
+        "event_date": "February 22, 2025",
+        "location": "Honolulu , United States",
+        "link": "https://dev.events/conferences/tech-talk-and-tastes-ai-and-xr-brunch-social-306062480",
+        "published": "Sun, 09 Feb 2025 03:01:44 GMT",
+        "category": "AI / ML",
+        "type": "meetup"
+    },
+    {
+        "title": "SVVR Work Jam",
+        "event_date": "March 8, 2025",
+        "location": "Santa Clara, United States",
+        "link": "https://dev.events/conferences/svvr-work-jam-306073219",
+        "published": "Sun, 09 Feb 2025 03:01:31 GMT",
+        "category": "AR / VR / XR",
+        "type": "meetup"
+    },
+    {
+        "title": "In-Person Game Development Meetup",
+        "event_date": "March 8, 2025",
+        "location": "Pittsburgh, United States",
+        "link": "https://dev.events/conferences/in-person-game-development-meetup-zftnktyhcfblb",
+        "published": "Sun, 09 Feb 2025 03:00:44 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "Monthly Meetup at GigaParts!",
+        "event_date": "June 6, 2025",
+        "location": "Huntsville, United States",
+        "link": "https://dev.events/conferences/monthly-meetup-at-giga-parts-pdvtktyhcjbjb",
+        "published": "Sun, 09 Feb 2025 03:00:37 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "Let's Discuss Video Game Development",
+        "event_date": "June 14, 2025",
+        "location": "Colorado Springs, United States",
+        "link": "https://dev.events/conferences/let-s-discuss-video-game-development-czqsktyhcjbsb",
+        "published": "Sun, 09 Feb 2025 03:00:35 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "Timpanogos Game Dev Club Meetup - February 2025",
+        "event_date": "February 28, 2025",
+        "location": "American Fork, United States",
+        "link": "https://dev.events/conferences/timpanogos-game-dev-club-meetup-february-2025-306072153",
+        "published": "Sun, 09 Feb 2025 03:00:20 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "Timpanogos Game Dev Club Meetup - March 2025",
+        "event_date": "March 28, 2025",
+        "location": "American Fork, United States",
+        "link": "https://dev.events/conferences/timpanogos-game-dev-club-meetup-march-2025-306072344",
+        "published": "Sun, 09 Feb 2025 03:00:20 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "Austin UE Meetup - February",
+        "event_date": "February 14, 2025",
+        "location": "Austin, United States",
+        "link": "https://dev.events/conferences/austin-ue-meetup-february-306051002",
+        "published": "Sun, 09 Feb 2025 03:00:16 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
         "title": "Build AI Enhanced Applications with the Magic of SemanticKernel - Tom Becker",
         "event_date": "March 4, 2025",
         "location": "Loudoun, United States",
@@ -496,7 +640,7 @@
     },
     {
         "title": "Getting Started with Unity AI w/ Manuel Sainsily!",
-        "event_date": "February 24, 2025",
+        "event_date": "February 25, 2025",
         "location": "New York, United States",
         "link": "https://dev.events/conferences/getting-started-with-unity-ai-w-manuel-sainsily-306024104",
         "published": "Fri, 07 Feb 2025 03:00:25 GMT",
@@ -909,15 +1053,6 @@
         "type": "meetup"
     },
     {
-        "title": "Diversity Collective+ Coffee Chat",
-        "event_date": "February 9, 2025",
-        "location": "Seattle, United States",
-        "link": "https://dev.events/conferences/diversity-collective-coffee-chat-305839448",
-        "published": "Tue, 04 Feb 2025 03:00:45 GMT",
-        "category": "Game dev",
-        "type": "meetup"
-    },
-    {
         "title": "PLAYTEST  with POTIONS & PIXELS",
         "event_date": "February 12, 2025",
         "location": "Charlotte, United States",
@@ -995,15 +1130,6 @@
         "location": "Louisville, United States",
         "link": "https://dev.events/conferences/game-creators-meetup-shxsctyhcfbvb",
         "published": "Mon, 03 Feb 2025 03:00:35 GMT",
-        "category": "Game dev",
-        "type": "meetup"
-    },
-    {
-        "title": "Work and Chill 2: Artistic Boogaloo",
-        "event_date": "February 9, 2025",
-        "location": "Denver, United States",
-        "link": "https://dev.events/conferences/work-and-chill-2-artistic-boogaloo-305724906",
-        "published": "Mon, 03 Feb 2025 03:00:18 GMT",
         "category": "Game dev",
         "type": "meetup"
     },
@@ -1157,15 +1283,6 @@
         "location": "Cleveland, United States",
         "link": "https://dev.events/conferences/excuse-to-create-ltcrwsyhchbfb",
         "published": "Sun, 02 Feb 2025 03:00:35 GMT",
-        "category": "Game dev",
-        "type": "meetup"
-    },
-    {
-        "title": "Boulder Sunday Work and Chill",
-        "event_date": "February 9, 2025",
-        "location": "Boulder, United States",
-        "link": "https://dev.events/conferences/boulder-sunday-work-and-chill-305091927",
-        "published": "Sun, 02 Feb 2025 03:00:16 GMT",
         "category": "Game dev",
         "type": "meetup"
     },
@@ -2845,15 +2962,6 @@
     },
     {
         "title": "Game Dev Work & Play",
-        "event_date": "February 9, 2025",
-        "location": "Nashville, United States",
-        "link": "https://dev.events/conferences/game-dev-work-and-play-305630680",
-        "published": "Mon, 20 Jan 2025 03:00:09 GMT",
-        "category": "Game dev",
-        "type": "meetup"
-    },
-    {
-        "title": "Game Dev Work & Play",
         "event_date": "February 16, 2025",
         "location": "Nashville, United States",
         "link": "https://dev.events/conferences/game-dev-work-and-play-305630682",
@@ -3597,15 +3705,6 @@
         "link": "https://dev.events/conferences/st-louis-code-and-coffee-304977092",
         "published": "Mon, 13 Jan 2025 03:02:38 GMT",
         "category": "Tech",
-        "type": "meetup"
-    },
-    {
-        "title": "Code and Tea at Panera",
-        "event_date": "February 9, 2025",
-        "location": "Indianapolis, United States",
-        "link": "https://dev.events/conferences/code-and-tea-at-panera-skgnptyhcdbmb",
-        "published": "Mon, 13 Jan 2025 03:02:22 GMT",
-        "category": "Vue",
         "type": "meetup"
     },
     {
@@ -4815,15 +4914,6 @@
         "type": "meetup"
     },
     {
-        "title": "Strawberry Jam",
-        "event_date": "February 9, 2025",
-        "location": "Los Angeles, United States",
-        "link": "https://dev.events/conferences/strawberry-jam-spdbgtyhcdbmb",
-        "published": "Wed, 18 Dec 2024 03:00:31 GMT",
-        "category": "Game dev",
-        "type": "meetup"
-    },
-    {
         "title": "Casual Discussion: Doing Dev & DevOps Better. Hosted by Emtec and DataMotion",
         "event_date": "May 14, 2025",
         "location": "Morristown, United States",
@@ -5254,15 +5344,6 @@
         "published": "Tue, 10 Dec 2024 11:30:04 GMT",
         "category": "Full-stack",
         "type": "conference"
-    },
-    {
-        "title": "St. Louis Code and Coffee",
-        "event_date": "February 9, 2025",
-        "location": "University City, United States",
-        "link": "https://dev.events/conferences/st-louis-code-and-coffee-304977088",
-        "published": "Mon, 09 Dec 2024 03:03:04 GMT",
-        "category": "Tech",
-        "type": "meetup"
     },
     {
         "title": "Monthly Meetup at GigaParts!",
