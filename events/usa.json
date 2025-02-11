@@ -1,5 +1,104 @@
 [
     {
+        "title": "DevOpsDays Dallas 2025",
+        "event_date": "September 17, 2025",
+        "location": "Dallas, United States",
+        "link": "https://dev.events/conferences/dev-ops-days-dallas-2025-fodtp032",
+        "published": "Mon, 10 Feb 2025 11:40:27 GMT",
+        "category": "DevOps",
+        "type": "conference"
+    },
+    {
+        "title": "Merge",
+        "event_date": "April 28, 2025",
+        "location": "Grand Rapids, United States",
+        "link": "https://dev.events/conferences/merge-fu4tf73l",
+        "published": "Mon, 10 Feb 2025 11:35:39 GMT",
+        "category": "Tech leadership",
+        "type": "conference"
+    },
+    {
+        "title": "Open Spaces: AI, Homelabs, and Your Topics",
+        "event_date": "February 20, 2025",
+        "location": "Boston, United States",
+        "link": "https://dev.events/conferences/open-spaces-ai-homelabs-and-your-topics-306083381",
+        "published": "Mon, 10 Feb 2025 03:04:56 GMT",
+        "category": "AI / ML",
+        "type": "meetup"
+    },
+    {
+        "title": "St. Louis Code and Coffee",
+        "event_date": "April 6, 2025",
+        "location": "University City, United States",
+        "link": "https://dev.events/conferences/st-louis-code-and-coffee-304977098",
+        "published": "Mon, 10 Feb 2025 03:02:58 GMT",
+        "category": "Tech",
+        "type": "meetup"
+    },
+    {
+        "title": "Code and Tea at Panera",
+        "event_date": "March 9, 2025",
+        "location": "Indianapolis, United States",
+        "link": "https://dev.events/conferences/code-and-tea-at-panera-skgnptyhcfbmb",
+        "published": "Mon, 10 Feb 2025 03:02:38 GMT",
+        "category": "Vue",
+        "type": "meetup"
+    },
+    {
+        "title": "In-Person Writer's Group at Hugo House",
+        "event_date": "February 13, 2025",
+        "location": "Seattle, United States",
+        "link": "https://dev.events/conferences/in-person-writer-s-group-at-hugo-house-305661571",
+        "published": "Mon, 10 Feb 2025 03:00:41 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "Northside Social",
+        "event_date": "February 14, 2025",
+        "location": "Seattle, United States",
+        "link": "https://dev.events/conferences/northside-social-305762786",
+        "published": "Mon, 10 Feb 2025 03:00:41 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "Game Audio Club: Sat 2/22 - Music Show & Tell!",
+        "event_date": "February 22, 2025",
+        "location": "St. Louis, United States",
+        "link": "https://dev.events/conferences/game-audio-club-sat-2-22-music-show-and-tell-306038024",
+        "published": "Mon, 10 Feb 2025 03:00:29 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "Saturday Work and Chill",
+        "event_date": "February 15, 2025",
+        "location": "Denver, United States",
+        "link": "https://dev.events/conferences/saturday-work-and-chill-305828958",
+        "published": "Mon, 10 Feb 2025 03:00:25 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "Boulder Sunday Work and Chill",
+        "event_date": "February 16, 2025",
+        "location": "Boulder, United States",
+        "link": "https://dev.events/conferences/boulder-sunday-work-and-chill-305847120",
+        "published": "Mon, 10 Feb 2025 03:00:25 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "Work and Chill 2: Artistic Boogaloo",
+        "event_date": "February 16, 2025",
+        "location": "Denver, United States",
+        "link": "https://dev.events/conferences/work-and-chill-2-artistic-boogaloo-305851087",
+        "published": "Mon, 10 Feb 2025 03:00:25 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
         "title": "OpenStreetMap w/Andrew Belt",
         "event_date": "February 11, 2025",
         "location": "Johnson City, United States",
@@ -360,15 +459,6 @@
         "type": "meetup"
     },
     {
-        "title": "Re:Invent 2024 Recap",
-        "event_date": "February 10, 2025",
-        "location": "Knoxville, United States",
-        "link": "https://dev.events/conferences/re-invent-2024-recap-306009476",
-        "published": "Fri, 07 Feb 2025 03:08:46 GMT",
-        "category": "AWS",
-        "type": "meetup"
-    },
-    {
         "title": "Rust NYC Monthly Meetup",
         "event_date": "February 11, 2025",
         "location": "New York City, United States",
@@ -612,15 +702,6 @@
         "type": "meetup"
     },
     {
-        "title": "Meet New People!!  Sunday  Night Networking",
-        "event_date": "February 10, 2025",
-        "location": "Santa Clara, United States",
-        "link": "https://dev.events/conferences/meet-new-people-sunday-night-networking-305731094",
-        "published": "Fri, 07 Feb 2025 03:00:58 GMT",
-        "category": "AR / VR / XR",
-        "type": "meetup"
-    },
-    {
         "title": "SVVR Meetup #91 (Eventbrite ticket required)",
         "event_date": "February 20, 2025",
         "location": "Santa Clara, United States",
@@ -842,15 +923,6 @@
         "location": "Bellevue, United States",
         "link": "https://dev.events/conferences/bellevue-college-quality-software-practices-305997213",
         "published": "Wed, 05 Feb 2025 03:04:08 GMT",
-        "category": "Tech",
-        "type": "meetup"
-    },
-    {
-        "title": "C&C at  [Tetherball Coffee]",
-        "event_date": "February 10, 2025",
-        "location": "Jacksonville, United States",
-        "link": "https://dev.events/conferences/c-and-c-at-tetherball-coffee-305734672",
-        "published": "Wed, 05 Feb 2025 03:04:00 GMT",
         "category": "Tech",
         "type": "meetup"
     },
@@ -1881,15 +1953,6 @@
         "type": "meetup"
     },
     {
-        "title": "BoGo - Boston Godot Developers Group!",
-        "event_date": "February 10, 2025",
-        "location": "Cambridge, United States",
-        "link": "https://dev.events/conferences/bo-go-boston-godot-developers-group-304938003",
-        "published": "Wed, 29 Jan 2025 03:00:36 GMT",
-        "category": "Game dev",
-        "type": "meetup"
-    },
-    {
         "title": "GameDev Coworking",
         "event_date": "February 24, 2025",
         "location": "Cary, United States",
@@ -2400,15 +2463,6 @@
         "link": "https://dev.events/conferences/rva-game-development-showcase-305780818",
         "published": "Fri, 24 Jan 2025 03:01:34 GMT",
         "category": "Game dev",
-        "type": "meetup"
-    },
-    {
-        "title": "ARVR TECH NEWCOMERS, DEVELOPERS AND ARTISTS MEETUP (HYBRID)",
-        "event_date": "February 10, 2025",
-        "location": "Fort Myers, United States",
-        "link": "https://dev.events/conferences/arvr-tech-newcomers-developers-and-artists-meetup-hybrid-305722336",
-        "published": "Fri, 24 Jan 2025 03:01:12 GMT",
-        "category": "AR / VR / XR",
         "type": "meetup"
     },
     {
@@ -3597,15 +3651,6 @@
         "link": "https://dev.events/conferences/front-end-party-qgzpktyhchbrb",
         "published": "Wed, 15 Jan 2025 03:02:22 GMT",
         "category": "Web / Frontend",
-        "type": "meetup"
-    },
-    {
-        "title": "GameDev Coworking",
-        "event_date": "February 10, 2025",
-        "location": "Cary, United States",
-        "link": "https://dev.events/conferences/game-dev-coworking-rrxmktyhcdbnb",
-        "published": "Wed, 15 Jan 2025 03:00:18 GMT",
-        "category": "Game dev",
         "type": "meetup"
     },
     {
@@ -7503,15 +7548,6 @@
         "link": "https://dev.events/conferences/py-torch-conference-2025-wkvs0re4",
         "published": "Fri, 20 Sep 2024 12:58:04 GMT",
         "category": "AI / ML",
-        "type": "conference"
-    },
-    {
-        "title": "Civo Navigate North America 2025",
-        "event_date": "February 10, 2025",
-        "location": "San Francisco, United States",
-        "link": "https://dev.events/conferences/civo-navigate-north-america-2025-1sxcdxgb",
-        "published": "Tue, 17 Sep 2024 12:40:20 GMT",
-        "category": "Cloud",
         "type": "conference"
     },
     {
