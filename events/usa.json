@@ -1,5 +1,140 @@
 [
     {
+        "title": "March Meetup: Airflow Orchestration from zero to 100",
+        "event_date": "February 18, 2025",
+        "location": "Overland Park, United States",
+        "link": "https://dev.events/conferences/march-meetup-airflow-orchestration-from-zero-to-100-305926119",
+        "published": "Sun, 16 Feb 2025 03:08:14 GMT",
+        "category": "DevOps",
+        "type": "meetup"
+    },
+    {
+        "title": "Building a GenAI Workflow using Amazon Bedrock",
+        "event_date": "February 27, 2025",
+        "location": "Tampa, United States",
+        "link": "https://dev.events/conferences/building-a-gen-ai-workflow-using-amazon-bedrock-306190528",
+        "published": "Sun, 16 Feb 2025 03:08:08 GMT",
+        "category": "AWS",
+        "type": "meetup"
+    },
+    {
+        "title": "Revolutionizing Data Engineering & Analytics with Agentic AI",
+        "event_date": "February 19, 2025",
+        "location": "Woodbridge Township, United States",
+        "link": "https://dev.events/conferences/revolutionizing-data-engineering-and-analytics-with-agentic-ai-306193642",
+        "published": "Sun, 16 Feb 2025 03:07:13 GMT",
+        "category": "Data / Database",
+        "type": "meetup"
+    },
+    {
+        "title": "Google NY Site Reliability Engineering (SRE) Tech Talks, 6 Mar 2025",
+        "event_date": "March 6, 2025",
+        "location": "New York, United States",
+        "link": "https://dev.events/conferences/google-ny-site-reliability-engineering-sre-tech-talks-6-mar-2025-306190711",
+        "published": "Sun, 16 Feb 2025 03:06:48 GMT",
+        "category": "Google",
+        "type": "meetup"
+    },
+    {
+        "title": "Frederick Tech Open Workshop - 3rd Saturday",
+        "event_date": "June 21, 2025",
+        "location": "Frederick , United States",
+        "link": "https://dev.events/conferences/frederick-tech-open-workshop-3rd-saturday-bvwqntyhcjbcc",
+        "published": "Sun, 16 Feb 2025 03:06:42 GMT",
+        "category": "AWS",
+        "type": "meetup"
+    },
+    {
+        "title": "Frederick Tech Open Workshop - 3rd Saturday",
+        "event_date": "June 21, 2025",
+        "location": "Frederick, United States",
+        "link": "https://dev.events/conferences/frederick-tech-open-workshop-3rd-saturday-vvllltyhcjbcc",
+        "published": "Sun, 16 Feb 2025 03:06:19 GMT",
+        "category": "Open Source",
+        "type": "meetup"
+    },
+    {
+        "title": "What DevOps Means to Me - Interview Series",
+        "event_date": "February 20, 2025",
+        "location": "Winter Park, United States",
+        "link": "https://dev.events/conferences/what-dev-ops-means-to-me-interview-series-306189464",
+        "published": "Sun, 16 Feb 2025 03:06:00 GMT",
+        "category": "DevOps",
+        "type": "meetup"
+    },
+    {
+        "title": "GiveCamp Memphis 2025",
+        "event_date": "February 21, 2025",
+        "location": "Memphis, United States",
+        "link": "https://dev.events/conferences/give-camp-memphis-2025-305700568",
+        "published": "Sun, 16 Feb 2025 03:04:11 GMT",
+        "category": "Tech",
+        "type": "meetup"
+    },
+    {
+        "title": "Coders League Low-Pressure Social Get-Together",
+        "event_date": "February 19, 2025",
+        "location": "Asheville, United States",
+        "link": "https://dev.events/conferences/coders-league-low-pressure-social-get-together-305909971",
+        "published": "Sun, 16 Feb 2025 03:03:51 GMT",
+        "category": "Tech",
+        "type": "meetup"
+    },
+    {
+        "title": "Coders League Low-Pressure Social Get-Together",
+        "event_date": "February 27, 2025",
+        "location": "Asheville, United States",
+        "link": "https://dev.events/conferences/coders-league-low-pressure-social-get-together-306058316",
+        "published": "Sun, 16 Feb 2025 03:03:51 GMT",
+        "category": "Tech",
+        "type": "meetup"
+    },
+    {
+        "title": "Coders League Low-Pressure Social Get-Together",
+        "event_date": "March 5, 2025",
+        "location": "Asheville, United States",
+        "link": "https://dev.events/conferences/coders-league-low-pressure-social-get-together-306162070",
+        "published": "Sun, 16 Feb 2025 03:03:51 GMT",
+        "category": "Tech",
+        "type": "meetup"
+    },
+    {
+        "title": "Coders League Low-Pressure Social Get-Together",
+        "event_date": "March 13, 2025",
+        "location": "Asheville, United States",
+        "link": "https://dev.events/conferences/coders-league-low-pressure-social-get-together-hdtbqtyhcfbrb",
+        "published": "Sun, 16 Feb 2025 03:03:51 GMT",
+        "category": "Tech",
+        "type": "meetup"
+    },
+    {
+        "title": "Social at Novare Res!",
+        "event_date": "April 8, 2025",
+        "location": "Portland, United States",
+        "link": "https://dev.events/conferences/social-at-novare-res-306171424",
+        "published": "Sun, 16 Feb 2025 03:03:19 GMT",
+        "category": "JavaScript",
+        "type": "meetup"
+    },
+    {
+        "title": "Enhancing Everyday Business Operations with AI",
+        "event_date": "March 12, 2025",
+        "location": "Seattle, United States",
+        "link": "https://dev.events/conferences/enhancing-everyday-business-operations-with-ai-306194198",
+        "published": "Sun, 16 Feb 2025 03:01:47 GMT",
+        "category": "AI / ML",
+        "type": "meetup"
+    },
+    {
+        "title": "Casual Downtown Dev Meetup",
+        "event_date": "February 21, 2025",
+        "location": "Denver, United States",
+        "link": "https://dev.events/conferences/casual-downtown-dev-meetup-305362485",
+        "published": "Sun, 16 Feb 2025 03:00:19 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
         "title": "AI meetup (AWS SF): GenAI, LLMs and ML",
         "event_date": "February 21, 2025",
         "location": "San Francisco, United States",
@@ -284,15 +419,6 @@
         "location": "Stow, United States",
         "link": "https://dev.events/conferences/akron-game-developers-social-meetup-306135911",
         "published": "Fri, 14 Feb 2025 03:00:41 GMT",
-        "category": "Game dev",
-        "type": "meetup"
-    },
-    {
-        "title": "Seattle Indies Board Game Meetup",
-        "event_date": "February 16, 2025",
-        "location": "Seattle, United States",
-        "link": "https://dev.events/conferences/seattle-indies-board-game-meetup-305853931",
-        "published": "Fri, 14 Feb 2025 03:00:39 GMT",
         "category": "Game dev",
         "type": "meetup"
     },
@@ -1008,24 +1134,6 @@
         "type": "meetup"
     },
     {
-        "title": "Boulder Sunday Work and Chill",
-        "event_date": "February 16, 2025",
-        "location": "Boulder, United States",
-        "link": "https://dev.events/conferences/boulder-sunday-work-and-chill-305847120",
-        "published": "Mon, 10 Feb 2025 03:00:25 GMT",
-        "category": "Game dev",
-        "type": "meetup"
-    },
-    {
-        "title": "Work and Chill 2: Artistic Boogaloo",
-        "event_date": "February 16, 2025",
-        "location": "Denver, United States",
-        "link": "https://dev.events/conferences/work-and-chill-2-artistic-boogaloo-305851087",
-        "published": "Mon, 10 Feb 2025 03:00:25 GMT",
-        "category": "Game dev",
-        "type": "meetup"
-    },
-    {
         "title": "EVSec CitySec Meet-up: Security & Beer",
         "event_date": "June 6, 2025",
         "location": "Mesa, United States",
@@ -1176,15 +1284,6 @@
         "link": "https://dev.events/conferences/uv-what-is-it-and-should-you-use-it-303255154",
         "published": "Sat, 08 Feb 2025 03:04:49 GMT",
         "category": "Python",
-        "type": "meetup"
-    },
-    {
-        "title": "Memphis Game Developers (ONLINE) Workshop",
-        "event_date": "February 16, 2025",
-        "location": "Memphis, United States",
-        "link": "https://dev.events/conferences/memphis-game-developers-online-workshop-305835677",
-        "published": "Sat, 08 Feb 2025 03:03:25 GMT",
-        "category": "Game dev",
         "type": "meetup"
     },
     {
@@ -1545,15 +1644,6 @@
         "link": "https://dev.events/conferences/getting-started-with-unity-ai-w-manuel-sainsily-306024104",
         "published": "Fri, 07 Feb 2025 03:00:25 GMT",
         "category": "AI / ML",
-        "type": "meetup"
-    },
-    {
-        "title": "Game Dev Tea Party, Potluck, & TinyCon 5 Prep Party!",
-        "event_date": "February 16, 2025",
-        "location": "Carrollton, United States",
-        "link": "https://dev.events/conferences/game-dev-tea-party-potluck-and-tiny-con-5-prep-party-306040546",
-        "published": "Fri, 07 Feb 2025 03:00:21 GMT",
-        "category": "Game dev",
         "type": "meetup"
     },
     {
@@ -2637,15 +2727,6 @@
         "type": "meetup"
     },
     {
-        "title": "Chicago Code and Coffee February 16th 2025 Meetup @ Capital One Caf\u00e9 State St!",
-        "event_date": "February 16, 2025",
-        "location": "Chicago, United States",
-        "link": "https://dev.events/conferences/chicago-code-and-coffee-february-16th-2025-meetup-capital-one-cafe-state-st-305852198",
-        "published": "Tue, 28 Jan 2025 03:05:28 GMT",
-        "category": "Tech",
-        "type": "meetup"
-    },
-    {
         "title": "PyData Virginia",
         "event_date": "April 18, 2025",
         "location": "Charlottesville, United States",
@@ -2674,7 +2755,7 @@
     },
     {
         "title": "The Dream of a Single Codebase",
-        "event_date": "February 18, 2025",
+        "event_date": "February 25, 2025",
         "location": "Oklahoma City, United States",
         "link": "https://dev.events/conferences/the-dream-of-a-single-codebase-305837217",
         "published": "Tue, 28 Jan 2025 03:00:27 GMT",
@@ -3348,29 +3429,11 @@
         "type": "meetup"
     },
     {
-        "title": "Code and Tea at Panera",
-        "event_date": "February 16, 2025",
-        "location": "Indianapolis, United States",
-        "link": "https://dev.events/conferences/code-and-tea-at-panera-skgnptyhcdbvb",
-        "published": "Mon, 20 Jan 2025 03:02:59 GMT",
-        "category": "Vue",
-        "type": "meetup"
-    },
-    {
         "title": "Coffee and Game Dev Sundays at Six Twelve",
         "event_date": "March 16, 2025",
         "location": "Fayetteville, United States",
         "link": "https://dev.events/conferences/coffee-and-game-dev-sundays-at-six-twelve-wtjrptyhcfbvb",
         "published": "Mon, 20 Jan 2025 03:00:10 GMT",
-        "category": "Game dev",
-        "type": "meetup"
-    },
-    {
-        "title": "Game Dev Work & Play",
-        "event_date": "February 16, 2025",
-        "location": "Nashville, United States",
-        "link": "https://dev.events/conferences/game-dev-work-and-play-305630682",
-        "published": "Mon, 20 Jan 2025 03:00:09 GMT",
         "category": "Game dev",
         "type": "meetup"
     },
@@ -4644,30 +4707,12 @@
         "type": "meetup"
     },
     {
-        "title": "VR New Mexico: Under New Management & Looking for New Ideas!",
-        "event_date": "February 16, 2025",
-        "location": "albuquerque, United States",
-        "link": "https://dev.events/conferences/vr-new-mexico-under-new-management-and-looking-for-new-ideas-305188245",
-        "published": "Thu, 26 Dec 2024 03:00:53 GMT",
-        "category": "AR / VR / XR",
-        "type": "meetup"
-    },
-    {
         "title": "Further Topics of Mesos",
         "event_date": "April 29, 2025",
         "location": "Plano, United States",
         "link": "https://dev.events/conferences/further-topics-of-mesos-mtngjlyhcgblc",
         "published": "Wed, 25 Dec 2024 03:04:07 GMT",
         "category": "DevOps",
-        "type": "meetup"
-    },
-    {
-        "title": "Is Advanced AI an Existential Threat to Humanity? A Debate Over Beer...",
-        "event_date": "February 16, 2025",
-        "location": "Albuquerque, United States",
-        "link": "https://dev.events/conferences/is-advanced-ai-an-existential-threat-to-humanity-a-debate-over-beer-303663924",
-        "published": "Wed, 25 Dec 2024 03:01:09 GMT",
-        "category": "AI / ML",
         "type": "meetup"
     },
     {
@@ -4686,15 +4731,6 @@
         "link": "https://dev.events/conferences/st-louis-code-and-coffee-304977090",
         "published": "Mon, 23 Dec 2024 03:02:40 GMT",
         "category": "Tech",
-        "type": "meetup"
-    },
-    {
-        "title": "Coffee and Game Dev Sundays at Six Twelve",
-        "event_date": "February 16, 2025",
-        "location": "Fayetteville, United States",
-        "link": "https://dev.events/conferences/coffee-and-game-dev-sundays-at-six-twelve-tprxhtyhcdbvb",
-        "published": "Mon, 23 Dec 2024 03:00:09 GMT",
-        "category": "Game dev",
         "type": "meetup"
     },
     {
@@ -5037,15 +5073,6 @@
         "link": "https://dev.events/conferences/ns-coder-night-ffhgptyhcdbhc",
         "published": "Tue, 17 Dec 2024 03:02:37 GMT",
         "category": "iOS / Swift",
-        "type": "meetup"
-    },
-    {
-        "title": "Game Creators Meetup",
-        "event_date": "February 16, 2025",
-        "location": "Louisville, United States",
-        "link": "https://dev.events/conferences/game-creators-meetup-shxsctyhcdbvb",
-        "published": "Tue, 17 Dec 2024 03:00:28 GMT",
-        "category": "Game dev",
         "type": "meetup"
     },
     {
@@ -5469,15 +5496,6 @@
         "link": "https://dev.events/conferences/dev-ops-for-defense-meetup-vggjhtyhcgbfb",
         "published": "Sat, 07 Dec 2024 03:07:40 GMT",
         "category": "DevOps",
-        "type": "meetup"
-    },
-    {
-        "title": "Python Office Hours!",
-        "event_date": "February 16, 2025",
-        "location": "Irvine, United States",
-        "link": "https://dev.events/conferences/python-office-hours-smnqntyhcdbvb",
-        "published": "Fri, 06 Dec 2024 03:09:26 GMT",
-        "category": "Python",
         "type": "meetup"
     },
     {

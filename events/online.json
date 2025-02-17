@@ -1,5 +1,131 @@
 [
     {
+        "title": ".NET Aspire in .NET 9",
+        "event_date": "February 21, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/net-aspire-in-net-9-306172267",
+        "published": "Sun, 16 Feb 2025 03:07:25 GMT",
+        "category": ".NET",
+        "type": "meetup"
+    },
+    {
+        "title": "Cloud Meets Blockchain: The Role of Cloud Platforms in Decentralized Infra",
+        "event_date": "February 19, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/cloud-meets-blockchain-the-role-of-cloud-platforms-in-decentralized-infra-306168664",
+        "published": "Sun, 16 Feb 2025 03:06:07 GMT",
+        "category": "Cloud",
+        "type": "meetup"
+    },
+    {
+        "title": "Unleashing Bounded Contexts: Serverless Microservices with DDD on GCP",
+        "event_date": "February 26, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/unleashing-bounded-contexts-serverless-microservices-with-ddd-on-gcp-306168836",
+        "published": "Sun, 16 Feb 2025 03:06:07 GMT",
+        "category": "Serverless",
+        "type": "meetup"
+    },
+    {
+        "title": "Mapeando la Eficiencia para Equipos de Desarrollo Modernos",
+        "event_date": "March 26, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/mapeando-la-eficiencia-para-equipos-de-desarrollo-modernos-306178410",
+        "published": "Sun, 16 Feb 2025 03:04:23 GMT",
+        "category": "Tech",
+        "type": "meetup"
+    },
+    {
+        "title": "Let's Code Together!",
+        "event_date": "April 12, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/let-s-code-together-dpbnlsyhcgbqb",
+        "published": "Sun, 16 Feb 2025 03:04:06 GMT",
+        "category": "Tech",
+        "type": "meetup"
+    },
+    {
+        "title": "Workshop chez vous (en ligne)",
+        "event_date": "March 19, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/workshop-chez-vous-en-ligne-306172205",
+        "published": "Sun, 16 Feb 2025 03:03:42 GMT",
+        "category": "Ruby",
+        "type": "meetup"
+    },
+    {
+        "title": "Dev Hangout + Dev Tips",
+        "event_date": "April 13, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/dev-hangout-dev-tips-mxvqktyhcgbqb",
+        "published": "Sun, 16 Feb 2025 03:03:26 GMT",
+        "category": "Tech",
+        "type": "meetup"
+    },
+    {
+        "title": "Workshop: May the Resource Be With You",
+        "event_date": "February 26, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/workshop-may-the-resource-be-with-you-305785796",
+        "published": "Sun, 16 Feb 2025 03:02:49 GMT",
+        "category": "Angular",
+        "type": "meetup"
+    },
+    {
+        "title": "Unlocking AR Potential: Joost van Schaik on Developing for Snap Spectacles",
+        "event_date": "February 27, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/unlocking-ar-potential-joost-van-schaik-on-developing-for-snap-spectacles-306186938",
+        "published": "Sun, 16 Feb 2025 03:01:36 GMT",
+        "category": "AR / VR / XR",
+        "type": "meetup"
+    },
+    {
+        "title": "Game Dev Happy Hour: Quaranstream",
+        "event_date": "February 28, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/game-dev-happy-hour-quaranstream-306061596",
+        "published": "Sun, 16 Feb 2025 03:00:48 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "40% OFF! 6 Weeks to Success: Build a Career Roadmap for the AI Era",
+        "event_date": "February 20, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/40-off-6-weeks-to-success-build-a-career-roadmap-for-the-ai-era-306184816",
+        "published": "Sun, 16 Feb 2025 03:00:47 GMT",
+        "category": "AI / ML",
+        "type": "meetup"
+    },
+    {
+        "title": "[ONLINE] Game Dev Meetup (Monthly Meetup)[Talk: Writing Dialogue - Tools & Tips]",
+        "event_date": "March 1, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/online-game-dev-meetup-monthly-meetup-talk-writing-dialogue-tools-and-tips-305996732",
+        "published": "Sun, 16 Feb 2025 03:00:20 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "Game Project Therapy (Virtual)",
+        "event_date": "June 21, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/game-project-therapy-virtual-fdfflsyhcjbcc",
+        "published": "Sun, 16 Feb 2025 03:00:20 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "Omaha Game Developers Meetup",
+        "event_date": "June 13, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/omaha-game-developers-meetup-nvvxftyhcjbqb",
+        "published": "Sun, 16 Feb 2025 03:00:17 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
         "title": "D\u00e9couvrez la formation Advanced SAFe\u00ae Practice Consultant (ASPC 6.0) !",
         "event_date": "February 27, 2025",
         "location": "Online",
@@ -708,15 +834,6 @@
         "link": "https://dev.events/conferences/jug-duke-turns-30-celebration-306030594",
         "published": "Thu, 13 Feb 2025 03:08:33 GMT",
         "category": "Java",
-        "type": "meetup"
-    },
-    {
-        "title": "Demystifying Cybersecurity Frameworks",
-        "event_date": "February 16, 2025",
-        "location": "Online",
-        "link": "https://dev.events/conferences/demystifying-cybersecurity-frameworks-306045425",
-        "published": "Thu, 13 Feb 2025 03:08:03 GMT",
-        "category": "Tech",
         "type": "meetup"
     },
     {
@@ -2436,15 +2553,6 @@
         "link": "https://dev.events/conferences/modernizing-enterprise-java-applications-jakarta-ee-spring-boot-and-ai-integr-305992188",
         "published": "Wed, 05 Feb 2025 03:05:02 GMT",
         "category": "Java",
-        "type": "meetup"
-    },
-    {
-        "title": "Data Science/AI Career Talk",
-        "event_date": "February 16, 2025",
-        "location": "Online",
-        "link": "https://dev.events/conferences/data-science-ai-career-talk-304824699",
-        "published": "Wed, 05 Feb 2025 03:04:48 GMT",
-        "category": "Data / Database",
         "type": "meetup"
     },
     {
@@ -5058,15 +5166,6 @@
         "type": "meetup"
     },
     {
-        "title": "COGG Let's Play (Online)",
-        "event_date": "February 16, 2025",
-        "location": "Online",
-        "link": "https://dev.events/conferences/cogg-let-s-play-online-schtntyhcdbvb",
-        "published": "Sat, 11 Jan 2025 03:00:37 GMT",
-        "category": "Game dev",
-        "type": "meetup"
-    },
-    {
         "title": "Lean coffee morning",
         "event_date": "May 8, 2025",
         "location": "Online",
@@ -5841,15 +5940,6 @@
         "type": "meetup"
     },
     {
-        "title": "Dev Hangout + Dev Tips",
-        "event_date": "February 16, 2025",
-        "location": "Online",
-        "link": "https://dev.events/conferences/dev-hangout-dev-tips-305206504",
-        "published": "Mon, 23 Dec 2024 03:02:38 GMT",
-        "category": "Tech",
-        "type": "meetup"
-    },
-    {
         "title": "FC Game Development and Unity SIG",
         "event_date": "April 27, 2025",
         "location": "Online",
@@ -6153,15 +6243,6 @@
         "link": "https://dev.events/conferences/monthly-product-owner-and-ba-meetup-wsfbjtyhchbjb",
         "published": "Mon, 16 Dec 2024 03:01:22 GMT",
         "category": "Product management",
-        "type": "meetup"
-    },
-    {
-        "title": "Indie Video Game Developer Meetup - NW Burbs Location ZOOM",
-        "event_date": "February 16, 2025",
-        "location": "Online",
-        "link": "https://dev.events/conferences/indie-video-game-developer-meetup-nw-burbs-location-zoom-dnzbwsyhcdbvb",
-        "published": "Mon, 16 Dec 2024 03:00:34 GMT",
-        "category": "Game dev",
         "type": "meetup"
     },
     {
