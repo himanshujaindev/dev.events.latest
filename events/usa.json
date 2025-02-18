@@ -1,5 +1,221 @@
 [
     {
+        "title": "MongoDB Developer Day Mountain View",
+        "event_date": "February 26, 2025",
+        "location": "Mountain View, United States",
+        "link": "https://dev.events/conferences/mongo-db-developer-day-mountain-view-snxzcdpi",
+        "published": "Mon, 17 Feb 2025 10:27:58 GMT",
+        "category": "MongoDB",
+        "type": "conference"
+    },
+    {
+        "title": "Optimized AI Conference",
+        "event_date": "April 14, 2025",
+        "location": "Atlanta, United States",
+        "link": "https://dev.events/conferences/optimized-ai-conference-hzph7y98",
+        "published": "Mon, 17 Feb 2025 10:01:07 GMT",
+        "category": "AI / ML",
+        "type": "conference"
+    },
+    {
+        "title": "Insight Out",
+        "event_date": "April 23, 2025",
+        "location": "San Francisco, United States",
+        "link": "https://dev.events/conferences/insight-out-t7l6js5n",
+        "published": "Mon, 17 Feb 2025 09:57:48 GMT",
+        "category": "Product management",
+        "type": "conference"
+    },
+    {
+        "title": "AI Agent Conference",
+        "event_date": "May 6, 2025",
+        "location": "New York, United States",
+        "link": "https://dev.events/conferences/ai-agent-conference-km9jxaml",
+        "published": "Mon, 17 Feb 2025 09:53:26 GMT",
+        "category": "AI / ML",
+        "type": "conference"
+    },
+    {
+        "title": "Security BSides Albuquerque 2025",
+        "event_date": "July 25, 2025",
+        "location": "Albuquerque, United States",
+        "link": "https://dev.events/conferences/security-b-sides-albuquerque-2025-wed-vk6t",
+        "published": "Mon, 17 Feb 2025 09:23:16 GMT",
+        "category": "Cybersecurity / InfoSec",
+        "type": "conference"
+    },
+    {
+        "title": "CascadiaJS",
+        "event_date": "September 17, 2025",
+        "location": "Seattle, United States",
+        "link": "https://dev.events/conferences/cascadia-js-za9vlfbr",
+        "published": "Mon, 17 Feb 2025 09:22:31 GMT",
+        "category": "JavaScript",
+        "type": "conference"
+    },
+    {
+        "title": "Test Automation Summit | Salt Lake",
+        "event_date": "May 15, 2025",
+        "location": "Salt Lake City, United States",
+        "link": "https://dev.events/conferences/test-automation-summit-salt-lake-rdb1mjtv",
+        "published": "Mon, 17 Feb 2025 09:20:24 GMT",
+        "category": "Testing / QA",
+        "type": "conference"
+    },
+    {
+        "title": "Open Science Workshop",
+        "event_date": "November 3, 2025",
+        "location": "San Diego, United States",
+        "link": "https://dev.events/conferences/open-science-workshop-8vr4advo",
+        "published": "Mon, 17 Feb 2025 09:10:12 GMT",
+        "category": "Open Source",
+        "type": "masterclass"
+    },
+    {
+        "title": "Google, Llama, & DeepSeek - Everything You Need to Know",
+        "event_date": "February 21, 2025",
+        "location": "Palo Alto, United States",
+        "link": "https://dev.events/conferences/google-llama-and-deep-seek-everything-you-need-to-know-lgxirzaf",
+        "published": "Mon, 17 Feb 2025 09:09:02 GMT",
+        "category": "Google",
+        "type": "conference"
+    },
+    {
+        "title": "Private VC / Startup Wine Tasting Mixer",
+        "event_date": "February 25, 2025",
+        "location": "San Francisco, United States",
+        "link": "https://dev.events/conferences/private-vc-startup-wine-tasting-mixer-qnu7g1j2",
+        "published": "Mon, 17 Feb 2025 08:29:30 GMT",
+        "category": "Startup",
+        "type": "conference"
+    },
+    {
+        "title": "MySQL and HeatWave Summit 2025",
+        "event_date": "April 22, 2025",
+        "location": "Redwood Shores, United States",
+        "link": "https://dev.events/conferences/my-sql-and-heat-wave-summit-2025-lidm9cy1",
+        "published": "Mon, 17 Feb 2025 08:23:54 GMT",
+        "category": "SQL",
+        "type": "conference"
+    },
+    {
+        "title": "AI Keynotes at Microsoft",
+        "event_date": "April 15, 2025",
+        "location": "Mountain View, United States",
+        "link": "https://dev.events/conferences/ai-keynotes-at-microsoft-v90mh4sx",
+        "published": "Mon, 17 Feb 2025 08:21:16 GMT",
+        "category": "AI / ML",
+        "type": "conference"
+    },
+    {
+        "title": "Augmented World Expo 2025",
+        "event_date": "June 10, 2025",
+        "location": "Long Beach, United States",
+        "link": "https://dev.events/conferences/augmented-world-expo-2025-89qzypao",
+        "published": "Mon, 17 Feb 2025 08:15:17 GMT",
+        "category": "AR / VR / XR",
+        "type": "conference"
+    },
+    {
+        "title": "Python Office Hours!",
+        "event_date": "April 13, 2025",
+        "location": "Irvine, United States",
+        "link": "https://dev.events/conferences/python-office-hours-smnqntyhcgbrb",
+        "published": "Mon, 17 Feb 2025 03:10:13 GMT",
+        "category": "Python",
+        "type": "meetup"
+    },
+    {
+        "title": "Empowered Women in the Age of AI: Redefining skills & careers (in person event)",
+        "event_date": "March 8, 2025",
+        "location": "Worthington, United States",
+        "link": "https://dev.events/conferences/empowered-women-in-the-age-of-ai-redefining-skills-and-careers-in-person-event-305841228",
+        "published": "Mon, 17 Feb 2025 03:09:28 GMT",
+        "category": "AI / ML",
+        "type": "meetup"
+    },
+    {
+        "title": "Monthly Meetup: Celebrating A Year of Spokane Rust",
+        "event_date": "February 21, 2025",
+        "location": "Spokane, United States",
+        "link": "https://dev.events/conferences/monthly-meetup-celebrating-a-year-of-spokane-rust-306179775",
+        "published": "Mon, 17 Feb 2025 03:07:37 GMT",
+        "category": "Rust",
+        "type": "meetup"
+    },
+    {
+        "title": "LA Tech Meetup",
+        "event_date": "March 1, 2025",
+        "location": "Santa Monica, United States",
+        "link": "https://dev.events/conferences/la-tech-meetup-306211084",
+        "published": "Mon, 17 Feb 2025 03:05:21 GMT",
+        "category": "Tech",
+        "type": "meetup"
+    },
+    {
+        "title": "Code and Tea at Panera",
+        "event_date": "March 16, 2025",
+        "location": "Indianapolis, United States",
+        "link": "https://dev.events/conferences/code-and-tea-at-panera-skgnptyhcfbvb",
+        "published": "Mon, 17 Feb 2025 03:02:41 GMT",
+        "category": "Vue",
+        "type": "meetup"
+    },
+    {
+        "title": "In-Person Game Development Meetup",
+        "event_date": "March 15, 2025",
+        "location": "Pittsburgh, United States",
+        "link": "https://dev.events/conferences/in-person-game-development-meetup-zftnktyhcfbtb",
+        "published": "Mon, 17 Feb 2025 03:00:42 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "Boston Indies: Four Shades of Green: Developing for the Game Boy in 2025",
+        "event_date": "March 17, 2025",
+        "location": "Somerville, United States",
+        "link": "https://dev.events/conferences/boston-indies-four-shades-of-green-developing-for-the-game-boy-in-2025-306210302",
+        "published": "Mon, 17 Feb 2025 03:00:30 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "Game Creators Meetup (IN-PERSON)",
+        "event_date": "April 6, 2025",
+        "location": "Louisville, United States",
+        "link": "https://dev.events/conferences/game-creators-meetup-in-person-jdfpctyhcgbjb",
+        "published": "Mon, 17 Feb 2025 03:00:30 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "Saturday Work and Chill",
+        "event_date": "February 22, 2025",
+        "location": "Denver, United States",
+        "link": "https://dev.events/conferences/saturday-work-and-chill-305957350",
+        "published": "Mon, 17 Feb 2025 03:00:16 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "Boulder Sunday Work and Chill",
+        "event_date": "February 23, 2025",
+        "location": "Boulder, United States",
+        "link": "https://dev.events/conferences/boulder-sunday-work-and-chill-305976455",
+        "published": "Mon, 17 Feb 2025 03:00:16 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "Game Dev Work & Play",
+        "event_date": "March 9, 2025",
+        "location": "Nashville, United States",
+        "link": "https://dev.events/conferences/game-dev-work-and-play-vtjsptyhcfbmb",
+        "published": "Mon, 17 Feb 2025 03:00:09 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
         "title": "March Meetup: Airflow Orchestration from zero to 100",
         "event_date": "February 18, 2025",
         "location": "Overland Park, United States",
@@ -414,15 +630,6 @@
         "type": "meetup"
     },
     {
-        "title": "Akron Game Developers Social Meetup",
-        "event_date": "February 17, 2025",
-        "location": "Stow, United States",
-        "link": "https://dev.events/conferences/akron-game-developers-social-meetup-306135911",
-        "published": "Fri, 14 Feb 2025 03:00:41 GMT",
-        "category": "Game dev",
-        "type": "meetup"
-    },
-    {
         "title": "2/28 Chicago Unreal Engine meetup!",
         "event_date": "March 1, 2025",
         "location": "Chicago, United States",
@@ -708,15 +915,6 @@
         "link": "https://dev.events/conferences/immersive-intelligence-the-ai-driven-revolution-in-vr-and-ar-306146877",
         "published": "Thu, 13 Feb 2025 03:01:35 GMT",
         "category": "AI / ML",
-        "type": "meetup"
-    },
-    {
-        "title": "Meet New People!!  Sunday  Night Networking",
-        "event_date": "February 17, 2025",
-        "location": "Santa Clara, United States",
-        "link": "https://dev.events/conferences/meet-new-people-sunday-night-networking-305856862",
-        "published": "Thu, 13 Feb 2025 03:01:10 GMT",
-        "category": "AR / VR / XR",
         "type": "meetup"
     },
     {
@@ -3294,15 +3492,6 @@
         "type": "meetup"
     },
     {
-        "title": "GameDev Coworking",
-        "event_date": "February 17, 2025",
-        "location": "Cary, United States",
-        "link": "https://dev.events/conferences/game-dev-coworking-rrxmktyhcdbwb",
-        "published": "Wed, 22 Jan 2025 03:00:19 GMT",
-        "category": "Game dev",
-        "type": "meetup"
-    },
-    {
         "title": "Agents Day - AI x Web3 |  Denver 2025",
         "event_date": "February 25, 2025",
         "location": "Denver, United States",
@@ -5073,15 +5262,6 @@
         "link": "https://dev.events/conferences/ns-coder-night-ffhgptyhcdbhc",
         "published": "Tue, 17 Dec 2024 03:02:37 GMT",
         "category": "iOS / Swift",
-        "type": "meetup"
-    },
-    {
-        "title": "Boston Indies: Lightning Talks!",
-        "event_date": "February 17, 2025",
-        "location": "Cambridge, United States",
-        "link": "https://dev.events/conferences/boston-indies-lightning-talks-304757816",
-        "published": "Mon, 16 Dec 2024 03:00:31 GMT",
-        "category": "Game dev",
         "type": "meetup"
     },
     {
@@ -7215,15 +7395,6 @@
         "link": "https://dev.events/conferences/columbus-containers-and-friends-meetup-at-improving-6-30-pm-rctvltyhcmbfc",
         "published": "Wed, 09 Oct 2024 06:38:26 GMT",
         "category": "Docker / Kubernetes",
-        "type": "meetup"
-    },
-    {
-        "title": "Columbus Ruby Brigade Monthly Meetup",
-        "event_date": "February 17, 2025",
-        "location": "Columbus, United States",
-        "link": "https://dev.events/conferences/columbus-ruby-brigade-monthly-meetup-xwwkltyhcdbwb",
-        "published": "Wed, 09 Oct 2024 06:37:21 GMT",
-        "category": "Ruby",
         "type": "meetup"
     },
     {
