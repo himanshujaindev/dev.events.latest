@@ -1,5 +1,374 @@
 [
     {
+        "title": "MIA CTF",
+        "event_date": "April 12, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/mia-ctf-7ljxwzin",
+        "published": "Tue, 18 Feb 2025 11:44:09 GMT",
+        "category": "Tech",
+        "type": "hackathon"
+    },
+    {
+        "title": "Update Conference Krakow 2025",
+        "event_date": "May 26, 2025",
+        "location": "Krakow, Poland and Online",
+        "link": "https://dev.events/conferences/update-conference-krakow-2025-comouf4i",
+        "published": "Tue, 18 Feb 2025 11:26:25 GMT",
+        "category": ".NET",
+        "type": "conference"
+    },
+    {
+        "title": "SQLdays Konferenz",
+        "event_date": "October 6, 2025",
+        "location": "Munich, Germany and Online",
+        "link": "https://dev.events/conferences/sq-ldays-konferenz-vikmbvqo",
+        "published": "Tue, 18 Feb 2025 10:59:07 GMT",
+        "category": "SQL",
+        "type": "conference"
+    },
+    {
+        "title": "Untangling Organizational Interdependencies - Gamifying breaking boundaries",
+        "event_date": "February 19, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/untangling-organizational-interdependencies-gamifying-breaking-boundaries-306221971",
+        "published": "Tue, 18 Feb 2025 03:11:44 GMT",
+        "category": "Agile",
+        "type": "meetup"
+    },
+    {
+        "title": "Soir\u00e9e Mentor\u2019Agile",
+        "event_date": "February 25, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/soiree-mentor-agile-306222137",
+        "published": "Tue, 18 Feb 2025 03:11:40 GMT",
+        "category": "Agile",
+        "type": "meetup"
+    },
+    {
+        "title": "Online Lean Beer",
+        "event_date": "April 14, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/online-lean-beer-rqqcktyhcgbsb",
+        "published": "Tue, 18 Feb 2025 03:11:29 GMT",
+        "category": "Agile",
+        "type": "meetup"
+    },
+    {
+        "title": "Open Space de Estructuras liberadoras",
+        "event_date": "February 22, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/open-space-de-estructuras-liberadoras-306231876",
+        "published": "Tue, 18 Feb 2025 03:11:15 GMT",
+        "category": "Agile",
+        "type": "meetup"
+    },
+    {
+        "title": "Cosas que debes saber para ser un desarrollador Java en el 2025",
+        "event_date": "February 19, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/cosas-que-debes-saber-para-ser-un-desarrollador-java-en-el-2025-306232505",
+        "published": "Tue, 18 Feb 2025 03:09:52 GMT",
+        "category": "Java",
+        "type": "meetup"
+    },
+    {
+        "title": "SC-5003 - Prote\u00e7\u00e3o de informa\u00e7\u00f5es e preven\u00e7\u00e3o de perda de dados com Purview - Pa",
+        "event_date": "February 19, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/sc-5003-protecao-de-informacoes-e-prevencao-de-perda-de-dados-com-purview-pa-305480163",
+        "published": "Tue, 18 Feb 2025 03:09:10 GMT",
+        "category": "Microsoft",
+        "type": "meetup"
+    },
+    {
+        "title": "DP-700: Monitore e Otimize suas Solu\u00e7\u00f5es no Microsoft Fabric",
+        "event_date": "February 19, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/dp-700-monitore-e-otimize-suas-solucoes-no-microsoft-fabric-305761164",
+        "published": "Tue, 18 Feb 2025 03:09:10 GMT",
+        "category": "Microsoft",
+        "type": "meetup"
+    },
+    {
+        "title": "DevOps Crash Course For Beginners",
+        "event_date": "February 21, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/dev-ops-crash-course-for-beginners-306045439",
+        "published": "Tue, 18 Feb 2025 03:09:10 GMT",
+        "category": "DevOps",
+        "type": "meetup"
+    },
+    {
+        "title": "Master Class: Getting started with AWS DevOp",
+        "event_date": "March 11, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/master-class-getting-started-with-aws-dev-op-306219423",
+        "published": "Tue, 18 Feb 2025 03:09:04 GMT",
+        "category": "AWS",
+        "type": "meetup"
+    },
+    {
+        "title": "Debugging the tester\u2019s day: common problems and powerful solutions",
+        "event_date": "February 19, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/debugging-the-tester-s-day-common-problems-and-powerful-solutions-306226881",
+        "published": "Tue, 18 Feb 2025 03:09:01 GMT",
+        "category": "Testing / QA",
+        "type": "meetup"
+    },
+    {
+        "title": "SFS SysOps Monthly Maintenance Mob",
+        "event_date": "March 18, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/sfs-sys-ops-monthly-maintenance-mob-306233130",
+        "published": "Tue, 18 Feb 2025 03:08:59 GMT",
+        "category": "Open Source",
+        "type": "meetup"
+    },
+    {
+        "title": "Efficient Cloud Workflows with Lambda Debug Mode & Terraform tests integration",
+        "event_date": "February 27, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/efficient-cloud-workflows-with-lambda-debug-mode-and-terraform-tests-integration-306216915",
+        "published": "Tue, 18 Feb 2025 03:08:43 GMT",
+        "category": "Cloud",
+        "type": "meetup"
+    },
+    {
+        "title": "Silicon Valley Business Networking (Online)",
+        "event_date": "February 24, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/silicon-valley-business-networking-online-xrmjhtyhcdbgc",
+        "published": "Tue, 18 Feb 2025 03:08:31 GMT",
+        "category": "Startup",
+        "type": "meetup"
+    },
+    {
+        "title": "Rewiring the Telco Operating Model: Learnings from Telenet",
+        "event_date": "March 11, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/rewiring-the-telco-operating-model-learnings-from-telenet-306159109",
+        "published": "Tue, 18 Feb 2025 03:08:01 GMT",
+        "category": "Telecom / 5G",
+        "type": "meetup"
+    },
+    {
+        "title": "OpenTelemetry \u2013 Snacka Kubernetes",
+        "event_date": "February 21, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/open-telemetry-snacka-kubernetes-306225333",
+        "published": "Tue, 18 Feb 2025 03:07:44 GMT",
+        "category": "Docker / Kubernetes",
+        "type": "meetup"
+    },
+    {
+        "title": "Mi Web Personal: Acceso Directo a Mis Art\u00edculos desde M\u00faltiples Plataformas",
+        "event_date": "March 5, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/mi-web-personal-acceso-directo-a-mis-articulos-desde-multiples-plataformas-306170060",
+        "published": "Tue, 18 Feb 2025 03:07:33 GMT",
+        "category": "AWS",
+        "type": "meetup"
+    },
+    {
+        "title": "Ask Jad Halaoui - Founder @Washmen - Raised $6.2 Million",
+        "event_date": "February 23, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/ask-jad-halaoui-founder-washmen-raised-6-2-million-306228569",
+        "published": "Tue, 18 Feb 2025 03:07:15 GMT",
+        "category": "Startup",
+        "type": "meetup"
+    },
+    {
+        "title": "Ask Jad Halaoui - Founder @Washmen - Raised $6.2 Million",
+        "event_date": "March 2, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/ask-jad-halaoui-founder-washmen-raised-6-2-million-cnhcqtyhcfbdb",
+        "published": "Tue, 18 Feb 2025 03:07:15 GMT",
+        "category": "Startup",
+        "type": "meetup"
+    },
+    {
+        "title": "Ask Jad Halaoui - Founder @Washmen - Raised $6.2 Million",
+        "event_date": "March 9, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/ask-jad-halaoui-founder-washmen-raised-6-2-million-cnhcqtyhcfbmb",
+        "published": "Tue, 18 Feb 2025 03:07:15 GMT",
+        "category": "Startup",
+        "type": "meetup"
+    },
+    {
+        "title": "Ask Jad Halaoui - Founder @Washmen - Raised $6.2 Million",
+        "event_date": "February 20, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/ask-jad-halaoui-founder-washmen-raised-6-2-million-306228566",
+        "published": "Tue, 18 Feb 2025 03:06:30 GMT",
+        "category": "DevOps",
+        "type": "meetup"
+    },
+    {
+        "title": "Ask Jad Halaoui - Founder @Washmen - Raised $6.2 Million",
+        "event_date": "February 25, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/ask-jad-halaoui-founder-washmen-raised-6-2-million-wmhcqtyhcdbhc",
+        "published": "Tue, 18 Feb 2025 03:06:30 GMT",
+        "category": "DevOps",
+        "type": "meetup"
+    },
+    {
+        "title": "Ask Jad Halaoui - Founder @Washmen - Raised $6.2 Million",
+        "event_date": "February 27, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/ask-jad-halaoui-founder-washmen-raised-6-2-million-xmhcqtyhcdbkc",
+        "published": "Tue, 18 Feb 2025 03:06:30 GMT",
+        "category": "DevOps",
+        "type": "meetup"
+    },
+    {
+        "title": "Ask Jad Halaoui - Founder @Washmen - Raised $6.2 Million",
+        "event_date": "March 4, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/ask-jad-halaoui-founder-washmen-raised-6-2-million-wmhcqtyhcfbgb",
+        "published": "Tue, 18 Feb 2025 03:06:30 GMT",
+        "category": "DevOps",
+        "type": "meetup"
+    },
+    {
+        "title": "Ask Jad Halaoui - Founder @Washmen - Raised $6.2 Million",
+        "event_date": "March 6, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/ask-jad-halaoui-founder-washmen-raised-6-2-million-xmhcqtyhcfbjb",
+        "published": "Tue, 18 Feb 2025 03:06:30 GMT",
+        "category": "DevOps",
+        "type": "meetup"
+    },
+    {
+        "title": "Melbourne AWS User Group #145 - February 2025",
+        "event_date": "February 26, 2025",
+        "location": "Melbourne, Australia and Online",
+        "link": "https://dev.events/conferences/melbourne-aws-user-group-145-february-2025-306220008",
+        "published": "Tue, 18 Feb 2025 03:06:25 GMT",
+        "category": "AWS",
+        "type": "meetup"
+    },
+    {
+        "title": "Module-lithic Architecture",
+        "event_date": "February 20, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/module-lithic-architecture-305927231",
+        "published": "Tue, 18 Feb 2025 03:06:06 GMT",
+        "category": ".NET",
+        "type": "meetup"
+    },
+    {
+        "title": "Road To Certification - Associate Cloud Engineer (5/6)",
+        "event_date": "March 17, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/road-to-certification-associate-cloud-engineer-5-6-306205822",
+        "published": "Tue, 18 Feb 2025 03:05:51 GMT",
+        "category": "Cloud",
+        "type": "meetup"
+    },
+    {
+        "title": "Transforming DevOps for Scientific Innovation: Materials Project\u2019s Cloud-Native",
+        "event_date": "February 20, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/transforming-dev-ops-for-scientific-innovation-materials-project-s-cloud-native-306220544",
+        "published": "Tue, 18 Feb 2025 03:05:08 GMT",
+        "category": "DevOps",
+        "type": "meetup"
+    },
+    {
+        "title": "[Workshop] Insomnia 101: Introduction to API Design, Debugging, and Testing",
+        "event_date": "March 6, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/workshop-insomnia-101-introduction-to-api-design-debugging-and-testing-306228143",
+        "published": "Tue, 18 Feb 2025 03:05:08 GMT",
+        "category": "API",
+        "type": "meetup"
+    },
+    {
+        "title": "Building .NET AI Applications with Google AI: Leveraging Vertex AI and Gemini",
+        "event_date": "February 26, 2025",
+        "location": "Nashua, United States and Online",
+        "link": "https://dev.events/conferences/building-net-ai-applications-with-google-ai-leveraging-vertex-ai-and-gemini-306226937",
+        "published": "Tue, 18 Feb 2025 03:04:50 GMT",
+        "category": ".NET",
+        "type": "meetup"
+    },
+    {
+        "title": "Exploring Bilevel Optimization: Applications in Machine Learning",
+        "event_date": "March 18, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/exploring-bilevel-optimization-applications-in-machine-learning-306173151",
+        "published": "Tue, 18 Feb 2025 03:04:50 GMT",
+        "category": "AI / ML",
+        "type": "meetup"
+    },
+    {
+        "title": "DeepSeek vs OpenAI: la batalla del razonamiento en modelos de IA Generativa",
+        "event_date": "March 11, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/deep-seek-vs-open-ai-la-batalla-del-razonamiento-en-modelos-de-ia-generativa-306218067",
+        "published": "Tue, 18 Feb 2025 03:04:43 GMT",
+        "category": "Tech",
+        "type": "meetup"
+    },
+    {
+        "title": "A practical guide to Minimum Viable Platforms (MVPs)",
+        "event_date": "March 11, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/a-practical-guide-to-minimum-viable-platforms-mv-ps-306008107",
+        "published": "Tue, 18 Feb 2025 03:04:28 GMT",
+        "category": "SRE",
+        "type": "meetup"
+    },
+    {
+        "title": "[Coding Dojo] Kata Bowling",
+        "event_date": "February 27, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/coding-dojo-kata-bowling-306173124",
+        "published": "Tue, 18 Feb 2025 03:04:17 GMT",
+        "category": "Tech",
+        "type": "meetup"
+    },
+    {
+        "title": "Beyond Inclusion Scholarship Info Session",
+        "event_date": "February 19, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/beyond-inclusion-scholarship-info-session-306222206",
+        "published": "Tue, 18 Feb 2025 03:01:23 GMT",
+        "category": "AR / VR / XR",
+        "type": "meetup"
+    },
+    {
+        "title": "FREE!  Pitch Practice: How to Pitch to Investors and Get the Deal",
+        "event_date": "February 20, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/free-pitch-practice-how-to-pitch-to-investors-and-get-the-deal-305913867",
+        "published": "Tue, 18 Feb 2025 03:01:22 GMT",
+        "category": "AR / VR / XR",
+        "type": "meetup"
+    },
+    {
+        "title": "Introduction to Networking in Games",
+        "event_date": "February 26, 2025",
+        "location": "Asheville, United States and Online",
+        "link": "https://dev.events/conferences/introduction-to-networking-in-games-306232473",
+        "published": "Tue, 18 Feb 2025 03:00:51 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "[Online] Azure Container Apps + Application Gateway: Escalabilidade e Seguran\u00e7a!",
+        "event_date": "February 19, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/online-azure-container-apps-application-gateway-escalabilidade-e-seguranca-306233304",
+        "published": "Tue, 18 Feb 2025 03:00:13 GMT",
+        "category": "Azure",
+        "type": "meetup"
+    },
+    {
         "title": "Container and Kubernetes Security for CISOs",
         "event_date": "February 25, 2025",
         "location": "Online",
@@ -423,24 +792,6 @@
         "type": "meetup"
     },
     {
-        "title": "DP-700: Ingest\u00e3o e Transforma\u00e7\u00e3o de Dados no Microsoft Fabric",
-        "event_date": "February 18, 2025",
-        "location": "Online",
-        "link": "https://dev.events/conferences/dp-700-ingestao-e-transformacao-de-dados-no-microsoft-fabric-305761075",
-        "published": "Sat, 15 Feb 2025 03:07:24 GMT",
-        "category": "Microsoft",
-        "type": "meetup"
-    },
-    {
-        "title": "Azure SQL Database Tutorial",
-        "event_date": "February 18, 2025",
-        "location": "Online",
-        "link": "https://dev.events/conferences/azure-sql-database-tutorial-306045432",
-        "published": "Sat, 15 Feb 2025 03:07:24 GMT",
-        "category": "Azure",
-        "type": "meetup"
-    },
-    {
         "title": "Embrace true continuous testing in the SDLC!",
         "event_date": "April 9, 2025",
         "location": "Online",
@@ -672,24 +1023,6 @@
         "link": "https://dev.events/conferences/rust-hack-and-learn-300820298",
         "published": "Fri, 14 Feb 2025 03:08:51 GMT",
         "category": "Rust",
-        "type": "meetup"
-    },
-    {
-        "title": "Implementaci\u00f3n y Administraci\u00f3n de Microsoft 365 Copilot",
-        "event_date": "February 18, 2025",
-        "location": "Online",
-        "link": "https://dev.events/conferences/implementacion-y-administracion-de-microsoft-365-copilot-305404396",
-        "published": "Fri, 14 Feb 2025 03:08:45 GMT",
-        "category": "Microsoft",
-        "type": "meetup"
-    },
-    {
-        "title": "Getting started with AI Agents in Azure",
-        "event_date": "February 18, 2025",
-        "location": "Online",
-        "link": "https://dev.events/conferences/getting-started-with-ai-agents-in-azure-305436389",
-        "published": "Fri, 14 Feb 2025 03:08:45 GMT",
-        "category": "AI / ML",
         "type": "meetup"
     },
     {
@@ -999,24 +1332,6 @@
         "type": "meetup"
     },
     {
-        "title": "How to Save 10 Hours a Week at Work with AI",
-        "event_date": "February 18, 2025",
-        "location": "Online",
-        "link": "https://dev.events/conferences/how-to-save-10-hours-a-week-at-work-with-ai-305583225",
-        "published": "Fri, 14 Feb 2025 03:00:47 GMT",
-        "category": "AI / ML",
-        "type": "meetup"
-    },
-    {
-        "title": "Weekly Dev Chat",
-        "event_date": "February 18, 2025",
-        "location": "Online",
-        "link": "https://dev.events/conferences/weekly-dev-chat-305884935",
-        "published": "Fri, 14 Feb 2025 03:00:29 GMT",
-        "category": "Tech",
-        "type": "meetup"
-    },
-    {
         "title": "SLC Unreal User Group Meetup",
         "event_date": "June 11, 2025",
         "location": "Online",
@@ -1176,24 +1491,6 @@
         "link": "https://dev.events/conferences/reu-de-organizacion-agiles-latam-online-306143108",
         "published": "Thu, 13 Feb 2025 03:05:48 GMT",
         "category": "Agile",
-        "type": "meetup"
-    },
-    {
-        "title": "DP-700: The Microsoft Fabric environment - CI/CD, monitoring, and security (PST)",
-        "event_date": "February 18, 2025",
-        "location": "Online",
-        "link": "https://dev.events/conferences/dp-700-the-microsoft-fabric-environment-ci-cd-monitoring-and-security-pst-305409998",
-        "published": "Thu, 13 Feb 2025 03:05:41 GMT",
-        "category": "Microsoft",
-        "type": "meetup"
-    },
-    {
-        "title": "Powerful Devs Hack Kickoff",
-        "event_date": "February 18, 2025",
-        "location": "Online",
-        "link": "https://dev.events/conferences/powerful-devs-hack-kickoff-305007189",
-        "published": "Thu, 13 Feb 2025 03:05:41 GMT",
-        "category": "Microsoft",
         "type": "meetup"
     },
     {
@@ -1611,15 +1908,6 @@
         "type": "meetup"
     },
     {
-        "title": "XM Cloud Migration Tool: What's New and Improved?",
-        "event_date": "February 18, 2025",
-        "location": "Online",
-        "link": "https://dev.events/conferences/xm-cloud-migration-tool-what-s-new-and-improved-306036418",
-        "published": "Tue, 11 Feb 2025 03:10:09 GMT",
-        "category": "Cloud",
-        "type": "meetup"
-    },
-    {
         "title": "Building Intelligent Apps with Semantic Kernel",
         "event_date": "February 25, 2025",
         "location": "Online",
@@ -1665,15 +1953,6 @@
         "type": "meetup"
     },
     {
-        "title": "\"Game-Based Learning for Smarter Business Decisions\" with Ionah Hang",
-        "event_date": "February 18, 2025",
-        "location": "Online",
-        "link": "https://dev.events/conferences/game-based-learning-for-smarter-business-decisions-with-ionah-hang-306078350",
-        "published": "Tue, 11 Feb 2025 03:06:41 GMT",
-        "category": "Tech",
-        "type": "meetup"
-    },
-    {
         "title": "Data on Kubernetes Special Interest Group Meeting",
         "event_date": "February 25, 2025",
         "location": "Online",
@@ -1689,15 +1968,6 @@
         "link": "https://dev.events/conferences/google-gen-ai-workshop-virtual-build-agent-with-lang-graph-and-gemini-306095232",
         "published": "Tue, 11 Feb 2025 03:05:40 GMT",
         "category": "Google",
-        "type": "meetup"
-    },
-    {
-        "title": "(TECHSHOT) Tecnologia e Inclus\u00e3o: como a Diversidade redefine a inova\u00e7\u00e3o",
-        "event_date": "February 18, 2025",
-        "location": "Online",
-        "link": "https://dev.events/conferences/techshot-tecnologia-e-inclusao-como-a-diversidade-redefine-a-inovacao-306107509",
-        "published": "Tue, 11 Feb 2025 03:05:31 GMT",
-        "category": "Tech",
         "type": "meetup"
     },
     {
@@ -1737,15 +2007,6 @@
         "type": "meetup"
     },
     {
-        "title": "BigQuery SQL with Pipe Syntax: Live Coding Webinar",
-        "event_date": "February 18, 2025",
-        "location": "Online",
-        "link": "https://dev.events/conferences/big-query-sql-with-pipe-syntax-live-coding-webinar-306107595",
-        "published": "Tue, 11 Feb 2025 03:02:55 GMT",
-        "category": "SQL",
-        "type": "meetup"
-    },
-    {
         "title": "Angular Community Meetup - En Espa\u00f1ol",
         "event_date": "February 11, 2026",
         "location": "Online",
@@ -1780,15 +2041,6 @@
         "published": "Mon, 10 Feb 2025 10:13:00 GMT",
         "category": "IT",
         "type": "conference"
-    },
-    {
-        "title": "\"Game-Based Learning for Smarter Business Decisions\" with Ionah Hang",
-        "event_date": "February 18, 2025",
-        "location": "Online",
-        "link": "https://dev.events/conferences/game-based-learning-for-smarter-business-decisions-with-ionah-hang-306078317",
-        "published": "Mon, 10 Feb 2025 03:08:53 GMT",
-        "category": "Agile",
-        "type": "meetup"
     },
     {
         "title": "[ Online] Deep Dive in to Autogen for\u00a0.NET with Saravanan Ganesan",
@@ -1851,15 +2103,6 @@
         "link": "https://dev.events/conferences/book-club-bring-your-own-book-jcxxptyhcfbkb",
         "published": "Mon, 10 Feb 2025 03:04:48 GMT",
         "category": "Tech",
-        "type": "meetup"
-    },
-    {
-        "title": "Memphis (Virtual) Python User Group",
-        "event_date": "February 18, 2025",
-        "location": "Online",
-        "link": "https://dev.events/conferences/memphis-virtual-python-user-group-305975309",
-        "published": "Mon, 10 Feb 2025 03:03:25 GMT",
-        "category": "Python",
         "type": "meetup"
     },
     {
@@ -2304,24 +2547,6 @@
         "type": "meetup"
     },
     {
-        "title": "Building Smart Devices using Java on the RaspberryPi - An intro to Pi4J",
-        "event_date": "February 18, 2025",
-        "location": "Online",
-        "link": "https://dev.events/conferences/building-smart-devices-using-java-on-the-raspberry-pi-an-intro-to-pi4-j-305994214",
-        "published": "Fri, 07 Feb 2025 03:08:14 GMT",
-        "category": "Java",
-        "type": "meetup"
-    },
-    {
-        "title": "Boost Your Performance and Developer Productivity with Jakarta EE 11-Streaming",
-        "event_date": "February 18, 2025",
-        "location": "Online",
-        "link": "https://dev.events/conferences/boost-your-performance-and-developer-productivity-with-jakarta-ee-11-streaming-306007073",
-        "published": "Fri, 07 Feb 2025 03:08:14 GMT",
-        "category": "Java",
-        "type": "meetup"
-    },
-    {
         "title": "Duke turns 30 - celebrating Java",
         "event_date": "March 13, 2025",
         "location": "Online",
@@ -2412,15 +2637,6 @@
         "type": "meetup"
     },
     {
-        "title": "Future-Ready IAM: Strategies to Drive Digital Transformation with AD360",
-        "event_date": "February 18, 2025",
-        "location": "Online",
-        "link": "https://dev.events/conferences/future-ready-iam-strategies-to-drive-digital-transformation-with-ad-360-305838884",
-        "published": "Fri, 07 Feb 2025 03:05:27 GMT",
-        "category": "IT service management",
-        "type": "meetup"
-    },
-    {
         "title": "ManageEngine ADManager Plus product demo",
         "event_date": "February 19, 2025",
         "location": "Online",
@@ -2480,15 +2696,6 @@
         "location": "Online",
         "link": "https://dev.events/conferences/conf42-large-language-models-ll-ms-2025-305437489",
         "published": "Fri, 07 Feb 2025 03:04:31 GMT",
-        "category": "AI / ML",
-        "type": "meetup"
-    },
-    {
-        "title": "AI Show: Discussing Latest Trends, Use Cases and Tools",
-        "event_date": "February 18, 2025",
-        "location": "Online",
-        "link": "https://dev.events/conferences/ai-show-discussing-latest-trends-use-cases-and-tools-305604592",
-        "published": "Fri, 07 Feb 2025 03:04:10 GMT",
         "category": "AI / ML",
         "type": "meetup"
     },
@@ -2709,24 +2916,6 @@
         "type": "meetup"
     },
     {
-        "title": "Global Business Networking - Online Event",
-        "event_date": "February 18, 2025",
-        "location": "Online",
-        "link": "https://dev.events/conferences/global-business-networking-online-event-305355200",
-        "published": "Wed, 05 Feb 2025 03:08:08 GMT",
-        "category": "Tech",
-        "type": "meetup"
-    },
-    {
-        "title": "Designers, Developers, Startups - Showcase Your Products",
-        "event_date": "February 18, 2025",
-        "location": "Online",
-        "link": "https://dev.events/conferences/designers-developers-startups-showcase-your-products-305869828",
-        "published": "Wed, 05 Feb 2025 03:08:08 GMT",
-        "category": "Tech",
-        "type": "meetup"
-    },
-    {
         "title": "Hybrid: February community gathering @Google",
         "event_date": "February 19, 2025",
         "location": "Online",
@@ -2742,15 +2931,6 @@
         "link": "https://dev.events/conferences/cloud-native-virtualization-in-government-a-real-world-use-case-305990587",
         "published": "Wed, 05 Feb 2025 03:05:55 GMT",
         "category": "Cloud",
-        "type": "meetup"
-    },
-    {
-        "title": "GitLab Community Pairing",
-        "event_date": "February 18, 2025",
-        "location": "Online",
-        "link": "https://dev.events/conferences/git-lab-community-pairing-305878260",
-        "published": "Wed, 05 Feb 2025 03:05:51 GMT",
-        "category": "DevOps",
         "type": "meetup"
     },
     {
@@ -2994,15 +3174,6 @@
         "link": "https://dev.events/conferences/architecture-coaching-304331142",
         "published": "Tue, 04 Feb 2025 03:02:27 GMT",
         "category": "Software architecture",
-        "type": "meetup"
-    },
-    {
-        "title": "Winter Data Meetup 2025",
-        "event_date": "February 18, 2025",
-        "location": "Online",
-        "link": "https://dev.events/conferences/winter-data-meetup-2025-zhvkjp9f",
-        "published": "Mon, 03 Feb 2025 09:28:28 GMT",
-        "category": "Data / Database",
         "type": "meetup"
     },
     {
@@ -3330,15 +3501,6 @@
         "type": "meetup"
     },
     {
-        "title": "Explore the New Hyperledger Fabric Course: Sneak Peek into Content & Insights",
-        "event_date": "February 18, 2025",
-        "location": "Online",
-        "link": "https://dev.events/conferences/explore-the-new-hyperledger-fabric-course-sneak-peek-into-content-and-insights-305182847",
-        "published": "Fri, 31 Jan 2025 03:05:15 GMT",
-        "category": "Crypto / Blockchain",
-        "type": "meetup"
-    },
-    {
         "title": "Feb 20 - Virtual AI, ML and Computer Vision Meetup",
         "event_date": "February 20, 2025",
         "location": "Online",
@@ -3372,15 +3534,6 @@
         "link": "https://dev.events/conferences/virtual-fishers-code-and-coffee-vkwkvryhcdbkc",
         "published": "Fri, 31 Jan 2025 03:04:18 GMT",
         "category": "Tech",
-        "type": "meetup"
-    },
-    {
-        "title": "February Meetup - Instruments Redux",
-        "event_date": "February 18, 2025",
-        "location": "Online",
-        "link": "https://dev.events/conferences/february-meetup-instruments-redux-305908554",
-        "published": "Fri, 31 Jan 2025 03:04:06 GMT",
-        "category": "iOS / Swift",
         "type": "meetup"
     },
     {
@@ -4356,30 +4509,12 @@
         "type": "meetup"
     },
     {
-        "title": "The Weekly Function",
-        "event_date": "February 18, 2025",
-        "location": "Online",
-        "link": "https://dev.events/conferences/the-weekly-function-xgqfjtyhcdbwb",
-        "published": "Wed, 22 Jan 2025 03:08:12 GMT",
-        "category": "Functional programming",
-        "type": "meetup"
-    },
-    {
         "title": "Mid-month Rustful",
         "event_date": "May 20, 2025",
         "location": "Online",
         "link": "https://dev.events/conferences/mid-month-rustful-305170826",
         "published": "Wed, 22 Jan 2025 03:08:00 GMT",
         "category": "Rust",
-        "type": "meetup"
-    },
-    {
-        "title": "Granite State Code Review Nightly",
-        "event_date": "February 18, 2025",
-        "location": "Online",
-        "link": "https://dev.events/conferences/granite-state-code-review-nightly-pgwpntyhcdbwb",
-        "published": "Wed, 22 Jan 2025 03:05:24 GMT",
-        "category": ".NET",
         "type": "meetup"
     },
     {
@@ -4542,24 +4677,6 @@
         "link": "https://dev.events/conferences/community-catch-up-305716839",
         "published": "Tue, 21 Jan 2025 03:07:09 GMT",
         "category": "Rust",
-        "type": "meetup"
-    },
-    {
-        "title": "SFS SysOps Monthly Maintenance Mob",
-        "event_date": "February 18, 2025",
-        "location": "Online",
-        "link": "https://dev.events/conferences/sfs-sys-ops-monthly-maintenance-mob-305730056",
-        "published": "Tue, 21 Jan 2025 03:06:53 GMT",
-        "category": "Open Source",
-        "type": "meetup"
-    },
-    {
-        "title": "Free Passes to DeveloperWeek 2025!",
-        "event_date": "February 18, 2025",
-        "location": "Online",
-        "link": "https://dev.events/conferences/free-passes-to-developer-week-2025-305686754",
-        "published": "Tue, 21 Jan 2025 03:03:14 GMT",
-        "category": "Ruby",
         "type": "meetup"
     },
     {
@@ -4856,15 +4973,6 @@
         "location": "Online",
         "link": "https://dev.events/conferences/true-scrum-master-4-304075971",
         "published": "Fri, 17 Jan 2025 03:09:06 GMT",
-        "category": "Agile",
-        "type": "meetup"
-    },
-    {
-        "title": "Free OPEN Passes to DeveloperWeek 2025",
-        "event_date": "February 18, 2025",
-        "location": "Online",
-        "link": "https://dev.events/conferences/free-open-passes-to-developer-week-2025-305641809",
-        "published": "Fri, 17 Jan 2025 03:08:54 GMT",
         "category": "Agile",
         "type": "meetup"
     },
@@ -5172,15 +5280,6 @@
         "link": "https://dev.events/conferences/angular-community-meetup-en-espanol-rbvdltyjccbrb",
         "published": "Tue, 14 Jan 2025 03:02:40 GMT",
         "category": "Angular",
-        "type": "meetup"
-    },
-    {
-        "title": "Virtual Beer and Pixels - Monthly 2025",
-        "event_date": "February 18, 2025",
-        "location": "Online",
-        "link": "https://dev.events/conferences/virtual-beer-and-pixels-monthly-2025-jkmqptyhcdbxb",
-        "published": "Tue, 14 Jan 2025 03:00:45 GMT",
-        "category": "Game dev",
         "type": "meetup"
     },
     {
@@ -6066,30 +6165,12 @@
         "type": "meetup"
     },
     {
-        "title": "Intro to Collet. A low-code ETL management tool (by Sergei Tkachenko)",
-        "event_date": "February 18, 2025",
-        "location": "Online",
-        "link": "https://dev.events/conferences/intro-to-collet-a-low-code-etl-management-tool-by-sergei-tkachenko-305238843",
-        "published": "Wed, 25 Dec 2024 03:07:21 GMT",
-        "category": "Clojure",
-        "type": "meetup"
-    },
-    {
         "title": "LUNCH WITH PETER TOWERS - MEET THE BUSINESS ADVISORY EXPERT LIVE - MONTHLY EVENT",
         "event_date": "April 22, 2025",
         "location": "Online",
         "link": "https://dev.events/conferences/lunch-with-peter-towers-meet-the-business-advisory-expert-live-monthly-event-xtgzjtyhcgbdc",
         "published": "Wed, 25 Dec 2024 03:01:29 GMT",
         "category": "Business Analysis",
-        "type": "meetup"
-    },
-    {
-        "title": "Vision Pro Dev Collaboration",
-        "event_date": "February 18, 2025",
-        "location": "Online",
-        "link": "https://dev.events/conferences/vision-pro-dev-collaboration-vnkrntyhcdbwb",
-        "published": "Wed, 25 Dec 2024 03:01:03 GMT",
-        "category": "AR / VR / XR",
         "type": "meetup"
     },
     {
@@ -6921,6 +7002,15 @@
         "type": "meetup"
     },
     {
+        "title": "Flutter In Production Extended Montevideo",
+        "event_date": "February 20, 2025",
+        "location": "Montevideo, Uruguay and Online",
+        "link": "https://dev.events/conferences/flutter-in-production-extended-montevideo-304828068",
+        "published": "Fri, 06 Dec 2024 03:02:12 GMT",
+        "category": "Flutter",
+        "type": "meetup"
+    },
+    {
         "title": "Monthly Dig. Game Dev. Meeting",
         "event_date": "April 3, 2025",
         "location": "Online",
@@ -7530,15 +7620,6 @@
         "link": "https://dev.events/conferences/building-and-using-virtual-reality-in-education-frxkntyhcfbzb",
         "published": "Thu, 21 Nov 2024 03:01:27 GMT",
         "category": "AR / VR / XR",
-        "type": "meetup"
-    },
-    {
-        "title": "Virtual Beer and Pixels - Monthly 2024",
-        "event_date": "February 18, 2025",
-        "location": "Online",
-        "link": "https://dev.events/conferences/virtual-beer-and-pixels-monthly-2024-cnmcmtyhcdbxb",
-        "published": "Thu, 21 Nov 2024 03:00:50 GMT",
-        "category": "Game dev",
         "type": "meetup"
     },
     {
@@ -8307,15 +8388,6 @@
         "type": "conference"
     },
     {
-        "title": "Power BI Summit",
-        "event_date": "February 18, 2025",
-        "location": "Online",
-        "link": "https://dev.events/conferences/power-bi-summit-xfjb-ivs",
-        "published": "Sun, 27 Oct 2024 08:10:15 GMT",
-        "category": "Microsoft",
-        "type": "conference"
-    },
-    {
         "title": "HashiTalks 2025",
         "event_date": "February 20, 2025",
         "location": "Online",
@@ -8748,15 +8820,6 @@
         "type": "masterclass"
     },
     {
-        "title": "Frontend Olympics from HTML ACADEMY",
-        "event_date": "February 18, 2025",
-        "location": "Online",
-        "link": "https://dev.events/conferences/frontend-olympics-from-html-academy-8ur8y4a8",
-        "published": "Tue, 10 Sep 2024 12:25:39 GMT",
-        "category": "Web / Frontend",
-        "type": "hackathon"
-    },
-    {
         "title": "Angular Community Meetup - En Espa\u00f1ol",
         "event_date": "September 9, 2025",
         "location": "Online",
@@ -8943,24 +9006,6 @@
         "link": "https://dev.events/conferences/jax-eih4tlxb",
         "published": "Sat, 06 Jul 2024 05:40:13 GMT",
         "category": "Java",
-        "type": "conference"
-    },
-    {
-        "title": "AI DevWorld 2025 Online",
-        "event_date": "February 18, 2025",
-        "location": "Online",
-        "link": "https://dev.events/conferences/ai-dev-world-2025-online-lzfx-tpm",
-        "published": "Wed, 05 Jun 2024 16:08:48 GMT",
-        "category": "AI / ML",
-        "type": "conference"
-    },
-    {
-        "title": "DeveloperWeek 2025 Online",
-        "event_date": "February 18, 2025",
-        "location": "Online",
-        "link": "https://dev.events/conferences/developer-week-2025-online-nnhdoxjz",
-        "published": "Wed, 05 Jun 2024 16:07:26 GMT",
-        "category": "Full-stack",
         "type": "conference"
     },
     {
