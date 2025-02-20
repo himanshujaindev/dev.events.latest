@@ -1,551 +1,83 @@
 [
     {
-        "title": "Fintech Fusion India 2025",
-        "event_date": "March 11, 2025",
-        "location": "GIFT City, India",
-        "link": "https://dev.events/conferences/fintech-fusion-india-2025-sxbtwef2",
-        "published": "Tue, 18 Feb 2025 11:22:02 GMT",
-        "category": "Fintech",
-        "type": "conference"
-    },
-    {
-        "title": "BrowserStack QA meetup Bangalore - Feb",
-        "event_date": "February 22, 2025",
-        "location": "Bengaluru, India",
-        "link": "https://dev.events/conferences/browser-stack-qa-meetup-bangalore-feb-305533505",
-        "published": "Tue, 18 Feb 2025 03:11:31 GMT",
-        "category": "Testing / QA",
-        "type": "meetup"
-    },
-    {
-        "title": "Grafana & Friends Bengaluru: March 2025",
-        "event_date": "March 29, 2025",
-        "location": "Bengaluru, India",
-        "link": "https://dev.events/conferences/grafana-and-friends-bengaluru-march-2025-306218847",
-        "published": "Tue, 18 Feb 2025 03:07:08 GMT",
-        "category": "DevOps",
-        "type": "meetup"
-    },
-    {
-        "title": "TECHFEST'25 Pondicherry",
-        "event_date": "March 2, 2025",
-        "location": "Puducherry, India",
-        "link": "https://dev.events/conferences/techfest-25-pondicherry-ui4pcy3c",
-        "published": "Mon, 17 Feb 2025 08:28:38 GMT",
-        "category": "Tech",
-        "type": "conference"
-    },
-    {
-        "title": "Build with AI - Models and Agents",
-        "event_date": "February 28, 2025",
-        "location": "Bengaluru, India",
-        "link": "https://dev.events/conferences/build-with-ai-models-and-agents-306148629",
-        "published": "Mon, 17 Feb 2025 03:02:32 GMT",
+        "title": "Bangalore's Ultimate AI Hackathon",
+        "event_date": "March 1, 2025",
+        "location": "Bangalore, India",
+        "link": "https://dev.events/conferences/bangalore-s-ultimate-ai-hackathon-t8ypqps",
+        "published": "Wed, 19 Feb 2025 14:28:06 GMT",
         "category": "AI / ML",
-        "type": "meetup"
+        "type": "hackathon"
     },
     {
-        "title": "Coimbatore JavaScript Group - Meetup (February 2025)",
-        "event_date": "February 22, 2025",
-        "location": "coimbatore, India",
-        "link": "https://dev.events/conferences/coimbatore-java-script-group-meetup-february-2025-306199440",
-        "published": "Mon, 17 Feb 2025 03:02:24 GMT",
-        "category": "JavaScript",
-        "type": "meetup"
-    },
-    {
-        "title": "[In person] Scale your Deployment using Infrastructure as a code on AWS",
-        "event_date": "February 22, 2025",
+        "title": "India DevOps Show 2025",
+        "event_date": "May 23, 2025",
         "location": "Mumbai, India",
-        "link": "https://dev.events/conferences/in-person-scale-your-deployment-using-infrastructure-as-a-code-on-aws-306184842",
-        "published": "Sun, 16 Feb 2025 03:06:24 GMT",
-        "category": "AWS",
-        "type": "meetup"
-    },
-    {
-        "title": "[Geeknight CBE] [Edition 76] GraphQL for AI",
-        "event_date": "February 20, 2025",
-        "location": "Coimbatore, India",
-        "link": "https://dev.events/conferences/geeknight-cbe-edition-76-graph-ql-for-ai-306154043",
-        "published": "Sat, 15 Feb 2025 03:03:31 GMT",
-        "category": "API",
-        "type": "meetup"
-    },
-    {
-        "title": "#49 - Celebrate Flutter & Friends",
-        "event_date": "March 16, 2025",
-        "location": "Ahmedabad , India",
-        "link": "https://dev.events/conferences/49-celebrate-flutter-and-friends-301853158",
-        "published": "Sat, 15 Feb 2025 03:02:07 GMT",
-        "category": "Flutter",
-        "type": "meetup"
-    },
-    {
-        "title": "NexGen AI Observability and LLM Automation Meetup",
-        "event_date": "March 22, 2025",
-        "location": "Bengaluru, India",
-        "link": "https://dev.events/conferences/nex-gen-ai-observability-and-llm-automation-meetup-306150041",
-        "published": "Fri, 14 Feb 2025 03:08:43 GMT",
-        "category": "AI / ML",
-        "type": "meetup"
-    },
-    {
-        "title": "Generative AI in 2025 - Technology Trends and Hands-on",
-        "event_date": "February 28, 2025",
-        "location": "Bengaluru, India",
-        "link": "https://dev.events/conferences/generative-ai-in-2025-technology-trends-and-hands-on-306148629",
-        "published": "Fri, 14 Feb 2025 03:03:01 GMT",
-        "category": "AI / ML",
-        "type": "meetup"
-    },
-    {
-        "title": "Kubernetes Meetup by Devtron x Kong",
-        "event_date": "February 22, 2025",
-        "location": "Gurugram, India",
-        "link": "https://dev.events/conferences/kubernetes-meetup-by-devtron-x-kong-306134322",
-        "published": "Thu, 13 Feb 2025 03:07:56 GMT",
-        "category": "Docker / Kubernetes",
-        "type": "meetup"
-    },
-    {
-        "title": "AWSheTechDay 2025 -by AWS UG Women In Tech India, Chennai Chapter",
-        "event_date": "March 15, 2025",
-        "location": "Chennai, India",
-        "link": "https://dev.events/conferences/aw-she-tech-day-2025-by-aws-ug-women-in-tech-india-chennai-chapter-306129456",
-        "published": "Thu, 13 Feb 2025 03:06:01 GMT",
-        "category": "AWS",
-        "type": "meetup"
-    },
-    {
-        "title": "React Delhi Meetup #8",
-        "event_date": "March 8, 2025",
-        "location": "Gurugram, India",
-        "link": "https://dev.events/conferences/react-delhi-meetup-8-306136565",
-        "published": "Thu, 13 Feb 2025 03:02:50 GMT",
-        "category": "React",
-        "type": "meetup"
-    },
-    {
-        "title": "Kubernetes Kerala",
-        "event_date": "March 11, 2025",
-        "location": "Thrissur, India",
-        "link": "https://dev.events/conferences/kubernetes-kerala-w8zuu-5x",
-        "published": "Wed, 12 Feb 2025 16:02:04 GMT",
-        "category": "Docker / Kubernetes",
-        "type": "conference"
-    },
-    {
-        "title": "KCD Bengaluru 2025",
-        "event_date": "June 7, 2025",
-        "location": "Bengaluru, India",
-        "link": "https://dev.events/conferences/kcd-bengaluru-2025-ypmadrhs",
-        "published": "Wed, 12 Feb 2025 15:57:42 GMT",
-        "category": "Docker / Kubernetes",
-        "type": "conference"
-    },
-    {
-        "title": "React Nexus",
-        "event_date": "July 3, 2025",
-        "location": "Bangalore, India",
-        "link": "https://dev.events/conferences/react-nexus-huun3eh3",
-        "published": "Wed, 12 Feb 2025 15:49:17 GMT",
-        "category": "React",
-        "type": "conference"
-    },
-    {
-        "title": "Grafana & Friends Hyderabad X Cloud Builders March Meetup",
-        "event_date": "March 8, 2025",
-        "location": "Hyderabad, India",
-        "link": "https://dev.events/conferences/grafana-and-friends-hyderabad-x-cloud-builders-march-meetup-306097263",
-        "published": "Tue, 11 Feb 2025 03:06:21 GMT",
+        "link": "https://dev.events/conferences/india-dev-ops-show-2025-kt2wundj",
+        "published": "Wed, 19 Feb 2025 14:19:06 GMT",
         "category": "DevOps",
-        "type": "meetup"
-    },
-    {
-        "title": "AWS User Group Pune -February 2025 Meetup",
-        "event_date": "February 22, 2025",
-        "location": "Pune, India",
-        "link": "https://dev.events/conferences/aws-user-group-pune-february-2025-meetup-305905256",
-        "published": "Sun, 09 Feb 2025 03:07:57 GMT",
-        "category": "AWS",
-        "type": "meetup"
-    },
-    {
-        "title": "#50 - Celebrate Flutter & Friends",
-        "event_date": "March 16, 2025",
-        "location": "Ahmedabad , India",
-        "link": "https://dev.events/conferences/50-celebrate-flutter-and-friends-301853158",
-        "published": "Sun, 09 Feb 2025 03:02:20 GMT",
-        "category": "Flutter",
-        "type": "meetup"
-    },
-    {
-        "title": "React Native & React Meetup - 5th April",
-        "event_date": "April 5, 2025",
-        "location": "Bangalore, India",
-        "link": "https://dev.events/conferences/react-native-and-react-meetup-5th-april-306048491",
-        "published": "Sat, 08 Feb 2025 03:02:37 GMT",
-        "category": "React",
-        "type": "meetup"
-    },
-    {
-        "title": "PGConf India",
-        "event_date": "March 5, 2025",
-        "location": "Bengaluru, India",
-        "link": "https://dev.events/conferences/pg-conf-india-zdvp49sc",
-        "published": "Fri, 07 Feb 2025 07:38:12 GMT",
-        "category": "Postgres",
         "type": "conference"
     },
     {
-        "title": "Current Bengaluru 2025",
-        "event_date": "March 19, 2025",
-        "location": "Bengaluru, India",
-        "link": "https://dev.events/conferences/current-bengaluru-2025-hgeq24te",
-        "published": "Fri, 07 Feb 2025 07:16:43 GMT",
-        "category": "Data / Database",
-        "type": "conference"
-    },
-    {
-        "title": "react meetup #86",
-        "event_date": "February 22, 2025",
-        "location": "Bangalore, India",
-        "link": "https://dev.events/conferences/react-meetup-86-305858430",
-        "published": "Fri, 07 Feb 2025 03:02:51 GMT",
-        "category": "React",
-        "type": "meetup"
-    },
-    {
-        "title": "DesignUp25",
-        "event_date": "November 3, 2025",
-        "location": "Bengaluru, India",
-        "link": "https://dev.events/conferences/design-up25-1gjrenyu",
-        "published": "Thu, 06 Feb 2025 09:58:33 GMT",
-        "category": "UI / UX",
-        "type": "conference"
-    },
-    {
-        "title": "GitTogether Delhi NCR",
-        "event_date": "February 22, 2025",
-        "location": "Noida, India",
-        "link": "https://dev.events/conferences/git-together-delhi-ncr-305986563",
-        "published": "Wed, 05 Feb 2025 03:06:19 GMT",
-        "category": "Tech",
-        "type": "meetup"
-    },
-    {
-        "title": "GitTogether Delhi NCR",
-        "event_date": "March 22, 2025",
-        "location": "Noida, India",
-        "link": "https://dev.events/conferences/git-together-delhi-ncr-305986608",
-        "published": "Wed, 05 Feb 2025 03:06:19 GMT",
-        "category": "Tech",
-        "type": "meetup"
-    },
-    {
-        "title": "Bangalore SRE February month Meetup",
-        "event_date": "February 22, 2025",
-        "location": "Bengaluru, India",
-        "link": "https://dev.events/conferences/bangalore-sre-february-month-meetup-305901975",
-        "published": "Fri, 31 Jan 2025 03:10:18 GMT",
-        "category": "SRE",
-        "type": "meetup"
-    },
-    {
-        "title": "Global AI Bootcamp 2025  Mumbai",
-        "event_date": "March 1, 2025",
-        "location": "Mumbai, India and Online",
-        "link": "https://dev.events/conferences/global-ai-bootcamp-2025-mumbai-rdg6wsxp",
-        "published": "Thu, 30 Jan 2025 13:10:43 GMT",
-        "category": "AI / ML",
-        "type": "conference"
-    },
-    {
-        "title": "TribeQonf 2025",
-        "event_date": "July 11, 2025",
-        "location": "Bengaluru, India",
-        "link": "https://dev.events/conferences/tribe-qonf-2025-x8llxycu",
-        "published": "Wed, 29 Jan 2025 15:34:59 GMT",
-        "category": "Testing / QA",
-        "type": "conference"
-    },
-    {
-        "title": "Global AI Bootcamp 2025",
-        "event_date": "March 15, 2025",
-        "location": "Kochi , India",
-        "link": "https://dev.events/conferences/global-ai-bootcamp-2025-305858021",
-        "published": "Wed, 29 Jan 2025 03:10:25 GMT",
-        "category": "AI / ML",
-        "type": "meetup"
-    },
-    {
-        "title": "Startup Mahakumbh",
-        "event_date": "March 27, 2025",
-        "location": "New Delhi, India",
-        "link": "https://dev.events/conferences/startup-mahakumbh-q-zxlvko",
-        "published": "Mon, 27 Jan 2025 12:55:25 GMT",
-        "category": "Startup",
-        "type": "conference"
-    },
-    {
-        "title": "TechSphere",
-        "event_date": "February 22, 2025",
+        "title": "Application Security and DevSecOps Show 2025",
+        "event_date": "June 6, 2025",
         "location": "Mumbai, India",
-        "link": "https://dev.events/conferences/tech-sphere-305451913",
-        "published": "Sat, 25 Jan 2025 03:02:26 GMT",
-        "category": "Tech",
-        "type": "meetup"
-    },
-    {
-        "title": "ICEMSS 2025",
-        "event_date": "February 19, 2025",
-        "location": "Delhi, India",
-        "link": "https://dev.events/conferences/icemss-2025-1vvbjrsg",
-        "published": "Fri, 24 Jan 2025 15:22:36 GMT",
-        "category": "IT",
-        "type": "conference"
-    },
-    {
-        "title": "Cloud-Native LLMOps Day Bengaluru",
-        "event_date": "February 22, 2025",
-        "location": "Bengaluru, India",
-        "link": "https://dev.events/conferences/cloud-native-llm-ops-day-bengaluru-305749928",
-        "published": "Thu, 23 Jan 2025 03:07:40 GMT",
-        "category": "Cloud",
-        "type": "meetup"
-    },
-    {
-        "title": "Continuous Innovation: Mastering DevOps & Testing",
-        "event_date": "February 20, 2025",
-        "location": "Chennai, India",
-        "link": "https://dev.events/conferences/continuous-innovation-mastering-dev-ops-and-testing-65db2663",
-        "published": "Wed, 22 Jan 2025 12:44:30 GMT",
-        "category": "DevOps",
-        "type": "conference"
-    },
-    {
-        "title": "OpenSearchCon India",
-        "event_date": "June 3, 2025",
-        "location": "Bengaluru, India",
-        "link": "https://dev.events/conferences/open-search-con-india-sfs3qujd",
-        "published": "Wed, 22 Jan 2025 11:05:17 GMT",
-        "category": "Open Source",
-        "type": "conference"
-    },
-    {
-        "title": "AI Days 2025 - India's Largest AI Conference",
-        "event_date": "April 12, 2025",
-        "location": "Hyderabad, India",
-        "link": "https://dev.events/conferences/ai-days-2025-india-s-largest-ai-conference-305683237",
-        "published": "Wed, 22 Jan 2025 03:07:50 GMT",
-        "category": "AI / ML",
-        "type": "meetup"
-    },
-    {
-        "title": "Global AI Bootcamp 2025",
-        "event_date": "March 1, 2025",
-        "location": "Chennai, India",
-        "link": "https://dev.events/conferences/global-ai-bootcamp-2025-304777514",
-        "published": "Tue, 21 Jan 2025 03:06:50 GMT",
-        "category": "AI / ML",
-        "type": "meetup"
-    },
-    {
-        "title": "Fintech Future Summit Bengaluru 2025",
-        "event_date": "May 28, 2025",
-        "location": "Bengaluru, India",
-        "link": "https://dev.events/conferences/fintech-future-summit-bengaluru-2025-79t-xe37",
-        "published": "Mon, 20 Jan 2025 08:36:47 GMT",
-        "category": "Fintech",
-        "type": "conference"
-    },
-    {
-        "title": "Backend is Dead! The Rise of AI Agents as the New Architects of the Web",
-        "event_date": "February 22, 2025",
-        "location": "Chennai, India",
-        "link": "https://dev.events/conferences/backend-is-dead-the-rise-of-ai-agents-as-the-new-architects-of-the-web-305681502",
-        "published": "Sun, 19 Jan 2025 03:07:30 GMT",
-        "category": "Full-stack",
-        "type": "meetup"
-    },
-    {
-        "title": "AI Days 2025 - India's largest Conference",
-        "event_date": "April 12, 2025",
-        "location": "Hyderabad, India",
-        "link": "https://dev.events/conferences/ai-days-2025-india-s-largest-conference-305683237",
-        "published": "Sun, 19 Jan 2025 03:06:01 GMT",
-        "category": "AI / ML",
-        "type": "meetup"
-    },
-    {
-        "title": "KCD Chennai",
-        "event_date": "April 26, 2025",
-        "location": "Chennai, India",
-        "link": "https://dev.events/conferences/kcd-chennai-drbe2z6m",
-        "published": "Sat, 18 Jan 2025 16:52:59 GMT",
-        "category": "Docker / Kubernetes",
-        "type": "conference"
-    },
-    {
-        "title": "Global Power Platform Bootcamp 2025",
-        "event_date": "February 22, 2025",
-        "location": "Chennai, India",
-        "link": "https://dev.events/conferences/global-power-platform-bootcamp-2025-305586727",
-        "published": "Tue, 14 Jan 2025 03:08:01 GMT",
-        "category": "Microsoft",
-        "type": "meetup"
-    },
-    {
-        "title": "Microsoft Azure Skillup Tamilnadu Session 3",
-        "event_date": "April 19, 2025",
-        "location": "Chennai, India",
-        "link": "https://dev.events/conferences/microsoft-azure-skillup-tamilnadu-session-3-305555255",
-        "published": "Sun, 12 Jan 2025 03:07:54 GMT",
-        "category": "Microsoft",
-        "type": "meetup"
-    },
-    {
-        "title": "Pune Global Azure 2025",
-        "event_date": "May 10, 2025",
-        "location": "Pune, India",
-        "link": "https://dev.events/conferences/pune-global-azure-2025-305452565",
-        "published": "Wed, 08 Jan 2025 03:04:17 GMT",
-        "category": "Azure",
-        "type": "meetup"
-    },
-    {
-        "title": "Ng-India Angular Conference 2025",
-        "event_date": "April 11, 2025",
-        "location": "Gurgaon, India",
-        "link": "https://dev.events/conferences/ng-india-angular-conference-2025-rvifogov",
-        "published": "Tue, 07 Jan 2025 15:19:29 GMT",
-        "category": "Angular",
-        "type": "conference"
-    },
-    {
-        "title": "Quarterly Large Scale Production Engineering (LSPE) meet up",
-        "event_date": "December 13, 2025",
-        "location": "Bangalore, India",
-        "link": "https://dev.events/conferences/quarterly-large-scale-production-engineering-lspe-meet-up-qvgqgdyhcqbrb",
-        "published": "Sun, 15 Dec 2024 03:04:51 GMT",
-        "category": "SRE",
-        "type": "meetup"
-    },
-    {
-        "title": "KubeCon + CloudNativeCon India",
-        "event_date": "August 6, 2025",
-        "location": "Hyderabad, India",
-        "link": "https://dev.events/conferences/kube-con-cloud-native-con-india-wazfyuoj",
-        "published": "Sat, 14 Dec 2024 19:37:17 GMT",
-        "category": "Docker / Kubernetes",
-        "type": "conference"
-    },
-    {
-        "title": "CIO Tech Conclave and Conference",
-        "event_date": "February 27, 2025",
-        "location": "Bengaluru, India",
-        "link": "https://dev.events/conferences/cio-tech-conclave-and-conference-co9u4xgs",
-        "published": "Tue, 10 Dec 2024 12:16:08 GMT",
-        "category": "CIO",
-        "type": "conference"
-    },
-    {
-        "title": "Open Source Summit India",
-        "event_date": "August 5, 2025",
-        "location": "Hyderabad, India",
-        "link": "https://dev.events/conferences/open-source-summit-india-odm-4ug0",
-        "published": "Tue, 10 Dec 2024 11:49:01 GMT",
-        "category": "Open Source",
-        "type": "conference"
-    },
-    {
-        "title": "Current Bengaluru 2025",
-        "event_date": "March 19, 2025",
-        "location": "Bangalore, India",
-        "link": "https://dev.events/conferences/current-bengaluru-2025-gbkqkk9y",
-        "published": "Sun, 24 Nov 2024 10:42:05 GMT",
-        "category": "Data / Database",
-        "type": "conference"
-    },
-    {
-        "title": "KubeCon + CloudNativeCon India 2025",
-        "event_date": "August 6, 2025",
-        "location": "Hyderabad, India",
-        "link": "https://dev.events/conferences/kube-con-cloud-native-con-india-2025-bbhjwhjb",
-        "published": "Sun, 17 Nov 2024 12:43:27 GMT",
-        "category": "Docker / Kubernetes",
-        "type": "conference"
-    },
-    {
-        "title": "Agile India 2025",
-        "event_date": "March 25, 2025",
-        "location": "Bangalore, India",
-        "link": "https://dev.events/conferences/agile-india-2025-pjybuwnd",
-        "published": "Tue, 12 Nov 2024 10:57:59 GMT",
-        "category": "Agile",
-        "type": "conference"
-    },
-    {
-        "title": "RSG 2025 Pune Powered By APGI",
-        "event_date": "March 21, 2025",
-        "location": "Pune, India",
-        "link": "https://dev.events/conferences/rsg-2025-pune-powered-by-apgi-oo7sxkbe",
-        "published": "Wed, 06 Nov 2024 14:59:32 GMT",
-        "category": "Agile",
-        "type": "conference"
-    },
-    {
-        "title": "Quarterly Large Scale Production Engineering (LSPE) meet up",
-        "event_date": "March 8, 2025",
-        "location": "Bangalore, India",
-        "link": "https://dev.events/conferences/quarterly-large-scale-production-engineering-lspe-meet-up-299082307",
-        "published": "Wed, 09 Oct 2024 06:38:33 GMT",
-        "category": "SRE",
-        "type": "meetup"
-    },
-    {
-        "title": "Quarterly Large Scale Production Engineering (LSPE) meet up",
-        "event_date": "June 14, 2025",
-        "location": "Bangalore, India",
-        "link": "https://dev.events/conferences/quarterly-large-scale-production-engineering-lspe-meet-up-299082306",
-        "published": "Wed, 09 Oct 2024 06:38:33 GMT",
-        "category": "SRE",
-        "type": "meetup"
-    },
-    {
-        "title": "Quarterly Large Scale Production Engineering (LSPE) meet up",
-        "event_date": "September 13, 2025",
-        "location": "Bangalore, India",
-        "link": "https://dev.events/conferences/quarterly-large-scale-production-engineering-lspe-meet-up-qvgqgdyhcmbrb",
-        "published": "Wed, 09 Oct 2024 06:38:33 GMT",
-        "category": "SRE",
-        "type": "meetup"
-    },
-    {
-        "title": "Nullcon Goa",
-        "event_date": "March 1, 2025",
-        "location": "Goa, India",
-        "link": "https://dev.events/conferences/nullcon-goa-mlj2ltp9",
-        "published": "Tue, 08 Oct 2024 05:36:44 GMT",
+        "link": "https://dev.events/conferences/application-security-and-dev-sec-ops-show-2025-3wwthetp",
+        "published": "Wed, 19 Feb 2025 14:11:57 GMT",
         "category": "Cybersecurity / InfoSec",
         "type": "conference"
     },
     {
-        "title": "PGConf India",
-        "event_date": "March 5, 2025",
+        "title": "Cloud-Native LLMOps Day Bengaluru with Snowflake, LocalStack and Microsoft",
+        "event_date": "February 22, 2025",
         "location": "Bengaluru, India",
-        "link": "https://dev.events/conferences/pg-conf-india-6b-h7rhe",
-        "published": "Sat, 05 Oct 2024 13:21:56 GMT",
-        "category": "Postgres",
-        "type": "conference"
+        "link": "https://dev.events/conferences/cloud-native-llm-ops-day-bengaluru-with-snowflake-local-stack-and-microsoft-305749928",
+        "published": "Wed, 19 Feb 2025 03:08:32 GMT",
+        "category": "Cloud",
+        "type": "meetup"
     },
     {
-        "title": "Great International Developer Summit (GIDS)",
-        "event_date": "April 23, 2025",
+        "title": "NexGen AI Observability and LLM Automation Meetup with HPE",
+        "event_date": "March 22, 2025",
         "location": "Bengaluru, India",
-        "link": "https://dev.events/conferences/great-international-developer-summit-gids-agitai0g",
-        "published": "Fri, 03 May 2024 11:53:05 GMT",
-        "category": "Full-stack",
-        "type": "conference"
+        "link": "https://dev.events/conferences/nex-gen-ai-observability-and-llm-automation-meetup-with-hpe-306150041",
+        "published": "Wed, 19 Feb 2025 03:08:32 GMT",
+        "category": "AI / ML",
+        "type": "meetup"
+    },
+    {
+        "title": "AI Inference Day with NVIDIA",
+        "event_date": "April 5, 2025",
+        "location": "Bengaluru, India",
+        "link": "https://dev.events/conferences/ai-inference-day-with-nvidia-306235173",
+        "published": "Wed, 19 Feb 2025 03:08:32 GMT",
+        "category": "AI / ML",
+        "type": "meetup"
+    },
+    {
+        "title": "Docker Pune March meetup - Womens Day Celebration",
+        "event_date": "March 15, 2025",
+        "location": "Pune, India",
+        "link": "https://dev.events/conferences/docker-pune-march-meetup-womens-day-celebration-306236786",
+        "published": "Wed, 19 Feb 2025 03:06:50 GMT",
+        "category": "Docker / Kubernetes",
+        "type": "meetup"
+    },
+    {
+        "title": "AWS Women in Tech Event Coimbatore '2025",
+        "event_date": "March 20, 2025",
+        "location": "Coimbatore, India",
+        "link": "https://dev.events/conferences/aws-women-in-tech-event-coimbatore-2025-306244231",
+        "published": "Wed, 19 Feb 2025 03:06:29 GMT",
+        "category": "AWS",
+        "type": "meetup"
+    },
+    {
+        "title": "Contact Center Transformation with Amazon Connect and GenAI",
+        "event_date": "March 8, 2025",
+        "location": "Chennai, India",
+        "link": "https://dev.events/conferences/contact-center-transformation-with-amazon-connect-and-gen-ai-306233889",
+        "published": "Wed, 19 Feb 2025 03:06:11 GMT",
+        "category": "AWS",
+        "type": "meetup"
     }
 ]
