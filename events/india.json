@@ -1,83 +1,20 @@
 [
     {
-        "title": "Bangalore's Ultimate AI Hackathon",
-        "event_date": "March 1, 2025",
-        "location": "Bangalore, India",
-        "link": "https://dev.events/conferences/bangalore-s-ultimate-ai-hackathon-t8ypqps",
-        "published": "Wed, 19 Feb 2025 14:28:06 GMT",
-        "category": "AI / ML",
-        "type": "hackathon"
-    },
-    {
-        "title": "India DevOps Show 2025",
-        "event_date": "May 23, 2025",
-        "location": "Mumbai, India",
-        "link": "https://dev.events/conferences/india-dev-ops-show-2025-kt2wundj",
-        "published": "Wed, 19 Feb 2025 14:19:06 GMT",
-        "category": "DevOps",
-        "type": "conference"
-    },
-    {
-        "title": "Application Security and DevSecOps Show 2025",
-        "event_date": "June 6, 2025",
-        "location": "Mumbai, India",
-        "link": "https://dev.events/conferences/application-security-and-dev-sec-ops-show-2025-3wwthetp",
-        "published": "Wed, 19 Feb 2025 14:11:57 GMT",
-        "category": "Cybersecurity / InfoSec",
-        "type": "conference"
-    },
-    {
-        "title": "Cloud-Native LLMOps Day Bengaluru with Snowflake, LocalStack and Microsoft",
+        "title": "BrowserStack QA meetup Bangalore - February",
         "event_date": "February 22, 2025",
         "location": "Bengaluru, India",
-        "link": "https://dev.events/conferences/cloud-native-llm-ops-day-bengaluru-with-snowflake-local-stack-and-microsoft-305749928",
-        "published": "Wed, 19 Feb 2025 03:08:32 GMT",
-        "category": "Cloud",
+        "link": "https://dev.events/conferences/browser-stack-qa-meetup-bangalore-february-305533505",
+        "published": "Thu, 20 Feb 2025 03:11:32 GMT",
+        "category": "Testing / QA",
         "type": "meetup"
     },
     {
-        "title": "NexGen AI Observability and LLM Automation Meetup with HPE",
-        "event_date": "March 22, 2025",
+        "title": "Grafana & Friends Bengaluru March 2025 Meetup [In-Person]",
+        "event_date": "March 29, 2025",
         "location": "Bengaluru, India",
-        "link": "https://dev.events/conferences/nex-gen-ai-observability-and-llm-automation-meetup-with-hpe-306150041",
-        "published": "Wed, 19 Feb 2025 03:08:32 GMT",
-        "category": "AI / ML",
-        "type": "meetup"
-    },
-    {
-        "title": "AI Inference Day with NVIDIA",
-        "event_date": "April 5, 2025",
-        "location": "Bengaluru, India",
-        "link": "https://dev.events/conferences/ai-inference-day-with-nvidia-306235173",
-        "published": "Wed, 19 Feb 2025 03:08:32 GMT",
-        "category": "AI / ML",
-        "type": "meetup"
-    },
-    {
-        "title": "Docker Pune March meetup - Womens Day Celebration",
-        "event_date": "March 15, 2025",
-        "location": "Pune, India",
-        "link": "https://dev.events/conferences/docker-pune-march-meetup-womens-day-celebration-306236786",
-        "published": "Wed, 19 Feb 2025 03:06:50 GMT",
-        "category": "Docker / Kubernetes",
-        "type": "meetup"
-    },
-    {
-        "title": "AWS Women in Tech Event Coimbatore '2025",
-        "event_date": "March 20, 2025",
-        "location": "Coimbatore, India",
-        "link": "https://dev.events/conferences/aws-women-in-tech-event-coimbatore-2025-306244231",
-        "published": "Wed, 19 Feb 2025 03:06:29 GMT",
-        "category": "AWS",
-        "type": "meetup"
-    },
-    {
-        "title": "Contact Center Transformation with Amazon Connect and GenAI",
-        "event_date": "March 8, 2025",
-        "location": "Chennai, India",
-        "link": "https://dev.events/conferences/contact-center-transformation-with-amazon-connect-and-gen-ai-306233889",
-        "published": "Wed, 19 Feb 2025 03:06:11 GMT",
-        "category": "AWS",
+        "link": "https://dev.events/conferences/grafana-and-friends-bengaluru-march-2025-meetup-in-person-306218847",
+        "published": "Thu, 20 Feb 2025 03:07:26 GMT",
+        "category": "DevOps",
         "type": "meetup"
     }
 ]
