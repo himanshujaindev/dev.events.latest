@@ -1,5 +1,86 @@
 [
     {
+        "title": "Workshop: Serverlesspresso",
+        "event_date": "March 10, 2025",
+        "location": "Knoxville, United States",
+        "link": "https://dev.events/conferences/workshop-serverlesspresso-306226744",
+        "published": "Mon, 24 Feb 2025 03:10:28 GMT",
+        "category": "Serverless",
+        "type": "meetup"
+    },
+    {
+        "title": "Austin Drupal Meetup (in-person!)",
+        "event_date": "March 11, 2025",
+        "location": "Austin, United States",
+        "link": "https://dev.events/conferences/austin-drupal-meetup-in-person-306368138",
+        "published": "Mon, 24 Feb 2025 03:08:23 GMT",
+        "category": "Drupal",
+        "type": "meetup"
+    },
+    {
+        "title": "C# and .net Core - What They Offer!",
+        "event_date": "March 5, 2025",
+        "location": "Frederick, United States",
+        "link": "https://dev.events/conferences/c-and-net-core-what-they-offer-306343603",
+        "published": "Mon, 24 Feb 2025 03:06:42 GMT",
+        "category": ".NET",
+        "type": "meetup"
+    },
+    {
+        "title": "Open Source Coffee & Chat",
+        "event_date": "April 27, 2025",
+        "location": "Lafayette, United States",
+        "link": "https://dev.events/conferences/open-source-coffee-and-chat-rczplsyhcgbkc",
+        "published": "Mon, 24 Feb 2025 03:04:09 GMT",
+        "category": "Open Source",
+        "type": "meetup"
+    },
+    {
+        "title": "St. Louis Code and Coffee",
+        "event_date": "April 20, 2025",
+        "location": "University City, United States",
+        "link": "https://dev.events/conferences/st-louis-code-and-coffee-304977100",
+        "published": "Mon, 24 Feb 2025 03:03:42 GMT",
+        "category": "Tech",
+        "type": "meetup"
+    },
+    {
+        "title": "[MOVING TO LINKEDIN!!] Mastering Application Login with Identity Provider",
+        "event_date": "March 4, 2025",
+        "location": "Ann Arbor, United States",
+        "link": "https://dev.events/conferences/moving-to-linkedin-mastering-application-login-with-identity-provider-306351981",
+        "published": "Mon, 24 Feb 2025 03:02:24 GMT",
+        "category": "TypeScript",
+        "type": "meetup"
+    },
+    {
+        "title": "Portland HUG - Josh Weber building procedural wood shaders for Copernicus",
+        "event_date": "March 8, 2025",
+        "location": "Portland, United States",
+        "link": "https://dev.events/conferences/portland-hug-josh-weber-building-procedural-wood-shaders-for-copernicus-306344328",
+        "published": "Mon, 24 Feb 2025 03:00:47 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "Work and Chill 2: Artistic Boogaloo",
+        "event_date": "March 3, 2025",
+        "location": "Englewood, United States",
+        "link": "https://dev.events/conferences/work-and-chill-2-artistic-boogaloo-306105910",
+        "published": "Mon, 24 Feb 2025 03:00:15 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "Game Dev Work & Play",
+        "event_date": "March 16, 2025",
+        "location": "Nashville, United States",
+        "link": "https://dev.events/conferences/game-dev-work-and-play-vtjsptyhcfbvb",
+        "published": "Mon, 24 Feb 2025 03:00:05 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
         "title": "March Austin DevOps Meetup - Social!",
         "event_date": "March 10, 2025",
         "location": "Austin, United States",
@@ -105,69 +186,6 @@
         "link": "https://dev.events/conferences/game-maker-chicago-meetup-midlane-15th-march-19-00-cst-306151385",
         "published": "Sun, 23 Feb 2025 03:00:05 GMT",
         "category": "Game dev",
-        "type": "meetup"
-    },
-    {
-        "title": "Philadelphia Information Security Forum",
-        "event_date": "March 19, 2025",
-        "location": "Philadelphia, United States",
-        "link": "https://dev.events/conferences/philadelphia-information-security-forum-h4cjdorv",
-        "published": "Sat, 22 Feb 2025 13:17:54 GMT",
-        "category": "Cybersecurity / InfoSec",
-        "type": "conference"
-    },
-    {
-        "title": "Batter Up San Jose!",
-        "event_date": "March 20, 2025",
-        "location": "San Jose, United States",
-        "link": "https://dev.events/conferences/batter-up-san-jose-jzamnztk",
-        "published": "Sat, 22 Feb 2025 13:17:09 GMT",
-        "category": "Startup",
-        "type": "meetup"
-    },
-    {
-        "title": "Pass or Play: What does GenAI mean for the Java developer?",
-        "event_date": "April 10, 2025",
-        "location": "St. Louis, United States and Online",
-        "link": "https://dev.events/conferences/pass-or-play-what-does-gen-ai-mean-for-the-java-developer-306332232",
-        "published": "Sat, 22 Feb 2025 03:10:13 GMT",
-        "category": "Java",
-        "type": "meetup"
-    },
-    {
-        "title": "Robert Statsinger: Business Intelligence from Running JVMs \u2013 \u2018For Free\u2019",
-        "event_date": "March 12, 2025",
-        "location": "Centennial, United States",
-        "link": "https://dev.events/conferences/robert-statsinger-business-intelligence-from-running-jv-ms-for-free-305911573",
-        "published": "Sat, 22 Feb 2025 03:10:07 GMT",
-        "category": "Java",
-        "type": "meetup"
-    },
-    {
-        "title": "Using Rust For Web Series 3 : Place Holder",
-        "event_date": "June 19, 2025",
-        "location": "Nashville, United States",
-        "link": "https://dev.events/conferences/using-rust-for-web-series-3-place-holder-304333108",
-        "published": "Sat, 22 Feb 2025 03:09:48 GMT",
-        "category": "Rust",
-        "type": "meetup"
-    },
-    {
-        "title": "June, 2025 SRUG (Seattle Rust User Group) Meetup",
-        "event_date": "June 20, 2025",
-        "location": "Redmond, United States",
-        "link": "https://dev.events/conferences/june-2025-srug-seattle-rust-user-group-meetup-305658476",
-        "published": "Sat, 22 Feb 2025 03:09:43 GMT",
-        "category": "Rust",
-        "type": "meetup"
-    },
-    {
-        "title": "Austin AWS Meetup!",
-        "event_date": "March 19, 2025",
-        "location": "Austin, United States",
-        "link": "https://dev.events/conferences/austin-aws-meetup-306177764",
-        "published": "Sat, 22 Feb 2025 03:09:03 GMT",
-        "category": "AWS",
         "type": "meetup"
     }
 ]
