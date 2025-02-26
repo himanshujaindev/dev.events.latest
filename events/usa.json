@@ -1,5 +1,86 @@
 [
     {
+        "title": "BSIDES Columbus 2025",
+        "event_date": "September 18, 2025",
+        "location": "Columbus, United States",
+        "link": "https://dev.events/conferences/bsides-columbus-2025-iqpggmu0",
+        "published": "Tue, 25 Feb 2025 14:14:22 GMT",
+        "category": "Cybersecurity / InfoSec",
+        "type": "conference"
+    },
+    {
+        "title": "GoWest Conf 2025",
+        "event_date": "October 24, 2025",
+        "location": "Lehi, United States",
+        "link": "https://dev.events/conferences/go-west-conf-2025-ni-zb92",
+        "published": "Tue, 25 Feb 2025 14:12:06 GMT",
+        "category": "Golang",
+        "type": "conference"
+    },
+    {
+        "title": "PgDay Chicago 2025",
+        "event_date": "April 25, 2025",
+        "location": "Chicago, United States",
+        "link": "https://dev.events/conferences/pg-day-chicago-2025-x3hnv7z0",
+        "published": "Tue, 25 Feb 2025 14:11:03 GMT",
+        "category": "Postgres",
+        "type": "conference"
+    },
+    {
+        "title": "The Diana Initiative",
+        "event_date": "August 4, 2025",
+        "location": "Las Vegas, United States",
+        "link": "https://dev.events/conferences/the-diana-initiative-pn0rwugj",
+        "published": "Tue, 25 Feb 2025 14:04:34 GMT",
+        "category": "Cybersecurity / InfoSec",
+        "type": "conference"
+    },
+    {
+        "title": "Strawberry Jam",
+        "event_date": "April 20, 2025",
+        "location": "Los Angeles, United States",
+        "link": "https://dev.events/conferences/strawberry-jam-spdbgtyhcgbbc",
+        "published": "Tue, 25 Feb 2025 03:00:41 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "BoGo - Boston Godot Developers Group!",
+        "event_date": "March 10, 2025",
+        "location": "Cambridge, United States",
+        "link": "https://dev.events/conferences/bo-go-boston-godot-developers-group-304938010",
+        "published": "Tue, 25 Feb 2025 03:00:37 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "Social @ Sorry Not Sorry Bar in West LA | Wed, March 12th @ 730PM",
+        "event_date": "March 13, 2025",
+        "location": "Los Angeles, United States",
+        "link": "https://dev.events/conferences/social-sorry-not-sorry-bar-in-west-la-wed-march-12th-730-pm-306364766",
+        "published": "Tue, 25 Feb 2025 03:00:33 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "Make Talk Play Pre-GDC Social - March 2025",
+        "event_date": "March 2, 2025",
+        "location": "Hadley, United States",
+        "link": "https://dev.events/conferences/make-talk-play-pre-gdc-social-march-2025-306381087",
+        "published": "Tue, 25 Feb 2025 03:00:09 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "Austin Unity User Group: Audio Adventures in a Multiplayer VR Social World",
+        "event_date": "March 27, 2025",
+        "location": "Austin, United States",
+        "link": "https://dev.events/conferences/austin-unity-user-group-audio-adventures-in-a-multiplayer-vr-social-world-305851929",
+        "published": "Tue, 25 Feb 2025 03:00:09 GMT",
+        "category": "AR / VR / XR",
+        "type": "meetup"
+    },
+    {
         "title": "Workshop: Serverlesspresso",
         "event_date": "March 10, 2025",
         "location": "Knoxville, United States",
@@ -87,105 +168,6 @@
         "link": "https://dev.events/conferences/march-austin-dev-ops-meetup-social-306345949",
         "published": "Sun, 23 Feb 2025 03:07:38 GMT",
         "category": "DevOps",
-        "type": "meetup"
-    },
-    {
-        "title": "Flow Engineering: Map Where You Are to Get to What's Next",
-        "event_date": "March 27, 2025",
-        "location": "Plano, United States",
-        "link": "https://dev.events/conferences/flow-engineering-map-where-you-are-to-get-to-what-s-next-306330603",
-        "published": "Sun, 23 Feb 2025 03:05:48 GMT",
-        "category": "Agile",
-        "type": "meetup"
-    },
-    {
-        "title": "Lehi CocoaHeads",
-        "event_date": "April 18, 2025",
-        "location": "Lehi, United States",
-        "link": "https://dev.events/conferences/lehi-cocoa-heads-pbbmftyhcgbwb",
-        "published": "Sun, 23 Feb 2025 03:03:32 GMT",
-        "category": "iOS / Swift",
-        "type": "meetup"
-    },
-    {
-        "title": "March ODevs \u2013\u00a0Knowledge Graphs and eBPF",
-        "event_date": "March 26, 2025",
-        "location": "Orlando, United States",
-        "link": "https://dev.events/conferences/march-o-devs-knowledge-graphs-and-e-bpf-306343028",
-        "published": "Sun, 23 Feb 2025 03:03:28 GMT",
-        "category": "Tech",
-        "type": "meetup"
-    },
-    {
-        "title": "Talk Front End: Social Hour at Aeronaut",
-        "event_date": "February 25, 2025",
-        "location": "Somerville, United States",
-        "link": "https://dev.events/conferences/talk-front-end-social-hour-at-aeronaut-306335316",
-        "published": "Sun, 23 Feb 2025 03:03:23 GMT",
-        "category": "Web / Frontend",
-        "type": "meetup"
-    },
-    {
-        "title": "Sunday Afternoon XR in Miracle Mile!",
-        "event_date": "March 2, 2025",
-        "location": "Los Angeles, United States",
-        "link": "https://dev.events/conferences/sunday-afternoon-xr-in-miracle-mile-306335299",
-        "published": "Sun, 23 Feb 2025 03:02:04 GMT",
-        "category": "AR / VR / XR",
-        "type": "meetup"
-    },
-    {
-        "title": "In-Person Game Development Meetup",
-        "event_date": "March 22, 2025",
-        "location": "Pittsburgh, United States",
-        "link": "https://dev.events/conferences/in-person-game-development-meetup-zftnktyhcfbdc",
-        "published": "Sun, 23 Feb 2025 03:00:52 GMT",
-        "category": "Game dev",
-        "type": "meetup"
-    },
-    {
-        "title": "Prototype, Play, and Build Workshops (In-Person @GameArena)",
-        "event_date": "March 14, 2025",
-        "location": "Columbus, United States",
-        "link": "https://dev.events/conferences/prototype-play-and-build-workshops-in-person-game-arena-305481685",
-        "published": "Sun, 23 Feb 2025 03:00:44 GMT",
-        "category": "Game dev",
-        "type": "meetup"
-    },
-    {
-        "title": "Northeast Meetup",
-        "event_date": "March 4, 2025",
-        "location": "Los Angeles, United States",
-        "link": "https://dev.events/conferences/northeast-meetup-306350146",
-        "published": "Sun, 23 Feb 2025 03:00:23 GMT",
-        "category": "Game dev",
-        "type": "meetup"
-    },
-    {
-        "title": "Boulder Sunday Work and Chill",
-        "event_date": "March 2, 2025",
-        "location": "Boulder, United States",
-        "link": "https://dev.events/conferences/boulder-sunday-work-and-chill-306104214",
-        "published": "Sun, 23 Feb 2025 03:00:18 GMT",
-        "category": "Game dev",
-        "type": "meetup"
-    },
-    {
-        "title": "Weekly Project Meetup",
-        "event_date": "March 21, 2025",
-        "location": "Plano, United States",
-        "link": "https://dev.events/conferences/weekly-project-meetup-cwssbtyhcfbbc",
-        "published": "Sun, 23 Feb 2025 03:00:10 GMT",
-        "category": "Game dev",
-        "type": "meetup"
-    },
-    {
-        "title": "GameMaker Chicago Meetup @ Midlane 15th March 19:00 CST",
-        "event_date": "March 15, 2025",
-        "location": "Chicago, United States",
-        "link": "https://dev.events/conferences/game-maker-chicago-meetup-midlane-15th-march-19-00-cst-306151385",
-        "published": "Sun, 23 Feb 2025 03:00:05 GMT",
-        "category": "Game dev",
         "type": "meetup"
     }
 ]
