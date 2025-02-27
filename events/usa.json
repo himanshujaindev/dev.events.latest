@@ -1,172 +1,91 @@
 [
     {
-        "title": "BSIDES Columbus 2025",
-        "event_date": "September 18, 2025",
-        "location": "Columbus, United States",
-        "link": "https://dev.events/conferences/bsides-columbus-2025-iqpggmu0",
-        "published": "Tue, 25 Feb 2025 14:14:22 GMT",
-        "category": "Cybersecurity / InfoSec",
-        "type": "conference"
-    },
-    {
-        "title": "GoWest Conf 2025",
-        "event_date": "October 24, 2025",
-        "location": "Lehi, United States",
-        "link": "https://dev.events/conferences/go-west-conf-2025-ni-zb92",
-        "published": "Tue, 25 Feb 2025 14:12:06 GMT",
-        "category": "Golang",
-        "type": "conference"
-    },
-    {
-        "title": "PgDay Chicago 2025",
-        "event_date": "April 25, 2025",
-        "location": "Chicago, United States",
-        "link": "https://dev.events/conferences/pg-day-chicago-2025-x3hnv7z0",
-        "published": "Tue, 25 Feb 2025 14:11:03 GMT",
-        "category": "Postgres",
-        "type": "conference"
-    },
-    {
-        "title": "The Diana Initiative",
-        "event_date": "August 4, 2025",
-        "location": "Las Vegas, United States",
-        "link": "https://dev.events/conferences/the-diana-initiative-pn0rwugj",
-        "published": "Tue, 25 Feb 2025 14:04:34 GMT",
-        "category": "Cybersecurity / InfoSec",
-        "type": "conference"
-    },
-    {
-        "title": "Strawberry Jam",
-        "event_date": "April 20, 2025",
-        "location": "Los Angeles, United States",
-        "link": "https://dev.events/conferences/strawberry-jam-spdbgtyhcgbbc",
-        "published": "Tue, 25 Feb 2025 03:00:41 GMT",
-        "category": "Game dev",
+        "title": "Java meets AI: Build LLM-Powered Apps with LangChain4j",
+        "event_date": "April 17, 2025",
+        "location": "San Francisco, United States",
+        "link": "https://dev.events/conferences/java-meets-ai-build-llm-powered-apps-with-lang-chain4j-306246821",
+        "published": "Wed, 26 Feb 2025 03:09:30 GMT",
+        "category": "Java",
         "type": "meetup"
     },
     {
-        "title": "BoGo - Boston Godot Developers Group!",
-        "event_date": "March 10, 2025",
-        "location": "Cambridge, United States",
-        "link": "https://dev.events/conferences/bo-go-boston-godot-developers-group-304938010",
-        "published": "Tue, 25 Feb 2025 03:00:37 GMT",
-        "category": "Game dev",
-        "type": "meetup"
-    },
-    {
-        "title": "Social @ Sorry Not Sorry Bar in West LA | Wed, March 12th @ 730PM",
-        "event_date": "March 13, 2025",
-        "location": "Los Angeles, United States",
-        "link": "https://dev.events/conferences/social-sorry-not-sorry-bar-in-west-la-wed-march-12th-730-pm-306364766",
-        "published": "Tue, 25 Feb 2025 03:00:33 GMT",
-        "category": "Game dev",
-        "type": "meetup"
-    },
-    {
-        "title": "Make Talk Play Pre-GDC Social - March 2025",
-        "event_date": "March 2, 2025",
-        "location": "Hadley, United States",
-        "link": "https://dev.events/conferences/make-talk-play-pre-gdc-social-march-2025-306381087",
-        "published": "Tue, 25 Feb 2025 03:00:09 GMT",
-        "category": "Game dev",
-        "type": "meetup"
-    },
-    {
-        "title": "Austin Unity User Group: Audio Adventures in a Multiplayer VR Social World",
-        "event_date": "March 27, 2025",
-        "location": "Austin, United States",
-        "link": "https://dev.events/conferences/austin-unity-user-group-audio-adventures-in-a-multiplayer-vr-social-world-305851929",
-        "published": "Tue, 25 Feb 2025 03:00:09 GMT",
-        "category": "AR / VR / XR",
-        "type": "meetup"
-    },
-    {
-        "title": "Workshop: Serverlesspresso",
-        "event_date": "March 10, 2025",
-        "location": "Knoxville, United States",
-        "link": "https://dev.events/conferences/workshop-serverlesspresso-306226744",
-        "published": "Mon, 24 Feb 2025 03:10:28 GMT",
-        "category": "Serverless",
-        "type": "meetup"
-    },
-    {
-        "title": "Austin Drupal Meetup (in-person!)",
+        "title": "Command Wine with The Bluegrass Developers Guild",
         "event_date": "March 11, 2025",
-        "location": "Austin, United States",
-        "link": "https://dev.events/conferences/austin-drupal-meetup-in-person-306368138",
-        "published": "Mon, 24 Feb 2025 03:08:23 GMT",
-        "category": "Drupal",
-        "type": "meetup"
-    },
-    {
-        "title": "C# and .net Core - What They Offer!",
-        "event_date": "March 5, 2025",
-        "location": "Frederick, United States",
-        "link": "https://dev.events/conferences/c-and-net-core-what-they-offer-306343603",
-        "published": "Mon, 24 Feb 2025 03:06:42 GMT",
-        "category": ".NET",
-        "type": "meetup"
-    },
-    {
-        "title": "Open Source Coffee & Chat",
-        "event_date": "April 27, 2025",
-        "location": "Lafayette, United States",
-        "link": "https://dev.events/conferences/open-source-coffee-and-chat-rczplsyhcgbkc",
-        "published": "Mon, 24 Feb 2025 03:04:09 GMT",
-        "category": "Open Source",
-        "type": "meetup"
-    },
-    {
-        "title": "St. Louis Code and Coffee",
-        "event_date": "April 20, 2025",
-        "location": "University City, United States",
-        "link": "https://dev.events/conferences/st-louis-code-and-coffee-304977100",
-        "published": "Mon, 24 Feb 2025 03:03:42 GMT",
+        "location": "Lexington, United States",
+        "link": "https://dev.events/conferences/command-wine-with-the-bluegrass-developers-guild-306377328",
+        "published": "Wed, 26 Feb 2025 03:08:54 GMT",
         "category": "Tech",
         "type": "meetup"
     },
     {
-        "title": "[MOVING TO LINKEDIN!!] Mastering Application Login with Identity Provider",
-        "event_date": "March 4, 2025",
-        "location": "Ann Arbor, United States",
-        "link": "https://dev.events/conferences/moving-to-linkedin-mastering-application-login-with-identity-provider-306351981",
-        "published": "Mon, 24 Feb 2025 03:02:24 GMT",
-        "category": "TypeScript",
+        "title": "Platform & DevOps Engineering - March 2025 Meeting @ DOMA",
+        "event_date": "March 18, 2025",
+        "location": "Virginia Beach, United States",
+        "link": "https://dev.events/conferences/platform-and-dev-ops-engineering-march-2025-meeting-doma-306392484",
+        "published": "Wed, 26 Feb 2025 03:08:25 GMT",
+        "category": "DevOps",
         "type": "meetup"
     },
     {
-        "title": "Portland HUG - Josh Weber building procedural wood shaders for Copernicus",
-        "event_date": "March 8, 2025",
-        "location": "Portland, United States",
-        "link": "https://dev.events/conferences/portland-hug-josh-weber-building-procedural-wood-shaders-for-copernicus-306344328",
-        "published": "Mon, 24 Feb 2025 03:00:47 GMT",
-        "category": "Game dev",
+        "title": "Modern DevOps - Accelerate time to value through System of Work",
+        "event_date": "March 27, 2025",
+        "location": "Chicago, United States",
+        "link": "https://dev.events/conferences/modern-dev-ops-accelerate-time-to-value-through-system-of-work-306387018",
+        "published": "Wed, 26 Feb 2025 03:07:01 GMT",
+        "category": "DevOps",
         "type": "meetup"
     },
     {
-        "title": "Work and Chill 2: Artistic Boogaloo",
-        "event_date": "March 3, 2025",
-        "location": "Englewood, United States",
-        "link": "https://dev.events/conferences/work-and-chill-2-artistic-boogaloo-306105910",
-        "published": "Mon, 24 Feb 2025 03:00:15 GMT",
-        "category": "Game dev",
+        "title": "AI Meetup (Mar): Generative AI, LLMs and Agent",
+        "event_date": "March 12, 2025",
+        "location": "Chicago, United States",
+        "link": "https://dev.events/conferences/ai-meetup-mar-generative-ai-ll-ms-and-agent-306394225",
+        "published": "Wed, 26 Feb 2025 03:06:21 GMT",
+        "category": "AI / ML",
         "type": "meetup"
     },
     {
-        "title": "Game Dev Work & Play",
-        "event_date": "March 16, 2025",
-        "location": "Nashville, United States",
-        "link": "https://dev.events/conferences/game-dev-work-and-play-vtjsptyhcfbvb",
-        "published": "Mon, 24 Feb 2025 03:00:05 GMT",
-        "category": "Game dev",
+        "title": "GoStdlib: The `flag` package",
+        "event_date": "April 2, 2025",
+        "location": "Lehi, United States",
+        "link": "https://dev.events/conferences/go-stdlib-the-flag-package-306388922",
+        "published": "Wed, 26 Feb 2025 03:06:11 GMT",
+        "category": "Golang",
         "type": "meetup"
     },
     {
-        "title": "March Austin DevOps Meetup - Social!",
-        "event_date": "March 10, 2025",
-        "location": "Austin, United States",
-        "link": "https://dev.events/conferences/march-austin-dev-ops-meetup-social-306345949",
-        "published": "Sun, 23 Feb 2025 03:07:38 GMT",
+        "title": "March Meeting DevOps Columbus",
+        "event_date": "March 20, 2025",
+        "location": "Dublin, United States",
+        "link": "https://dev.events/conferences/march-meeting-dev-ops-columbus-305801381",
+        "published": "Wed, 26 Feb 2025 03:06:08 GMT",
+        "category": "DevOps",
+        "type": "meetup"
+    },
+    {
+        "title": "DevOps Boulder Monthly!",
+        "event_date": "June 17, 2025",
+        "location": "Boulder, United States",
+        "link": "https://dev.events/conferences/dev-ops-boulder-monthly-305718542",
+        "published": "Wed, 26 Feb 2025 03:06:04 GMT",
+        "category": "DevOps",
+        "type": "meetup"
+    },
+    {
+        "title": "Further Topics of Mesos",
+        "event_date": "June 24, 2025",
+        "location": "Plano, United States",
+        "link": "https://dev.events/conferences/further-topics-of-mesos-mtngjlyhcjbfc",
+        "published": "Wed, 26 Feb 2025 03:05:32 GMT",
+        "category": "DevOps",
+        "type": "meetup"
+    },
+    {
+        "title": "RSVP to the next Denver RHUG!",
+        "event_date": "March 18, 2025",
+        "location": "Centennial, United States",
+        "link": "https://dev.events/conferences/rsvp-to-the-next-denver-rhug-306403791",
+        "published": "Wed, 26 Feb 2025 03:04:52 GMT",
         "category": "DevOps",
         "type": "meetup"
     }
