@@ -1,5 +1,167 @@
 [
     {
+        "title": "MadPy Social: Blue Moon Bar & Grill",
+        "event_date": "April 10, 2025",
+        "location": "Madison, United States",
+        "link": "https://dev.events/conferences/mad-py-social-blue-moon-bar-and-grill-306449748",
+        "published": "Sat, 01 Mar 2025 03:10:42 GMT",
+        "category": "Python",
+        "type": "meetup"
+    },
+    {
+        "title": "Platform Engineering New York: Spring Forward",
+        "event_date": "April 9, 2025",
+        "location": "New York, United States",
+        "link": "https://dev.events/conferences/platform-engineering-new-york-spring-forward-306458844",
+        "published": "Sat, 01 Mar 2025 03:07:49 GMT",
+        "category": "DevOps",
+        "type": "meetup"
+    },
+    {
+        "title": "Innovation Hall Social w/ Pythonistas & Friends",
+        "event_date": "March 20, 2025",
+        "location": "Oklahoma City, United States",
+        "link": "https://dev.events/conferences/innovation-hall-social-w-pythonistas-and-friends-306451116",
+        "published": "Sat, 01 Mar 2025 03:06:04 GMT",
+        "category": "Python",
+        "type": "meetup"
+    },
+    {
+        "title": "DevOps Storytime Social",
+        "event_date": "March 7, 2025",
+        "location": "Orlando, United States",
+        "link": "https://dev.events/conferences/dev-ops-storytime-social-306456760",
+        "published": "Sat, 01 Mar 2025 03:05:37 GMT",
+        "category": "DevOps",
+        "type": "meetup"
+    },
+    {
+        "title": "Building Bridges, Not Walls: Networking Strategies for Introverted Techies",
+        "event_date": "March 6, 2025",
+        "location": "Memphis, United States",
+        "link": "https://dev.events/conferences/building-bridges-not-walls-networking-strategies-for-introverted-techies-303646602",
+        "published": "Sat, 01 Mar 2025 03:03:58 GMT",
+        "category": "Tech",
+        "type": "meetup"
+    },
+    {
+        "title": "PhxJS - Step Forge: Type-safe, state safe, BDD in TypeScript",
+        "event_date": "March 20, 2025",
+        "location": "Mesa, United States",
+        "link": "https://dev.events/conferences/phx-js-step-forge-type-safe-state-safe-bdd-in-type-script-306444249",
+        "published": "Sat, 01 Mar 2025 03:03:11 GMT",
+        "category": "TypeScript",
+        "type": "meetup"
+    },
+    {
+        "title": "Flutter Tech-Talk",
+        "event_date": "July 7, 2025",
+        "location": "Austin, United States",
+        "link": "https://dev.events/conferences/flutter-tech-talk-dfkfqtyhckbkb",
+        "published": "Sat, 01 Mar 2025 03:02:35 GMT",
+        "category": "Flutter",
+        "type": "meetup"
+    },
+    {
+        "title": "Remix Meetup March - Cory Brown - Simple Code is More Important Than Ever",
+        "event_date": "March 7, 2025",
+        "location": "Lehi, United States",
+        "link": "https://dev.events/conferences/remix-meetup-march-cory-brown-simple-code-is-more-important-than-ever-306467987",
+        "published": "Sat, 01 Mar 2025 03:02:11 GMT",
+        "category": "React",
+        "type": "meetup"
+    },
+    {
+        "title": "Lunch informal Qt get-together in Costa Mesa",
+        "event_date": "March 14, 2025",
+        "location": "Costa Mesa, United States",
+        "link": "https://dev.events/conferences/lunch-informal-qt-get-together-in-costa-mesa-bwggqtyhcfbsb",
+        "published": "Sat, 01 Mar 2025 03:02:08 GMT",
+        "category": "C/C++",
+        "type": "meetup"
+    },
+    {
+        "title": "Lunch informal Qt get-together in Costa Mesa",
+        "event_date": "March 28, 2025",
+        "location": "Costa Mesa, United States",
+        "link": "https://dev.events/conferences/lunch-informal-qt-get-together-in-costa-mesa-bwggqtyhcfblc",
+        "published": "Sat, 01 Mar 2025 03:02:08 GMT",
+        "category": "C/C++",
+        "type": "meetup"
+    },
+    {
+        "title": "Lunch informal Qt get-together in Costa Mesa",
+        "event_date": "April 11, 2025",
+        "location": "Costa Mesa, United States",
+        "link": "https://dev.events/conferences/lunch-informal-qt-get-together-in-costa-mesa-bwggqtyhcgbpb",
+        "published": "Sat, 01 Mar 2025 03:02:08 GMT",
+        "category": "C/C++",
+        "type": "meetup"
+    },
+    {
+        "title": "Lunch informal Qt get-together in Costa Mesa",
+        "event_date": "April 25, 2025",
+        "location": "Costa Mesa, United States",
+        "link": "https://dev.events/conferences/lunch-informal-qt-get-together-in-costa-mesa-bwggqtyhcgbhc",
+        "published": "Sat, 01 Mar 2025 03:02:08 GMT",
+        "category": "C/C++",
+        "type": "meetup"
+    },
+    {
+        "title": "Second Wednesday Game Dev Dinner",
+        "event_date": "March 13, 2025",
+        "location": "Eugene, United States",
+        "link": "https://dev.events/conferences/second-wednesday-game-dev-dinner-306318355",
+        "published": "Sat, 01 Mar 2025 03:00:53 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "Akron Game Developers Social Meetup",
+        "event_date": "March 10, 2025",
+        "location": "Stow, United States",
+        "link": "https://dev.events/conferences/akron-game-developers-social-meetup-306462832",
+        "published": "Sat, 01 Mar 2025 03:00:45 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "Pierce County Social",
+        "event_date": "March 4, 2025",
+        "location": "Tacoma, United States",
+        "link": "https://dev.events/conferences/pierce-county-social-305654949",
+        "published": "Sat, 01 Mar 2025 03:00:43 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "OC Indies Monthly",
+        "event_date": "June 26, 2025",
+        "location": "Santa Ana, United States",
+        "link": "https://dev.events/conferences/oc-indies-monthly-nbqbmtyhcjbhc",
+        "published": "Sat, 01 Mar 2025 03:00:42 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "Game Dev Tea Party!",
+        "event_date": "March 22, 2025",
+        "location": "Dallas , United States",
+        "link": "https://dev.events/conferences/game-dev-tea-party-306425183",
+        "published": "Sat, 01 Mar 2025 03:00:26 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "Weekly Project Meetup",
+        "event_date": "March 28, 2025",
+        "location": "Plano, United States",
+        "link": "https://dev.events/conferences/weekly-project-meetup-cwssbtyhcfbkc",
+        "published": "Sat, 01 Mar 2025 03:00:12 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
         "title": "AWS Community Day Midwest",
         "event_date": "June 5, 2025",
         "location": "Milwaukee, United States",
@@ -16,158 +178,5 @@
         "published": "Fri, 28 Feb 2025 14:53:30 GMT",
         "category": "AI / ML",
         "type": "conference"
-    },
-    {
-        "title": "The Composable Conference 2025",
-        "event_date": "April 22, 2025",
-        "location": "Chicago, United States",
-        "link": "https://dev.events/conferences/the-composable-conference-2025-uu5gtnj9",
-        "published": "Fri, 28 Feb 2025 14:38:13 GMT",
-        "category": "Software architecture",
-        "type": "conference"
-    },
-    {
-        "title": "Memphis .NET and Azure Developers Group - In Person Meetup",
-        "event_date": "June 26, 2025",
-        "location": "Memphis, United States",
-        "link": "https://dev.events/conferences/memphis-net-and-azure-developers-group-in-person-meetup-303646563",
-        "published": "Fri, 28 Feb 2025 03:09:40 GMT",
-        "category": ".NET",
-        "type": "meetup"
-    },
-    {
-        "title": "Introduction to the Actor Model with Akka.NET",
-        "event_date": "March 13, 2025",
-        "location": "Houston, United States",
-        "link": "https://dev.events/conferences/introduction-to-the-actor-model-with-akka-net-306425545",
-        "published": "Fri, 28 Feb 2025 03:09:34 GMT",
-        "category": ".NET",
-        "type": "meetup"
-    },
-    {
-        "title": "Simplify & Scale Your GenAI Workflow with Amazon Bedrock flows",
-        "event_date": "March 14, 2025",
-        "location": "Fort Collins, United States",
-        "link": "https://dev.events/conferences/simplify-and-scale-your-gen-ai-workflow-with-amazon-bedrock-flows-306384163",
-        "published": "Fri, 28 Feb 2025 03:08:55 GMT",
-        "category": "AWS",
-        "type": "meetup"
-    },
-    {
-        "title": "CIJUG Spring Event: Java Roundtable",
-        "event_date": "March 20, 2025",
-        "location": "Urbandale, United States",
-        "link": "https://dev.events/conferences/cijug-spring-event-java-roundtable-306438156",
-        "published": "Fri, 28 Feb 2025 03:08:30 GMT",
-        "category": "Java",
-        "type": "meetup"
-    },
-    {
-        "title": "Functional Programming With (or Without) Java Streams: A Case Study",
-        "event_date": "June 12, 2025",
-        "location": "Burlington, United States",
-        "link": "https://dev.events/conferences/functional-programming-with-or-without-java-streams-a-case-study-306414600",
-        "published": "Fri, 28 Feb 2025 03:08:24 GMT",
-        "category": "Functional programming",
-        "type": "meetup"
-    },
-    {
-        "title": "Rust Lunch - Fareground",
-        "event_date": "June 25, 2025",
-        "location": "Austin, United States",
-        "link": "https://dev.events/conferences/rust-lunch-fareground-xvkdgtyhcjbhc",
-        "published": "Fri, 28 Feb 2025 03:07:58 GMT",
-        "category": "Rust",
-        "type": "meetup"
-    },
-    {
-        "title": "MVP Feature Series: NYC - March",
-        "event_date": "March 4, 2025",
-        "location": "New York, United States",
-        "link": "https://dev.events/conferences/mvp-feature-series-nyc-march-306312557",
-        "published": "Fri, 28 Feb 2025 03:07:54 GMT",
-        "category": "Microsoft",
-        "type": "meetup"
-    },
-    {
-        "title": "Book club - The Reactionary Mind (2nd edition) Chapters 9 & 10",
-        "event_date": "March 5, 2025",
-        "location": "Lexington, United States",
-        "link": "https://dev.events/conferences/book-club-the-reactionary-mind-2nd-edition-chapters-9-and-10-306436722",
-        "published": "Fri, 28 Feb 2025 03:07:40 GMT",
-        "category": "Tech",
-        "type": "meetup"
-    },
-    {
-        "title": "How to Pitch to Investors and Get the Deal in a COVID-19 World",
-        "event_date": "March 6, 2025",
-        "location": "Palo Alto, United States",
-        "link": "https://dev.events/conferences/how-to-pitch-to-investors-and-get-the-deal-in-a-covid-19-world-jjqtzryhcfbjb",
-        "published": "Fri, 28 Feb 2025 03:07:10 GMT",
-        "category": "Startup",
-        "type": "meetup"
-    },
-    {
-        "title": "How Machine Learning Is Improving The Search Experience / Kwaai Net",
-        "event_date": "March 21, 2025",
-        "location": "Santa Monica, United States",
-        "link": "https://dev.events/conferences/how-machine-learning-is-improving-the-search-experience-kwaai-net-306433403",
-        "published": "Fri, 28 Feb 2025 03:07:07 GMT",
-        "category": "AI / ML",
-        "type": "meetup"
-    },
-    {
-        "title": "Monthly Roundtable:SRE, Performance and Scalability in the age of the Cloud",
-        "event_date": "June 25, 2025",
-        "location": "Brighton, United States",
-        "link": "https://dev.events/conferences/monthly-roundtable-sre-performance-and-scalability-in-the-age-of-the-cloud-wxzpftyhcjbhc",
-        "published": "Fri, 28 Feb 2025 03:07:01 GMT",
-        "category": "SRE",
-        "type": "meetup"
-    },
-    {
-        "title": "AI meetup (AWS SF): GenAI, LLMs and ML",
-        "event_date": "March 21, 2025",
-        "location": "San Francisco, United States",
-        "link": "https://dev.events/conferences/ai-meetup-aws-sf-gen-ai-ll-ms-and-ml-306448061",
-        "published": "Fri, 28 Feb 2025 03:06:38 GMT",
-        "category": "AI / ML",
-        "type": "meetup"
-    },
-    {
-        "title": "Informatica and AWS Hands-on Workshop: Build Enterprise AI Assistant",
-        "event_date": "March 25, 2025",
-        "location": "San Francisco, United States",
-        "link": "https://dev.events/conferences/informatica-and-aws-hands-on-workshop-build-enterprise-ai-assistant-306433767",
-        "published": "Fri, 28 Feb 2025 03:06:38 GMT",
-        "category": "AWS",
-        "type": "meetup"
-    },
-    {
-        "title": "Monthly luncheon: meet, eat, talk tech!",
-        "event_date": "April 25, 2025",
-        "location": "Key West, United States",
-        "link": "https://dev.events/conferences/monthly-luncheon-meet-eat-talk-tech-flsqptyhcgbhc",
-        "published": "Fri, 28 Feb 2025 03:06:37 GMT",
-        "category": "Tech",
-        "type": "meetup"
-    },
-    {
-        "title": "RSVP to the next Minneapolis RHUG",
-        "event_date": "March 20, 2025",
-        "location": "Minneapolis, United States",
-        "link": "https://dev.events/conferences/rsvp-to-the-next-minneapolis-rhug-306423066",
-        "published": "Fri, 28 Feb 2025 03:05:11 GMT",
-        "category": "Cloud",
-        "type": "meetup"
-    },
-    {
-        "title": "Global AI Bootcamp 2025 - New Hampshire",
-        "event_date": "March 12, 2025",
-        "location": "Nashua, United States",
-        "link": "https://dev.events/conferences/global-ai-bootcamp-2025-new-hampshire-306445722",
-        "published": "Fri, 28 Feb 2025 03:04:23 GMT",
-        "category": "AI / ML",
-        "type": "meetup"
     }
 ]
