@@ -1,5 +1,140 @@
 [
     {
+        "title": "Agile + DevOpsDays Des Moines 2025",
+        "event_date": "October 2, 2025",
+        "location": "Des Moines, United States",
+        "link": "https://dev.events/conferences/agile-dev-ops-days-des-moines-2025-ulinuoq",
+        "published": "Sun, 02 Mar 2025 11:59:44 GMT",
+        "category": "DevOps",
+        "type": "conference"
+    },
+    {
+        "title": "Texas Linux Festival 2025",
+        "event_date": "October 3, 2025",
+        "location": "Austin, United States",
+        "link": "https://dev.events/conferences/texas-linux-festival-2025-djbh8nle",
+        "published": "Sun, 02 Mar 2025 11:56:08 GMT",
+        "category": "Linux / OS",
+        "type": "conference"
+    },
+    {
+        "title": "Utah WiA Networking",
+        "event_date": "June 27, 2025",
+        "location": "Salt Lake City, United States",
+        "link": "https://dev.events/conferences/utah-wi-a-networking-gqwdgtyhcjbjc",
+        "published": "Sun, 02 Mar 2025 03:08:48 GMT",
+        "category": "Agile",
+        "type": "meetup"
+    },
+    {
+        "title": "Monthly Meetup: Intro to Rust and Python; Using Rustup, Cargo, and Rust!",
+        "event_date": "March 19, 2025",
+        "location": "Spokane, United States",
+        "link": "https://dev.events/conferences/monthly-meetup-intro-to-rust-and-python-using-rustup-cargo-and-rust-306368210",
+        "published": "Sun, 02 Mar 2025 03:06:59 GMT",
+        "category": "Rust",
+        "type": "meetup"
+    },
+    {
+        "title": "Journey Through the Command Line",
+        "event_date": "March 8, 2025",
+        "location": "Richmond, United States",
+        "link": "https://dev.events/conferences/journey-through-the-command-line-306463942",
+        "published": "Sun, 02 Mar 2025 03:04:28 GMT",
+        "category": "Linux / OS",
+        "type": "meetup"
+    },
+    {
+        "title": "MEMSEC - DEFCON901 - Memphis InfoSec social #18",
+        "event_date": "March 7, 2025",
+        "location": "Memphis, United States",
+        "link": "https://dev.events/conferences/memsec-defcon-901-memphis-info-sec-social-18-306354790",
+        "published": "Sun, 02 Mar 2025 03:03:31 GMT",
+        "category": "Cybersecurity / InfoSec",
+        "type": "meetup"
+    },
+    {
+        "title": "Code & Coffee: Triangle Revival!",
+        "event_date": "March 15, 2025",
+        "location": "Durham, United States",
+        "link": "https://dev.events/conferences/code-and-coffee-triangle-revival-306461690",
+        "published": "Sun, 02 Mar 2025 03:03:21 GMT",
+        "category": "Tech",
+        "type": "meetup"
+    },
+    {
+        "title": "Data Engineering Lightning Talks",
+        "event_date": "March 25, 2025",
+        "location": "Arlington, United States",
+        "link": "https://dev.events/conferences/data-engineering-lightning-talks-306481820",
+        "published": "Sun, 02 Mar 2025 03:03:07 GMT",
+        "category": "Data / Database",
+        "type": "meetup"
+    },
+    {
+        "title": "CD Tech Thursday",
+        "event_date": "April 24, 2025",
+        "location": "Chattanooga, United States",
+        "link": "https://dev.events/conferences/cd-tech-thursday-vcqxptyhcgbgc",
+        "published": "Sun, 02 Mar 2025 03:03:06 GMT",
+        "category": "Tech",
+        "type": "meetup"
+    },
+    {
+        "title": "UtahJS SLC Meetup",
+        "event_date": "March 19, 2025",
+        "location": "Salt Lake City, United States",
+        "link": "https://dev.events/conferences/utah-js-slc-meetup-303625096",
+        "published": "Sun, 02 Mar 2025 03:02:45 GMT",
+        "category": "JavaScript",
+        "type": "meetup"
+    },
+    {
+        "title": "Nooga Code & Coffee",
+        "event_date": "May 3, 2025",
+        "location": "Chattanooga, United States",
+        "link": "https://dev.events/conferences/nooga-code-and-coffee-305165350",
+        "published": "Sun, 02 Mar 2025 03:00:43 GMT",
+        "category": "Tech",
+        "type": "meetup"
+    },
+    {
+        "title": "Eastside Meetup - Seattle Indies",
+        "event_date": "March 5, 2025",
+        "location": "Redmond, United States",
+        "link": "https://dev.events/conferences/eastside-meetup-seattle-indies-305560778",
+        "published": "Sun, 02 Mar 2025 03:00:33 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "Excuse To Create",
+        "event_date": "July 5, 2025",
+        "location": "Cleveland, United States",
+        "link": "https://dev.events/conferences/excuse-to-create-ltcrwsyhckbhb",
+        "published": "Sun, 02 Mar 2025 03:00:28 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "Boulder Sunday Work and Chill",
+        "event_date": "March 9, 2025",
+        "location": "Boulder, United States",
+        "link": "https://dev.events/conferences/boulder-sunday-work-and-chill-306225666",
+        "published": "Sun, 02 Mar 2025 03:00:11 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "IGDA Ann Arbor : Game Development (meeting details coming soon)",
+        "event_date": "June 26, 2025",
+        "location": "Ann Arbor, United States",
+        "link": "https://dev.events/conferences/igda-ann-arbor-game-development-meeting-details-coming-soon-302440084",
+        "published": "Sun, 02 Mar 2025 03:00:04 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
         "title": "MadPy Social: Blue Moon Bar & Grill",
         "event_date": "April 10, 2025",
         "location": "Madison, United States",
@@ -25,158 +160,5 @@
         "published": "Sat, 01 Mar 2025 03:06:04 GMT",
         "category": "Python",
         "type": "meetup"
-    },
-    {
-        "title": "DevOps Storytime Social",
-        "event_date": "March 7, 2025",
-        "location": "Orlando, United States",
-        "link": "https://dev.events/conferences/dev-ops-storytime-social-306456760",
-        "published": "Sat, 01 Mar 2025 03:05:37 GMT",
-        "category": "DevOps",
-        "type": "meetup"
-    },
-    {
-        "title": "Building Bridges, Not Walls: Networking Strategies for Introverted Techies",
-        "event_date": "March 6, 2025",
-        "location": "Memphis, United States",
-        "link": "https://dev.events/conferences/building-bridges-not-walls-networking-strategies-for-introverted-techies-303646602",
-        "published": "Sat, 01 Mar 2025 03:03:58 GMT",
-        "category": "Tech",
-        "type": "meetup"
-    },
-    {
-        "title": "PhxJS - Step Forge: Type-safe, state safe, BDD in TypeScript",
-        "event_date": "March 20, 2025",
-        "location": "Mesa, United States",
-        "link": "https://dev.events/conferences/phx-js-step-forge-type-safe-state-safe-bdd-in-type-script-306444249",
-        "published": "Sat, 01 Mar 2025 03:03:11 GMT",
-        "category": "TypeScript",
-        "type": "meetup"
-    },
-    {
-        "title": "Flutter Tech-Talk",
-        "event_date": "July 7, 2025",
-        "location": "Austin, United States",
-        "link": "https://dev.events/conferences/flutter-tech-talk-dfkfqtyhckbkb",
-        "published": "Sat, 01 Mar 2025 03:02:35 GMT",
-        "category": "Flutter",
-        "type": "meetup"
-    },
-    {
-        "title": "Remix Meetup March - Cory Brown - Simple Code is More Important Than Ever",
-        "event_date": "March 7, 2025",
-        "location": "Lehi, United States",
-        "link": "https://dev.events/conferences/remix-meetup-march-cory-brown-simple-code-is-more-important-than-ever-306467987",
-        "published": "Sat, 01 Mar 2025 03:02:11 GMT",
-        "category": "React",
-        "type": "meetup"
-    },
-    {
-        "title": "Lunch informal Qt get-together in Costa Mesa",
-        "event_date": "March 14, 2025",
-        "location": "Costa Mesa, United States",
-        "link": "https://dev.events/conferences/lunch-informal-qt-get-together-in-costa-mesa-bwggqtyhcfbsb",
-        "published": "Sat, 01 Mar 2025 03:02:08 GMT",
-        "category": "C/C++",
-        "type": "meetup"
-    },
-    {
-        "title": "Lunch informal Qt get-together in Costa Mesa",
-        "event_date": "March 28, 2025",
-        "location": "Costa Mesa, United States",
-        "link": "https://dev.events/conferences/lunch-informal-qt-get-together-in-costa-mesa-bwggqtyhcfblc",
-        "published": "Sat, 01 Mar 2025 03:02:08 GMT",
-        "category": "C/C++",
-        "type": "meetup"
-    },
-    {
-        "title": "Lunch informal Qt get-together in Costa Mesa",
-        "event_date": "April 11, 2025",
-        "location": "Costa Mesa, United States",
-        "link": "https://dev.events/conferences/lunch-informal-qt-get-together-in-costa-mesa-bwggqtyhcgbpb",
-        "published": "Sat, 01 Mar 2025 03:02:08 GMT",
-        "category": "C/C++",
-        "type": "meetup"
-    },
-    {
-        "title": "Lunch informal Qt get-together in Costa Mesa",
-        "event_date": "April 25, 2025",
-        "location": "Costa Mesa, United States",
-        "link": "https://dev.events/conferences/lunch-informal-qt-get-together-in-costa-mesa-bwggqtyhcgbhc",
-        "published": "Sat, 01 Mar 2025 03:02:08 GMT",
-        "category": "C/C++",
-        "type": "meetup"
-    },
-    {
-        "title": "Second Wednesday Game Dev Dinner",
-        "event_date": "March 13, 2025",
-        "location": "Eugene, United States",
-        "link": "https://dev.events/conferences/second-wednesday-game-dev-dinner-306318355",
-        "published": "Sat, 01 Mar 2025 03:00:53 GMT",
-        "category": "Game dev",
-        "type": "meetup"
-    },
-    {
-        "title": "Akron Game Developers Social Meetup",
-        "event_date": "March 10, 2025",
-        "location": "Stow, United States",
-        "link": "https://dev.events/conferences/akron-game-developers-social-meetup-306462832",
-        "published": "Sat, 01 Mar 2025 03:00:45 GMT",
-        "category": "Game dev",
-        "type": "meetup"
-    },
-    {
-        "title": "Pierce County Social",
-        "event_date": "March 4, 2025",
-        "location": "Tacoma, United States",
-        "link": "https://dev.events/conferences/pierce-county-social-305654949",
-        "published": "Sat, 01 Mar 2025 03:00:43 GMT",
-        "category": "Game dev",
-        "type": "meetup"
-    },
-    {
-        "title": "OC Indies Monthly",
-        "event_date": "June 26, 2025",
-        "location": "Santa Ana, United States",
-        "link": "https://dev.events/conferences/oc-indies-monthly-nbqbmtyhcjbhc",
-        "published": "Sat, 01 Mar 2025 03:00:42 GMT",
-        "category": "Game dev",
-        "type": "meetup"
-    },
-    {
-        "title": "Game Dev Tea Party!",
-        "event_date": "March 22, 2025",
-        "location": "Dallas , United States",
-        "link": "https://dev.events/conferences/game-dev-tea-party-306425183",
-        "published": "Sat, 01 Mar 2025 03:00:26 GMT",
-        "category": "Game dev",
-        "type": "meetup"
-    },
-    {
-        "title": "Weekly Project Meetup",
-        "event_date": "March 28, 2025",
-        "location": "Plano, United States",
-        "link": "https://dev.events/conferences/weekly-project-meetup-cwssbtyhcfbkc",
-        "published": "Sat, 01 Mar 2025 03:00:12 GMT",
-        "category": "Game dev",
-        "type": "meetup"
-    },
-    {
-        "title": "AWS Community Day Midwest",
-        "event_date": "June 5, 2025",
-        "location": "Milwaukee, United States",
-        "link": "https://dev.events/conferences/aws-community-day-midwest-t3c-vpql",
-        "published": "Fri, 28 Feb 2025 14:54:26 GMT",
-        "category": "AWS",
-        "type": "conference"
-    },
-    {
-        "title": "PyTorch Conference",
-        "event_date": "October 22, 2025",
-        "location": "San Francisco, United States",
-        "link": "https://dev.events/conferences/py-torch-conference-oxxets5v",
-        "published": "Fri, 28 Feb 2025 14:53:30 GMT",
-        "category": "AI / ML",
-        "type": "conference"
     }
 ]
