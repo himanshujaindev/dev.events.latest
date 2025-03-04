@@ -1,5 +1,122 @@
 [
     {
+        "title": "Confluent x Elastic Meetup",
+        "event_date": "March 7, 2025",
+        "location": "Phoenix, United States",
+        "link": "https://dev.events/conferences/confluent-x-elastic-meetup-306159187",
+        "published": "Mon, 03 Mar 2025 03:11:44 GMT",
+        "category": "Tech",
+        "type": "meetup"
+    },
+    {
+        "title": "Search in a Digital Thread using eQube DaaS platform & Elasticsearch",
+        "event_date": "March 18, 2025",
+        "location": "Plano, United States",
+        "link": "https://dev.events/conferences/search-in-a-digital-thread-using-e-qube-daa-s-platform-and-elasticsearch-306239185",
+        "published": "Mon, 03 Mar 2025 03:11:39 GMT",
+        "category": "Tech",
+        "type": "meetup"
+    },
+    {
+        "title": "Build a Real-Time Stream Processing Pipeline with Elasticsearch, Kafka & Flink",
+        "event_date": "April 15, 2025",
+        "location": "Plano, United States",
+        "link": "https://dev.events/conferences/build-a-real-time-stream-processing-pipeline-with-elasticsearch-kafka-and-flink-305849337",
+        "published": "Mon, 03 Mar 2025 03:11:39 GMT",
+        "category": "Tech",
+        "type": "meetup"
+    },
+    {
+        "title": "Python Office Hours!",
+        "event_date": "April 27, 2025",
+        "location": "Irvine, United States",
+        "link": "https://dev.events/conferences/python-office-hours-smnqntyhcgbkc",
+        "published": "Mon, 03 Mar 2025 03:11:24 GMT",
+        "category": "Python",
+        "type": "meetup"
+    },
+    {
+        "title": "Rust Happy Hour",
+        "event_date": "March 13, 2025",
+        "location": "Chicago, United States",
+        "link": "https://dev.events/conferences/rust-happy-hour-306484710",
+        "published": "Mon, 03 Mar 2025 03:08:48 GMT",
+        "category": "Rust",
+        "type": "meetup"
+    },
+    {
+        "title": "ARVR TECH NEWCOMERS, DEVELOPERS AND ARTISTS MEETUP (HYBRID)",
+        "event_date": "March 31, 2025",
+        "location": "Fort Myers, United States",
+        "link": "https://dev.events/conferences/arvr-tech-newcomers-developers-and-artists-meetup-hybrid-306504687",
+        "published": "Mon, 03 Mar 2025 03:01:40 GMT",
+        "category": "AR / VR / XR",
+        "type": "meetup"
+    },
+    {
+        "title": "In-Person Game Development Meetup",
+        "event_date": "March 29, 2025",
+        "location": "Pittsburgh, United States",
+        "link": "https://dev.events/conferences/in-person-game-development-meetup-zftnktyhcfbmc",
+        "published": "Mon, 03 Mar 2025 03:00:46 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "Indie Co-working Support Group (ISG - IRL)",
+        "event_date": "March 8, 2025",
+        "location": "Seattle, United States",
+        "link": "https://dev.events/conferences/indie-co-working-support-group-isg-irl-306101950",
+        "published": "Mon, 03 Mar 2025 03:00:40 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "Birmingham Developer Show-and-Tell",
+        "event_date": "March 4, 2025",
+        "location": "Birmingham, United States",
+        "link": "https://dev.events/conferences/birmingham-developer-show-and-tell-306502007",
+        "published": "Mon, 03 Mar 2025 03:00:24 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "Work and Chill 2: Artistic Boogaloo",
+        "event_date": "March 9, 2025",
+        "location": "Englewood, United States",
+        "link": "https://dev.events/conferences/work-and-chill-2-artistic-boogaloo-306227612",
+        "published": "Mon, 03 Mar 2025 03:00:17 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "Coffee and Game Dev Sundays at Six Twelve",
+        "event_date": "April 13, 2025",
+        "location": "Fayetteville, United States",
+        "link": "https://dev.events/conferences/coffee-and-game-dev-sundays-at-six-twelve-306201935",
+        "published": "Mon, 03 Mar 2025 03:00:09 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "Friday Social Night",
+        "event_date": "April 18, 2025",
+        "location": "Buffalo, United States",
+        "link": "https://dev.events/conferences/friday-social-night-306484029",
+        "published": "Mon, 03 Mar 2025 03:00:09 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "Game Dev Work & Play",
+        "event_date": "March 30, 2025",
+        "location": "Nashville, United States",
+        "link": "https://dev.events/conferences/game-dev-work-and-play-vtjsptyhcfbnc",
+        "published": "Mon, 03 Mar 2025 03:00:07 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
         "title": "Agile + DevOpsDays Des Moines 2025",
         "event_date": "October 2, 2025",
         "location": "Des Moines, United States",
@@ -87,78 +204,6 @@
         "link": "https://dev.events/conferences/utah-js-slc-meetup-303625096",
         "published": "Sun, 02 Mar 2025 03:02:45 GMT",
         "category": "JavaScript",
-        "type": "meetup"
-    },
-    {
-        "title": "Nooga Code & Coffee",
-        "event_date": "May 3, 2025",
-        "location": "Chattanooga, United States",
-        "link": "https://dev.events/conferences/nooga-code-and-coffee-305165350",
-        "published": "Sun, 02 Mar 2025 03:00:43 GMT",
-        "category": "Tech",
-        "type": "meetup"
-    },
-    {
-        "title": "Eastside Meetup - Seattle Indies",
-        "event_date": "March 5, 2025",
-        "location": "Redmond, United States",
-        "link": "https://dev.events/conferences/eastside-meetup-seattle-indies-305560778",
-        "published": "Sun, 02 Mar 2025 03:00:33 GMT",
-        "category": "Game dev",
-        "type": "meetup"
-    },
-    {
-        "title": "Excuse To Create",
-        "event_date": "July 5, 2025",
-        "location": "Cleveland, United States",
-        "link": "https://dev.events/conferences/excuse-to-create-ltcrwsyhckbhb",
-        "published": "Sun, 02 Mar 2025 03:00:28 GMT",
-        "category": "Game dev",
-        "type": "meetup"
-    },
-    {
-        "title": "Boulder Sunday Work and Chill",
-        "event_date": "March 9, 2025",
-        "location": "Boulder, United States",
-        "link": "https://dev.events/conferences/boulder-sunday-work-and-chill-306225666",
-        "published": "Sun, 02 Mar 2025 03:00:11 GMT",
-        "category": "Game dev",
-        "type": "meetup"
-    },
-    {
-        "title": "IGDA Ann Arbor : Game Development (meeting details coming soon)",
-        "event_date": "June 26, 2025",
-        "location": "Ann Arbor, United States",
-        "link": "https://dev.events/conferences/igda-ann-arbor-game-development-meeting-details-coming-soon-302440084",
-        "published": "Sun, 02 Mar 2025 03:00:04 GMT",
-        "category": "Game dev",
-        "type": "meetup"
-    },
-    {
-        "title": "MadPy Social: Blue Moon Bar & Grill",
-        "event_date": "April 10, 2025",
-        "location": "Madison, United States",
-        "link": "https://dev.events/conferences/mad-py-social-blue-moon-bar-and-grill-306449748",
-        "published": "Sat, 01 Mar 2025 03:10:42 GMT",
-        "category": "Python",
-        "type": "meetup"
-    },
-    {
-        "title": "Platform Engineering New York: Spring Forward",
-        "event_date": "April 9, 2025",
-        "location": "New York, United States",
-        "link": "https://dev.events/conferences/platform-engineering-new-york-spring-forward-306458844",
-        "published": "Sat, 01 Mar 2025 03:07:49 GMT",
-        "category": "DevOps",
-        "type": "meetup"
-    },
-    {
-        "title": "Innovation Hall Social w/ Pythonistas & Friends",
-        "event_date": "March 20, 2025",
-        "location": "Oklahoma City, United States",
-        "link": "https://dev.events/conferences/innovation-hall-social-w-pythonistas-and-friends-306451116",
-        "published": "Sat, 01 Mar 2025 03:06:04 GMT",
-        "category": "Python",
         "type": "meetup"
     }
 ]
