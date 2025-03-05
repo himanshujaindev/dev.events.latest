@@ -1,5 +1,203 @@
 [
     {
+        "title": "Product Strategy and Product Teams with Roman Pichler",
+        "event_date": "April 30, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/product-strategy-and-product-teams-with-roman-pichler-306514071",
+        "published": "Tue, 04 Mar 2025 03:10:09 GMT",
+        "category": "Agile",
+        "type": "meetup"
+    },
+    {
+        "title": "Online Lean Beer",
+        "event_date": "April 28, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/online-lean-beer-rqqcktyhcgblc",
+        "published": "Tue, 04 Mar 2025 03:09:47 GMT",
+        "category": "Agile",
+        "type": "meetup"
+    },
+    {
+        "title": "All about the Microsoft MVP program with Betsy Weber",
+        "event_date": "April 17, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/all-about-the-microsoft-mvp-program-with-betsy-weber-304687788",
+        "published": "Tue, 04 Mar 2025 03:09:25 GMT",
+        "category": "Microsoft",
+        "type": "meetup"
+    },
+    {
+        "title": "Using Streamlit to create interactive web apps & deploy ML models with Leah Levy",
+        "event_date": "March 11, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/using-streamlit-to-create-interactive-web-apps-and-deploy-ml-models-with-leah-levy-305584832",
+        "published": "Tue, 04 Mar 2025 03:08:01 GMT",
+        "category": "AI / ML",
+        "type": "meetup"
+    },
+    {
+        "title": "Empower Her: International Women's Day Special \u2013 Online Edition",
+        "event_date": "March 22, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/empower-her-international-women-s-day-special-online-edition-306523738",
+        "published": "Tue, 04 Mar 2025 03:08:01 GMT",
+        "category": "AWS",
+        "type": "meetup"
+    },
+    {
+        "title": "Multi-agentic architectures for test automation",
+        "event_date": "March 12, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/multi-agentic-architectures-for-test-automation-306521201",
+        "published": "Tue, 04 Mar 2025 03:07:55 GMT",
+        "category": "Testing / QA",
+        "type": "meetup"
+    },
+    {
+        "title": "Silicon Valley Business Networking (Online)",
+        "event_date": "March 10, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/silicon-valley-business-networking-online-306244582",
+        "published": "Tue, 04 Mar 2025 03:07:20 GMT",
+        "category": "Startup",
+        "type": "meetup"
+    },
+    {
+        "title": "Introducing Our New Purpose: Empowering Entrepreneurs",
+        "event_date": "March 20, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/introducing-our-new-purpose-empowering-entrepreneurs-306516198",
+        "published": "Tue, 04 Mar 2025 03:07:19 GMT",
+        "category": "Agile",
+        "type": "meetup"
+    },
+    {
+        "title": "How to avoid 6 Azure and AWS misconfigurations with simple fixes",
+        "event_date": "March 6, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/how-to-avoid-6-azure-and-aws-misconfigurations-with-simple-fixes-306511809",
+        "published": "Tue, 04 Mar 2025 03:05:53 GMT",
+        "category": "Azure",
+        "type": "meetup"
+    },
+    {
+        "title": "IAM Simplified: Enhancing Security and Efficiency with AD360",
+        "event_date": "March 12, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/iam-simplified-enhancing-security-and-efficiency-with-ad-360-306513410",
+        "published": "Tue, 04 Mar 2025 03:05:53 GMT",
+        "category": "Cybersecurity / InfoSec",
+        "type": "meetup"
+    },
+    {
+        "title": "(PYTHON deep dive) Ramadan Daily Community Hours",
+        "event_date": "March 7, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/python-deep-dive-ramadan-daily-community-hours-306480950",
+        "published": "Tue, 04 Mar 2025 03:05:43 GMT",
+        "category": "Python",
+        "type": "meetup"
+    },
+    {
+        "title": "The Truth About Testing",
+        "event_date": "March 15, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/the-truth-about-testing-306516126",
+        "published": "Tue, 04 Mar 2025 03:05:37 GMT",
+        "category": "Testing / QA",
+        "type": "meetup"
+    },
+    {
+        "title": "Ask an Investor Anything: Q&A with Stavros Pavlidis",
+        "event_date": "April 2, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/ask-an-investor-anything-q-and-a-with-stavros-pavlidis-306386109",
+        "published": "Tue, 04 Mar 2025 03:05:07 GMT",
+        "category": "Startup",
+        "type": "meetup"
+    },
+    {
+        "title": "Azure HPC: CycleCloud",
+        "event_date": "March 27, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/azure-hpc-cycle-cloud-306374600",
+        "published": "Tue, 04 Mar 2025 03:04:35 GMT",
+        "category": "Azure",
+        "type": "meetup"
+    },
+    {
+        "title": "AI Show: Discussing Latest Trends, Use Cases and Tools",
+        "event_date": "March 18, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/ai-show-discussing-latest-trends-use-cases-and-tools-305604598",
+        "published": "Tue, 04 Mar 2025 03:04:34 GMT",
+        "category": "AI / ML",
+        "type": "meetup"
+    },
+    {
+        "title": "Boosting your DBA skills with Generative AI",
+        "event_date": "March 10, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/boosting-your-dba-skills-with-generative-ai-306524515",
+        "published": "Tue, 04 Mar 2025 03:04:06 GMT",
+        "category": "Business Analysis",
+        "type": "meetup"
+    },
+    {
+        "title": "Ted M. Young - Refactoring Tests",
+        "event_date": "March 27, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/ted-m-young-refactoring-tests-305780798",
+        "published": "Tue, 04 Mar 2025 03:03:56 GMT",
+        "category": "Tech",
+        "type": "meetup"
+    },
+    {
+        "title": "Neo4j Live: Building AI Agents with Google's GenAI Toolbox",
+        "event_date": "March 12, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/neo4j-live-building-ai-agents-with-google-s-gen-ai-toolbox-306510828",
+        "published": "Tue, 04 Mar 2025 03:03:53 GMT",
+        "category": "AI / ML",
+        "type": "meetup"
+    },
+    {
+        "title": "Architecture Coaching",
+        "event_date": "March 31, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/architecture-coaching-305438278",
+        "published": "Tue, 04 Mar 2025 03:02:11 GMT",
+        "category": "Software architecture",
+        "type": "meetup"
+    },
+    {
+        "title": "Mock Interview: Customer Success Manager",
+        "event_date": "March 7, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/mock-interview-customer-success-manager-306433535",
+        "published": "Tue, 04 Mar 2025 03:00:52 GMT",
+        "category": "Startup",
+        "type": "meetup"
+    },
+    {
+        "title": "March online meetup gamedev meetup! (Unity, Unreal, GameMaker)",
+        "event_date": "March 20, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/march-online-meetup-gamedev-meetup-unity-unreal-game-maker-306517505",
+        "published": "Tue, 04 Mar 2025 03:00:18 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "LOAD (League of Amazing Demos)",
+        "event_date": "March 13, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/load-league-of-amazing-demos-305361759",
+        "published": "Tue, 04 Mar 2025 03:00:15 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
         "title": "The State of Lean-Agile in 2025 \u2013 Staying Productive and Positive",
         "event_date": "March 13, 2025",
         "location": "Online",
@@ -105,195 +303,6 @@
         "link": "https://dev.events/conferences/a-tidy-introduction-to-microsoft-fabric-305643920",
         "published": "Mon, 03 Mar 2025 03:05:57 GMT",
         "category": "Microsoft",
-        "type": "meetup"
-    },
-    {
-        "title": "Building Scalable Data Solutions with Microsoft Fabric's Data Warehouse",
-        "event_date": "March 25, 2025",
-        "location": "Online",
-        "link": "https://dev.events/conferences/building-scalable-data-solutions-with-microsoft-fabric-s-data-warehouse-305644131",
-        "published": "Mon, 03 Mar 2025 03:05:57 GMT",
-        "category": "Data / Database",
-        "type": "meetup"
-    },
-    {
-        "title": "(PYTHON deep dive) Ramadan Daily Community Hours",
-        "event_date": "March 6, 2025",
-        "location": "Online",
-        "link": "https://dev.events/conferences/python-deep-dive-ramadan-daily-community-hours-306480925",
-        "published": "Mon, 03 Mar 2025 03:04:46 GMT",
-        "category": "Python",
-        "type": "meetup"
-    },
-    {
-        "title": "(PYTHON deep dive) Ramadan Daily Community Hours",
-        "event_date": "March 4, 2025",
-        "location": "Online",
-        "link": "https://dev.events/conferences/python-deep-dive-ramadan-daily-community-hours-306480906",
-        "published": "Mon, 03 Mar 2025 03:04:21 GMT",
-        "category": "Python",
-        "type": "meetup"
-    },
-    {
-        "title": "(PYTHON deep dive) Ramadan Daily Community Hours",
-        "event_date": "March 5, 2025",
-        "location": "Online",
-        "link": "https://dev.events/conferences/python-deep-dive-ramadan-daily-community-hours-306480907",
-        "published": "Mon, 03 Mar 2025 03:04:21 GMT",
-        "category": "Python",
-        "type": "meetup"
-    },
-    {
-        "title": "Dev Hangout + Dev Tips",
-        "event_date": "April 27, 2025",
-        "location": "Online",
-        "link": "https://dev.events/conferences/dev-hangout-dev-tips-mxvqktyhcgbjc",
-        "published": "Mon, 03 Mar 2025 03:03:25 GMT",
-        "category": "Tech",
-        "type": "meetup"
-    },
-    {
-        "title": "Archilocus #14",
-        "event_date": "March 13, 2025",
-        "location": "Online",
-        "link": "https://dev.events/conferences/archilocus-14-306500977",
-        "published": "Mon, 03 Mar 2025 03:02:07 GMT",
-        "category": "Tech",
-        "type": "meetup"
-    },
-    {
-        "title": "Managing AI capability into your BA team, with Pilar Esteban",
-        "event_date": "April 1, 2025",
-        "location": "Online",
-        "link": "https://dev.events/conferences/managing-ai-capability-into-your-ba-team-with-pilar-esteban-303542461",
-        "published": "Mon, 03 Mar 2025 03:02:03 GMT",
-        "category": "AI / ML",
-        "type": "meetup"
-    },
-    {
-        "title": "Three stories from Practice Leaders",
-        "event_date": "May 6, 2025",
-        "location": "Online",
-        "link": "https://dev.events/conferences/three-stories-from-practice-leaders-306486707",
-        "published": "Mon, 03 Mar 2025 03:02:03 GMT",
-        "category": "Business Analysis",
-        "type": "meetup"
-    },
-    {
-        "title": "Indie Video Game Developer Meetup - ZOOM",
-        "event_date": "May 4, 2025",
-        "location": "Online",
-        "link": "https://dev.events/conferences/indie-video-game-developer-meetup-zoom-nmzbwsyhchbgb",
-        "published": "Mon, 03 Mar 2025 03:00:38 GMT",
-        "category": "Game dev",
-        "type": "meetup"
-    },
-    {
-        "title": "Open Coworking Session (Discord)",
-        "event_date": "April 26, 2025",
-        "location": "Online",
-        "link": "https://dev.events/conferences/open-coworking-session-discord-lcdfltyhcgbjc",
-        "published": "Mon, 03 Mar 2025 03:00:22 GMT",
-        "category": "Game dev",
-        "type": "meetup"
-    },
-    {
-        "title": "[ONLINE] Game Dev Meetup (Monthly Meetup)",
-        "event_date": "April 5, 2025",
-        "location": "Online",
-        "link": "https://dev.events/conferences/online-game-dev-meetup-monthly-meetup-306497019",
-        "published": "Mon, 03 Mar 2025 03:00:18 GMT",
-        "category": "Game dev",
-        "type": "meetup"
-    },
-    {
-        "title": "ICASEM",
-        "event_date": "April 2, 2025",
-        "location": "Th\u1ee7 D\u1ea7u M\u1ed9t, Vietnam and Online",
-        "link": "https://dev.events/conferences/icasem-skl9dhrj",
-        "published": "Sun, 02 Mar 2025 11:57:38 GMT",
-        "category": "IT",
-        "type": "conference"
-    },
-    {
-        "title": "CyberLab Con 2025",
-        "event_date": "July 17, 2025",
-        "location": "Online",
-        "link": "https://dev.events/conferences/cyber-lab-con-2025-owjwn2e",
-        "published": "Sun, 02 Mar 2025 11:54:25 GMT",
-        "category": "Cybersecurity / InfoSec",
-        "type": "conference"
-    },
-    {
-        "title": "Free Webinar: SAFe - Scaled Agile Understanding to Advance Your Career",
-        "event_date": "April 12, 2025",
-        "location": "Online",
-        "link": "https://dev.events/conferences/free-webinar-sa-fe-scaled-agile-understanding-to-advance-your-career-gttmptyhcgbqb",
-        "published": "Sun, 02 Mar 2025 03:08:52 GMT",
-        "category": "Agile",
-        "type": "meetup"
-    },
-    {
-        "title": "Toddler - UI or not to UI (by Robert Ger\u0161ak)",
-        "event_date": "April 1, 2025",
-        "location": "Online",
-        "link": "https://dev.events/conferences/toddler-ui-or-not-to-ui-by-robert-gersak-306455234",
-        "published": "Sun, 02 Mar 2025 03:07:07 GMT",
-        "category": "UI / UX",
-        "type": "meetup"
-    },
-    {
-        "title": "K8SUG Australia #34 - Melbourne Meetup @AWS - 5 Mar 2025",
-        "event_date": "March 5, 2025",
-        "location": "Melbourne, Australia and Online",
-        "link": "https://dev.events/conferences/k8-sug-australia-34-melbourne-meetup-aws-5-mar-2025-305962817",
-        "published": "Sun, 02 Mar 2025 03:06:48 GMT",
-        "category": "AWS",
-        "type": "meetup"
-    },
-    {
-        "title": "How to Find Product Market Fit Quickly",
-        "event_date": "March 11, 2025",
-        "location": "Online",
-        "link": "https://dev.events/conferences/how-to-find-product-market-fit-quickly-306258345",
-        "published": "Sun, 02 Mar 2025 03:06:21 GMT",
-        "category": "Startup",
-        "type": "meetup"
-    },
-    {
-        "title": "Ingenier\u00eda de prompts con GitHub Copilot",
-        "event_date": "March 15, 2025",
-        "location": "Online",
-        "link": "https://dev.events/conferences/ingenieria-de-prompts-con-git-hub-copilot-306462936",
-        "published": "Sun, 02 Mar 2025 03:05:14 GMT",
-        "category": "Open Source",
-        "type": "meetup"
-    },
-    {
-        "title": "PDX DevOps Monthly Meetup!",
-        "event_date": "March 27, 2025",
-        "location": "Online",
-        "link": "https://dev.events/conferences/pdx-dev-ops-monthly-meetup-rpkkftyhcfbjc",
-        "published": "Sun, 02 Mar 2025 03:04:43 GMT",
-        "category": "DevOps",
-        "type": "meetup"
-    },
-    {
-        "title": "Let's Code Together!",
-        "event_date": "April 26, 2025",
-        "location": "Online",
-        "link": "https://dev.events/conferences/let-s-code-together-dpbnlsyhcgbjc",
-        "published": "Sun, 02 Mar 2025 03:03:27 GMT",
-        "category": "Tech",
-        "type": "meetup"
-    },
-    {
-        "title": "Perlmongers monthly meeting",
-        "event_date": "June 26, 2025",
-        "location": "Online",
-        "link": "https://dev.events/conferences/perlmongers-monthly-meeting-qbvmltyhcjbjc",
-        "published": "Sun, 02 Mar 2025 03:03:03 GMT",
-        "category": "Tech",
         "type": "meetup"
     },
     {
