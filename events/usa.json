@@ -1,200 +1,146 @@
 [
     {
-        "title": "UtahJS",
-        "event_date": "September 12, 2025",
-        "location": "Sandy, United States",
-        "link": "https://dev.events/conferences/utah-js-n4hdrvfi",
-        "published": "Wed, 05 Mar 2025 10:02:50 GMT",
-        "category": "JavaScript",
-        "type": "conference"
-    },
-    {
-        "title": "Engineering Excellence Summit",
-        "event_date": "March 27, 2025",
-        "location": "New York, United States",
-        "link": "https://dev.events/conferences/engineering-excellence-summit-g15vp2ne",
-        "published": "Wed, 05 Mar 2025 07:43:42 GMT",
-        "category": "Tech leadership",
-        "type": "conference"
-    },
-    {
-        "title": "Horizon Summit",
-        "event_date": "June 25, 2025",
-        "location": "San Francisco, United States",
-        "link": "https://dev.events/conferences/horizon-summit-le3atups",
-        "published": "Wed, 05 Mar 2025 07:42:17 GMT",
-        "category": "Tech",
-        "type": "conference"
-    },
-    {
-        "title": "IDPCON",
-        "event_date": "October 9, 2025",
-        "location": "New York, United States",
-        "link": "https://dev.events/conferences/idpcon-zig3-uax",
-        "published": "Wed, 05 Mar 2025 07:38:15 GMT",
-        "category": "Tech",
-        "type": "conference"
-    },
-    {
-        "title": "Building Agentic Systems",
-        "event_date": "March 11, 2025",
-        "location": "Franklin, United States",
-        "link": "https://dev.events/conferences/building-agentic-systems-306534291",
-        "published": "Wed, 05 Mar 2025 03:10:10 GMT",
-        "category": "AWS",
-        "type": "meetup"
-    },
-    {
-        "title": "Solving the Developer\u2019s Struggle with Coder Enterprise Development Environments",
-        "event_date": "May 20, 2025",
-        "location": "Minneapolis, United States",
-        "link": "https://dev.events/conferences/solving-the-developer-s-struggle-with-coder-enterprise-development-environments-306533826",
-        "published": "Wed, 05 Mar 2025 03:10:08 GMT",
-        "category": "AWS",
-        "type": "meetup"
-    },
-    {
-        "title": "Go Observability with Grafana (in-person and virtual)",
-        "event_date": "March 19, 2025",
-        "location": "Minneapolis, United States and Online",
-        "link": "https://dev.events/conferences/go-observability-with-grafana-in-person-and-virtual-306521423",
-        "published": "Wed, 05 Mar 2025 03:09:42 GMT",
-        "category": "SRE",
-        "type": "meetup"
-    },
-    {
-        "title": "Arc of AI Conference: March 31-April 3 (Austin TX) - by Dr. Venkat Subramaniam",
-        "event_date": "March 31, 2025",
-        "location": "Round Rock, United States",
-        "link": "https://dev.events/conferences/arc-of-ai-conference-march-31-april-3-austin-tx-by-dr-venkat-subramaniam-306529350",
-        "published": "Wed, 05 Mar 2025 03:09:28 GMT",
-        "category": "AI / ML",
-        "type": "meetup"
-    },
-    {
-        "title": "Hands-on Workshop: Implementing Amazon Nova Foundation Models",
-        "event_date": "April 24, 2025",
-        "location": "Tampa, United States",
-        "link": "https://dev.events/conferences/hands-on-workshop-implementing-amazon-nova-foundation-models-306533861",
-        "published": "Wed, 05 Mar 2025 03:08:25 GMT",
-        "category": "AWS",
-        "type": "meetup"
-    },
-    {
-        "title": "Hang out and talk code [Oddbirds]",
-        "event_date": "April 29, 2025",
-        "location": "St. Augustine, United States",
-        "link": "https://dev.events/conferences/hang-out-and-talk-code-oddbirds-mkrvktyhcgbmc",
-        "published": "Wed, 05 Mar 2025 03:08:21 GMT",
-        "category": "Tech",
-        "type": "meetup"
-    },
-    {
-        "title": "Boosting DevOps Productivity with Ballerina & Coder",
-        "event_date": "April 29, 2025",
-        "location": "Austin, United States",
-        "link": "https://dev.events/conferences/boosting-dev-ops-productivity-with-ballerina-and-coder-306462997",
-        "published": "Wed, 05 Mar 2025 03:06:07 GMT",
-        "category": "DevOps",
-        "type": "meetup"
-    },
-    {
-        "title": "Revolutionizing Document Processing with Generative AI",
-        "event_date": "March 20, 2025",
-        "location": "Ann Arbor, United States",
-        "link": "https://dev.events/conferences/revolutionizing-document-processing-with-generative-ai-306518825",
-        "published": "Wed, 05 Mar 2025 03:05:53 GMT",
-        "category": "AI / ML",
-        "type": "meetup"
-    },
-    {
-        "title": "March Lightning Talks",
-        "event_date": "March 26, 2025",
-        "location": "Urbandale, United States",
-        "link": "https://dev.events/conferences/march-lightning-talks-306533721",
-        "published": "Wed, 05 Mar 2025 03:05:41 GMT",
-        "category": "DevOps",
-        "type": "meetup"
-    },
-    {
-        "title": "Redefine Possible: Detroit International Women's Day Innovation Summit",
-        "event_date": "March 29, 2025",
-        "location": "Detroit, United States",
-        "link": "https://dev.events/conferences/redefine-possible-detroit-international-women-s-day-innovation-summit-306517242",
-        "published": "Wed, 05 Mar 2025 03:05:20 GMT",
-        "category": "Web / Frontend",
-        "type": "meetup"
-    },
-    {
-        "title": "Empowering Intelligent Workflows with Agentic AI on AWS",
-        "event_date": "March 11, 2025",
-        "location": "Portsmouth, United States and Online",
-        "link": "https://dev.events/conferences/empowering-intelligent-workflows-with-agentic-ai-on-aws-306514924",
-        "published": "Wed, 05 Mar 2025 03:04:57 GMT",
-        "category": "AI / ML",
-        "type": "meetup"
-    },
-    {
-        "title": "DevMemphis - A Meetup for Memphis Software Developers",
-        "event_date": "March 6, 2025",
-        "location": "Memphis, United States",
-        "link": "https://dev.events/conferences/dev-memphis-a-meetup-for-memphis-software-developers-303646602",
-        "published": "Wed, 05 Mar 2025 03:03:57 GMT",
-        "category": "Tech",
-        "type": "meetup"
-    },
-    {
-        "title": "Meet And Greet - Mistake Mayhem (Bug stories)",
+        "title": "Elastic x Apache Kafka Phoenix Meetup",
         "event_date": "March 7, 2025",
-        "location": "Kalamazoo , United States",
-        "link": "https://dev.events/conferences/meet-and-greet-mistake-mayhem-bug-stories-305303028",
-        "published": "Wed, 05 Mar 2025 03:03:57 GMT",
+        "location": "Phoenix, United States",
+        "link": "https://dev.events/conferences/elastic-x-apache-kafka-phoenix-meetup-306159187",
+        "published": "Thu, 06 Mar 2025 03:10:51 GMT",
         "category": "Tech",
         "type": "meetup"
     },
     {
-        "title": "Baymeadows Code and Coffee",
-        "event_date": "March 11, 2025",
-        "location": "Jacksonville , United States",
-        "link": "https://dev.events/conferences/baymeadows-code-and-coffee-306255495",
-        "published": "Wed, 05 Mar 2025 03:03:54 GMT",
+        "title": "Coders League Low-Pressure Social Get-Together",
+        "event_date": "April 2, 2025",
+        "location": "Asheville, United States",
+        "link": "https://dev.events/conferences/coders-league-low-pressure-social-get-together-gdtbqtyhcgbdb",
+        "published": "Thu, 06 Mar 2025 03:10:48 GMT",
         "category": "Tech",
         "type": "meetup"
     },
     {
-        "title": "Code and Coffee Evenings (Open Hax)",
+        "title": "Infrastructure as Code Made Easy: Deploy Azure Resources with Bicep",
+        "event_date": "April 1, 2025",
+        "location": "Loudoun, United States",
+        "link": "https://dev.events/conferences/infrastructure-as-code-made-easy-deploy-azure-resources-with-bicep-306557516",
+        "published": "Thu, 06 Mar 2025 03:09:36 GMT",
+        "category": "Azure",
+        "type": "meetup"
+    },
+    {
+        "title": "March No Talk",
+        "event_date": "March 19, 2025",
+        "location": "Sioux Falls, United States",
+        "link": "https://dev.events/conferences/march-no-talk-306545031",
+        "published": "Thu, 06 Mar 2025 03:09:32 GMT",
+        "category": ".NET",
+        "type": "meetup"
+    },
+    {
+        "title": "Portland Geek Dinner - Beaverton!",
+        "event_date": "April 2, 2025",
+        "location": "Beaverton, United States",
+        "link": "https://dev.events/conferences/portland-geek-dinner-beaverton-306373527",
+        "published": "Thu, 06 Mar 2025 03:09:31 GMT",
+        "category": ".NET",
+        "type": "meetup"
+    },
+    {
+        "title": "Architect's Guide to Managing A Code Base by Pratik; Special Guest: Mo Haghighi",
+        "event_date": "March 13, 2025",
+        "location": "Chicago, United States",
+        "link": "https://dev.events/conferences/architect-s-guide-to-managing-a-code-base-by-pratik-special-guest-mo-haghighi-306529548",
+        "published": "Thu, 06 Mar 2025 03:08:31 GMT",
+        "category": "Java",
+        "type": "meetup"
+    },
+    {
+        "title": "From Complexity to Clarity: An AWS Security Journey",
+        "event_date": "March 27, 2025",
+        "location": "Tampa, United States",
+        "link": "https://dev.events/conferences/from-complexity-to-clarity-an-aws-security-journey-306553378",
+        "published": "Thu, 06 Mar 2025 03:07:36 GMT",
+        "category": "AWS",
+        "type": "meetup"
+    },
+    {
+        "title": "Memphis Data Professionals",
         "event_date": "March 11, 2025",
+        "location": "Memphis, United States",
+        "link": "https://dev.events/conferences/memphis-data-professionals-303646693",
+        "published": "Thu, 06 Mar 2025 03:04:08 GMT",
+        "category": "Data / Database",
+        "type": "meetup"
+    },
+    {
+        "title": "Virtual Weekly Hack Night",
+        "event_date": "April 1, 2025",
+        "location": "Boston, United States",
+        "link": "https://dev.events/conferences/virtual-weekly-hack-night-305987637",
+        "published": "Thu, 06 Mar 2025 03:04:06 GMT",
+        "category": "Tech",
+        "type": "meetup"
+    },
+    {
+        "title": "Open Hax",
+        "event_date": "March 25, 2025",
         "location": "Jacksonville, United States",
-        "link": "https://dev.events/conferences/code-and-coffee-evenings-open-hax-305493648",
-        "published": "Wed, 05 Mar 2025 03:03:54 GMT",
-        "category": "Tech",
-        "type": "meetup"
-    },
-    {
-        "title": "Pizza Social",
-        "event_date": "March 26, 2025",
-        "location": "Greenville, United States",
-        "link": "https://dev.events/conferences/pizza-social-306527201",
-        "published": "Wed, 05 Mar 2025 03:03:46 GMT",
+        "link": "https://dev.events/conferences/open-hax-306561644",
+        "published": "Thu, 06 Mar 2025 03:04:02 GMT",
         "category": "Ruby",
         "type": "meetup"
     },
     {
-        "title": "DFW Code & Coffee #17 at UTAFW",
-        "event_date": "May 3, 2025",
-        "location": "Fort Worth, United States",
-        "link": "https://dev.events/conferences/dfw-code-and-coffee-17-at-utafw-306538751",
-        "published": "Wed, 05 Mar 2025 03:03:39 GMT",
+        "title": "Mark Graham: Creating a Usable Internet Archive",
+        "event_date": "March 12, 2025",
+        "location": "San Francisco, United States",
+        "link": "https://dev.events/conferences/mark-graham-creating-a-usable-internet-archive-306546794",
+        "published": "Thu, 06 Mar 2025 03:02:03 GMT",
         "category": "Tech",
         "type": "meetup"
     },
     {
-        "title": "Programming Language Landscape 2025",
-        "event_date": "March 7, 2025",
-        "location": "Sacramento, United States",
-        "link": "https://dev.events/conferences/programming-language-landscape-2025-306528067",
-        "published": "Wed, 05 Mar 2025 03:03:37 GMT",
+        "title": "Meet New People!!  Sunday  Night Networking",
+        "event_date": "March 10, 2025",
+        "location": "Santa Clara, United States",
+        "link": "https://dev.events/conferences/meet-new-people-sunday-night-networking-306234070",
+        "published": "Thu, 06 Mar 2025 03:01:52 GMT",
+        "category": "AR / VR / XR",
+        "type": "meetup"
+    },
+    {
+        "title": "Create and Rig a Character in Blender",
+        "event_date": "March 29, 2025",
+        "location": "Watertown, United States",
+        "link": "https://dev.events/conferences/create-and-rig-a-character-in-blender-306539801",
+        "published": "Thu, 06 Mar 2025 03:01:52 GMT",
+        "category": "AR / VR / XR",
+        "type": "meetup"
+    },
+    {
+        "title": "Coffee, co-working, & collab",
+        "event_date": "March 19, 2025",
+        "location": "Mesa, United States",
+        "link": "https://dev.events/conferences/coffee-co-working-and-collab-306440813",
+        "published": "Thu, 06 Mar 2025 03:00:45 GMT",
         "category": "Tech",
+        "type": "meetup"
+    },
+    {
+        "title": "Beer.js: post-coworking social time",
+        "event_date": "March 19, 2025",
+        "location": "Mesa, United States",
+        "link": "https://dev.events/conferences/beer-js-post-coworking-social-time-306448027",
+        "published": "Thu, 06 Mar 2025 03:00:45 GMT",
+        "category": "Tech",
+        "type": "meetup"
+    },
+    {
+        "title": "March Seattle Indies Social",
+        "event_date": "March 12, 2025",
+        "location": "Seattle, United States",
+        "link": "https://dev.events/conferences/march-seattle-indies-social-306218767",
+        "published": "Thu, 06 Mar 2025 03:00:40 GMT",
+        "category": "Game dev",
         "type": "meetup"
     }
 ]
