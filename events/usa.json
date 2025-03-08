@@ -1,146 +1,110 @@
 [
     {
-        "title": "Elastic x Apache Kafka Phoenix Meetup",
-        "event_date": "March 7, 2025",
-        "location": "Phoenix, United States",
-        "link": "https://dev.events/conferences/elastic-x-apache-kafka-phoenix-meetup-306159187",
-        "published": "Thu, 06 Mar 2025 03:10:51 GMT",
-        "category": "Tech",
-        "type": "meetup"
-    },
-    {
-        "title": "Coders League Low-Pressure Social Get-Together",
-        "event_date": "April 2, 2025",
-        "location": "Asheville, United States",
-        "link": "https://dev.events/conferences/coders-league-low-pressure-social-get-together-gdtbqtyhcgbdb",
-        "published": "Thu, 06 Mar 2025 03:10:48 GMT",
-        "category": "Tech",
-        "type": "meetup"
-    },
-    {
-        "title": "Infrastructure as Code Made Easy: Deploy Azure Resources with Bicep",
-        "event_date": "April 1, 2025",
-        "location": "Loudoun, United States",
-        "link": "https://dev.events/conferences/infrastructure-as-code-made-easy-deploy-azure-resources-with-bicep-306557516",
-        "published": "Thu, 06 Mar 2025 03:09:36 GMT",
-        "category": "Azure",
-        "type": "meetup"
-    },
-    {
-        "title": "March No Talk",
+        "title": "Crafting the Ultimate Docker Image for Spring Applications by Pasha Finkelshteyn",
         "event_date": "March 19, 2025",
-        "location": "Sioux Falls, United States",
-        "link": "https://dev.events/conferences/march-no-talk-306545031",
-        "published": "Thu, 06 Mar 2025 03:09:32 GMT",
-        "category": ".NET",
-        "type": "meetup"
-    },
-    {
-        "title": "Portland Geek Dinner - Beaverton!",
-        "event_date": "April 2, 2025",
-        "location": "Beaverton, United States",
-        "link": "https://dev.events/conferences/portland-geek-dinner-beaverton-306373527",
-        "published": "Thu, 06 Mar 2025 03:09:31 GMT",
-        "category": ".NET",
-        "type": "meetup"
-    },
-    {
-        "title": "Architect's Guide to Managing A Code Base by Pratik; Special Guest: Mo Haghighi",
-        "event_date": "March 13, 2025",
         "location": "Chicago, United States",
-        "link": "https://dev.events/conferences/architect-s-guide-to-managing-a-code-base-by-pratik-special-guest-mo-haghighi-306529548",
-        "published": "Thu, 06 Mar 2025 03:08:31 GMT",
-        "category": "Java",
+        "link": "https://dev.events/conferences/crafting-the-ultimate-docker-image-for-spring-applications-by-pasha-finkelshteyn-306529558",
+        "published": "Fri, 07 Mar 2025 03:09:01 GMT",
+        "category": "Docker / Kubernetes",
         "type": "meetup"
     },
     {
-        "title": "From Complexity to Clarity: An AWS Security Journey",
-        "event_date": "March 27, 2025",
-        "location": "Tampa, United States",
-        "link": "https://dev.events/conferences/from-complexity-to-clarity-an-aws-security-journey-306553378",
-        "published": "Thu, 06 Mar 2025 03:07:36 GMT",
+        "title": "Rust NYC Monthly Meetup",
+        "event_date": "March 11, 2025",
+        "location": "New York City, United States",
+        "link": "https://dev.events/conferences/rust-nyc-monthly-meetup-306580071",
+        "published": "Fri, 07 Mar 2025 03:08:37 GMT",
+        "category": "Rust",
+        "type": "meetup"
+    },
+    {
+        "title": "Building Resilient and Observable Rust Services with steady_state",
+        "event_date": "July 3, 2025",
+        "location": "St. Louis, United States",
+        "link": "https://dev.events/conferences/building-resilient-and-observable-rust-services-with-steady-state-306345853",
+        "published": "Fri, 07 Mar 2025 03:08:36 GMT",
+        "category": "Rust",
+        "type": "meetup"
+    },
+    {
+        "title": "The resilience edge: unlocking operational continuity with AWS & CockroachDB",
+        "event_date": "April 17, 2025",
+        "location": "Dallas, United States",
+        "link": "https://dev.events/conferences/the-resilience-edge-unlocking-operational-continuity-with-aws-and-cockroach-db-306580618",
+        "published": "Fri, 07 Mar 2025 03:07:38 GMT",
         "category": "AWS",
         "type": "meetup"
     },
     {
-        "title": "Memphis Data Professionals",
-        "event_date": "March 11, 2025",
+        "title": "Triangle Tech Talks: The Rise of AI Agents \u2013 Past, Present & Future",
+        "event_date": "March 27, 2025",
+        "location": "Morrisville, United States",
+        "link": "https://dev.events/conferences/triangle-tech-talks-the-rise-of-ai-agents-past-present-and-future-306575425",
+        "published": "Fri, 07 Mar 2025 03:06:21 GMT",
+        "category": "AI / ML",
+        "type": "meetup"
+    },
+    {
+        "title": "DevMemphis - A meetup for software developers",
+        "event_date": "March 12, 2025",
         "location": "Memphis, United States",
-        "link": "https://dev.events/conferences/memphis-data-professionals-303646693",
-        "published": "Thu, 06 Mar 2025 03:04:08 GMT",
-        "category": "Data / Database",
-        "type": "meetup"
-    },
-    {
-        "title": "Virtual Weekly Hack Night",
-        "event_date": "April 1, 2025",
-        "location": "Boston, United States",
-        "link": "https://dev.events/conferences/virtual-weekly-hack-night-305987637",
-        "published": "Thu, 06 Mar 2025 03:04:06 GMT",
+        "link": "https://dev.events/conferences/dev-memphis-a-meetup-for-software-developers-306314909",
+        "published": "Fri, 07 Mar 2025 03:03:43 GMT",
         "category": "Tech",
         "type": "meetup"
     },
     {
-        "title": "Open Hax",
-        "event_date": "March 25, 2025",
+        "title": "Code and Coffee",
+        "event_date": "April 16, 2025",
+        "location": "Kalamazoo, United States",
+        "link": "https://dev.events/conferences/code-and-coffee-306525988",
+        "published": "Fri, 07 Mar 2025 03:03:43 GMT",
+        "category": "Tech",
+        "type": "meetup"
+    },
+    {
+        "title": "Fruit Cove Code and Coffee",
+        "event_date": "March 12, 2025",
         "location": "Jacksonville, United States",
-        "link": "https://dev.events/conferences/open-hax-306561644",
-        "published": "Thu, 06 Mar 2025 03:04:02 GMT",
-        "category": "Ruby",
+        "link": "https://dev.events/conferences/fruit-cove-code-and-coffee-304916396",
+        "published": "Fri, 07 Mar 2025 03:03:40 GMT",
+        "category": "Tech",
         "type": "meetup"
     },
     {
-        "title": "Mark Graham: Creating a Usable Internet Archive",
+        "title": "Social @ Pinthouse Pizza",
+        "event_date": "March 11, 2025",
+        "location": "Austin , United States",
+        "link": "https://dev.events/conferences/social-pinthouse-pizza-304960716",
+        "published": "Fri, 07 Mar 2025 03:03:32 GMT",
+        "category": "Ruby on Rails",
+        "type": "meetup"
+    },
+    {
+        "title": "CocoaHeads SLC",
+        "event_date": "May 7, 2025",
+        "location": "Midvale, United States",
+        "link": "https://dev.events/conferences/cocoa-heads-slc-ghztktyhchbjb",
+        "published": "Fri, 07 Mar 2025 03:03:19 GMT",
+        "category": "iOS / Swift",
+        "type": "meetup"
+    },
+    {
+        "title": "Beyond UX: Growth, Jobs & Industry Insights  - Food provided",
+        "event_date": "April 24, 2025",
+        "location": "Alexandria, United States",
+        "link": "https://dev.events/conferences/beyond-ux-growth-jobs-and-industry-insights-food-provided-306558421",
+        "published": "Fri, 07 Mar 2025 03:03:07 GMT",
+        "category": "UI / UX",
+        "type": "meetup"
+    },
+    {
+        "title": "Mixer + Dinner at Maumee Bay Brewing Company",
         "event_date": "March 12, 2025",
-        "location": "San Francisco, United States",
-        "link": "https://dev.events/conferences/mark-graham-creating-a-usable-internet-archive-306546794",
-        "published": "Thu, 06 Mar 2025 03:02:03 GMT",
-        "category": "Tech",
-        "type": "meetup"
-    },
-    {
-        "title": "Meet New People!!  Sunday  Night Networking",
-        "event_date": "March 10, 2025",
-        "location": "Santa Clara, United States",
-        "link": "https://dev.events/conferences/meet-new-people-sunday-night-networking-306234070",
-        "published": "Thu, 06 Mar 2025 03:01:52 GMT",
-        "category": "AR / VR / XR",
-        "type": "meetup"
-    },
-    {
-        "title": "Create and Rig a Character in Blender",
-        "event_date": "March 29, 2025",
-        "location": "Watertown, United States",
-        "link": "https://dev.events/conferences/create-and-rig-a-character-in-blender-306539801",
-        "published": "Thu, 06 Mar 2025 03:01:52 GMT",
-        "category": "AR / VR / XR",
-        "type": "meetup"
-    },
-    {
-        "title": "Coffee, co-working, & collab",
-        "event_date": "March 19, 2025",
-        "location": "Mesa, United States",
-        "link": "https://dev.events/conferences/coffee-co-working-and-collab-306440813",
-        "published": "Thu, 06 Mar 2025 03:00:45 GMT",
-        "category": "Tech",
-        "type": "meetup"
-    },
-    {
-        "title": "Beer.js: post-coworking social time",
-        "event_date": "March 19, 2025",
-        "location": "Mesa, United States",
-        "link": "https://dev.events/conferences/beer-js-post-coworking-social-time-306448027",
-        "published": "Thu, 06 Mar 2025 03:00:45 GMT",
-        "category": "Tech",
-        "type": "meetup"
-    },
-    {
-        "title": "March Seattle Indies Social",
-        "event_date": "March 12, 2025",
-        "location": "Seattle, United States",
-        "link": "https://dev.events/conferences/march-seattle-indies-social-306218767",
-        "published": "Thu, 06 Mar 2025 03:00:40 GMT",
-        "category": "Game dev",
+        "location": "Toledo, United States",
+        "link": "https://dev.events/conferences/mixer-dinner-at-maumee-bay-brewing-company-306536939",
+        "published": "Fri, 07 Mar 2025 03:02:59 GMT",
+        "category": "Google",
         "type": "meetup"
     }
 ]
