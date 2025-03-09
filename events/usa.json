@@ -1,110 +1,245 @@
 [
     {
-        "title": "Crafting the Ultimate Docker Image for Spring Applications by Pasha Finkelshteyn",
-        "event_date": "March 19, 2025",
-        "location": "Chicago, United States",
-        "link": "https://dev.events/conferences/crafting-the-ultimate-docker-image-for-spring-applications-by-pasha-finkelshteyn-306529558",
-        "published": "Fri, 07 Mar 2025 03:09:01 GMT",
-        "category": "Docker / Kubernetes",
-        "type": "meetup"
+        "title": "Open Data Science Conference 2025",
+        "event_date": "May 13, 2025",
+        "location": "Boston, United States",
+        "link": "https://dev.events/conferences/open-data-science-conference-2025-6qwr2dg",
+        "published": "Sat, 08 Mar 2025 10:34:34 GMT",
+        "category": "Data / Database",
+        "type": "conference"
     },
     {
-        "title": "Rust NYC Monthly Meetup",
-        "event_date": "March 11, 2025",
-        "location": "New York City, United States",
-        "link": "https://dev.events/conferences/rust-nyc-monthly-meetup-306580071",
-        "published": "Fri, 07 Mar 2025 03:08:37 GMT",
-        "category": "Rust",
-        "type": "meetup"
+        "title": "M365 Community Days NYC",
+        "event_date": "July 25, 2025",
+        "location": "New York, United States",
+        "link": "https://dev.events/conferences/m365-community-days-nyc-qnjkbcov",
+        "published": "Sat, 08 Mar 2025 10:29:21 GMT",
+        "category": "Microsoft",
+        "type": "conference"
     },
     {
-        "title": "Building Resilient and Observable Rust Services with steady_state",
-        "event_date": "July 3, 2025",
-        "location": "St. Louis, United States",
-        "link": "https://dev.events/conferences/building-resilient-and-observable-rust-services-with-steady-state-306345853",
-        "published": "Fri, 07 Mar 2025 03:08:36 GMT",
-        "category": "Rust",
-        "type": "meetup"
+        "title": "gRPConf North America",
+        "event_date": "August 26, 2025",
+        "location": "Sunnyvale, United States",
+        "link": "https://dev.events/conferences/g-rp-conf-north-america-vrgfrfkf",
+        "published": "Sat, 08 Mar 2025 10:25:40 GMT",
+        "category": "Linux / OS",
+        "type": "conference"
     },
     {
-        "title": "The resilience edge: unlocking operational continuity with AWS & CockroachDB",
-        "event_date": "April 17, 2025",
-        "location": "Dallas, United States",
-        "link": "https://dev.events/conferences/the-resilience-edge-unlocking-operational-continuity-with-aws-and-cockroach-db-306580618",
-        "published": "Fri, 07 Mar 2025 03:07:38 GMT",
-        "category": "AWS",
-        "type": "meetup"
+        "title": "GopherCon",
+        "event_date": "August 26, 2025",
+        "location": "New York, United States",
+        "link": "https://dev.events/conferences/gopher-con-6qphh2mt",
+        "published": "Sat, 08 Mar 2025 10:25:07 GMT",
+        "category": "Golang",
+        "type": "conference"
     },
     {
-        "title": "Triangle Tech Talks: The Rise of AI Agents \u2013 Past, Present & Future",
-        "event_date": "March 27, 2025",
-        "location": "Morrisville, United States",
-        "link": "https://dev.events/conferences/triangle-tech-talks-the-rise-of-ai-agents-past-present-and-future-306575425",
-        "published": "Fri, 07 Mar 2025 03:06:21 GMT",
-        "category": "AI / ML",
-        "type": "meetup"
+        "title": "DevOpsDays DC 2025",
+        "event_date": "September 17, 2025",
+        "location": "Washington, United States",
+        "link": "https://dev.events/conferences/dev-ops-days-dc-2025-8ng35r8p",
+        "published": "Sat, 08 Mar 2025 10:22:12 GMT",
+        "category": "DevOps",
+        "type": "conference"
     },
     {
-        "title": "DevMemphis - A meetup for software developers",
+        "title": "West Slope Startup Week 2025",
+        "event_date": "October 6, 2025",
+        "location": "Durango, United States",
+        "link": "https://dev.events/conferences/west-slope-startup-week-2025-2jpns-c",
+        "published": "Sat, 08 Mar 2025 10:16:28 GMT",
+        "category": "Startup",
+        "type": "conference"
+    },
+    {
+        "title": "JSConf 2025",
+        "event_date": "October 14, 2025",
+        "location": "Cambridge, United States",
+        "link": "https://dev.events/conferences/js-conf-2025-qcpwfpeh",
+        "published": "Sat, 08 Mar 2025 10:13:59 GMT",
+        "category": "JavaScript",
+        "type": "conference"
+    },
+    {
+        "title": "PyBay2025",
+        "event_date": "October 18, 2025",
+        "location": "San Francisco, United States",
+        "link": "https://dev.events/conferences/py-bay2025-mwgniuso",
+        "published": "Sat, 08 Mar 2025 10:08:19 GMT",
+        "category": "Python",
+        "type": "conference"
+    },
+    {
+        "title": "Open Source AI Week",
+        "event_date": "October 18, 2025",
+        "location": "San Francisco, United States",
+        "link": "https://dev.events/conferences/open-source-ai-week-drncyvhl",
+        "published": "Sat, 08 Mar 2025 10:07:34 GMT",
+        "category": "Open Source",
+        "type": "conference"
+    },
+    {
+        "title": "Tech Networking Event",
         "event_date": "March 12, 2025",
-        "location": "Memphis, United States",
-        "link": "https://dev.events/conferences/dev-memphis-a-meetup-for-software-developers-306314909",
-        "published": "Fri, 07 Mar 2025 03:03:43 GMT",
-        "category": "Tech",
-        "type": "meetup"
+        "location": "New York, United States",
+        "link": "https://dev.events/conferences/tech-networking-event-eap-pou1",
+        "published": "Sat, 08 Mar 2025 08:39:18 GMT",
+        "category": "Startup",
+        "type": "conference"
     },
     {
-        "title": "Code and Coffee",
-        "event_date": "April 16, 2025",
-        "location": "Kalamazoo, United States",
-        "link": "https://dev.events/conferences/code-and-coffee-306525988",
-        "published": "Fri, 07 Mar 2025 03:03:43 GMT",
-        "category": "Tech",
-        "type": "meetup"
+        "title": "INTERFACE Portland 2025",
+        "event_date": "March 21, 2025",
+        "location": "Portland, United States",
+        "link": "https://dev.events/conferences/interface-portland-2025-cexysxyr",
+        "published": "Sat, 08 Mar 2025 08:37:13 GMT",
+        "category": "Cybersecurity / InfoSec",
+        "type": "conference"
     },
     {
-        "title": "Fruit Cove Code and Coffee",
-        "event_date": "March 12, 2025",
-        "location": "Jacksonville, United States",
-        "link": "https://dev.events/conferences/fruit-cove-code-and-coffee-304916396",
-        "published": "Fri, 07 Mar 2025 03:03:40 GMT",
-        "category": "Tech",
-        "type": "meetup"
-    },
-    {
-        "title": "Social @ Pinthouse Pizza",
-        "event_date": "March 11, 2025",
-        "location": "Austin , United States",
-        "link": "https://dev.events/conferences/social-pinthouse-pizza-304960716",
-        "published": "Fri, 07 Mar 2025 03:03:32 GMT",
-        "category": "Ruby on Rails",
-        "type": "meetup"
-    },
-    {
-        "title": "CocoaHeads SLC",
-        "event_date": "May 7, 2025",
-        "location": "Midvale, United States",
-        "link": "https://dev.events/conferences/cocoa-heads-slc-ghztktyhchbjb",
-        "published": "Fri, 07 Mar 2025 03:03:19 GMT",
-        "category": "iOS / Swift",
-        "type": "meetup"
-    },
-    {
-        "title": "Beyond UX: Growth, Jobs & Industry Insights  - Food provided",
+        "title": "INTERFACE Anchorage 2025",
         "event_date": "April 24, 2025",
-        "location": "Alexandria, United States",
-        "link": "https://dev.events/conferences/beyond-ux-growth-jobs-and-industry-insights-food-provided-306558421",
-        "published": "Fri, 07 Mar 2025 03:03:07 GMT",
-        "category": "UI / UX",
+        "location": "Anchorage, United States",
+        "link": "https://dev.events/conferences/interface-anchorage-2025-4yyk77n",
+        "published": "Sat, 08 Mar 2025 08:27:01 GMT",
+        "category": "Cybersecurity / InfoSec",
+        "type": "conference"
+    },
+    {
+        "title": "Engineering Excellence Summit (San Francisco)",
+        "event_date": "May 13, 2025",
+        "location": "San Francisco, United States",
+        "link": "https://dev.events/conferences/engineering-excellence-summit-san-francisco-feccyolx",
+        "published": "Sat, 08 Mar 2025 08:09:06 GMT",
+        "category": "Tech leadership",
+        "type": "conference"
+    },
+    {
+        "title": "Engineering Excellence Summit (Boston)",
+        "event_date": "May 21, 2025",
+        "location": "Boston, United States",
+        "link": "https://dev.events/conferences/engineering-excellence-summit-boston-sqnpkbkx",
+        "published": "Sat, 08 Mar 2025 08:03:25 GMT",
+        "category": "Tech leadership",
+        "type": "conference"
+    },
+    {
+        "title": "INTERFACE Honolulu 2025",
+        "event_date": "May 22, 2025",
+        "location": "Honolulu, United States",
+        "link": "https://dev.events/conferences/interface-honolulu-2025-hysvtted",
+        "published": "Sat, 08 Mar 2025 08:02:48 GMT",
+        "category": "Cybersecurity / InfoSec",
+        "type": "conference"
+    },
+    {
+        "title": "INTERFACE Phoenix 2025",
+        "event_date": "June 13, 2025",
+        "location": "Scottsdale, United States",
+        "link": "https://dev.events/conferences/interface-phoenix-2025-imdow9of",
+        "published": "Sat, 08 Mar 2025 08:00:50 GMT",
+        "category": "Cybersecurity / InfoSec",
+        "type": "conference"
+    },
+    {
+        "title": "INTERFACE Montana 2025",
+        "event_date": "July 30, 2025",
+        "location": "Bozeman, United States",
+        "link": "https://dev.events/conferences/interface-montana-2025-sf-nh-oa",
+        "published": "Sat, 08 Mar 2025 07:59:28 GMT",
+        "category": "Cybersecurity / InfoSec",
+        "type": "conference"
+    },
+    {
+        "title": "INTERFACE Kansas City 2025",
+        "event_date": "August 14, 2025",
+        "location": "Overland Park, United States",
+        "link": "https://dev.events/conferences/interface-kansas-city-2025-tnqmfny7",
+        "published": "Sat, 08 Mar 2025 07:58:40 GMT",
+        "category": "Cybersecurity / InfoSec",
+        "type": "conference"
+    },
+    {
+        "title": "INTERFACE Boise 2025",
+        "event_date": "August 28, 2025",
+        "location": "Boise, United States",
+        "link": "https://dev.events/conferences/interface-boise-2025-8lwdwsvq",
+        "published": "Sat, 08 Mar 2025 07:57:40 GMT",
+        "category": "Cybersecurity / InfoSec",
+        "type": "conference"
+    },
+    {
+        "title": "INTERFACE Salt Lake City 2025",
+        "event_date": "September 18, 2025",
+        "location": "Salt Lake City, United States",
+        "link": "https://dev.events/conferences/interface-salt-lake-city-2025-5akszyyc",
+        "published": "Sat, 08 Mar 2025 07:57:12 GMT",
+        "category": "Cybersecurity / InfoSec",
+        "type": "conference"
+    },
+    {
+        "title": "INTERFACE Spokane 2025",
+        "event_date": "October 16, 2025",
+        "location": "Spokane, United States",
+        "link": "https://dev.events/conferences/interface-spokane-2025-wachwuic",
+        "published": "Sat, 08 Mar 2025 07:52:05 GMT",
+        "category": "Cybersecurity / InfoSec",
+        "type": "conference"
+    },
+    {
+        "title": "INTERFACE Omaha 2025",
+        "event_date": "November 6, 2025",
+        "location": "Omaha, United States",
+        "link": "https://dev.events/conferences/interface-omaha-2025-pqqacrli",
+        "published": "Sat, 08 Mar 2025 07:51:13 GMT",
+        "category": "Cybersecurity / InfoSec",
+        "type": "conference"
+    },
+    {
+        "title": "INTERFACE Seattle 2025",
+        "event_date": "December 11, 2025",
+        "location": "Seattle, United States",
+        "link": "https://dev.events/conferences/interface-seattle-2025-uvaokctc",
+        "published": "Sat, 08 Mar 2025 07:45:35 GMT",
+        "category": "Cybersecurity / InfoSec",
+        "type": "conference"
+    },
+    {
+        "title": "Beers with Ron",
+        "event_date": "March 11, 2025",
+        "location": "Lexington, United States",
+        "link": "https://dev.events/conferences/beers-with-ron-306267419",
+        "published": "Sat, 08 Mar 2025 03:08:15 GMT",
+        "category": "PHP",
         "type": "meetup"
     },
     {
-        "title": "Mixer + Dinner at Maumee Bay Brewing Company",
-        "event_date": "March 12, 2025",
-        "location": "Toledo, United States",
-        "link": "https://dev.events/conferences/mixer-dinner-at-maumee-bay-brewing-company-306536939",
-        "published": "Fri, 07 Mar 2025 03:02:59 GMT",
-        "category": "Google",
+        "title": "EVSec CitySec Meet-up: Security & Beer",
+        "event_date": "July 4, 2025",
+        "location": "Mesa, United States",
+        "link": "https://dev.events/conferences/ev-sec-city-sec-meet-up-security-and-beer-lcjxdtyhckbfb",
+        "published": "Sat, 08 Mar 2025 03:07:14 GMT",
+        "category": "Cybersecurity / InfoSec",
+        "type": "meetup"
+    },
+    {
+        "title": "Elevating Your Package Management to the Next Level with Nix",
+        "event_date": "March 27, 2025",
+        "location": "Rochester, United States",
+        "link": "https://dev.events/conferences/elevating-your-package-management-to-the-next-level-with-nix-306597350",
+        "published": "Sat, 08 Mar 2025 03:05:58 GMT",
+        "category": "Tech",
+        "type": "meetup"
+    },
+    {
+        "title": "Community conversation: how we use AI today",
+        "event_date": "March 18, 2025",
+        "location": "Richmond, United States",
+        "link": "https://dev.events/conferences/community-conversation-how-we-use-ai-today-305378025",
+        "published": "Sat, 08 Mar 2025 03:05:19 GMT",
+        "category": "AI / ML",
         "type": "meetup"
     }
 ]
