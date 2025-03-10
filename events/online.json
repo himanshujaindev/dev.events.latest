@@ -1,5 +1,203 @@
 [
     {
+        "title": "AI Native DevCon 2025 Spring Edition",
+        "event_date": "May 13, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/ai-native-dev-con-2025-spring-edition-7-h6dbzb",
+        "published": "Sun, 09 Mar 2025 13:07:00 GMT",
+        "category": "AI / ML",
+        "type": "conference"
+    },
+    {
+        "title": "AI Native DevCon Spring Edition 2025",
+        "event_date": "May 13, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/ai-native-dev-con-spring-edition-2025-xouzthjc",
+        "published": "Sun, 09 Mar 2025 12:51:55 GMT",
+        "category": "AI / ML",
+        "type": "conference"
+    },
+    {
+        "title": "European M365 Summit",
+        "event_date": "June 10, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/european-m365-summit-cif-jwfw",
+        "published": "Sun, 09 Mar 2025 12:29:34 GMT",
+        "category": "Microsoft",
+        "type": "conference"
+    },
+    {
+        "title": "Kanban Management Professional (KMP) 17 de mayo - Online _ Kanban University",
+        "event_date": "May 17, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/kanban-management-professional-kmp-17-de-mayo-online-kanban-university-306596679",
+        "published": "Sun, 09 Mar 2025 03:11:20 GMT",
+        "category": "Agile",
+        "type": "meetup"
+    },
+    {
+        "title": "Getting to know each other",
+        "event_date": "July 12, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/getting-to-know-each-other-nkbrnsyhckbqb",
+        "published": "Sun, 09 Mar 2025 03:11:00 GMT",
+        "category": "Agile",
+        "type": "meetup"
+    },
+    {
+        "title": "Certificaci\u00f3n Team Kanban Practitioner TKP - 06 de abril _ Kanban University",
+        "event_date": "April 6, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/certificacion-team-kanban-practitioner-tkp-06-de-abril-kanban-university-306596521",
+        "published": "Sun, 09 Mar 2025 03:10:55 GMT",
+        "category": "Agile",
+        "type": "meetup"
+    },
+    {
+        "title": "Kanban Management Professional (KMP) - 17 Mayo Online _ Kanban University",
+        "event_date": "May 17, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/kanban-management-professional-kmp-17-mayo-online-kanban-university-306596801",
+        "published": "Sun, 09 Mar 2025 03:10:55 GMT",
+        "category": "Agile",
+        "type": "meetup"
+    },
+    {
+        "title": "Kanban Coaching (Maturity Model +Coach) El curso avanzado de Kanban - 31 Mayo",
+        "event_date": "May 31, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/kanban-coaching-maturity-model-coach-el-curso-avanzado-de-kanban-31-mayo-306597879",
+        "published": "Sun, 09 Mar 2025 03:10:55 GMT",
+        "category": "Agile",
+        "type": "meetup"
+    },
+    {
+        "title": "Making Apps Converse in Natural Language",
+        "event_date": "March 19, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/making-apps-converse-in-natural-language-306559099",
+        "published": "Sun, 09 Mar 2025 03:10:25 GMT",
+        "category": ".NET",
+        "type": "meetup"
+    },
+    {
+        "title": "Dot Net Learners House Monthly Event - Mar 2025",
+        "event_date": "March 16, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/dot-net-learners-house-monthly-event-mar-2025-304750920",
+        "published": "Sun, 09 Mar 2025 03:09:56 GMT",
+        "category": ".NET",
+        "type": "meetup"
+    },
+    {
+        "title": "Collaborative Learning - Caveman part 3",
+        "event_date": "March 13, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/collaborative-learning-caveman-part-3-306586998",
+        "published": "Sun, 09 Mar 2025 03:08:54 GMT",
+        "category": "Clojure",
+        "type": "meetup"
+    },
+    {
+        "title": "Python GUI Programming Using Tkinter Tutorial",
+        "event_date": "March 11, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/python-gui-programming-using-tkinter-tutorial-306568943",
+        "published": "Sun, 09 Mar 2025 03:08:33 GMT",
+        "category": "Python",
+        "type": "meetup"
+    },
+    {
+        "title": "Navigating the Cloud with Amazon Web Services",
+        "event_date": "March 12, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/navigating-the-cloud-with-amazon-web-services-306569087",
+        "published": "Sun, 09 Mar 2025 03:08:33 GMT",
+        "category": "Cloud",
+        "type": "meetup"
+    },
+    {
+        "title": "Event-driven architecture patterns in highly scalable image storage solution",
+        "event_date": "March 25, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/event-driven-architecture-patterns-in-highly-scalable-image-storage-solution-306590219",
+        "published": "Sun, 09 Mar 2025 03:07:52 GMT",
+        "category": "AWS",
+        "type": "meetup"
+    },
+    {
+        "title": "AI Seminar (Virtual) for GenAI and AI Agent with Google and Intel",
+        "event_date": "March 12, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/ai-seminar-virtual-for-gen-ai-and-ai-agent-with-google-and-intel-306612150",
+        "published": "Sun, 09 Mar 2025 03:06:58 GMT",
+        "category": "AI / ML",
+        "type": "meetup"
+    },
+    {
+        "title": ".NET and Serverless",
+        "event_date": "March 11, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/net-and-serverless-303922466",
+        "published": "Sun, 09 Mar 2025 03:05:52 GMT",
+        "category": ".NET",
+        "type": "meetup"
+    },
+    {
+        "title": "Emerging GovTech Livestream Banking & Finance: Govt Budget On A Blockchain",
+        "event_date": "March 11, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/emerging-gov-tech-livestream-banking-and-finance-govt-budget-on-a-blockchain-306441922",
+        "published": "Sun, 09 Mar 2025 03:04:10 GMT",
+        "category": "Crypto / Blockchain",
+        "type": "meetup"
+    },
+    {
+        "title": "C++ Linux Systems Programming",
+        "event_date": "March 10, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/c-linux-systems-programming-306558020",
+        "published": "Sun, 09 Mar 2025 03:04:08 GMT",
+        "category": "C/C++",
+        "type": "meetup"
+    },
+    {
+        "title": "(PYTHON deep dive) Ramadan Daily Community Hours",
+        "event_date": "March 10, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/python-deep-dive-ramadan-daily-community-hours-306480913",
+        "published": "Sun, 09 Mar 2025 03:04:08 GMT",
+        "category": "Python",
+        "type": "meetup"
+    },
+    {
+        "title": "Saturday Workgroup (Virtual)",
+        "event_date": "May 3, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/saturday-workgroup-virtual-dkgntsyhchbfb",
+        "published": "Sun, 09 Mar 2025 03:00:45 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "Friday's open meetup",
+        "event_date": "April 4, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/friday-s-open-meetup-ktgxbtyhcgbgb",
+        "published": "Sun, 09 Mar 2025 03:00:42 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "Game Development Discord Mixer!",
+        "event_date": "March 28, 2025",
+        "location": "Online",
+        "link": "https://dev.events/conferences/game-development-discord-mixer-306602547",
+        "published": "Sun, 09 Mar 2025 03:00:22 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
         "title": "Global Data & AI Virtual Tech Conference 2025",
         "event_date": "August 22, 2025",
         "location": "Online",
@@ -7,150 +205,6 @@
         "published": "Sat, 08 Mar 2025 10:26:48 GMT",
         "category": "Data / Database",
         "type": "conference"
-    },
-    {
-        "title": "RuStore meetup",
-        "event_date": "March 26, 2025",
-        "location": "Moscow, Russia and Online",
-        "link": "https://dev.events/conferences/ru-store-meetup-z23a6xom",
-        "published": "Sat, 08 Mar 2025 08:32:08 GMT",
-        "category": "Mobile",
-        "type": "meetup"
-    },
-    {
-        "title": "Google I/O",
-        "event_date": "May 20, 2025",
-        "location": "Online",
-        "link": "https://dev.events/conferences/google-i-o-jzz63dgn",
-        "published": "Sat, 08 Mar 2025 08:15:43 GMT",
-        "category": "Google",
-        "type": "conference"
-    },
-    {
-        "title": "#TrueScrumMaster 3: Sheepdog or Gardener?",
-        "event_date": "May 1, 2025",
-        "location": "Online",
-        "link": "https://dev.events/conferences/true-scrum-master-3-sheepdog-or-gardener-304075969",
-        "published": "Sat, 08 Mar 2025 03:09:50 GMT",
-        "category": "Agile",
-        "type": "meetup"
-    },
-    {
-        "title": "UtahSC Meeting",
-        "event_date": "July 3, 2025",
-        "location": "Online",
-        "link": "https://dev.events/conferences/utah-sc-meeting-rxngptyhckbdb",
-        "published": "Sat, 08 Mar 2025 03:09:35 GMT",
-        "category": "Agile",
-        "type": "meetup"
-    },
-    {
-        "title": "Shaving the Yak with AI \u27a1 Devs want specs, Product Owners want speed",
-        "event_date": "March 19, 2025",
-        "location": "Online",
-        "link": "https://dev.events/conferences/shaving-the-yak-with-ai-devs-want-specs-product-owners-want-speed-306586383",
-        "published": "Sat, 08 Mar 2025 03:08:47 GMT",
-        "category": "AI / ML",
-        "type": "meetup"
-    },
-    {
-        "title": "The Pragmatics 2025 Ticket Raffle",
-        "event_date": "March 16, 2025",
-        "location": "Online",
-        "link": "https://dev.events/conferences/the-pragmatics-2025-ticket-raffle-306587952",
-        "published": "Sat, 08 Mar 2025 03:08:09 GMT",
-        "category": "Java",
-        "type": "meetup"
-    },
-    {
-        "title": "\uc81c 6\ud68c Clojure Korea \ubc0b\uc5c5",
-        "event_date": "March 26, 2025",
-        "location": "Online",
-        "link": "https://dev.events/conferences/6-clojure-korea-306568712",
-        "published": "Sat, 08 Mar 2025 03:07:55 GMT",
-        "category": "Clojure",
-        "type": "meetup"
-    },
-    {
-        "title": "Indy.rs - with Social Distancing",
-        "event_date": "July 2, 2025",
-        "location": "Online",
-        "link": "https://dev.events/conferences/indy-rs-with-social-distancing-302031667",
-        "published": "Sat, 08 Mar 2025 03:07:53 GMT",
-        "category": "Rust",
-        "type": "meetup"
-    },
-    {
-        "title": "DevOps Crash Course For Beginners",
-        "event_date": "March 10, 2025",
-        "location": "Online",
-        "link": "https://dev.events/conferences/dev-ops-crash-course-for-beginners-306568930",
-        "published": "Sat, 08 Mar 2025 03:07:43 GMT",
-        "category": "DevOps",
-        "type": "meetup"
-    },
-    {
-        "title": "Model Mondays: Hands On With GitHub Models",
-        "event_date": "March 10, 2025",
-        "location": "Online",
-        "link": "https://dev.events/conferences/model-mondays-hands-on-with-git-hub-models-306468204",
-        "published": "Sat, 08 Mar 2025 03:07:43 GMT",
-        "category": "Open Source",
-        "type": "meetup"
-    },
-    {
-        "title": "OpenTelemetry 101",
-        "event_date": "March 18, 2025",
-        "location": "Online",
-        "link": "https://dev.events/conferences/open-telemetry-101-306591319",
-        "published": "Sat, 08 Mar 2025 03:06:12 GMT",
-        "category": "DevOps",
-        "type": "meetup"
-    },
-    {
-        "title": "[Online] Dicas de Bancos de Dados para Desenvolvedores - SQL, NoSQL... | 8a ed",
-        "event_date": "March 18, 2025",
-        "location": "Online",
-        "link": "https://dev.events/conferences/online-dicas-de-bancos-de-dados-para-desenvolvedores-sql-no-sql-8a-ed-306603297",
-        "published": "Sat, 08 Mar 2025 03:05:50 GMT",
-        "category": "SQL",
-        "type": "meetup"
-    },
-    {
-        "title": "SLACC - Linux Configuration Workshop",
-        "event_date": "April 3, 2025",
-        "location": "Online",
-        "link": "https://dev.events/conferences/slacc-linux-configuration-workshop-305994450",
-        "published": "Sat, 08 Mar 2025 03:05:34 GMT",
-        "category": "Linux / OS",
-        "type": "meetup"
-    },
-    {
-        "title": "Future-Proof PHP: High-Performance Architectures & AI Integration",
-        "event_date": "March 30, 2025",
-        "location": "Online",
-        "link": "https://dev.events/conferences/future-proof-php-high-performance-architectures-and-ai-integration-306591651",
-        "published": "Sat, 08 Mar 2025 03:05:29 GMT",
-        "category": "PHP",
-        "type": "meetup"
-    },
-    {
-        "title": "Org Meetup: Run a better DevStaff!",
-        "event_date": "March 10, 2025",
-        "location": "Online",
-        "link": "https://dev.events/conferences/org-meetup-run-a-better-dev-staff-306596196",
-        "published": "Sat, 08 Mar 2025 03:05:24 GMT",
-        "category": "Tech",
-        "type": "meetup"
-    },
-    {
-        "title": "PNW CoffeeOps",
-        "event_date": "April 4, 2025",
-        "location": "Online",
-        "link": "https://dev.events/conferences/pnw-coffee-ops-vcwxntyhcgbgb",
-        "published": "Sat, 08 Mar 2025 03:05:20 GMT",
-        "category": "DevOps",
-        "type": "meetup"
     },
     {
         "title": "Modern Software Engineering with TDD",
