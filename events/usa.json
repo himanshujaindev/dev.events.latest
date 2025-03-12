@@ -1,209 +1,119 @@
 [
     {
-        "title": "Civo Navigate Austin Tech Event",
-        "event_date": "May 14, 2025",
-        "location": "Austin, United States",
-        "link": "https://dev.events/conferences/civo-navigate-austin-tech-event-e1wjxyd",
-        "published": "Mon, 10 Mar 2025 07:27:37 GMT",
-        "category": "Cloud",
-        "type": "conference"
-    },
-    {
-        "title": "Tech & Business Networking NYC Manhattan",
-        "event_date": "March 19, 2025",
-        "location": "New York, United States",
-        "link": "https://dev.events/conferences/tech-and-business-networking-nyc-manhattan-5dvhf8am",
-        "published": "Mon, 10 Mar 2025 07:22:02 GMT",
-        "category": "Startup",
-        "type": "meetup"
-    },
-    {
-        "title": "Navigating Venture Capital for Tech Startups",
-        "event_date": "April 10, 2025",
-        "location": "Detroit, United States",
-        "link": "https://dev.events/conferences/navigating-venture-capital-for-tech-startups-snem6uzf",
-        "published": "Mon, 10 Mar 2025 07:17:27 GMT",
-        "category": "Startup",
-        "type": "meetup"
-    },
-    {
-        "title": "Chinatown Hacks",
-        "event_date": "March 15, 2025",
-        "location": "San Francisco, United States",
-        "link": "https://dev.events/conferences/chinatown-hacks-eminbjpt",
-        "published": "Mon, 10 Mar 2025 06:47:54 GMT",
+        "title": "Automating Workflows with AI - A Deep Dive (Presented by Master Control)",
+        "event_date": "March 13, 2025",
+        "location": "Lehi, United States",
+        "link": "https://dev.events/conferences/automating-workflows-with-ai-a-deep-dive-presented-by-master-control-306657100",
+        "published": "Tue, 11 Mar 2025 03:09:55 GMT",
         "category": "AI / ML",
-        "type": "hackathon"
+        "type": "meetup"
     },
     {
-        "title": "Blockchain Fundamentals for Developers (Part 2)",
+        "title": "April Mile High Gophers Meetup",
+        "event_date": "April 8, 2025",
+        "location": "Denver, United States",
+        "link": "https://dev.events/conferences/april-mile-high-gophers-meetup-306652279",
+        "published": "Tue, 11 Mar 2025 03:09:35 GMT",
+        "category": "Golang",
+        "type": "meetup"
+    },
+    {
+        "title": "Leptos web framework",
+        "event_date": "June 5, 2025",
+        "location": "St. Louis, United States",
+        "link": "https://dev.events/conferences/leptos-web-framework-305534867",
+        "published": "Tue, 11 Mar 2025 03:08:57 GMT",
+        "category": "Rust",
+        "type": "meetup"
+    },
+    {
+        "title": "Join us for the next Philadelphia RHUG!",
         "event_date": "April 3, 2025",
-        "location": "Detroit, United States",
-        "link": "https://dev.events/conferences/blockchain-fundamentals-for-developers-part-2-cj3owugi",
-        "published": "Mon, 10 Mar 2025 06:47:03 GMT",
-        "category": "Crypto / Blockchain",
+        "location": "Philadelphia, United States",
+        "link": "https://dev.events/conferences/join-us-for-the-next-philadelphia-rhug-306652380",
+        "published": "Tue, 11 Mar 2025 03:07:33 GMT",
+        "category": "Cloud",
         "type": "meetup"
     },
     {
-        "title": "Blockchain Fundamentals for Developers",
-        "event_date": "March 27, 2025",
-        "location": "Detroit, United States",
-        "link": "https://dev.events/conferences/blockchain-fundamentals-for-developers-raphzh0x",
-        "published": "Mon, 10 Mar 2025 06:46:24 GMT",
-        "category": "Crypto / Blockchain",
-        "type": "meetup"
-    },
-    {
-        "title": "SquiggleConf",
-        "event_date": "September 18, 2025",
-        "location": "Boston, United States",
-        "link": "https://dev.events/conferences/squiggle-conf-unxe-qjg",
-        "published": "Mon, 10 Mar 2025 06:35:09 GMT",
-        "category": "Web / Frontend",
-        "type": "conference"
-    },
-    {
-        "title": "Exploring KEDA, NodeAutoProvisioning, and Workload Identity with C# Applications",
-        "event_date": "April 10, 2025",
-        "location": "Houston, United States",
-        "link": "https://dev.events/conferences/exploring-keda-node-auto-provisioning-and-workload-identity-with-c-applications-306425564",
-        "published": "Mon, 10 Mar 2025 03:09:28 GMT",
-        "category": ".NET",
-        "type": "meetup"
-    },
-    {
-        "title": "AI Meetup (April) - GenAI and Agentic Workflow",
-        "event_date": "April 2, 2025",
-        "location": "Austin, United States",
-        "link": "https://dev.events/conferences/ai-meetup-april-gen-ai-and-agentic-workflow-306620452",
-        "published": "Mon, 10 Mar 2025 03:07:42 GMT",
-        "category": "AI / ML",
-        "type": "meetup"
-    },
-    {
-        "title": "DevOps Columbia Event",
-        "event_date": "April 24, 2025",
-        "location": "Columbia, United States",
-        "link": "https://dev.events/conferences/dev-ops-columbia-event-306635870",
-        "published": "Mon, 10 Mar 2025 03:07:30 GMT",
-        "category": "DevOps",
-        "type": "meetup"
-    },
-    {
-        "title": "SGVHAK Study Session",
-        "event_date": "March 22, 2025",
-        "location": "Arcadia, United States",
-        "link": "https://dev.events/conferences/sgvhak-study-session-306620665",
-        "published": "Mon, 10 Mar 2025 03:05:53 GMT",
+        "title": "SGV Linux Users Group Monthly Meeting -  Post SCALE Social",
+        "event_date": "March 14, 2025",
+        "location": "Pasadena, United States",
+        "link": "https://dev.events/conferences/sgv-linux-users-group-monthly-meeting-post-scale-social-306337973",
+        "published": "Tue, 11 Mar 2025 03:06:29 GMT",
         "category": "Linux / OS",
         "type": "meetup"
     },
     {
-        "title": "Bellevue College - Quality Software Practices",
-        "event_date": "March 12, 2025",
-        "location": "Bellevue, United States",
-        "link": "https://dev.events/conferences/bellevue-college-quality-software-practices-306633446",
-        "published": "Mon, 10 Mar 2025 03:03:50 GMT",
-        "category": "Tech",
-        "type": "meetup"
-    },
-    {
-        "title": "Visual AI Hackathon- MUG NYC X Voxel51",
-        "event_date": "April 4, 2025",
-        "location": "New York, United States",
-        "link": "https://dev.events/conferences/visual-ai-hackathon-mug-nyc-x-voxel51-306616127",
-        "published": "Mon, 10 Mar 2025 03:03:25 GMT",
-        "category": "AI / ML",
-        "type": "meetup"
-    },
-    {
-        "title": "St. Louis Code and Coffee",
-        "event_date": "May 4, 2025",
-        "location": "University City, United States",
-        "link": "https://dev.events/conferences/st-louis-code-and-coffee-304977101",
-        "published": "Mon, 10 Mar 2025 03:03:15 GMT",
-        "category": "Tech",
-        "type": "meetup"
-    },
-    {
-        "title": "Code and Tea at Panera",
-        "event_date": "April 6, 2025",
-        "location": "Indianapolis, United States",
-        "link": "https://dev.events/conferences/code-and-tea-at-panera-skgnptyhcgbjb",
-        "published": "Mon, 10 Mar 2025 03:02:52 GMT",
-        "category": "Vue",
-        "type": "meetup"
-    },
-    {
-        "title": "In-Person Writer's Group at Elliot Bay Bookstore",
+        "title": "Saint Augustine Cowork and Coffee [DOS Coffee]",
         "event_date": "March 13, 2025",
-        "location": "Seattle, United States",
-        "link": "https://dev.events/conferences/in-person-writer-s-group-at-elliot-bay-bookstore-306317762",
-        "published": "Mon, 10 Mar 2025 03:00:41 GMT",
-        "category": "Game dev",
+        "location": "St Augustine, United States",
+        "link": "https://dev.events/conferences/saint-augustine-cowork-and-coffee-dos-coffee-304649571",
+        "published": "Tue, 11 Mar 2025 03:04:18 GMT",
+        "category": "Tech",
         "type": "meetup"
     },
     {
-        "title": "Strawberry Jam",
-        "event_date": "May 4, 2025",
-        "location": "Los Angeles, United States",
-        "link": "https://dev.events/conferences/strawberry-jam-spdbgtyhchbgb",
-        "published": "Mon, 10 Mar 2025 03:00:39 GMT",
-        "category": "Game dev",
+        "title": "Riding Coattails: DevOps Detroit Tech Talk Happy Hour",
+        "event_date": "March 13, 2025",
+        "location": "Detroit, United States",
+        "link": "https://dev.events/conferences/riding-coattails-dev-ops-detroit-tech-talk-happy-hour-306633473",
+        "published": "Tue, 11 Mar 2025 03:03:29 GMT",
+        "category": "DevOps",
         "type": "meetup"
     },
     {
-        "title": "Social Night",
-        "event_date": "March 26, 2025",
-        "location": "Houston, United States",
-        "link": "https://dev.events/conferences/social-night-306619256",
-        "published": "Mon, 10 Mar 2025 03:00:24 GMT",
-        "category": "Game dev",
+        "title": "Seattle JS Monthly Meetup",
+        "event_date": "March 13, 2025",
+        "location": "seattle, United States",
+        "link": "https://dev.events/conferences/seattle-js-monthly-meetup-306022113",
+        "published": "Tue, 11 Mar 2025 03:03:14 GMT",
+        "category": "JavaScript",
         "type": "meetup"
     },
     {
-        "title": "Game Dev Work & Play",
-        "event_date": "April 6, 2025",
-        "location": "Nashville, United States",
-        "link": "https://dev.events/conferences/game-dev-work-and-play-vtjsptyhcgbjb",
-        "published": "Mon, 10 Mar 2025 03:00:10 GMT",
-        "category": "Game dev",
-        "type": "meetup"
-    },
-    {
-        "title": "GameMaker New Jersey Meetup @ Williams Center, Rutherford Thur 22 March 18:00",
-        "event_date": "March 20, 2025",
-        "location": "Rutherford, United States",
-        "link": "https://dev.events/conferences/game-maker-new-jersey-meetup-williams-center-rutherford-thur-22-march-18-00-306591408",
-        "published": "Mon, 10 Mar 2025 03:00:05 GMT",
-        "category": "Game dev",
-        "type": "meetup"
-    },
-    {
-        "title": "DeveloperWeek Leadership 2025",
-        "event_date": "May 28, 2025",
-        "location": "San Francisco, United States",
-        "link": "https://dev.events/conferences/developer-week-leadership-2025-pytsyevo",
-        "published": "Sun, 09 Mar 2025 12:49:56 GMT",
-        "category": "Tech leadership",
-        "type": "conference"
-    },
-    {
-        "title": "OTel Community Day",
-        "event_date": "June 26, 2025",
-        "location": "Denver, United States",
-        "link": "https://dev.events/conferences/o-tel-community-day-fc9psala",
-        "published": "Sun, 09 Mar 2025 12:28:26 GMT",
-        "category": "SRE",
-        "type": "conference"
-    },
-    {
-        "title": "In Person: Code and Coffee on March 22 from 10am-1pm ET",
+        "title": "How Unreal is Revolutionizing TV & Film",
         "event_date": "March 22, 2025",
-        "location": "Roanoke, United States",
-        "link": "https://dev.events/conferences/in-person-code-and-coffee-on-march-22-from-10am-1pm-et-306604911",
-        "published": "Sun, 09 Mar 2025 03:10:26 GMT",
-        "category": ".NET",
+        "location": "Portland, United States",
+        "link": "https://dev.events/conferences/how-unreal-is-revolutionizing-tv-and-film-306656157",
+        "published": "Tue, 11 Mar 2025 03:00:54 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "IGDA Clark Game Expo",
+        "event_date": "April 19, 2025",
+        "location": "Worcester, United States",
+        "link": "https://dev.events/conferences/igda-clark-game-expo-306410095",
+        "published": "Tue, 11 Mar 2025 03:00:40 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "Game Creators Meetup",
+        "event_date": "April 20, 2025",
+        "location": "Louisville, United States",
+        "link": "https://dev.events/conferences/game-creators-meetup-shxsctyhcgbbc",
+        "published": "Tue, 11 Mar 2025 03:00:40 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "Friday Night Showcase @ The MADE",
+        "event_date": "April 5, 2025",
+        "location": "Oakland, United States",
+        "link": "https://dev.events/conferences/friday-night-showcase-the-made-306639237",
+        "published": "Tue, 11 Mar 2025 03:00:32 GMT",
+        "category": "Game dev",
+        "type": "meetup"
+    },
+    {
+        "title": "Work and Chill 2: Artistic Boogaloo",
+        "event_date": "March 16, 2025",
+        "location": "Englewood, United States",
+        "link": "https://dev.events/conferences/work-and-chill-2-artistic-boogaloo-306390366",
+        "published": "Tue, 11 Mar 2025 03:00:16 GMT",
+        "category": "Game dev",
         "type": "meetup"
     }
 ]
