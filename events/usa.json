@@ -1,209 +1,137 @@
 [
     {
-        "title": "Baton Rouge .Net, SQL Server & PowerBI User Groups Meeting",
-        "event_date": "July 9, 2025",
-        "location": "Baton Rouge, United States",
-        "link": "https://dev.events/conferences/baton-rouge-net-sql-server-and-power-bi-user-groups-meeting-rbwcktyhckbmb",
-        "published": "Thu, 13 Mar 2025 03:10:55 GMT",
-        "category": "SQL",
-        "type": "meetup"
-    },
-    {
-        "title": "Learning Functional Programming Through Construction: First Principles",
-        "event_date": "April 28, 2025",
-        "location": "Alpharetta, United States",
-        "link": "https://dev.events/conferences/learning-functional-programming-through-construction-first-principles-306662207",
-        "published": "Thu, 13 Mar 2025 03:10:53 GMT",
-        "category": "Functional programming",
-        "type": "meetup"
-    },
-    {
-        "title": "The Dark Side of Design Patterns: What They Don't Tell You",
-        "event_date": "March 20, 2025",
-        "location": "Louisville, United States and Online",
-        "link": "https://dev.events/conferences/the-dark-side-of-design-patterns-what-they-don-t-tell-you-306688452",
-        "published": "Thu, 13 Mar 2025 03:10:52 GMT",
-        "category": ".NET",
+        "title": "Asheville Tech Events Launch",
+        "event_date": "April 10, 2025",
+        "location": "Asheville, United States",
+        "link": "https://dev.events/conferences/asheville-tech-events-launch-306193054",
+        "published": "Fri, 14 Mar 2025 03:10:23 GMT",
+        "category": "Tech",
         "type": "meetup"
     },
     {
         "title": "Monthly Meeting",
-        "event_date": "March 20, 2025",
+        "event_date": "April 8, 2025",
         "location": "Brentwood, United States",
-        "link": "https://dev.events/conferences/monthly-meeting-306266085",
-        "published": "Thu, 13 Mar 2025 03:10:52 GMT",
+        "link": "https://dev.events/conferences/monthly-meeting-306266088",
+        "published": "Fri, 14 Mar 2025 03:09:25 GMT",
         "category": ".NET",
         "type": "meetup"
     },
     {
-        "title": "Portland Geek Dinner - Tigard!",
-        "event_date": "April 9, 2025",
-        "location": "Tigard, United States",
-        "link": "https://dev.events/conferences/portland-geek-dinner-tigard-306398522",
-        "published": "Thu, 13 Mar 2025 03:10:42 GMT",
-        "category": ".NET",
-        "type": "meetup"
-    },
-    {
-        "title": "PDXRust Meetup: Finding One Way Out",
-        "event_date": "March 14, 2025",
-        "location": "Portland, United States",
-        "link": "https://dev.events/conferences/pdx-rust-meetup-finding-one-way-out-306658850",
-        "published": "Thu, 13 Mar 2025 03:09:11 GMT",
-        "category": "Rust",
-        "type": "meetup"
-    },
-    {
-        "title": "AI's Impact on Test Automation | Shift Left in SDLC | 2nd Seattle Meetup",
-        "event_date": "April 3, 2025",
-        "location": "Seattle, United States",
-        "link": "https://dev.events/conferences/ai-s-impact-on-test-automation-shift-left-in-sdlc-2nd-seattle-meetup-306669029",
-        "published": "Thu, 13 Mar 2025 03:08:53 GMT",
+        "title": "RAGs to Riches with Oracle AI Microservices Sandbox",
+        "event_date": "July 10, 2025",
+        "location": "Burlington, United States",
+        "link": "https://dev.events/conferences/ra-gs-to-riches-with-oracle-ai-microservices-sandbox-306459306",
+        "published": "Fri, 14 Mar 2025 03:08:20 GMT",
         "category": "AI / ML",
         "type": "meetup"
     },
     {
-        "title": "Book club - A Psalm for the Wild-Built by Becky Chambers",
-        "event_date": "March 26, 2025",
-        "location": "Lexington, United States",
-        "link": "https://dev.events/conferences/book-club-a-psalm-for-the-wild-built-by-becky-chambers-306694138",
-        "published": "Thu, 13 Mar 2025 03:08:50 GMT",
+        "title": "TetaNES: A Vaccination for Rust\u2014No Needle, Just the Borrow Checker",
+        "event_date": "April 11, 2025",
+        "location": "Portland, United States",
+        "link": "https://dev.events/conferences/teta-nes-a-vaccination-for-rust-no-needle-just-the-borrow-checker-306714209",
+        "published": "Fri, 14 Mar 2025 03:08:05 GMT",
+        "category": "Rust",
+        "type": "meetup"
+    },
+    {
+        "title": "Monthly Meeting",
+        "event_date": "July 10, 2025",
+        "location": "Lowell, United States",
+        "link": "https://dev.events/conferences/monthly-meeting-pvpzxsyhckbnb",
+        "published": "Fri, 14 Mar 2025 03:06:03 GMT",
         "category": "Tech",
         "type": "meetup"
     },
     {
-        "title": "PLUG North - Discussion and informative talks.",
-        "event_date": "May 13, 2025",
-        "location": "Bluebell, United States",
-        "link": "https://dev.events/conferences/plug-north-discussion-and-informative-talks-dqpnnsyhchbrb",
-        "published": "Thu, 13 Mar 2025 03:08:05 GMT",
-        "category": "Linux / OS",
-        "type": "meetup"
-    },
-    {
-        "title": "Casual Discussion: Doing Dev & DevOps Better. Hosted by Emtec and DataMotion",
-        "event_date": "July 9, 2025",
-        "location": "Morristown, United States",
-        "link": "https://dev.events/conferences/casual-discussion-doing-dev-and-dev-ops-better-hosted-by-emtec-and-data-motion-lncmltyhckbmb",
-        "published": "Thu, 13 Mar 2025 03:08:05 GMT",
-        "category": "DevOps",
-        "type": "meetup"
-    },
-    {
-        "title": "DFW CRUG #5 Hosts AWS: Unlocking Operational Continuity with AWS & CockroachDB",
-        "event_date": "April 17, 2025",
-        "location": "Dallas, United States",
-        "link": "https://dev.events/conferences/dfw-crug-5-hosts-aws-unlocking-operational-continuity-with-aws-and-cockroach-db-306580618",
-        "published": "Thu, 13 Mar 2025 03:08:01 GMT",
-        "category": "AWS",
-        "type": "meetup"
-    },
-    {
-        "title": "A Night of MeetUps",
-        "event_date": "April 10, 2025",
-        "location": "Detroit, United States",
-        "link": "https://dev.events/conferences/a-night-of-meet-ups-306689202",
-        "published": "Thu, 13 Mar 2025 03:07:45 GMT",
-        "category": "DevOps",
-        "type": "meetup"
-    },
-    {
-        "title": "Denver Food & Tech: March Meetup (sponsored by Appwrite)",
-        "event_date": "March 28, 2025",
-        "location": "Denver, United States",
-        "link": "https://dev.events/conferences/denver-food-and-tech-march-meetup-sponsored-by-appwrite-306686429",
-        "published": "Thu, 13 Mar 2025 03:07:11 GMT",
-        "category": "Tech",
-        "type": "meetup"
-    },
-    {
-        "title": "[In person] Stand Out and Get Hired - Resume Building Workshop",
-        "event_date": "April 2, 2025",
-        "location": "Saint Louis, United States",
-        "link": "https://dev.events/conferences/in-person-stand-out-and-get-hired-resume-building-workshop-306268457",
-        "published": "Thu, 13 Mar 2025 03:06:24 GMT",
-        "category": "Data / Database",
-        "type": "meetup"
-    },
-    {
-        "title": "Build More Responsive and Maintainable Mobile Apps with ReactiveUI",
-        "event_date": "March 19, 2025",
-        "location": "Orlando, United States",
-        "link": "https://dev.events/conferences/build-more-responsive-and-maintainable-mobile-apps-with-reactive-ui-306696502",
-        "published": "Thu, 13 Mar 2025 03:04:50 GMT",
-        "category": ".NET",
-        "type": "meetup"
-    },
-    {
-        "title": "Orlando Code Camp 2025 - Tickets on Sale",
-        "event_date": "April 5, 2025",
-        "location": "Sanford, United States",
-        "link": "https://dev.events/conferences/orlando-code-camp-2025-tickets-on-sale-305874385",
-        "published": "Thu, 13 Mar 2025 03:04:50 GMT",
-        "category": ".NET",
-        "type": "meetup"
-    },
-    {
-        "title": "AWS March Madness Jam \u2013 Code. Compete. Connect.",
-        "event_date": "March 20, 2025",
-        "location": "Lehi, United States",
-        "link": "https://dev.events/conferences/aws-march-madness-jam-code-compete-connect-306689513",
-        "published": "Thu, 13 Mar 2025 03:04:29 GMT",
-        "category": "AWS",
-        "type": "meetup"
-    },
-    {
-        "title": "Fruit Cove Code and Coffee",
-        "event_date": "March 19, 2025",
-        "location": "Jacksonville, United States",
-        "link": "https://dev.events/conferences/fruit-cove-code-and-coffee-304916397",
-        "published": "Thu, 13 Mar 2025 03:04:11 GMT",
-        "category": "Tech",
-        "type": "meetup"
-    },
-    {
-        "title": "Open Hax",
+        "title": "Atlanta Tech Meet-Up",
         "event_date": "April 1, 2025",
-        "location": "Jacksonville, United States",
-        "link": "https://dev.events/conferences/open-hax-306691924",
-        "published": "Thu, 13 Mar 2025 03:04:09 GMT",
+        "location": "Peachtree Corners, United States",
+        "link": "https://dev.events/conferences/atlanta-tech-meet-up-306706630",
+        "published": "Fri, 14 Mar 2025 03:05:28 GMT",
+        "category": "Tech",
+        "type": "meetup"
+    },
+    {
+        "title": "Monthly DMV UG Event - Save the Date",
+        "event_date": "April 10, 2025",
+        "location": "Arlington, United States",
+        "link": "https://dev.events/conferences/monthly-dmv-ug-event-save-the-date-306702940",
+        "published": "Fri, 14 Mar 2025 03:03:59 GMT",
+        "category": "AWS",
+        "type": "meetup"
+    },
+    {
+        "title": "Monthly DMV UG Event - Save the Date",
+        "event_date": "May 8, 2025",
+        "location": "Arlington, United States",
+        "link": "https://dev.events/conferences/monthly-dmv-ug-event-save-the-date-306702946",
+        "published": "Fri, 14 Mar 2025 03:03:59 GMT",
+        "category": "AWS",
+        "type": "meetup"
+    },
+    {
+        "title": "Saint Augustine Cowork and Coffee [Address Coffee]",
+        "event_date": "March 20, 2025",
+        "location": "Saint Augustine, United States",
+        "link": "https://dev.events/conferences/saint-augustine-cowork-and-coffee-address-coffee-306708864",
+        "published": "Fri, 14 Mar 2025 03:03:42 GMT",
+        "category": "Tech",
+        "type": "meetup"
+    },
+    {
+        "title": "Miami Ruby Brigade",
+        "event_date": "July 21, 2025",
+        "location": "Coral Gables, United States",
+        "link": "https://dev.events/conferences/miami-ruby-brigade-pdvctsyhckbcc",
+        "published": "Fri, 14 Mar 2025 03:03:33 GMT",
         "category": "Ruby",
         "type": "meetup"
     },
     {
-        "title": "Indy.rb - The Indianapolis Ruby Brigade Monthly Meetup",
-        "event_date": "July 9, 2025",
-        "location": "Indianapolis, United States",
-        "link": "https://dev.events/conferences/indy-rb-the-indianapolis-ruby-brigade-monthly-meetup-pqvlhtyhckbmb",
-        "published": "Thu, 13 Mar 2025 03:04:08 GMT",
-        "category": "Ruby",
+        "title": "CD Tech Thursday",
+        "event_date": "May 8, 2025",
+        "location": "Chattanooga, United States",
+        "link": "https://dev.events/conferences/cd-tech-thursday-vcqxptyhchblb",
+        "published": "Fri, 14 Mar 2025 03:03:29 GMT",
+        "category": "Tech",
         "type": "meetup"
     },
     {
-        "title": "The Louisville Open Source Programming Meetup Group Monthly Meetup",
-        "event_date": "July 9, 2025",
-        "location": "Louisville, United States",
-        "link": "https://dev.events/conferences/the-louisville-open-source-programming-meetup-group-monthly-meetup-rfmpbtyhckbmb",
-        "published": "Thu, 13 Mar 2025 03:03:56 GMT",
-        "category": "Open Source",
+        "title": "Palo Alto 106 Miles at The Patio",
+        "event_date": "May 14, 2025",
+        "location": "Palo Alto, United States",
+        "link": "https://dev.events/conferences/palo-alto-106-miles-at-the-patio-pngrqsyhchbrb",
+        "published": "Fri, 14 Mar 2025 03:03:29 GMT",
+        "category": "Startup",
         "type": "meetup"
     },
     {
-        "title": "CocoaHeads x Swift Language User Group (SLUG) | March Meetup",
-        "event_date": "March 14, 2025",
-        "location": "San Francisco, United States",
-        "link": "https://dev.events/conferences/cocoa-heads-x-swift-language-user-group-slug-march-meetup-306485730",
-        "published": "Thu, 13 Mar 2025 03:03:33 GMT",
+        "title": "Side Project Saturday",
+        "event_date": "March 29, 2025",
+        "location": "Willow Grove, United States",
+        "link": "https://dev.events/conferences/side-project-saturday-306710403",
+        "published": "Fri, 14 Mar 2025 03:03:16 GMT",
         "category": "iOS / Swift",
         "type": "meetup"
     },
     {
-        "title": "Talks on Automated Testing, Fireside Chats with Engineering Leaders, + More!",
-        "event_date": "March 25, 2025",
-        "location": "Peachtree Corners, United States",
-        "link": "https://dev.events/conferences/talks-on-automated-testing-fireside-chats-with-engineering-leaders-more-306686042",
-        "published": "Thu, 13 Mar 2025 03:03:29 GMT",
-        "category": "Testing / QA",
+        "title": "Monthly Discussion",
+        "event_date": "July 10, 2025",
+        "location": "Pittsburgh, United States",
+        "link": "https://dev.events/conferences/monthly-discussion-fkwtrsyhckbnb",
+        "published": "Fri, 14 Mar 2025 03:03:14 GMT",
+        "category": "iOS / Swift",
+        "type": "meetup"
+    },
+    {
+        "title": "Pre-GDC Indie Game Developer Park Meetup 2025",
+        "event_date": "March 16, 2025",
+        "location": "San Francisco, United States",
+        "link": "https://dev.events/conferences/pre-gdc-indie-game-developer-park-meetup-2025-305446269",
+        "published": "Fri, 14 Mar 2025 03:00:36 GMT",
+        "category": "Game dev",
         "type": "meetup"
     }
 ]
